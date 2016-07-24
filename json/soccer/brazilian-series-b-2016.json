@@ -1,0 +1,5658 @@
+{
+  "league": "Brazilian Series B",
+  "region": "Brazil",
+  "matches": [
+    {
+      "date": "2016-07-24 02:00",
+      "home": "Londrina EC",
+      "away": "Sampaio Correa",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "22'",
+          "player": "Germano",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Wagner",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-24 02:00",
+      "home": "Paysandu",
+      "away": "CRB",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Leandro Cearense",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "85'",
+          "player": "Gilvan",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Luiz Gustavo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "29'",
+          "player": "Aparecido Costa Olivio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "player": "Neto Baiano",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "87'",
+          "player": "Welinton",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-23 23:30",
+      "home": "Bahia",
+      "away": "Luverdense",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Luiz Antonio",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-23 21:30",
+      "home": "Vasco da Gama",
+      "away": "Bragantino",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "58'",
+          "player": "Ederson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "73'",
+          "player": "Rodrigo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "18'",
+          "player": "Rafael Grampola",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "38'",
+          "player": "Gabriel Dias",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-23 21:00",
+      "home": "Tupi",
+      "away": "Atletico GO",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Jonathan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-23 21:00",
+      "home": "Vila Nova",
+      "away": "Ceara",
+      "score": "3-4",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Moises",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Carlos Esteban Frontini",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Jean",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "13'",
+          "player": "Felipe",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "28'",
+          "player": "Diego Felipe",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "42'",
+          "player": "Bill",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Wescley",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-23 02:30",
+      "home": "Nautico",
+      "away": "Avai FC",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "1'",
+          "player": "Ronny",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Eduardo Gabriel",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "64'",
+          "player": "Jefferson Nem",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "29'",
+          "player": "Jose Renato",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Lucas Lovat",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-23 00:15",
+      "home": "Criciuma",
+      "away": "Parana Clube",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Gustavo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Ricardinho",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Gustavo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "6'",
+          "player": "Robson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Robson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-20 02:00",
+      "home": "Joinville",
+      "away": "Goias",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Fabiano Eller",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Matheus Bertotto",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Daniel Carvalho",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-20 00:15",
+      "home": "Oeste FC",
+      "away": "Brasil de Pelotas",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "24'",
+          "player": "Marcus Vinicius",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "25'",
+          "player": "Ramon Machado",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-17 03:35",
+      "home": "Bragantino",
+      "away": "Joinville",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Rafael Grampola",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Erick",
+          "type": "card"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Gabriel Dias",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-16 23:30",
+      "home": "Luverdense",
+      "away": "Vasco da Gama",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Alfredo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "61'",
+          "player": "Yago",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-16 21:30",
+      "home": "Goias",
+      "away": "Nautico",
+      "score": "4-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "38'",
+          "player": "Carlos Eduardo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "53'",
+          "player": "Leo Lima",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "64'",
+          "player": "Rossi",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "70'",
+          "player": "Rossi",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "6'",
+          "player": "Hugo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Ronny",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-16 21:00",
+      "home": "Brasil de Pelotas",
+      "away": "Vila Nova",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "41'",
+          "player": "Felipe Garcia Goncalves",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "46'",
+          "player": "Felipe Garcia Goncalves",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Teco",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "27'",
+          "player": "Reginaldo Da Silva Junior",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "37'",
+          "player": "Robston",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "51'",
+          "player": "Victor Bolt",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-16 21:00",
+      "home": "Ceara",
+      "away": "Criciuma",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "64'",
+          "player": "Bill",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-16 02:30",
+      "home": "Sampaio Correa",
+      "away": "Bahia",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-16 00:15",
+      "home": "Avai FC",
+      "away": "Oeste FC",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Tata",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "8'",
+          "player": "Renan Mota",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-15 02:05",
+      "home": "CRB",
+      "away": "Tupi",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "29'",
+          "player": "Ze Carlos",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "48'",
+          "player": "Matheus Galdezani",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Welinton",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-13 02:30",
+      "home": "Parana Clube",
+      "away": "Paysandu",
+      "score": "0-0",
+      "events": [
+        {
+          "team": "away",
+          "time": "71'",
+          "player": "Augusto Recife",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-13 00:15",
+      "home": "Atletico GO",
+      "away": "Londrina EC",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Marllon",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "36'",
+          "player": "Keirrison",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "76'",
+          "player": "Keirrison",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-10 02:00",
+      "home": "Paysandu",
+      "away": "Londrina EC",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-09 23:30",
+      "home": "Vasco da Gama",
+      "away": "Brasil de Pelotas",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "10'",
+          "player": "Nene",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Luan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-09 21:00",
+      "home": "Joinville",
+      "away": "Sampaio Correa",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "12'",
+          "player": "Carlos Alberto",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "42'",
+          "player": "Carlos Alberto",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-09 21:00",
+      "home": "Goias",
+      "away": "Atletico GO",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Rossi",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "61'",
+          "player": "Leo Lima",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Alison",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "81'",
+          "player": "Alison",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-09 21:00",
+      "home": "Oeste FC",
+      "away": "Bragantino",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Marcus Vinicius",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "3'",
+          "player": "Rafael Grampola",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "player": "Erick",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "Jobinho",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-09 21:00",
+      "home": "Nautico",
+      "away": "CRB",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Ronny",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "29'",
+          "player": "Gerson Magrao",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "72'",
+          "player": "Matheus Galdezani",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Roger Gaucho",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-09 02:30",
+      "home": "Tupi",
+      "away": "Ceara",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Rodolfo Mol",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Marcos Serrato",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "10'",
+          "player": "Wescley",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-09 00:15",
+      "home": "Criciuma",
+      "away": "Luverdense",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "15'",
+          "player": "Ferron",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Gustavo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "44'",
+          "player": "Gustavo Barreto",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "65'",
+          "player": "Tozim",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-06 02:30",
+      "home": "Bahia",
+      "away": "Vila Nova",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Hayner",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "56'",
+          "player": "Fabinho",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-06 00:15",
+      "home": "Parana Clube",
+      "away": "Avai FC",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-03 02:00",
+      "home": "CRB",
+      "away": "Goias",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "7'",
+          "player": "Luidy",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Diego Jussani",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "77'",
+          "player": "Carlos Eduardo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "87'",
+          "player": "David Franca",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-03 00:30",
+      "home": "Ceara",
+      "away": "Bahia",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Rafael Costa",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-02 21:30",
+      "home": "Avai FC",
+      "away": "Vasco da Gama",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "50'",
+          "player": "Jose Renato",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Romulo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "Caio Monteiro",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-02 21:00",
+      "home": "Bragantino",
+      "away": "Parana Clube",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "78'",
+          "player": "Lucio Flavio",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-02 21:00",
+      "home": "Brasil de Pelotas",
+      "away": "Joinville",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Parana",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "17'",
+          "player": "Felipe Garcia Goncalves",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-02 21:00",
+      "home": "Atletico GO",
+      "away": "Nautico",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Gilsinho",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "33'",
+          "player": "Alison",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "70'",
+          "player": "Magno Cruz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-02 21:00",
+      "home": "Luverdense",
+      "away": "Oeste FC",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "20'",
+          "player": "Matheus",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-02 02:30",
+      "home": "Londrina EC",
+      "away": "Criciuma",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Germano",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "62'",
+          "player": "Jo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "54'",
+          "player": "Gustavo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "72'",
+          "player": "Raphael",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-02 01:30",
+      "home": "Vila Nova",
+      "away": "Tupi",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "36'",
+          "player": "Reginaldo Da Silva Junior",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-02 00:15",
+      "home": "Sampaio Correa",
+      "away": "Paysandu",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-29 02:30",
+      "home": "Goias",
+      "away": "Paysandu",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-29 02:30",
+      "home": "Bragantino",
+      "away": "Ceara",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "11'",
+          "player": "Gabriel Dias",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "24'",
+          "player": "Renan Diniz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-29 01:30",
+      "home": "Vasco da Gama",
+      "away": "Parana Clube",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Nene",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "35'",
+          "player": "Henrique",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Murilo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-29 01:30",
+      "home": "Sampaio Correa",
+      "away": "Tupi",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Lucas Sotero",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Pimentinha",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "79'",
+          "player": "Luiz Otavio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "43'",
+          "player": "Rubens da Silva Coura",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-29 01:25",
+      "home": "Nautico",
+      "away": "Luverdense",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Walace",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-29 00:15",
+      "home": "Avai FC",
+      "away": "Vila Nova",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "27'",
+          "player": "Fabinho",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "player": "Lucas Fernandes",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Romulo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Carlos Esteban Frontini",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-29 00:15",
+      "home": "Londrina EC",
+      "away": "Brasil de Pelotas",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "48'",
+          "player": "Itamar Batista",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-29 00:15",
+      "home": "Joinville",
+      "away": "CRB",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Eli",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Ze Carlos",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "70'",
+          "player": "Assisinho",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Roger Gaucho",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-29 00:15",
+      "home": "Bahia",
+      "away": "Oeste FC",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "13'",
+          "player": "Hernane",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Ze Roberto",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-28 01:00",
+      "home": "Atletico GO",
+      "away": "Criciuma",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Jorginho",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-26 02:00",
+      "home": "Tupi",
+      "away": "Avai FC",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "22'",
+          "player": "Jonathan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "61'",
+          "player": "Romulo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-26 02:00",
+      "home": "Oeste FC",
+      "away": "Sampaio Correa",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Marcus Vinicius",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "87'",
+          "player": "Diego Lorenzi",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-25 21:30",
+      "home": "Ceara",
+      "away": "Nautico",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "30'",
+          "player": "Eduardo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "40'",
+          "player": "Bill",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "50'",
+          "player": "Ronny",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-25 21:30",
+      "home": "CRB",
+      "away": "Vasco da Gama",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Maranhao",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "30'",
+          "player": "Leandrao",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "58'",
+          "player": "Andrezinho",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-25 21:00",
+      "home": "Parana Clube",
+      "away": "Joinville",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Robson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-25 21:00",
+      "home": "Vila Nova",
+      "away": "Goias",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Vandinho",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "58'",
+          "player": "Rossi",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-25 02:30",
+      "home": "Brasil de Pelotas",
+      "away": "Bahia",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Felipe Garcia Goncalves",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Teco",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Marlon",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-25 02:30",
+      "home": "Luverdense",
+      "away": "Londrina EC",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Regis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "50'",
+          "player": "Hugo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "76'",
+          "player": "Rafael Gava",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Ze Rafael",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-25 00:15",
+      "home": "Criciuma",
+      "away": "Bragantino",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "Jheimy",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Nathan",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "83'",
+          "player": "Daniel da Silva",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "87'",
+          "player": "Edson Sitta",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Eder Lima",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-25 00:15",
+      "home": "Paysandu",
+      "away": "Atletico GO",
+      "score": "0-0",
+      "events": [
+        {
+          "team": "away",
+          "time": "44'",
+          "player": "Gilsinho",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-22 02:30",
+      "home": "Luverdense",
+      "away": "Sampaio Correa",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-22 02:30",
+      "home": "Brasil de Pelotas",
+      "away": "Nautico",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-22 02:30",
+      "home": "Vila Nova",
+      "away": "Criciuma",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "41'",
+          "player": "Vinicius Simon",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "64'",
+          "player": "Vinicius Simon",
+          "type": "card"
+        },
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Fabinho",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "21'",
+          "player": "Gustavo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Gustavo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "70'",
+          "player": "Raphael",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-22 02:30",
+      "home": "Bragantino",
+      "away": "Goias",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "68'",
+          "player": "Rossi",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-22 00:15",
+      "home": "Avai FC",
+      "away": "Atletico GO",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Romulo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "27'",
+          "player": "Matheus Ribeiro",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-22 00:15",
+      "home": "Londrina EC",
+      "away": "Vasco da Gama",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "7'",
+          "player": "Rodrigo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Rodrigo",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-22 00:15",
+      "home": "Tupi",
+      "away": "Bahia",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "18'",
+          "player": "Hiroshi",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "52'",
+          "player": "Marcos Serrato",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "83'",
+          "player": "Luisinho",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-22 00:15",
+      "home": "Paysandu",
+      "away": "Joinville",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "2'",
+          "player": "Jhonnatan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-22 00:15",
+      "home": "CRB",
+      "away": "Parana Clube",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Adalberto",
+          "type": "card"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Flavio Boaventura",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Fernandes",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-22 00:15",
+      "home": "Ceara",
+      "away": "Oeste FC",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "48'",
+          "player": "Wescley",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-19 02:00",
+      "home": "Oeste FC",
+      "away": "Vila Nova",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Marcus Vinicius",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Jean",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "84'",
+          "player": "Robston",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Fabinho",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-18 21:30",
+      "home": "Vasco da Gama",
+      "away": "Paysandu",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "80'",
+          "player": "Jhonnatan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Jhonnatan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-18 21:00",
+      "home": "Criciuma",
+      "away": "Tupi",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "36'",
+          "player": "Helio Paraiba",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Jheimy",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "39'",
+          "player": "Felipe Alves",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "63'",
+          "player": "Vinicius Kiss",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-18 21:00",
+      "home": "Atletico GO",
+      "away": "CRB",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "66'",
+          "player": "Michel",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "73'",
+          "player": "Adalberto",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "87'",
+          "player": "Welinton",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-18 21:00",
+      "home": "Bahia",
+      "away": "Londrina EC",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "27'",
+          "player": "Juninho",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "1'",
+          "player": "Ze Rafael",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "87'",
+          "player": "Jo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-18 21:00",
+      "home": "Nautico",
+      "away": "Bragantino",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Bergson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "58'",
+          "player": "Watson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-18 02:30",
+      "home": "Goias",
+      "away": "Avai FC",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Anderson Salles",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Cassiano",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "85'",
+          "player": "Luan",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-18 02:00",
+      "home": "Parana Clube",
+      "away": "Luverdense",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Murilo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "53'",
+          "player": "Airton",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "56'",
+          "player": "Hugo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-18 02:00",
+      "home": "Sampaio Correa",
+      "away": "Brasil de Pelotas",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Elias",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "62'",
+          "player": "Nathan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-18 00:15",
+      "home": "Joinville",
+      "away": "Ceara",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "59'",
+          "player": "Fernando Viana",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "75'",
+          "player": "Richardson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-15 02:30",
+      "home": "Paysandu",
+      "away": "Avai FC",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "23'",
+          "player": "Jhonnatan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-15 02:30",
+      "home": "CRB",
+      "away": "Bragantino",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "12'",
+          "player": "Maranhao",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "38'",
+          "player": "Adalberto",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Edson Sitta",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-15 02:30",
+      "home": "Ceara",
+      "away": "Brasil de Pelotas",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Bill",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Bill",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Bill",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "Felipe Garcia Goncalves",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-15 00:15",
+      "home": "Criciuma",
+      "away": "Bahia",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Gustavo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "player": "Gustavo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Helio Paraiba",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Gustavo",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "43'",
+          "player": "Hernane",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "61'",
+          "player": "Moises",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-15 00:15",
+      "home": "Parana Clube",
+      "away": "Goias",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "70'",
+          "player": "Lucio Flavio",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Robson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-15 00:15",
+      "home": "Joinville",
+      "away": "Atletico GO",
+      "score": "0-0",
+      "events": [
+        {
+          "team": "away",
+          "time": "78'",
+          "player": "Alison",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-15 00:15",
+      "home": "Tupi",
+      "away": "Luverdense",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-15 00:15",
+      "home": "Vasco da Gama",
+      "away": "Nautico",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "13'",
+          "player": "Andrezinho",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "47'",
+          "player": "Rodrigo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Eder Luis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "34'",
+          "player": "Rafael Pereira",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Renan Oliveira",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-15 00:15",
+      "home": "Vila Nova",
+      "away": "Sampaio Correa",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Carlos Esteban Frontini",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-15 00:15",
+      "home": "Oeste FC",
+      "away": "Londrina EC",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Marcus Vinicius",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "42'",
+          "player": "Germano",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "60'",
+          "player": "Romario",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-12 02:00",
+      "home": "Luverdense",
+      "away": "Ceara",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "15'",
+          "player": "Sergio Mota",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Hugo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-12 02:00",
+      "home": "Bragantino",
+      "away": "Paysandu",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-11 21:30",
+      "home": "Atletico GO",
+      "away": "Vasco da Gama",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "24'",
+          "player": "Junior Vicosa",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "52'",
+          "player": "Willian Schuster",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Junior Vicosa",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "40'",
+          "player": "Luan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-11 21:00",
+      "home": "Londrina EC",
+      "away": "Vila Nova",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Itamar Batista",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Victor Bolt",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-11 21:00",
+      "home": "Avai FC",
+      "away": "Joinville",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Carlos Alberto",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-11 21:00",
+      "home": "Brasil de Pelotas",
+      "away": "Tupi",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Felipe Garcia Goncalves",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-11 21:00",
+      "home": "Nautico",
+      "away": "Parana Clube",
+      "score": "5-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Renan Oliveira",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "30'",
+          "player": "Bergson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "48'",
+          "player": "Jefferson Nem",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Taiberson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "player": "Taiberson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Henrique",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-11 01:30",
+      "home": "Goias",
+      "away": "Oeste FC",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "41'",
+          "player": "Rossi",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "63'",
+          "player": "Leo Melo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-11 01:30",
+      "home": "Sampaio Correa",
+      "away": "Criciuma",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Gladson do Nascimento",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-11 00:15",
+      "home": "Bahia",
+      "away": "CRB",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "52'",
+          "player": "Feijao",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Hernane",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Regis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "78'",
+          "player": "Elton Lira",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Neto Baiano",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-08 02:30",
+      "home": "Joinville",
+      "away": "Vasco da Gama",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "23'",
+          "player": "Leandrao",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "73'",
+          "player": "Leandrao",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-08 02:30",
+      "home": "Luverdense",
+      "away": "Vila Nova",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Muralha",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "7'",
+          "player": "Vandinho",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "16'",
+          "player": "Jean",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-08 02:30",
+      "home": "Goias",
+      "away": "Bahia",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "21'",
+          "player": "Renato Caja",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Thiago Ribeiro",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-08 02:30",
+      "home": "Ceara",
+      "away": "Londrina EC",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "64'",
+          "player": "Rafael Costa",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-08 00:15",
+      "home": "Parana Clube",
+      "away": "Atletico GO",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-08 00:15",
+      "home": "Criciuma",
+      "away": "Brasil de Pelotas",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "1'",
+          "player": "Roberto",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "41'",
+          "player": "Eduardo Junior",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Natan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "85'",
+          "player": "Wender",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-08 00:15",
+      "home": "Tupi",
+      "away": "Oeste FC",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "61'",
+          "player": "Leo Melo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-08 00:15",
+      "home": "Bragantino",
+      "away": "Avai FC",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "20'",
+          "player": "Eliandro",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "39'",
+          "player": "Lucas Fernandes",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-08 00:15",
+      "home": "Paysandu",
+      "away": "Nautico",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "1'",
+          "player": "Lucas Siqueira",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "63'",
+          "player": "Ricardo Capanema",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "25'",
+          "player": "Maylson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "46'",
+          "player": "Jefferson Nem",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "69'",
+          "player": "Jefferson Nem",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-08 00:15",
+      "home": "CRB",
+      "away": "Sampaio Correa",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "20'",
+          "player": "Maranhao",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Rodolfo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "12'",
+          "player": "Leo Gago",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "70'",
+          "player": "Guilherme",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-05 02:00",
+      "home": "Avai FC",
+      "away": "CRB",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "5'",
+          "player": "Romarinho",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Romarinho",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "26'",
+          "player": "Gerson Magrao",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "84'",
+          "player": "Bocao",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-05 02:00",
+      "home": "Atletico GO",
+      "away": "Bragantino",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "40'",
+          "player": "Pedro Bambu",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-04 21:30",
+      "home": "Vasco da Gama",
+      "away": "Goias",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Andrezinho",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-04 21:00",
+      "home": "Londrina EC",
+      "away": "Tupi",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Jo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-04 21:00",
+      "home": "Oeste FC",
+      "away": "Criciuma",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "32'",
+          "player": "Leo Melo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-04 21:00",
+      "home": "Sampaio Correa",
+      "away": "Ceara",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "12'",
+          "player": "Daniel Barros",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "66'",
+          "player": "Max",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "24'",
+          "player": "Rafael Costa",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Felipe",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "77'",
+          "player": "Roni",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-04 02:30",
+      "home": "Nautico",
+      "away": "Joinville",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "22'",
+          "player": "Renan Oliveira",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Tiago Adan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-04 01:30",
+      "home": "Brasil de Pelotas",
+      "away": "Luverdense",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "10'",
+          "player": "Ramon Machado",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "51'",
+          "player": "Jean Patrick",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-04 01:30",
+      "home": "Vila Nova",
+      "away": "Parana Clube",
+      "score": "0-0",
+      "events": [
+        {
+          "team": "away",
+          "time": "12'",
+          "player": "Robson",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-04 00:15",
+      "home": "Bahia",
+      "away": "Paysandu",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "36'",
+          "player": "Danilo Pires",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Hernane",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Regis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "64'",
+          "player": "Emerson",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-01 02:30",
+      "home": "Tupi",
+      "away": "Joinville",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Giancarlo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "39'",
+          "player": "Fernando Viana",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Murilo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-01 02:30",
+      "home": "Luverdense",
+      "away": "Atletico GO",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Alfredo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Jean Patrick",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Adriano Inacio Da Matta",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "29'",
+          "player": "Leandro Lino de Freitas",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Leandro Lino de Freitas",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-01 02:30",
+      "home": "Oeste FC",
+      "away": "Vasco da Gama",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "30'",
+          "player": "Souza Da Silva Francisco Alex",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "1'",
+          "player": "Nene",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-01 00:20",
+      "home": "Londrina EC",
+      "away": "Parana Clube",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "62'",
+          "player": "Keirrison",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "33'",
+          "player": "Robson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-01 00:15",
+      "home": "Criciuma",
+      "away": "Avai FC",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Gustavo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-01 00:15",
+      "home": "Brasil de Pelotas",
+      "away": "Paysandu",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Diogo Oliveira",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-01 00:15",
+      "home": "Vila Nova",
+      "away": "CRB",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "24'",
+          "player": "Fabinho",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Maguinho",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "84'",
+          "player": "Adalberto",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Rodolfo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-01 00:15",
+      "home": "Sampaio Correa",
+      "away": "Bragantino",
+      "score": "0-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Rafael Estevam",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-01 00:15",
+      "home": "Bahia",
+      "away": "Nautico",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-06-01 00:15",
+      "home": "Ceara",
+      "away": "Goias",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "19'",
+          "player": "Felipe",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "38'",
+          "player": "Ramires",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "77'",
+          "player": "Thalles Morais",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-29 02:00",
+      "home": "Bragantino",
+      "away": "Tupi",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "70'",
+          "player": "Bruno Pacheco",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Edson Sitta",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Michel",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-29 02:00",
+      "home": "Paysandu",
+      "away": "Luverdense",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "48'",
+          "player": "Lucas Siqueira",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Raphael Luz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "13'",
+          "player": "Jean Patrick",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-28 21:30",
+      "home": "Vasco da Gama",
+      "away": "Bahia",
+      "score": "4-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "18'",
+          "player": "Thalles",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Luan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "66'",
+          "player": "Nene",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Nene",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "50'",
+          "player": "Luisinho",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "64'",
+          "player": "Danilo Pires",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Bruno Gallo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-28 21:00",
+      "home": "Avai FC",
+      "away": "Ceara",
+      "score": "4-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "William",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "William",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "37'",
+          "player": "Jaja",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "William",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "68'",
+          "player": "Bill",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "71'",
+          "player": "Felipe",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-28 21:00",
+      "home": "Joinville",
+      "away": "Londrina EC",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "37'",
+          "player": "Juninho",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Keirrison",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-28 21:00",
+      "home": "Atletico GO",
+      "away": "Vila Nova",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "36'",
+          "player": "Junior Vicosa",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Pedro Bambu",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Fabinho",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-28 02:30",
+      "home": "Nautico",
+      "away": "Sampaio Correa",
+      "score": "5-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Bergson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "24'",
+          "player": "Jefferson Nem",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "47'",
+          "player": "Ronny",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Rafael Coelho",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Rodrigo Souza",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-28 01:30",
+      "home": "Parana Clube",
+      "away": "Oeste FC",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Lucio Flavio",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Valber",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "53'",
+          "player": "Valber",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "22'",
+          "player": "Mazinho",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "50'",
+          "player": "Bruno da Silva Barbosa",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-28 01:30",
+      "home": "Goias",
+      "away": "Brasil de Pelotas",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Raphael Lucas",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "12'",
+          "player": "Felipe Garcia Goncalves",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-28 00:15",
+      "home": "CRB",
+      "away": "Criciuma",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "30'",
+          "player": "Luidy",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Flavio Boaventura",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Elvis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-26 00:30",
+      "home": "Bahia",
+      "away": "Joinville",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Hernane",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-25 02:30",
+      "home": "Criciuma",
+      "away": "Goias",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "23'",
+          "player": "Gustavo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "40'",
+          "player": "Natan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Elvis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Cassiano",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Cassiano",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-25 02:30",
+      "home": "Tupi",
+      "away": "Paysandu",
+      "score": "5-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "3'",
+          "player": "Thiago Silvy",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "62'",
+          "player": "Vinicius Kiss",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Marcos Serrato",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Vinicius Kiss",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Recife",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "77'",
+          "player": "Lucas Siqueira",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-25 02:30",
+      "home": "Luverdense",
+      "away": "Avai FC",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "53'",
+          "player": "Regis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "30'",
+          "player": "Tata",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-25 02:30",
+      "home": "Vila Nova",
+      "away": "Vasco da Gama",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "75'",
+          "player": "Nene",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "82'",
+          "player": "Nene",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-25 00:15",
+      "home": "Londrina EC",
+      "away": "Nautico",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Keirrison",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-25 00:15",
+      "home": "Brasil de Pelotas",
+      "away": "Bragantino",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "7'",
+          "player": "Felipe Garcia Goncalves",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "57'",
+          "player": "Ramon Machado",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-25 00:15",
+      "home": "Oeste FC",
+      "away": "CRB",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Leo Melo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Ricardo Bueno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "33'",
+          "player": "Luidy",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-25 00:15",
+      "home": "Sampaio Correa",
+      "away": "Parana Clube",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Jose Felipe",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "32'",
+          "player": "Nadson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "83'",
+          "player": "Robson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-25 00:15",
+      "home": "Ceara",
+      "away": "Atletico GO",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "83'",
+          "player": "Luiz Fernando",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "83'",
+          "player": "Luiz Fernando",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-21 21:30",
+      "home": "Parana Clube",
+      "away": "Bahia",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-21 21:30",
+      "home": "CRB",
+      "away": "Ceara",
+      "score": "0-3",
+      "events": [
+        {
+          "team": "away",
+          "time": "60'",
+          "player": "Diego Jussani",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Ewerton Pascoa",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Bill",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-21 21:00",
+      "home": "Avai FC",
+      "away": "Sampaio Correa",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "41'",
+          "player": "William",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Tata",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-21 21:00",
+      "home": "Vasco da Gama",
+      "away": "Tupi",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "38'",
+          "player": "Luan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "79'",
+          "player": "Jonathan",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-21 21:00",
+      "home": "Paysandu",
+      "away": "Oeste FC",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "73'",
+          "player": "Alexandro",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "39'",
+          "player": "Ricardo Bueno",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-21 02:30",
+      "home": "Joinville",
+      "away": "Criciuma",
+      "score": "0-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "61'",
+          "player": "Bruno Aguilar",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-21 01:30",
+      "home": "Goias",
+      "away": "Londrina EC",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "79'",
+          "player": "Wendel",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Wendel",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Igor Dias",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-21 00:15",
+      "home": "Atletico GO",
+      "away": "Brasil de Pelotas",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Alison",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-18 02:30",
+      "home": "Nautico",
+      "away": "Vila Nova",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "18'",
+          "player": "Mateus Muller",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Rafael Pereira",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "48'",
+          "player": "Jefferson Nem",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Bergson",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "14'",
+          "player": "Roger",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "24'",
+          "player": "Victor Bolt",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "51'",
+          "player": "Vandinho",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-18 00:55",
+      "home": "Bragantino",
+      "away": "Luverdense",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "78'",
+          "player": "Hugo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-15 02:00",
+      "home": "Luverdense",
+      "away": "Joinville",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Vitinho",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "85'",
+          "player": "Bruno Aguilar",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-15 02:00",
+      "home": "Bahia",
+      "away": "Avai FC",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Ze Roberto",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Ze Roberto",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "19'",
+          "player": "Alemao",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Vinicius Pacheco",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-14 21:30",
+      "home": "Criciuma",
+      "away": "Nautico",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "51'",
+          "player": "Gustavo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-14 21:00",
+      "home": "Brasil de Pelotas",
+      "away": "Parana Clube",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Felipe Garcia Goncalves",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Felipe Garcia Goncalves",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "37'",
+          "player": "Rafael Carioca",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-14 21:00",
+      "home": "Londrina EC",
+      "away": "CRB",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Luidy Viegas",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-14 21:00",
+      "home": "Sampaio Correa",
+      "away": "Vasco da Gama",
+      "score": "0-4",
+      "events": [
+        {
+          "team": "away",
+          "time": "13'",
+          "player": "Duvier Riascos",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "25'",
+          "player": "Nene",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "63'",
+          "player": "Nene",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "80'",
+          "player": "Nene",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-14 21:00",
+      "home": "Ceara",
+      "away": "Paysandu",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "47'",
+          "player": "Serginho",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Rafael Costa",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "75'",
+          "player": "Lucas Siqueira",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Lucas Siqueira",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-14 02:30",
+      "home": "Tupi",
+      "away": "Goias",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "87'",
+          "player": "Cleo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-14 01:30",
+      "home": "Oeste FC",
+      "away": "Atletico GO",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "21'",
+          "player": "Junior Vicosa",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-05-14 00:15",
+      "home": "Vila Nova",
+      "away": "Bragantino",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Robston",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "59'",
+          "player": "Thiago Brito",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Robston",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "52'",
+          "player": "Eliandro",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    }
+  ]
+}
