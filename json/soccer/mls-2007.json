@@ -1,0 +1,6927 @@
+{
+  "league": "Major League Soccer",
+  "region": "United States",
+  "matches": [
+    {
+      "date": "2007-10-21 21:00",
+      "home": "Chicago Fire",
+      "away": "L.A. Galaxy",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "John Thorrington",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-10-21 06:30",
+      "home": "Toronto FC",
+      "away": "New England Rev.",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "59'",
+          "player": "Collin Samuel",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Daniele Dichio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Michael Parkhurst",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "48'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-10-21 04:30",
+      "home": "CD Chivas USA",
+      "away": "Houston Dynamo",
+      "score": "0-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "40'",
+          "player": "Lawson Vaughn",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-10-21 03:00",
+      "home": "Colorado Rapids",
+      "away": "Real Salt Lake",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "87'",
+          "player": "Robbie Findley",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-10-21 02:30",
+      "home": "FC Dallas",
+      "away": "Kansas City Wizards",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "39'",
+          "player": "Scott Sealy",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Scott Sealy",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-10-21 01:30",
+      "home": "DC United",
+      "away": "Columbus Crew",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "21'",
+          "player": "Robbie Rogers",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "66'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Robbie Rogers",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-10-19 05:00",
+      "home": "L.A. Galaxy",
+      "away": "New York Red Bulls",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "15'",
+          "player": "Troy Roberts",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "16'",
+          "player": "Jozy Altidore",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-10-16 03:00",
+      "home": "Real Salt Lake",
+      "away": "Houston Dynamo",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Yura Movsisyan",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "66'",
+          "player": "Stuart Holden",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "73'",
+          "player": "Eddie Robinson",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-10-14 21:00",
+      "home": "CD Chivas USA",
+      "away": "Colorado Rapids",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Orlando Perez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "46'",
+          "player": "Brandon Prideaux",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "64'",
+          "player": "Ugo Ihemelu",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Omar Cummings",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-10-14 04:30",
+      "home": "L.A. Galaxy",
+      "away": "Toronto FC",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "54'",
+          "player": "Marco Reda",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "68'",
+          "player": "Collin Samuel",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-10-14 01:30",
+      "home": "DC United",
+      "away": "Chicago Fire",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-10-14 01:30",
+      "home": "New York Red Bulls",
+      "away": "Kansas City Wizards",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "19'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "24'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "21'",
+          "player": "Jack Jewsbury",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-10-14 01:30",
+      "home": "New England Rev.",
+      "away": "Columbus Crew",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "27'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Steve Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "61'",
+          "player": "Eddie Gaven",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "77'",
+          "player": "Stefani Miglioranzi",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "Schelotto Guillermo Barros",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-10-12 03:00",
+      "home": "FC Dallas",
+      "away": "CD Chivas USA",
+      "score": "0-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Bobby Rhine",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-10-08 02:00",
+      "home": "Colorado Rapids",
+      "away": "Toronto FC",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "36'",
+          "player": "Mehdi Ballouchy",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Jovan Kirovski",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Pablo Mastroeni",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-10-07 21:00",
+      "home": "Houston Dynamo",
+      "away": "L.A. Galaxy",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Nate Jaqua",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Carlos Pavon",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "77'",
+          "player": "Gavin Glinton",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-10-07 03:00",
+      "home": "Real Salt Lake",
+      "away": "CD Chivas USA",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "52'",
+          "player": "Chris Brown",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "62'",
+          "player": "Robbie Findley",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "22'",
+          "player": "John Cunliffe",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "54'",
+          "player": "John Cunliffe",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "58'",
+          "player": "Paulo Nagamura",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-10-07 02:30",
+      "home": "Chicago Fire",
+      "away": "New England Rev.",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Chris Rolfe",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Chad Barrett",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "24'",
+          "player": "Jeff Larentowicz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-10-07 01:30",
+      "home": "Columbus Crew",
+      "away": "FC Dallas",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Eddie Gaven",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "48'",
+          "player": "Arturo Alvarez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "Abe Thompson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Abe Thompson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-10-06 02:00",
+      "home": "Kansas City Wizards",
+      "away": "DC United",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Scott Sealy",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "56'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-10-05 01:00",
+      "home": "Toronto FC",
+      "away": "New York Red Bulls",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "18'",
+          "player": "Maurice Edu",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "66'",
+          "player": "Chris Leitch",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Andrew Boyens",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "64'",
+          "player": "Joe Vide",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "75'",
+          "player": "Dane Richards",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-30 23:00",
+      "home": "Columbus Crew",
+      "away": "L.A. Galaxy",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "2'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "13'",
+          "player": "Troy Roberts",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "16'",
+          "player": "Kyle Martino",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-30 21:00",
+      "home": "FC Dallas",
+      "away": "Houston Dynamo",
+      "score": "0-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Carlos Ruiz",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "62'",
+          "player": "Eddie Robinson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "84'",
+          "player": "Stuart Holden",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Ricardo Clark",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-30 04:30",
+      "home": "CD Chivas USA",
+      "away": "Chicago Fire",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Claudio Suarez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "24'",
+          "player": "Cuauhtemoc Blanco",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-30 01:30",
+      "home": "New York Red Bulls",
+      "away": "Real Salt Lake",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Francis Doe Forkey",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "22'",
+          "player": "Chris Brown",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "75'",
+          "player": "Kyle Beckerman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-30 01:30",
+      "home": "New England Rev.",
+      "away": "Colorado Rapids",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Khano Smith",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-30 01:30",
+      "home": "DC United",
+      "away": "Toronto FC",
+      "score": "4-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "52'",
+          "player": "Marc Burch",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "57'",
+          "player": "Helbert Frederico Carreiro da Silva Fred",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "66'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "70'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "14'",
+          "player": "Carl Robinson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-28 02:00",
+      "home": "Kansas City Wizards",
+      "away": "L.A. Galaxy",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "57'",
+          "player": "Jimmy Conrad",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Davy Arnaud",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "80'",
+          "player": "Gavin Glinton",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-24 02:00",
+      "home": "L.A. Galaxy",
+      "away": "FC Dallas",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Chris Klein",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "11'",
+          "player": "Dax McCarty",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "23'",
+          "player": "Chris Gbandi",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-23 21:00",
+      "home": "Chicago Fire",
+      "away": "DC United",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "18'",
+          "player": "Chad Barrett",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "84'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-23 04:30",
+      "home": "CD Chivas USA",
+      "away": "Kansas City Wizards",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "72'",
+          "player": "Colombano Eloy",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-23 03:30",
+      "home": "Real Salt Lake",
+      "away": "Colorado Rapids",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "30'",
+          "player": "Kyle Brown",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-23 01:30",
+      "home": "New York Red Bulls",
+      "away": "New England Rev.",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "37'",
+          "player": "Francis Doe Forkey",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "22'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "70'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-22 21:30",
+      "home": "Toronto FC",
+      "away": "Columbus Crew",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "2'",
+          "player": "Miguel Canizalez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "61'",
+          "player": "Jason Garey",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "83'",
+          "player": "Jacob Thomas",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-21 02:00",
+      "home": "FC Dallas",
+      "away": "Chicago Fire",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "56'",
+          "player": "Chris Rolfe",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-20 03:00",
+      "home": "Real Salt Lake",
+      "away": "L.A. Galaxy",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Carey Talley",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Javier Damian Morales",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "79'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "85'",
+          "player": "Gavin Glinton",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-17 02:00",
+      "home": "L.A. Galaxy",
+      "away": "Houston Dynamo",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Alan Gordon",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "21'",
+          "player": "Ryan Cochrane",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "47'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "73'",
+          "player": "Ricardo Clark",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-16 21:00",
+      "home": "Colorado Rapids",
+      "away": "CD Chivas USA",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "12'",
+          "player": "Facundo Erpen",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "player": "Colin Clark",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "13'",
+          "player": "Sacha Kljestan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-16 02:30",
+      "home": "Chicago Fire",
+      "away": "New York Red Bulls",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Cuauhtemoc Blanco",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Wilman Conde",
+          "type": "card"
+        },
+        {
+          "team": "home",
+          "time": "70'",
+          "player": "Gonzalo Segares",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "10'",
+          "player": "Dave van den Bergh",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "69'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-16 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Columbus Crew",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Scott Sealy",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Scott Sealy",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Eddie Johnson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "65'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "player": "Andy Herron",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-16 01:30",
+      "home": "New England Rev.",
+      "away": "FC Dallas",
+      "score": "4-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "29'",
+          "player": "Pat Noonan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Pat Noonan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Steve Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Khano Smith",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "35'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "84'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-15 21:30",
+      "home": "Toronto FC",
+      "away": "Real Salt Lake",
+      "score": "0-0",
+      "events": [
+        {
+          "team": "away",
+          "time": "35'",
+          "player": "Fabian Espindola",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-14 05:00",
+      "home": "CD Chivas USA",
+      "away": "L.A. Galaxy",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "23'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Francisco Mendoza",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Laurent Merlin",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-13 01:30",
+      "home": "DC United",
+      "away": "Real Salt Lake",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "16'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "73'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "32'",
+          "player": "Kyle Beckerman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-10 02:00",
+      "home": "CD Chivas USA",
+      "away": "New York Red Bulls",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Maykel Galindo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "58'",
+          "player": "Maykel Galindo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "70'",
+          "player": "Ante Razov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-09 21:00",
+      "home": "DC United",
+      "away": "New England Rev.",
+      "score": "4-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Helbert Frederico Carreiro da Silva Fred",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "59'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "54'",
+          "player": "Jay Heaps",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-09 04:30",
+      "home": "L.A. Galaxy",
+      "away": "Colorado Rapids",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "46'",
+          "player": "Alan Gordon",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "63'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "70'",
+          "player": "Kyle Martino",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Mehdi Ballouchy",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-09 02:30",
+      "home": "Houston Dynamo",
+      "away": "Real Salt Lake",
+      "score": "4-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Nate Jaqua",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Eddie Robinson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "48'",
+          "player": "Nate Jaqua",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "57'",
+          "player": "Nate Jaqua",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "18'",
+          "player": "Fabian Espindola",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "69'",
+          "player": "Carey Talley",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "82'",
+          "player": "Kyle Brown",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-09 02:30",
+      "home": "FC Dallas",
+      "away": "Toronto FC",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "38'",
+          "player": "Denilson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Abe Thompson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-09 01:30",
+      "home": "Columbus Crew",
+      "away": "Chicago Fire",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "65'",
+          "player": "Paulo Wanchope",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-07 04:30",
+      "home": "CD Chivas USA",
+      "away": "DC United",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Lawson Vaughn",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "3'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "26'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-02 21:00",
+      "home": "Columbus Crew",
+      "away": "Colorado Rapids",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Eddie Gaven",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "84'",
+          "player": "Conor Casey",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-02 04:30",
+      "home": "L.A. Galaxy",
+      "away": "Real Salt Lake",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Alan Gordon",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Troy Roberts",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "player": "Robbie Findley",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "71'",
+          "player": "Eddie Pope",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-02 02:30",
+      "home": "Houston Dynamo",
+      "away": "Kansas City Wizards",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Joseph Ngwenya",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Eddie Johnson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-02 02:30",
+      "home": "FC Dallas",
+      "away": "DC United",
+      "score": "0-4",
+      "events": [
+        {
+          "team": "away",
+          "time": "4'",
+          "player": "Ben Olsen",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Ben Olsen",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "47'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "50'",
+          "player": "Helbert Frederico Carreiro da Silva Fred",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-09-02 01:30",
+      "home": "New York Red Bulls",
+      "away": "Chicago Fire",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-30 03:00",
+      "home": "Real Salt Lake",
+      "away": "Kansas City Wizards",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "1'",
+          "player": "Matias Ezequiel Mantilla",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "42'",
+          "player": "Fabian Espindola",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "85'",
+          "player": "Andy Williams",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "69'",
+          "player": "Eddie Johnson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-27 03:00",
+      "home": "CD Chivas USA",
+      "away": "Real Salt Lake",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Jesse Marsch",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-27 01:00",
+      "home": "Colorado Rapids",
+      "away": "L.A. Galaxy",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Conor Casey",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Colin Clark",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "43'",
+          "player": "Mike Petke",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-26 02:30",
+      "home": "Houston Dynamo",
+      "away": "Columbus Crew",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Nate Jaqua",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "17'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "38'",
+          "player": "Marcos Gonzalez",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-26 02:30",
+      "home": "Chicago Fire",
+      "away": "Kansas City Wizards",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Cuauhtemoc Blanco",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Calen Carr",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-26 01:30",
+      "home": "New England Rev.",
+      "away": "New York Red Bulls",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "46'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Carlos Mendes",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "30'",
+          "player": "Josmer Altidore",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-26 01:30",
+      "home": "Toronto FC",
+      "away": "DC United",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "8'",
+          "player": "Helbert Frederico Carreiro da Silva Fred",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-24 04:00",
+      "home": "L.A. Galaxy",
+      "away": "CD Chivas USA",
+      "score": "0-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Kevin Harmse",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Alex Zotinca",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "58'",
+          "player": "Maykel Galindo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "69'",
+          "player": "Maykel Galindo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Francisco Mendoza",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-23 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Chicago Fire",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Sasha Victorine",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Scott Sealy",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Jose Burciaga Jr.",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Chad Barrett",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "66'",
+          "player": "Gonzalo Segares",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "83'",
+          "player": "Dasan Robinson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-23 01:30",
+      "home": "DC United",
+      "away": "New York Red Bulls",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Ben Olsen",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "48'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "21'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-20 02:00",
+      "home": "Kansas City Wizards",
+      "away": "New England Rev.",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "72'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-20 01:00",
+      "home": "Houston Dynamo",
+      "away": "FC Dallas",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "43'",
+          "player": "Brian Ching",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-19 03:00",
+      "home": "Real Salt Lake",
+      "away": "Chicago Fire",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "44'",
+          "player": "Cuauhtemoc Blanco",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "78'",
+          "player": "Paulo Wanchope",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-19 01:30",
+      "home": "New York Red Bulls",
+      "away": "L.A. Galaxy",
+      "score": "5-4",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Clint Mathis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Josmer Altidore",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "70'",
+          "player": "Josmer Altidore",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "6'",
+          "player": "Carlos Pavon",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "8'",
+          "player": "Carlos Pavon",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "71'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "82'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-19 01:30",
+      "home": "Columbus Crew",
+      "away": "DC United",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "52'",
+          "player": "Helbert Frederico Carreiro da Silva Fred",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "63'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-18 21:30",
+      "home": "Toronto FC",
+      "away": "CD Chivas USA",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "57'",
+          "player": "Maykel Galindo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Francisco Mendoza",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-17 03:00",
+      "home": "Colorado Rapids",
+      "away": "New England Rev.",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "9'",
+          "player": "Jovan Kirovski",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "40'",
+          "player": "Jovan Kirovski",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Omar Cummings",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-13 01:00",
+      "home": "New England Rev.",
+      "away": "L.A. Galaxy",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-12 23:00",
+      "home": "New York Red Bulls",
+      "away": "Toronto FC",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "23'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "50'",
+          "player": "Josmer Altidore",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "63'",
+          "player": "Josmer Altidore",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "65'",
+          "player": "Chris Pozniak",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-12 03:00",
+      "home": "Colorado Rapids",
+      "away": "Houston Dynamo",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "61'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Ugo Ihemelu",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-12 02:30",
+      "home": "FC Dallas",
+      "away": "Columbus Crew",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Arturo Alvarez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Marcelo Saragosa",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Clarence Goodson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "6'",
+          "player": "Marcos Gonzalez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "74'",
+          "player": "Andy Herron",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-10 01:00",
+      "home": "DC United",
+      "away": "L.A. Galaxy",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "27'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "player": "Kyle Martino",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-06 01:30",
+      "home": "Toronto FC",
+      "away": "L.A. Galaxy",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-05 22:00",
+      "home": "New England Rev.",
+      "away": "DC United",
+      "score": "0-3",
+      "events": [
+        {
+          "team": "away",
+          "time": "22'",
+          "player": "Joshua Gros",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "31'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "76'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-05 03:00",
+      "home": "Real Salt Lake",
+      "away": "Houston Dynamo",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "Robbie Findley",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-05 02:30",
+      "home": "Chicago Fire",
+      "away": "Columbus Crew",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-05 02:30",
+      "home": "FC Dallas",
+      "away": "Colorado Rapids",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Drew Moor",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-08-03 01:00",
+      "home": "New England Rev.",
+      "away": "Kansas City Wizards",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Pat Noonan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Adam Cristman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-30 01:00",
+      "home": "Kansas City Wizards",
+      "away": "CD Chivas USA",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "38'",
+          "player": "Kerry Zavagnin",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "53'",
+          "player": "Davy Arnaud",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Yura Movsisyan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "17'",
+          "player": "Jonathan Bornstein",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "John Cunliffe",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-29 21:00",
+      "home": "Toronto FC",
+      "away": "Chicago Fire",
+      "score": "0-3",
+      "events": [
+        {
+          "team": "away",
+          "time": "37'",
+          "player": "Ivan Guerrero",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "58'",
+          "player": "Calen Carr",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "75'",
+          "player": "Floyd Franks",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-29 03:30",
+      "home": "Real Salt Lake",
+      "away": "New England Rev.",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Andy Williams",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Carey Talley",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "39'",
+          "player": "Pat Noonan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "82'",
+          "player": "Jeff Larentowicz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-27 01:00",
+      "home": "New York Red Bulls",
+      "away": "CD Chivas USA",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "38'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "87'",
+          "player": "Sacha Kljestan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-23 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Colorado Rapids",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "24'",
+          "player": "Eddie Johnson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "43'",
+          "player": "Eddie Johnson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Jose Burciaga Jr.",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "42'",
+          "player": "Jovan Kirovski",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "77'",
+          "player": "Facundo Erpen",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-22 23:00",
+      "home": "Columbus Crew",
+      "away": "Toronto FC",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "50'",
+          "player": "Schelotto Guillermo Barros",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Schelotto Guillermo Barros",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-22 23:00",
+      "home": "New York Red Bulls",
+      "away": "DC United",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "19'",
+          "player": "John Wolyniec",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Helbert Frederico Carreiro da Silva Fred",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-22 22:00",
+      "home": "New England Rev.",
+      "away": "Houston Dynamo",
+      "score": "3-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "32'",
+          "player": "Pat Noonan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "51'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "66'",
+          "player": "Shalrie Joseph",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "49'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "60'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "61'",
+          "player": "Brian Ching",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-16 02:30",
+      "home": "Houston Dynamo",
+      "away": "Toronto FC",
+      "score": "0-0",
+      "events": [
+        {
+          "team": "away",
+          "time": "42'",
+          "player": "Maurice Edu",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-15 04:30",
+      "home": "CD Chivas USA",
+      "away": "Columbus Crew",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "19'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Eddie Gaven",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "23'",
+          "player": "Stefani Miglioranzi",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-15 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Real Salt Lake",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "19'",
+          "player": "Eddie Johnson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-15 01:30",
+      "home": "New York Red Bulls",
+      "away": "New England Rev.",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Juan Pablo Angel",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "38'",
+          "player": "Andy Dorman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-15 01:30",
+      "home": "DC United",
+      "away": "FC Dallas",
+      "score": "3-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Helbert Frederico Carreiro da Silva Fred",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "47'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "51'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "71'",
+          "player": "Juan Carlos Toja",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "81'",
+          "player": "Juan Carlos Toja",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-13 03:00",
+      "home": "Chicago Fire",
+      "away": "Houston Dynamo",
+      "score": "0-4",
+      "events": [
+        {
+          "team": "away",
+          "time": "31'",
+          "player": "Stuart Holden",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "58'",
+          "player": "Nate Jaqua",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "62'",
+          "player": "Joseph Ngwenya",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Chris Wondolowski",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-09 02:30",
+      "home": "Houston Dynamo",
+      "away": "DC United",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "33'",
+          "player": "Brian Ching",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-09 02:00",
+      "home": "Colorado Rapids",
+      "away": "New York Red Bulls",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "19'",
+          "player": "John Wolyniec",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-08 04:30",
+      "home": "L.A. Galaxy",
+      "away": "Kansas City Wizards",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "61'",
+          "player": "Cobi Jones",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Cobi Jones",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "47'",
+          "player": "Yura Movsisyan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "51'",
+          "player": "Davy Arnaud",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-08 02:30",
+      "home": "Chicago Fire",
+      "away": "Toronto FC",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "70'",
+          "player": "Chad Barrett",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "78'",
+          "player": "Maurice Edu",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-08 01:30",
+      "home": "New England Rev.",
+      "away": "CD Chivas USA",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "64'",
+          "player": "Andy Dorman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "5'",
+          "player": "Claudio Suarez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-08 01:30",
+      "home": "Columbus Crew",
+      "away": "Real Salt Lake",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "76'",
+          "player": "Schelotto Guillermo Barros",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Eddie Gaven",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Alecko Eskandarian",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-06 02:00",
+      "home": "Houston Dynamo",
+      "away": "New York Red Bulls",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Joseph Ngwenya",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "32'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "50'",
+          "player": "Joseph Ngwenya",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Stuart Holden",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-05 04:30",
+      "home": "L.A. Galaxy",
+      "away": "Chicago Fire",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "16'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-05 04:00",
+      "home": "Real Salt Lake",
+      "away": "Toronto FC",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Alecko Eskandarian",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "19'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "79'",
+          "player": "Collin Samuel",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-05 03:30",
+      "home": "Colorado Rapids",
+      "away": "Columbus Crew",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-05 00:30",
+      "home": "FC Dallas",
+      "away": "CD Chivas USA",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "41'",
+          "player": "Ramon Nunez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Dominic Oduro",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-04 19:00",
+      "home": "Kansas City Wizards",
+      "away": "DC United",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "44'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-02 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Toronto FC",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "18'",
+          "player": "Michael Harrington",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "46'",
+          "player": "Daniele Dichio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "76'",
+          "player": "Andrew Boyens",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-02 01:00",
+      "home": "Chicago Fire",
+      "away": "Colorado Rapids",
+      "score": "0-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Bakary Soumare",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-01 04:30",
+      "home": "CD Chivas USA",
+      "away": "New England Rev.",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Jesse Marsch",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Claudio Suarez",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Maykel Galindo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-01 02:00",
+      "home": "Columbus Crew",
+      "away": "New York Red Bulls",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Kei Kamara",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-07-01 00:00",
+      "home": "FC Dallas",
+      "away": "Houston Dynamo",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-29 01:00",
+      "home": "DC United",
+      "away": "Colorado Rapids",
+      "score": "4-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Addlery Nicholas",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Helbert Frederico Carreiro da Silva Fred",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "19'",
+          "player": "Jacob Peterson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-24 23:00",
+      "home": "Kansas City Wizards",
+      "away": "Houston Dynamo",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "81'",
+          "player": "Patrick Ianni",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-24 04:30",
+      "home": "L.A. Galaxy",
+      "away": "Columbus Crew",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "66'",
+          "player": "Gavin Glinton",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Chad Marshall",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "29'",
+          "player": "Ezra Hendrickson",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "58'",
+          "player": "Ned Grabavoy",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "84'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-24 03:30",
+      "home": "Real Salt Lake",
+      "away": "DC United",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "41'",
+          "player": "Robbie Findley",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "50'",
+          "player": "Robbie Findley",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "87'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-24 03:00",
+      "home": "Colorado Rapids",
+      "away": "FC Dallas",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Ugo Ihemelu",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "62'",
+          "player": "Juan Carlos Toja",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-24 01:30",
+      "home": "New England Rev.",
+      "away": "Toronto FC",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "13'",
+          "player": "Andy Dorman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "33'",
+          "player": "Pat Noonan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Andy Dorman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-22 03:00",
+      "home": "Houston Dynamo",
+      "away": "CD Chivas USA",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Brian Mullan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Brad Davis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "70'",
+          "player": "Brad Davis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Brad Davis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "66'",
+          "player": "Shavar Thomas",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-21 01:30",
+      "home": "Columbus Crew",
+      "away": "Kansas City Wizards",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Eddie Gaven",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "61'",
+          "player": "Stefani Miglioranzi",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Jack Jewsbury",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-18 02:00",
+      "home": "L.A. Galaxy",
+      "away": "Real Salt Lake",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Nate Jaqua",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Cobi Jones",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "6'",
+          "player": "Chris Brown",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "73'",
+          "player": "Chris Brown",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-17 19:00",
+      "home": "Toronto FC",
+      "away": "FC Dallas",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "22'",
+          "player": "Maurice Edu",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Daniele Dichio",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Carl Robinson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-17 04:30",
+      "home": "CD Chivas USA",
+      "away": "Colorado Rapids",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Terry Cooke",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "63'",
+          "player": "Maykel Galindo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-17 01:30",
+      "home": "DC United",
+      "away": "Chicago Fire",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Rod Dyachenko",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "51'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "54'",
+          "player": "Vanencio Jerson Monteiro",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-17 01:30",
+      "home": "New York Red Bulls",
+      "away": "Kansas City Wizards",
+      "score": "3-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "15'",
+          "player": "Clint Mathis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "43'",
+          "player": "Kerry Zavagnin",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "70'",
+          "player": "Yura Movsisyan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "79'",
+          "player": "Yura Movsisyan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-17 00:30",
+      "home": "New England Rev.",
+      "away": "Columbus Crew",
+      "score": "3-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "13'",
+          "player": "Adam Cristman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "17'",
+          "player": "Pat Noonan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "32'",
+          "player": "Adam Cristman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "9'",
+          "player": "Robbie Rogers",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Schelotto Guillermo Barros",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "85'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-15 03:00",
+      "home": "Real Salt Lake",
+      "away": "FC Dallas",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Dominic Oduro",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-10 23:00",
+      "home": "Columbus Crew",
+      "away": "Houston Dynamo",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "22'",
+          "player": "Joseph Ngwenya",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "29'",
+          "player": "Chad Marshall",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-10 19:00",
+      "home": "DC United",
+      "away": "New York Red Bulls",
+      "score": "4-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "15'",
+          "player": "Ben Olsen",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Bobby Boswell",
+          "type": "card"
+        },
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Ben Olsen",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "Ben Olsen",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "18'",
+          "player": "Dema Kovalenko",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "85'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-10 02:30",
+      "home": "Chicago Fire",
+      "away": "CD Chivas USA",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "79'",
+          "player": "Paulo Nagamura",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-10 02:30",
+      "home": "FC Dallas",
+      "away": "L.A. Galaxy",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "24'",
+          "player": "Juan Carlos Toja",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Abe Thompson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "73'",
+          "player": "Drew Moor",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "41'",
+          "player": "Robbie Findley",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Tyrone Marshall",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-08 03:15",
+      "home": "Houston Dynamo",
+      "away": "Colorado Rapids",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "3'",
+          "player": "Joseph Ngwenya",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "63'",
+          "player": "Stuart Holden",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "12'",
+          "player": "Jose Cancela",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-07 01:00",
+      "home": "Toronto FC",
+      "away": "New York Red Bulls",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "23'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "69'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "71'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-04 01:00",
+      "home": "Chicago Fire",
+      "away": "Columbus Crew",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Jeff Curtin",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "61'",
+          "player": "William Oliveira",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Jeff Curtin",
+          "type": "card"
+        },
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Chad Barrett",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "38'",
+          "player": "Duncan Oughton",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "84'",
+          "player": "Chad Marshall",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "Danny O Rourke",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-03 23:00",
+      "home": "Houston Dynamo",
+      "away": "FC Dallas",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "51'",
+          "player": "Ricardo Clark",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "66'",
+          "player": "Joseph Ngwenya",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Pat Onstad",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "32'",
+          "player": "Abe Thompson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-03 04:30",
+      "home": "L.A. Galaxy",
+      "away": "DC United",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-03 02:00",
+      "home": "Kansas City Wizards",
+      "away": "New York Red Bulls",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "46'",
+          "player": "Eddie Johnson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "59'",
+          "player": "Eddie Johnson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "85'",
+          "player": "Eddie Johnson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "8'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "36'",
+          "player": "Clint Mathis",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Dema Kovalenko",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-03 01:30",
+      "home": "New England Rev.",
+      "away": "Real Salt Lake",
+      "score": "0-0",
+      "events": [
+        {
+          "team": "away",
+          "time": "82'",
+          "player": "Ritchie Kotschau",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-06-02 21:30",
+      "home": "Toronto FC",
+      "away": "Colorado Rapids",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "9'",
+          "player": "Daniele Dichio",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Andrew Boyens",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Kevin Goldthwaite",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "32'",
+          "player": "Herculez Gomez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-27 23:00",
+      "home": "Chicago Fire",
+      "away": "Real Salt Lake",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-27 04:30",
+      "home": "CD Chivas USA",
+      "away": "FC Dallas",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "51'",
+          "player": "Maykel Galindo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Ante Razov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-27 02:30",
+      "home": "Colorado Rapids",
+      "away": "L.A. Galaxy",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Herculez Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "25'",
+          "player": "Kyle Martino",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-27 01:30",
+      "home": "DC United",
+      "away": "Houston Dynamo",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "27'",
+          "player": "Ben Olsen",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "73'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-27 01:30",
+      "home": "Columbus Crew",
+      "away": "Toronto FC",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "2'",
+          "player": "Andy Herron",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "36'",
+          "player": "Andy Herron",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "27'",
+          "player": "Daniele Dichio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "49'",
+          "player": "Jim Brennan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-27 00:30",
+      "home": "New England Rev.",
+      "away": "Kansas City Wizards",
+      "score": "3-4",
+      "events": [
+        {
+          "team": "home",
+          "time": "11'",
+          "player": "Steve Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "23'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Shalrie Joseph",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "25'",
+          "player": "Davy Arnaud",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "26'",
+          "player": "Eddie Johnson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "38'",
+          "player": "Eddie Johnson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "82'",
+          "player": "Eddie Johnson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-25 01:00",
+      "home": "New York Red Bulls",
+      "away": "Chicago Fire",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "1'",
+          "player": "Josmer Altidore",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "3'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-21 01:00",
+      "home": "FC Dallas",
+      "away": "Real Salt Lake",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Arturo Alvarez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Chris Gbandi",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "68'",
+          "player": "Freddy Adu",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-20 23:00",
+      "home": "CD Chivas USA",
+      "away": "L.A. Galaxy",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Maykel Galindo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "50'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-20 03:00",
+      "home": "Colorado Rapids",
+      "away": "Kansas City Wizards",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Jovan Kirovski",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "58'",
+          "player": "Davy Arnaud",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-20 02:30",
+      "home": "Houston Dynamo",
+      "away": "New England Rev.",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "9'",
+          "player": "Shalrie Joseph",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-20 01:30",
+      "home": "New York Red Bulls",
+      "away": "Columbus Crew",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "17'",
+          "player": "John Wolyniec",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "51'",
+          "player": "Clint Mathis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "61'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Sal Caccavale",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-19 21:30",
+      "home": "Toronto FC",
+      "away": "DC United",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Alecko Eskandarian",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "53'",
+          "player": "Kevin Goldthwaite",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "79'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-18 02:00",
+      "home": "Chicago Fire",
+      "away": "FC Dallas",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "73'",
+          "player": "Calen Carr",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "24'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "60'",
+          "player": "Juan Carlos Toja",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-17 01:00",
+      "home": "Toronto FC",
+      "away": "Houston Dynamo",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Andrew Welsh",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-13 21:00",
+      "home": "New York Red Bulls",
+      "away": "Colorado Rapids",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "24'",
+          "player": "Nicolas Hernandez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-13 04:30",
+      "home": "L.A. Galaxy",
+      "away": "New England Rev.",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "14'",
+          "player": "Kyle Martino",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "Tyrone Marshall",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "47'",
+          "player": "Adam Cristman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "51'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "85'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-13 02:00",
+      "home": "Kansas City Wizards",
+      "away": "FC Dallas",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Michael Harrington",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "19'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Juan Carlos Toja",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-13 01:30",
+      "home": "Columbus Crew",
+      "away": "CD Chivas USA",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "18'",
+          "player": "Ned Grabavoy",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "2'",
+          "player": "Ante Razov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-12 21:30",
+      "home": "Toronto FC",
+      "away": "Chicago Fire",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "24'",
+          "player": "Daniele Dichio",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "51'",
+          "player": "Kevin Goldthwaite",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Maurice Edu",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "36'",
+          "player": "Chris Rolfe",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-11 03:00",
+      "home": "Colorado Rapids",
+      "away": "Real Salt Lake",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Jack Stewart",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Pablo Mastroeni",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-06 23:00",
+      "home": "New England Rev.",
+      "away": "Chicago Fire",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "16'",
+          "player": "Jeff Larentowicz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Steve Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Wells Thompson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Chris Rolfe",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-06 21:00",
+      "home": "DC United",
+      "away": "CD Chivas USA",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "48'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "73'",
+          "player": "Maykel Galindo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-06 03:30",
+      "home": "Colorado Rapids",
+      "away": "Houston Dynamo",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "5'",
+          "player": "Roberto Brown",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "63'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "68'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-06 03:00",
+      "home": "Real Salt Lake",
+      "away": "New York Red Bulls",
+      "score": "3-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "61'",
+          "player": "Chris Klein",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Chris Brown",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "11'",
+          "player": "Dane Richards",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "28'",
+          "player": "Clint Mathis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "83'",
+          "player": "Clint Mathis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-05 19:00",
+      "home": "Kansas City Wizards",
+      "away": "Columbus Crew",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Jose Burciaga Jr.",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-04 01:00",
+      "home": "DC United",
+      "away": "New England Rev.",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "48'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "46'",
+          "player": "Andy Dorman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Shalrie Joseph",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-05-01 03:00",
+      "home": "Real Salt Lake",
+      "away": "Colorado Rapids",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "71'",
+          "player": "Roberto Brown",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "75'",
+          "player": "Kyle Beckerman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-30 01:00",
+      "home": "Houston Dynamo",
+      "away": "Chicago Fire",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "60'",
+          "player": "Chris Rolfe",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-29 21:00",
+      "home": "FC Dallas",
+      "away": "New England Rev.",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "13'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-29 04:30",
+      "home": "L.A. Galaxy",
+      "away": "CD Chivas USA",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "17'",
+          "player": "Kevin Harmse",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Cobi Jones",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "63'",
+          "player": "Claudio Suarez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-29 01:30",
+      "home": "Columbus Crew",
+      "away": "DC United",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Ezra Hendrickson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-28 18:30",
+      "home": "Toronto FC",
+      "away": "Kansas City Wizards",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "81'",
+          "player": "Eddie Johnson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-27 02:00",
+      "home": "FC Dallas",
+      "away": "New York Red Bulls",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "79'",
+          "player": "Hunter Freeman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-26 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Toronto FC",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "5'",
+          "player": "Eddie Johnson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Kerry Zavagnin",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "70'",
+          "player": "Yura Movsisyan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-22 21:00",
+      "home": "FC Dallas",
+      "away": "Colorado Rapids",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "29'",
+          "player": "Ramon Nunez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Ramon Nunez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Dominic Oduro",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "34'",
+          "player": "Jovan Kirovski",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-22 04:30",
+      "home": "CD Chivas USA",
+      "away": "Real Salt Lake",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "1'",
+          "player": "Maykel Galindo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "9'",
+          "player": "Maykel Galindo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "43'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Matt Taylor",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-22 02:30",
+      "home": "Chicago Fire",
+      "away": "Kansas City Wizards",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "36'",
+          "player": "Chad Barrett",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "73'",
+          "player": "Chris Rolfe",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Carlos Marinelli",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-22 01:30",
+      "home": "New York Red Bulls",
+      "away": "Houston Dynamo",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "13'",
+          "player": "Clint Mathis",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Josmer Altidore",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-20 01:00",
+      "home": "Columbus Crew",
+      "away": "New England Rev.",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Ned Grabavoy",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Kei Kamara",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "10'",
+          "player": "Andy Dorman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "38'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-16 02:00",
+      "home": "Colorado Rapids",
+      "away": "Chicago Fire",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Roberto Brown",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "58'",
+          "player": "Herculez Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "85'",
+          "player": "Chad Barrett",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-15 21:00",
+      "home": "New York Red Bulls",
+      "away": "FC Dallas",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "18'",
+          "player": "Josmer Altidore",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Clint Mathis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Dave van den Bergh",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-15 02:30",
+      "home": "Houston Dynamo",
+      "away": "CD Chivas USA",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Brian Ching",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-15 01:30",
+      "home": "DC United",
+      "away": "Kansas City Wizards",
+      "score": "2-4",
+      "events": [
+        {
+          "team": "home",
+          "time": "10'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "3'",
+          "player": "Michael Harrington",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "8'",
+          "player": "Sasha Victorine",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "43'",
+          "player": "Eddie Johnson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "54'",
+          "player": "Scott Sealy",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-15 01:30",
+      "home": "New England Rev.",
+      "away": "Toronto FC",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "12'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "18'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Shalrie Joseph",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Andy Dorman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-15 00:00",
+      "home": "Real Salt Lake",
+      "away": "Columbus Crew",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-13 04:30",
+      "home": "L.A. Galaxy",
+      "away": "FC Dallas",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Robbie Findley",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "35'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "43'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-09 01:00",
+      "home": "Houston Dynamo",
+      "away": "L.A. Galaxy",
+      "score": "0-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "76'",
+          "player": "Ryan Cochrane",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-08 04:30",
+      "home": "CD Chivas USA",
+      "away": "Toronto FC",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Sacha Kljestan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-08 02:30",
+      "home": "Chicago Fire",
+      "away": "New England Rev.",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Logan Pause",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-08 01:00",
+      "home": "Columbus Crew",
+      "away": "New York Red Bulls",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-08 00:00",
+      "home": "Real Salt Lake",
+      "away": "FC Dallas",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "30'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "51'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "19'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2007-04-07 21:30",
+      "home": "Colorado Rapids",
+      "away": "DC United",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "19'",
+          "player": "Herculez Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Roberto Brown",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "80'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    }
+  ]
+}

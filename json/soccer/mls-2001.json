@@ -1,0 +1,4801 @@
+{
+  "league": "Major League Soccer",
+  "region": "United States",
+  "matches": [
+    {
+      "date": "2001-10-21 18:30",
+      "home": "L.A. Galaxy",
+      "away": "San Jose Earthquakes",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Hernandez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "43'",
+          "player": "Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "96'",
+          "player": "DeRosario",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-10-18 02:30",
+      "home": "Chicago Fire",
+      "away": "L.A. Galaxy",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "30'",
+          "player": "Beasley",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "44'",
+          "player": "Califf",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "98'",
+          "player": "Cienfuegos",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-10-18 01:30",
+      "home": "Miami Fusion",
+      "away": "San Jose Earthquakes",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "94'",
+          "player": "Dayak",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-10-15 03:00",
+      "home": "San Jose Earthquakes",
+      "away": "Miami Fusion",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "16'",
+          "player": "Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "57'",
+          "player": "Russell",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Lagos",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "DeRosario",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-10-14 04:00",
+      "home": "L.A. Galaxy",
+      "away": "Chicago Fire",
+      "score": "1-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-10-11 02:30",
+      "home": "Chicago Fire",
+      "away": "L.A. Galaxy",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "32'",
+          "player": "Wynalda",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "44'",
+          "player": "Hernandez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-10-11 01:30",
+      "home": "Miami Fusion",
+      "away": "San Jose Earthquakes",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "53'",
+          "player": "Preki",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-09-30 04:00",
+      "home": "L.A. Galaxy",
+      "away": "New York Red Bulls",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Victorine",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "33'",
+          "player": "Victorine",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Frye",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "49'",
+          "player": "Villegas",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "60'",
+          "player": "Villegas",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-09-30 02:00",
+      "home": "Miami Fusion",
+      "away": "Kansas City Wizards",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "14'",
+          "player": "Preki",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Henderson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "13'",
+          "player": "Lowe",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-09-30 02:00",
+      "home": "Chicago Fire",
+      "away": "Dallas Burn",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "17'",
+          "player": "Kovalenko",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Armas",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-09-27 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Columbus Crew",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "9'",
+          "player": "Lagos",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Cerritos",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-09-27 02:30",
+      "home": "Kansas City Wizards",
+      "away": "Miami Fusion",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "24'",
+          "player": "Lowe",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "McKeon",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Gomez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-09-27 02:00",
+      "home": "New York Red Bulls",
+      "away": "L.A. Galaxy",
+      "score": "4-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Faria",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Chung",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Faria",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Valencia",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "4'",
+          "player": "Victorine",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-09-24 03:00",
+      "home": "L.A. Galaxy",
+      "away": "New York Red Bulls",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "63'",
+          "player": "Caligiuri",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "29'",
+          "player": "Faria",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-09-23 23:00",
+      "home": "Dallas Burn",
+      "away": "Chicago Fire",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "27'",
+          "player": "Deering",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "84'",
+          "player": "Beasley",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-09-23 01:30",
+      "home": "Columbus Crew",
+      "away": "San Jose Earthquakes",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Warzycha",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "5'",
+          "player": "Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "31'",
+          "player": "Lagos",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "46'",
+          "player": "Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-09-22 22:00",
+      "home": "Miami Fusion",
+      "away": "Kansas City Wizards",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Serna",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "53'",
+          "player": "Pineda Chacon",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-09-21 02:30",
+      "home": "Chicago Fire",
+      "away": "Dallas Burn",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "40'",
+          "player": "Bocanegra",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Whitfield",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-09-09 23:00",
+      "home": "Tampa Bay Mutiny",
+      "away": "Columbus Crew",
+      "score": "1-2",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-09-09 03:00",
+      "home": "Colorado Rapids",
+      "away": "L.A. Galaxy",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "20'",
+          "player": "Elliott",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Vagenas",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-09-09 02:30",
+      "home": "Kansas City Wizards",
+      "away": "San Jose Earthquakes",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "36'",
+          "player": "Lassiter",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-09-09 02:00",
+      "home": "Chicago Fire",
+      "away": "Dallas Burn",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Gutierrez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Nowak",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "87'",
+          "player": "Rhine",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Graziani",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-09-08 22:00",
+      "home": "Miami Fusion",
+      "away": "DC United",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "3'",
+          "player": "Chacon",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Chacon",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "70'",
+          "player": "Chacon",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "62'",
+          "player": "Lisi",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-09-08 02:00",
+      "home": "New York Red Bulls",
+      "away": "New England Rev.",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "5'",
+          "player": "Faria",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "27'",
+          "player": "Faria",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Valencia",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "14'",
+          "player": "Williams",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-09-02 04:00",
+      "home": "L.A. Galaxy",
+      "away": "Colorado Rapids",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "11'",
+          "player": "Cienfuegos",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Califf",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "101'",
+          "player": "Lalas",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "28'",
+          "player": "Bravo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "85'",
+          "player": "Bravo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-09-02 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Kansas City Wizards",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Cerritos",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "62'",
+          "player": "Cerritos",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "DeRosario",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-09-02 01:30",
+      "home": "Columbus Crew",
+      "away": "New England Rev.",
+      "score": "4-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Maisonneuve",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Warzycha",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Okoh",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-09-01 22:00",
+      "home": "New York Red Bulls",
+      "away": "Chicago Fire",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Kovalenko",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-09-01 18:30",
+      "home": "DC United",
+      "away": "Tampa Bay Mutiny",
+      "score": "5-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "27'",
+          "player": "Conteh",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "47'",
+          "player": "Lisi",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Conteh",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Alegria",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "61'",
+          "player": "Jair",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-30 02:30",
+      "home": "Chicago Fire",
+      "away": "Columbus Crew",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "50'",
+          "player": "Wynalda",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "57'",
+          "player": "Razov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "7'",
+          "player": "Warzycha",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-30 01:00",
+      "home": "Tampa Bay Mutiny",
+      "away": "Dallas Burn",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Barclay",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "25'",
+          "player": "Pareja",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "player": "Graziani",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "97'",
+          "player": "Rodriguez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-27 00:01",
+      "home": "Tampa Bay Mutiny",
+      "away": "New England Rev.",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-26 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Colorado Rapids",
+      "score": "5-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "22'",
+          "player": "Agogo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "36'",
+          "player": "Lagos",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "37'",
+          "player": "Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "40'",
+          "player": "Agogo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Mulrooney",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "58'",
+          "player": "Carrieri",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "70'",
+          "player": "Mulrooney",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-26 02:30",
+      "home": "Dallas Burn",
+      "away": "Kansas City Wizards",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "7'",
+          "player": "Graziani",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "37'",
+          "player": "Kubik",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "57'",
+          "player": "Graziani",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-26 01:30",
+      "home": "Miami Fusion",
+      "away": "New York Red Bulls",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "9'",
+          "player": "Chacon",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Chacon",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "48'",
+          "player": "Faria",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "84'",
+          "player": "Villegas",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Hernandez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-25 22:00",
+      "home": "L.A. Galaxy",
+      "away": "Chicago Fire",
+      "score": "1-3",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-25 20:00",
+      "home": "DC United",
+      "away": "Columbus Crew",
+      "score": "2-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-20 02:30",
+      "home": "Kansas City Wizards",
+      "away": "Colorado Rapids",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Klein",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Lassiter",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Glasgow",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Carrieri",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Spencer",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-19 21:30",
+      "home": "New York Red Bulls",
+      "away": "Columbus Crew",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "6'",
+          "player": "Maisonneuve",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-19 05:00",
+      "home": "L.A. Galaxy",
+      "away": "Tampa Bay Mutiny",
+      "score": "5-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "18'",
+          "player": "Vanney",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Addo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "29'",
+          "player": "Victorine",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "79'",
+          "player": "Jones",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Victorine",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "4'",
+          "player": "Ralston",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-19 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Chicago Fire",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "8'",
+          "player": "Marsch",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-19 01:30",
+      "home": "Miami Fusion",
+      "away": "Dallas Burn",
+      "score": "4-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "36'",
+          "player": "Pineda",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "51'",
+          "player": "Preki",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Pineda",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Henderson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "23'",
+          "player": "Kreis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "56'",
+          "player": "Deering",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-18 22:00",
+      "home": "New England Rev.",
+      "away": "DC United",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Chronopoulos",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "29'",
+          "player": "Chronopoulos",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "32'",
+          "player": "Armstrong",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-16 02:30",
+      "home": "Chicago Fire",
+      "away": "Miami Fusion",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "32'",
+          "player": "Kovalenko",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Pineda Chacon",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "38'",
+          "player": "Serna",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-16 02:30",
+      "home": "Kansas City Wizards",
+      "away": "L.A. Galaxy",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "57'",
+          "player": "Lowe",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "12'",
+          "player": "Califf",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Hendrickson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-16 01:30",
+      "home": "Columbus Crew",
+      "away": "Dallas Burn",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "18'",
+          "player": "Maisonneuve",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Washington",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Perez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-16 01:30",
+      "home": "DC United",
+      "away": "New York Red Bulls",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Lisi",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "10'",
+          "player": "Faria",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "41'",
+          "player": "Chung",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-13 03:00",
+      "home": "Colorado Rapids",
+      "away": "Kansas City Wizards",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "19'",
+          "player": "Spencer",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Spencer",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "52'",
+          "player": "Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Lassiter",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-12 04:00",
+      "home": "L.A. Galaxy",
+      "away": "DC United",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Hendrickson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-12 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Columbus Crew",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "15'",
+          "player": "Cerritos",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Cerritos",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "16'",
+          "player": "Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "52'",
+          "player": "Warzycha",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-12 02:30",
+      "home": "Dallas Burn",
+      "away": "New York Red Bulls",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Vaca",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Kreis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "74'",
+          "player": "Johnson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-12 02:00",
+      "home": "Chicago Fire",
+      "away": "Tampa Bay Mutiny",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Wynalda",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "50'",
+          "player": "Wynalda",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Nowak",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "17'",
+          "player": "Maessner",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-12 01:30",
+      "home": "New England Rev.",
+      "away": "Miami Fusion",
+      "score": "1-4",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Okoh",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "17'",
+          "player": "Pineda",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "27'",
+          "player": "Preki",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "35'",
+          "player": "Henderson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "68'",
+          "player": "Serna",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-09 01:30",
+      "home": "New England Rev.",
+      "away": "San Jose Earthquakes",
+      "score": "1-5",
+      "events": [
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Cate",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "35'",
+          "player": "Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "39'",
+          "player": "Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "68'",
+          "player": "Agogo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "71'",
+          "player": "Lagos",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "80'",
+          "player": "Agogo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-05 02:30",
+      "home": "Kansas City Wizards",
+      "away": "Columbus Crew",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Lowe",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "35'",
+          "player": "Perez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Maisonneuve",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-05 02:00",
+      "home": "New York Red Bulls",
+      "away": "Miami Fusion",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "3'",
+          "player": "Faria",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Chung",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "49'",
+          "player": "Preki",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-05 01:30",
+      "home": "New England Rev.",
+      "away": "Dallas Burn",
+      "score": "5-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "9'",
+          "player": "Sunsing",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Chronopoulos",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "player": "Okoh",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "79'",
+          "player": "Cate",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Chronopoulos",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "Korol",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-05 01:00",
+      "home": "Tampa Bay Mutiny",
+      "away": "San Jose Earthquakes",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "23'",
+          "player": "Keller",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Pena",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-04 22:00",
+      "home": "Colorado Rapids",
+      "away": "Chicago Fire",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "7'",
+          "player": "Balboa",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "39'",
+          "player": "J Beasley",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-02 02:00",
+      "home": "DC United",
+      "away": "Miami Fusion",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "30'",
+          "player": "Conteh",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "33'",
+          "player": "Conteh",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Pineda",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "74'",
+          "player": "Serna",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-08-02 01:30",
+      "home": "Columbus Crew",
+      "away": "Chicago Fire",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Perez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Maisonneuve",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-30 00:01",
+      "home": "Kansas City Wizards",
+      "away": "New England Rev.",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Santel",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Glasgow",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-19 01:00",
+      "home": "San Jose Earthquakes",
+      "away": "DC United",
+      "score": "4-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-19 01:00",
+      "home": "Miami Fusion",
+      "away": "Chicago Fire",
+      "score": "2-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-19 01:00",
+      "home": "Dallas Burn",
+      "away": "Tampa Bay Mutiny",
+      "score": "3-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-19 01:00",
+      "home": "Colorado Rapids",
+      "away": "Kansas City Wizards",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-19 01:00",
+      "home": "Columbus Crew",
+      "away": "New York Red Bulls",
+      "score": "2-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-18 01:30",
+      "home": "New England Rev.",
+      "away": "L.A. Galaxy",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "7'",
+          "player": "Harris",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "32'",
+          "player": "Sunsing",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "51'",
+          "player": "Williams",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "28'",
+          "player": "Hernandez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "40'",
+          "player": "Hernandez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-15 01:00",
+      "home": "Kansas City Wizards",
+      "away": "Dallas Burn",
+      "score": "3-2",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-15 01:00",
+      "home": "New England Rev.",
+      "away": "DC United",
+      "score": "1-3",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-15 01:00",
+      "home": "L.A. Galaxy",
+      "away": "Miami Fusion",
+      "score": "3-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-15 01:00",
+      "home": "San Jose Earthquakes",
+      "away": "Tampa Bay Mutiny",
+      "score": "2-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-15 01:00",
+      "home": "Chicago Fire",
+      "away": "Colorado Rapids",
+      "score": "1-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-08 03:00",
+      "home": "Colorado Rapids",
+      "away": "San Jose Earthquakes",
+      "score": "3-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-08 02:00",
+      "home": "New England Rev.",
+      "away": "Kansas City Wizards",
+      "score": "1-2",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-08 02:00",
+      "home": "DC United",
+      "away": "L.A. Galaxy",
+      "score": "0-3",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-08 01:30",
+      "home": "Miami Fusion",
+      "away": "New York Red Bulls",
+      "score": "0-3",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-08 01:00",
+      "home": "Tampa Bay Mutiny",
+      "away": "Chicago Fire",
+      "score": "2-3",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-07 22:00",
+      "home": "Columbus Crew",
+      "away": "Dallas Burn",
+      "score": "2-2",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-05 04:00",
+      "home": "L.A. Galaxy",
+      "away": "Columbus Crew",
+      "score": "0-2",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-05 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Miami Fusion",
+      "score": "1-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-05 03:00",
+      "home": "Colorado Rapids",
+      "away": "DC United",
+      "score": "3-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-05 02:30",
+      "home": "Kansas City Wizards",
+      "away": "Chicago Fire",
+      "score": "0-7",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-05 02:30",
+      "home": "Dallas Burn",
+      "away": "New England Rev.",
+      "score": "1-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-05 01:00",
+      "home": "Tampa Bay Mutiny",
+      "away": "New York Red Bulls",
+      "score": "1-2",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-01 02:30",
+      "home": "Kansas City Wizards",
+      "away": "Tampa Bay Mutiny",
+      "score": "3-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-01 02:00",
+      "home": "Chicago Fire",
+      "away": "New York Red Bulls",
+      "score": "3-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-01 01:30",
+      "home": "Miami Fusion",
+      "away": "Columbus Crew",
+      "score": "4-3",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-07-01 01:30",
+      "home": "DC United",
+      "away": "Colorado Rapids",
+      "score": "1-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-30 22:00",
+      "home": "Dallas Burn",
+      "away": "L.A. Galaxy",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-24 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Kansas City Wizards",
+      "score": "2-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-24 02:00",
+      "home": "Chicago Fire",
+      "away": "New England Rev.",
+      "score": "1-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-24 02:00",
+      "home": "Dallas Burn",
+      "away": "Columbus Crew",
+      "score": "1-2",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-24 01:00",
+      "home": "Tampa Bay Mutiny",
+      "away": "DC United",
+      "score": "3-2",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-23 22:00",
+      "home": "L.A. Galaxy",
+      "away": "New York Red Bulls",
+      "score": "2-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-21 04:00",
+      "home": "New England Rev.",
+      "away": "Colorado Rapids",
+      "score": "3-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Torres",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Chronopoulos",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Asad",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "9'",
+          "player": "Carrieri",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "20'",
+          "player": "Spencer",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Bravo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-17 03:00",
+      "home": "Colorado Rapids",
+      "away": "Dallas Burn",
+      "score": "3-6",
+      "events": [
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Balboa",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Diaz Arce",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "36'",
+          "player": "Diaz Arce",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "5'",
+          "player": "Vermillion",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "29'",
+          "player": "Suarez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "35'",
+          "player": "Vaca",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "56'",
+          "player": "Key",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "83'",
+          "player": "Broome",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Korol",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-17 02:00",
+      "home": "Miami Fusion",
+      "away": "L.A. Galaxy",
+      "score": "3-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "10'",
+          "player": "Serna",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "53'",
+          "player": "Rooney",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Serna",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "28'",
+          "player": "Lalas",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "35'",
+          "player": "Bishop",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Cienfuegos",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-17 01:30",
+      "home": "Columbus Crew",
+      "away": "Tampa Bay Mutiny",
+      "score": "6-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "29'",
+          "player": "Washington",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Duhaney",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "73'",
+          "player": "Washington",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "player": "Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "85'",
+          "player": "Washington",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Quill",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-17 01:00",
+      "home": "New York Red Bulls",
+      "away": "San Jose Earthquakes",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-16 22:00",
+      "home": "Kansas City Wizards",
+      "away": "DC United",
+      "score": "0-3",
+      "events": [
+        {
+          "team": "away",
+          "time": "53'",
+          "player": "Conteh",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "54'",
+          "player": "Quaranta",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "63'",
+          "player": "Quaranta",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-14 04:00",
+      "home": "L.A. Galaxy",
+      "away": "Kansas City Wizards",
+      "score": "4-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-14 02:00",
+      "home": "DC United",
+      "away": "New York Red Bulls",
+      "score": "2-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-10 04:30",
+      "home": "San Jose Earthquakes",
+      "away": "L.A. Galaxy",
+      "score": "3-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-10 02:00",
+      "home": "Chicago Fire",
+      "away": "Columbus Crew",
+      "score": "1-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-10 01:30",
+      "home": "New England Rev.",
+      "away": "Tampa Bay Mutiny",
+      "score": "3-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-09 22:00",
+      "home": "Miami Fusion",
+      "away": "Kansas City Wizards",
+      "score": "5-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-09 19:00",
+      "home": "Dallas Burn",
+      "away": "DC United",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "18'",
+          "player": "Suarez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Rhine",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "73'",
+          "player": "Martinez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-07 01:00",
+      "home": "Tampa Bay Mutiny",
+      "away": "Dallas Burn",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Kreis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-04 01:00",
+      "home": "New England Rev.",
+      "away": "New York Red Bulls",
+      "score": "1-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-03 03:00",
+      "home": "Colorado Rapids",
+      "away": "San Jose Earthquakes",
+      "score": "1-2",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-03 02:30",
+      "home": "Dallas Burn",
+      "away": "Miami Fusion",
+      "score": "2-6",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-03 01:00",
+      "home": "Tampa Bay Mutiny",
+      "away": "Kansas City Wizards",
+      "score": "1-2",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-02 22:00",
+      "home": "Columbus Crew",
+      "away": "L.A. Galaxy",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Perez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "47'",
+          "player": "Quijano",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-06-02 20:00",
+      "home": "DC United",
+      "away": "Chicago Fire",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "7'",
+          "player": "Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "76'",
+          "player": "Wynalda",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "79'",
+          "player": "Kovalenko",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-31 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Colorado Rapids",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Cerritos",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "77'",
+          "player": "Spencer",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-31 02:30",
+      "home": "Chicago Fire",
+      "away": "L.A. Galaxy",
+      "score": "3-4",
+      "events": [
+        {
+          "team": "home",
+          "time": "12'",
+          "player": "Stoitchkov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "15'",
+          "player": "Marsch",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Wynalda",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "19'",
+          "player": "Hernandez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "22'",
+          "player": "Vanney",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "52'",
+          "player": "Vagenas",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "70'",
+          "player": "Hernandez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-31 01:30",
+      "home": "Miami Fusion",
+      "away": "DC United",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "11'",
+          "player": "Preki",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Rooney",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "54'",
+          "player": "Albright",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-27 04:00",
+      "home": "L.A. Galaxy",
+      "away": "New England Rev.",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Hendrickson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Jones",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-27 01:30",
+      "home": "Columbus Crew",
+      "away": "Colorado Rapids",
+      "score": "3-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Maisonneuve",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "48'",
+          "player": "Paule",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "West",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "21'",
+          "player": "Balboa",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "28'",
+          "player": "Spencer",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "48'",
+          "player": "Paule",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-27 01:00",
+      "home": "Tampa Bay Mutiny",
+      "away": "Miami Fusion",
+      "score": "0-4",
+      "events": [
+        {
+          "team": "away",
+          "time": "20'",
+          "player": "Rooney",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "26'",
+          "player": "Henderson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "player": "Serna",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Serna",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-26 22:00",
+      "home": "Chicago Fire",
+      "away": "San Jose Earthquakes",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Lewis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Ibsen",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-25 02:30",
+      "home": "Kansas City Wizards",
+      "away": "New York Red Bulls",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Lowe",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-24 03:00",
+      "home": "Colorado Rapids",
+      "away": "Miami Fusion",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "79'",
+          "player": "Rooney",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-24 02:30",
+      "home": "Dallas Burn",
+      "away": "San Jose Earthquakes",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Cerritos",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "DeRosario",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-20 04:00",
+      "home": "L.A. Galaxy",
+      "away": "Dallas Burn",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-20 03:00",
+      "home": "Colorado Rapids",
+      "away": "New England Rev.",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "Okoh",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-20 03:00",
+      "home": "Chicago Fire",
+      "away": "Kansas City Wizards",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "24'",
+          "player": "Kovalenko",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "41'",
+          "player": "Nowak",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-20 01:30",
+      "home": "Miami Fusion",
+      "away": "Tampa Bay Mutiny",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "33'",
+          "player": "Preki",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "38'",
+          "player": "Mastroeni",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Serna",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "27'",
+          "player": "Valderama",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-20 01:30",
+      "home": "Columbus Crew",
+      "away": "DC United",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "McBride",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "99'",
+          "player": "Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "69'",
+          "player": "Quaranta",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-19 22:00",
+      "home": "San Jose Earthquakes",
+      "away": "New York Red Bulls",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Barrett",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-17 02:00",
+      "home": "New York Red Bulls",
+      "away": "Colorado Rapids",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "11'",
+          "player": "Comas",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-17 01:30",
+      "home": "New England Rev.",
+      "away": "Columbus Crew",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Cate",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Cate",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "74'",
+          "player": "Buddle",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-13 03:00",
+      "home": "Colorado Rapids",
+      "away": "Tampa Bay Mutiny",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Spencer",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Spencer",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "74'",
+          "player": "Diallo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-13 02:30",
+      "home": "Dallas Burn",
+      "away": "Columbus Crew",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Rodriguez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "58'",
+          "player": "Kreis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Farrer",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Graziani",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-13 01:30",
+      "home": "New England Rev.",
+      "away": "Chicago Fire",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "36'",
+          "player": "Cate",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "96'",
+          "player": "Okoh",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "62'",
+          "player": "Nowak",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-13 01:30",
+      "home": "DC United",
+      "away": "San Jose Earthquakes",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "48'",
+          "player": "Denton",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "52'",
+          "player": "Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "36'",
+          "player": "Russell",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "54'",
+          "player": "Lagos",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Lagos",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-13 01:30",
+      "home": "New York Red Bulls",
+      "away": "L.A. Galaxy",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "53'",
+          "player": "Villegas",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Mathis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-10 02:00",
+      "home": "DC United",
+      "away": "New England Rev.",
+      "score": "5-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-10 02:00",
+      "home": "Tampa Bay Mutiny",
+      "away": "L.A. Galaxy",
+      "score": "4-4",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-06 04:00",
+      "home": "L.A. Galaxy",
+      "away": "Kansas City Wizards",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "32'",
+          "player": "Vanney",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "96'",
+          "player": "Califf",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "18'",
+          "player": "McKeon",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-06 03:00",
+      "home": "San Jose Earthquakes",
+      "away": "New England Rev.",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Dayak",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "DeRosario",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Ibsen",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Wright",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Waiting for scorer name...",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-06 02:30",
+      "home": "Dallas Burn",
+      "away": "Colorado Rapids",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "87'",
+          "player": "Bravo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-06 02:00",
+      "home": "Chicago Fire",
+      "away": "Tampa Bay Mutiny",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "51'",
+          "player": "Kovalenko",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "73'",
+          "player": "Wynalda",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-06 01:00",
+      "home": "New York Red Bulls",
+      "away": "DC United",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "79'",
+          "player": "Mathis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Faria",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Villegas",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "33'",
+          "player": "Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "52'",
+          "player": "Moreno",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-05 22:00",
+      "home": "Columbus Crew",
+      "away": "Miami Fusion",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-05-03 02:00",
+      "home": "New York Red Bulls",
+      "away": "Kansas City Wizards",
+      "score": "4-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-04-29 02:30",
+      "home": "Kansas City Wizards",
+      "away": "San Jose Earthquakes",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-04-29 01:30",
+      "home": "Miami Fusion",
+      "away": "New England Rev.",
+      "score": "1-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-04-29 01:00",
+      "home": "New York Red Bulls",
+      "away": "Dallas Burn",
+      "score": "3-2",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-04-28 22:00",
+      "home": "Colorado Rapids",
+      "away": "L.A. Galaxy",
+      "score": "2-3",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-04-28 22:00",
+      "home": "Tampa Bay Mutiny",
+      "away": "Chicago Fire",
+      "score": "0-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-04-22 04:00",
+      "home": "L.A. Galaxy",
+      "away": "Colorado Rapids",
+      "score": "1-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-04-22 01:30",
+      "home": "Columbus Crew",
+      "away": "Kansas City Wizards",
+      "score": "0-3",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-04-22 01:30",
+      "home": "Miami Fusion",
+      "away": "San Jose Earthquakes",
+      "score": "2-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-04-22 01:30",
+      "home": "DC United",
+      "away": "New England Rev.",
+      "score": "2-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-04-21 22:00",
+      "home": "Dallas Burn",
+      "away": "Chicago Fire",
+      "score": "2-2",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-04-21 21:00",
+      "home": "New York Red Bulls",
+      "away": "Tampa Bay Mutiny",
+      "score": "1-3",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-04-19 02:30",
+      "home": "Kansas City Wizards",
+      "away": "Miami Fusion",
+      "score": "2-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-04-15 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Dallas Burn",
+      "score": "0-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-04-15 03:00",
+      "home": "Colorado Rapids",
+      "away": "New York Red Bulls",
+      "score": "1-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-04-15 03:00",
+      "home": "Chicago Fire",
+      "away": "DC United",
+      "score": "2-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-04-15 02:30",
+      "home": "Kansas City Wizards",
+      "away": "L.A. Galaxy",
+      "score": "2-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-04-15 01:30",
+      "home": "New England Rev.",
+      "away": "Miami Fusion",
+      "score": "0-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2001-04-15 01:00",
+      "home": "Tampa Bay Mutiny",
+      "away": "Columbus Crew",
+      "score": "1-2",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    }
+  ]
+}

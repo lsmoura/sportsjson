@@ -1,0 +1,5293 @@
+{
+  "league": "Major League Soccer",
+  "region": "United States",
+  "matches": [
+    {
+      "date": "2003-10-26 22:00",
+      "home": "Columbus Crew",
+      "away": "Chicago Fire",
+      "score": "6-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Brian McBride",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Brian McBride",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "74'",
+          "player": "Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "85'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Freddy Garcia",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "3'",
+          "player": "Selolwane",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "25'",
+          "player": "Marsch",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-10-26 03:00",
+      "home": "San Jose Earthquakes",
+      "away": "L.A. Galaxy",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Jamil Walker",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "56'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-10-26 02:30",
+      "home": "Dallas Burn",
+      "away": "Colorado Rapids",
+      "score": "4-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "19'",
+          "player": "Bobby Rhine",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "22'",
+          "player": "Nat Borchers",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Toni Nhleko",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Chad Deering",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "18'",
+          "player": "John Spencer",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "52'",
+          "player": "John Spencer",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "85'",
+          "player": "Matt Crawford",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-10-26 01:30",
+      "home": "DC United",
+      "away": "Kansas City Wizards",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "57'",
+          "player": "Hristo Stoitchkov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "17'",
+          "player": "Preki",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-10-25 22:00",
+      "home": "New England Rev.",
+      "away": "New York Red Bulls",
+      "score": "5-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "41'",
+          "player": "Noonan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Fabbro",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "51'",
+          "player": "Fabbro",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Kamler",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Noonan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "58'",
+          "player": "Lisi",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "69'",
+          "player": "Jacob LeBlanc",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-10-19 22:00",
+      "home": "DC United",
+      "away": "Columbus Crew",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "37'",
+          "player": "Stoitchkov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Mike Petke",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "26'",
+          "player": "West",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Brian McBride",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "100'",
+          "player": "Brian McBride",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-10-19 04:00",
+      "home": "L.A. Galaxy",
+      "away": "San Jose Earthquakes",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "61'",
+          "player": "Simon Elliott",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-10-19 03:00",
+      "home": "Chicago Fire",
+      "away": "Colorado Rapids",
+      "score": "4-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "11'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "43'",
+          "player": "Chris Armas",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "66'",
+          "player": "DaMarcus Beasley",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Chris Armas",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "20'",
+          "player": "Chris Henderson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "72'",
+          "player": "Zizi Roberts",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "87'",
+          "player": "Zizi Roberts",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-10-19 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Dallas Burn",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "15'",
+          "player": "Jimmy Conrad",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-10-19 01:30",
+      "home": "New York Red Bulls",
+      "away": "New England Rev.",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Andrzej Juskowiak",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Dario Fabbro",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "37'",
+          "player": "Pat Noonan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-10-12 02:00",
+      "home": "Kansas City Wizards",
+      "away": "L.A. Galaxy",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "13'",
+          "player": "Kerry Zavagnin",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "95'",
+          "player": "Igor Simutenkov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-10-12 01:30",
+      "home": "New York Red Bulls",
+      "away": "Dallas Burn",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-10-11 22:00",
+      "home": "New England Rev.",
+      "away": "DC United",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "92'",
+          "player": "Steve Ralston",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-10-11 03:00",
+      "home": "Colorado Rapids",
+      "away": "San Jose Earthquakes",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-10-11 03:00",
+      "home": "Chicago Fire",
+      "away": "Columbus Crew",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "11'",
+          "player": "Nate Jaqua",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Ante Razov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-10-05 22:00",
+      "home": "San Jose Earthquakes",
+      "away": "New York Red Bulls",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "30'",
+          "player": "Guevara",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Steve Jolley",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-10-05 02:30",
+      "home": "Chicago Fire",
+      "away": "L.A. Galaxy",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "DaMarcus Beasley",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "66'",
+          "player": "Jesse Marsch",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-10-05 02:30",
+      "home": "Dallas Burn",
+      "away": "New England Rev.",
+      "score": "1-4",
+      "events": [
+        {
+          "team": "home",
+          "time": "20'",
+          "player": "Oscar Pareja",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "44'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "53'",
+          "player": "Shalrie Joseph",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "60'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "75'",
+          "player": "Pat Noonan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-10-05 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Colorado Rapids",
+      "score": "4-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "15'",
+          "player": "Jimmy Conrad",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Chris Klein",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Chris Klein",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Francisco Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "47'",
+          "player": "Zizi Roberts",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "60'",
+          "player": "Chris Henderson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-10-05 01:30",
+      "home": "Columbus Crew",
+      "away": "DC United",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "19'",
+          "player": "Ross Paule",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Marco Etcheverry",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-10-02 03:30",
+      "home": "Colorado Rapids",
+      "away": "Chicago Fire",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Mark Chung",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "48'",
+          "player": "Jesse Marsch",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-09-29 00:00",
+      "home": "New England Rev.",
+      "away": "Columbus Crew",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Joe-Max Moore",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Shalrie Joseph",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "97'",
+          "player": "Joe Franchino",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "41'",
+          "player": "Kyle Martino",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "72'",
+          "player": "Eric Denton",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-09-28 22:00",
+      "home": "DC United",
+      "away": "New York Red Bulls",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "64'",
+          "player": "Etcheverry",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Mike Magee",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-09-28 04:00",
+      "home": "L.A. Galaxy",
+      "away": "Kansas City Wizards",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "5'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "40'",
+          "player": "Chris Klein",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "81'",
+          "player": "Chris Klein",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-09-28 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Dallas Burn",
+      "score": "5-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "1'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "11'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "24'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "48'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "8'",
+          "player": "Ezra Hendrickson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "14'",
+          "player": "Ali Curtis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-09-26 01:30",
+      "home": "New York Red Bulls",
+      "away": "DC United",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "12'",
+          "player": "Ben Olsen",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "player": "Ronald Cerritos",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-09-21 04:00",
+      "home": "L.A. Galaxy",
+      "away": "DC United",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "99'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-09-21 02:30",
+      "home": "Dallas Burn",
+      "away": "Chicago Fire",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "7'",
+          "player": "Nhleko",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Johnson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-09-21 02:00",
+      "home": "Kansas City Wizards",
+      "away": "San Jose Earthquakes",
+      "score": "1-4",
+      "events": [
+        {
+          "team": "home",
+          "time": "59'",
+          "player": "Arnaud",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "26'",
+          "player": "Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "54'",
+          "player": "Robinson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "70'",
+          "player": "Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-09-21 01:30",
+      "home": "New York Red Bulls",
+      "away": "Columbus Crew",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "101'",
+          "player": "John Wolyniec",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-09-19 01:30",
+      "home": "New England Rev.",
+      "away": "Colorado Rapids",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-09-14 04:00",
+      "home": "L.A. Galaxy",
+      "away": "Chicago Fire",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "58'",
+          "player": "Damani Ralph",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Nate Jaqua",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-09-14 03:00",
+      "home": "Colorado Rapids",
+      "away": "Kansas City Wizards",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "John Spencer",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-09-14 01:30",
+      "home": "DC United",
+      "away": "San Jose Earthquakes",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "9'",
+          "player": "Earnie Stewart",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Ben Olsen",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "80'",
+          "player": "Jamil Walker",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-09-14 01:30",
+      "home": "New York Red Bulls",
+      "away": "New England Rev.",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Steve Jolley",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "11'",
+          "player": "Pat Noonan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "72'",
+          "player": "Pat Noonan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-09-14 01:30",
+      "home": "Columbus Crew",
+      "away": "Dallas Burn",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Brian McBride",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Brian Dunseth",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "52'",
+          "player": "Edward Johnson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-09-07 21:30",
+      "home": "San Jose Earthquakes",
+      "away": "New England Rev.",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "42'",
+          "player": "De Rosario",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "52'",
+          "player": "Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "41'",
+          "player": "Noonan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-09-07 03:00",
+      "home": "Colorado Rapids",
+      "away": "Dallas Burn",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Chris Carrieri",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "player": "Chris Henderson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "24'",
+          "player": "Brad Davis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-09-07 03:00",
+      "home": "Chicago Fire",
+      "away": "Columbus Crew",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "66'",
+          "player": "Carlos Bocanegra",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "37'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-09-07 02:00",
+      "home": "Kansas City Wizards",
+      "away": "New York Red Bulls",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "79'",
+          "player": "Preki",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Clint Mathis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Clint Mathis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-09-07 01:30",
+      "home": "DC United",
+      "away": "L.A. Galaxy",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "3'",
+          "player": "Dema Kovalenko",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "29'",
+          "player": "Ben Olsen",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "51'",
+          "player": "Diego Serna",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-09-01 01:30",
+      "home": "Columbus Crew",
+      "away": "Kansas City Wizards",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "37'",
+          "player": "Brian West",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-31 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Colorado Rapids",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "59'",
+          "player": "Brian Mullan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "21'",
+          "player": "Mark Chung",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "player": "John Spencer",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-31 04:00",
+      "home": "L.A. Galaxy",
+      "away": "Dallas Burn",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "50'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "12'",
+          "player": "Brad Davis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-31 00:00",
+      "home": "New England Rev.",
+      "away": "Chicago Fire",
+      "score": "5-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Chris Brown",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Brian Kamler",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "63'",
+          "player": "Chris Brown",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "66'",
+          "player": "Chris Brown",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Jay Heaps",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "14'",
+          "player": "Andy Williams",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-25 00:00",
+      "home": "San Jose Earthquakes",
+      "away": "DC United",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Ramiro Corrales",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-24 22:00",
+      "home": "New York Red Bulls",
+      "away": "Chicago Fire",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Wolyniec",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Ralph",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "Razov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-24 03:00",
+      "home": "Dallas Burn",
+      "away": "Columbus Crew",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Bobby Rhine",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "43'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "62'",
+          "player": "Ross Paule",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-23 22:00",
+      "home": "L.A. Galaxy",
+      "away": "New England Rev.",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "22'",
+          "player": "Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "98'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "Jose Cancela",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-23 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Colorado Rapids",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "1'",
+          "player": "Davy Arnaud",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Preki",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "29'",
+          "player": "Chris Henderson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "41'",
+          "player": "John Spencer",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-21 02:30",
+      "home": "Chicago Fire",
+      "away": "L.A. Galaxy",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "73'",
+          "player": "Orlando Perez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-17 04:00",
+      "home": "L.A. Galaxy",
+      "away": "New York Red Bulls",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "13'",
+          "player": "Diego Serna",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "John Wolyniec",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-17 03:00",
+      "home": "Colorado Rapids",
+      "away": "Columbus Crew",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "57'",
+          "player": "John Spencer",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "91'",
+          "player": "Mark Chung",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "72'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-17 03:00",
+      "home": "Dallas Burn",
+      "away": "Kansas City Wizards",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "30'",
+          "player": "Joselito Vaca",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Brad Davis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Edward Johnson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "26'",
+          "player": "Preki",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "77'",
+          "player": "Francisco Gomez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-17 02:30",
+      "home": "Chicago Fire",
+      "away": "DC United",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "61'",
+          "player": "Jesse Marsch",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "74'",
+          "player": "DaMarcus Beasley",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "8'",
+          "player": "Hristo Stoitchkov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-16 22:00",
+      "home": "New England Rev.",
+      "away": "San Jose Earthquakes",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "52'",
+          "player": "Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "23'",
+          "player": "Ronnie Ekelund",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-14 03:00",
+      "home": "Dallas Burn",
+      "away": "San Jose Earthquakes",
+      "score": "0-3",
+      "events": [
+        {
+          "team": "away",
+          "time": "11'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "23'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "44'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-14 01:30",
+      "home": "DC United",
+      "away": "Colorado Rapids",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Eliseo Quintanilla",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-14 01:30",
+      "home": "Columbus Crew",
+      "away": "Chicago Fire",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "47'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "52'",
+          "player": "Brian West",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "34'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Damani Ralph",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-13 18:00",
+      "home": "New York Red Bulls",
+      "away": "Kansas City Wizards",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-10 04:00",
+      "home": "L.A. Galaxy",
+      "away": "Columbus Crew",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Diego Serna",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "74'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-10 03:00",
+      "home": "Colorado Rapids",
+      "away": "Dallas Burn",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "3'",
+          "player": "John Spencer",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "47'",
+          "player": "Mark Chung",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-10 01:30",
+      "home": "DC United",
+      "away": "New England Rev.",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Dema Kovalenko",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-09 22:00",
+      "home": "Chicago Fire",
+      "away": "New York Red Bulls",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "22'",
+          "player": "Ralph",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "Jolley",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-08-09 02:00",
+      "home": "Kansas City Wizards",
+      "away": "San Jose Earthquakes",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "23'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-31 04:30",
+      "home": "L.A. Galaxy",
+      "away": "Columbus Crew",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Antonio Martinez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "52'",
+          "player": "Alexi Lalas",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "79'",
+          "player": "Brian Maisonneuve",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-28 00:30",
+      "home": "New England Rev.",
+      "away": "DC United",
+      "score": "2-4",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "83'",
+          "player": "Eliseo Quintanilla",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Dema Kovalenko",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Dema Kovalenko",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Eliseo Quintanilla",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-27 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Dallas Burn",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Brian Mullan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "37'",
+          "player": "Manny Lagos",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Jeff Agoos",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-27 03:30",
+      "home": "Colorado Rapids",
+      "away": "New York Red Bulls",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Chung",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-27 02:30",
+      "home": "Chicago Fire",
+      "away": "Kansas City Wizards",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "12'",
+          "player": "Whitfield",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "53'",
+          "player": "Mapp",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-24 01:30",
+      "home": "Columbus Crew",
+      "away": "New England Rev.",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "33'",
+          "player": "Jeff Matteo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Pat Noonan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-20 03:00",
+      "home": "Dallas Burn",
+      "away": "New York Red Bulls",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Brad Davis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "84'",
+          "player": "Mike Magee",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "96'",
+          "player": "John Wolyniec",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-20 02:30",
+      "home": "Chicago Fire",
+      "away": "New England Rev.",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Kelly Gray",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Justin Mapp",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "51'",
+          "player": "Damani Ralph",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-20 01:30",
+      "home": "Columbus Crew",
+      "away": "Kansas City Wizards",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "58'",
+          "player": "Igor Simutenkov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-19 22:00",
+      "home": "DC United",
+      "away": "San Jose Earthquakes",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "13'",
+          "player": "Ali Curtis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "38'",
+          "player": "Chris Roner",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "54'",
+          "player": "Manny Lagos",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-17 00:30",
+      "home": "New England Rev.",
+      "away": "Dallas Burn",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Joe-Max Moore",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "4'",
+          "player": "Ronald Cerritos",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "13'",
+          "player": "Shavar Thomas",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-13 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Colorado Rapids",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "34'",
+          "player": "Ritchie Kotschau",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "49'",
+          "player": "Mark Chung",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-13 02:30",
+      "home": "Chicago Fire",
+      "away": "DC United",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Jesse Marsch",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "9'",
+          "player": "Galin Ivanov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Ben Olsen",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-13 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Dallas Burn",
+      "score": "5-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Chris Brunt",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "53'",
+          "player": "Igor Simutenkov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Igor Simutenkov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Eric Quill",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "74'",
+          "player": "Stephen Armstrong",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "64'",
+          "player": "Ronald Cerritos",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-12 22:00",
+      "home": "New England Rev.",
+      "away": "New York Red Bulls",
+      "score": "3-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "7'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "36'",
+          "player": "Joe-Max Moore",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "50'",
+          "player": "Pat Noonan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "66'",
+          "player": "John Wolyniec",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "73'",
+          "player": "Daouda Kante",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "76'",
+          "player": "Ricardo Clark",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-10 04:30",
+      "home": "L.A. Galaxy",
+      "away": "Colorado Rapids",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "77'",
+          "player": "John Spencer",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-06 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Chicago Fire",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-06 01:30",
+      "home": "Columbus Crew",
+      "away": "Dallas Burn",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-05 22:00",
+      "home": "DC United",
+      "away": "New York Red Bulls",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "10'",
+          "player": "Marco Etcheverry",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "43'",
+          "player": "Dema Kovalenko",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "20'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "26'",
+          "player": "Ricardo Clark",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "99'",
+          "player": "Gaven",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-05 04:00",
+      "home": "L.A. Galaxy",
+      "away": "New England Rev.",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "52'",
+          "player": "Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "54'",
+          "player": "Heaps",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-05 03:00",
+      "home": "Colorado Rapids",
+      "away": "Kansas City Wizards",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Spencer",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Chung",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Chung",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "23'",
+          "player": "Preki",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Armstrong",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-03 03:00",
+      "home": "Dallas Burn",
+      "away": "DC United",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "74'",
+          "player": "Kreis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "29'",
+          "player": "Nelsen",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "78'",
+          "player": "Kovalenko",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Stoitchkov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-07-03 01:30",
+      "home": "New York Red Bulls",
+      "away": "San Jose Earthquakes",
+      "score": "4-4",
+      "events": [
+        {
+          "team": "home",
+          "time": "7'",
+          "player": "Guevara",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "36'",
+          "player": "Magee",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "43'",
+          "player": "Mathis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Lisi",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Ching",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "34'",
+          "player": "Ching",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "78'",
+          "player": "Lagos",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-29 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Kansas City Wizards",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-29 04:00",
+      "home": "L.A. Galaxy",
+      "away": "Dallas Burn",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "20'",
+          "player": "Sasha Victorine",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Chris Albright",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "63'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-29 01:30",
+      "home": "Columbus Crew",
+      "away": "DC United",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Brian West",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Brian McBride",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Diego Walsh",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-29 00:00",
+      "home": "New England Rev.",
+      "away": "Colorado Rapids",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "7'",
+          "player": "Wolde Harris",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "Wes Hart",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "34'",
+          "player": "Mark Chung",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "66'",
+          "player": "John Spencer",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-28 22:00",
+      "home": "Chicago Fire",
+      "away": "New York Red Bulls",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Damani Ralph",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "94'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "60'",
+          "player": "Ricardo Clark",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-26 03:30",
+      "home": "Colorado Rapids",
+      "away": "L.A. Galaxy",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "12'",
+          "player": "Mark Chung",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "29'",
+          "player": "John Spencer",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "66'",
+          "player": "Chris Albright",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "70'",
+          "player": "Chris Albright",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-22 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Columbus Crew",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "43'",
+          "player": "Brian Mullan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Jamil Walker",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Brian McBride",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-22 03:00",
+      "home": "Dallas Burn",
+      "away": "Colorado Rapids",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "30'",
+          "player": "Brad Davis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Jason Kreis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Joselito Vaca",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "25'",
+          "player": "John Spencer",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-22 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Chicago Fire",
+      "score": "4-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Jimmy Conrad",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "33'",
+          "player": "Francisco Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "42'",
+          "player": "Alex Zotinca",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "70'",
+          "player": "Preki",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "8'",
+          "player": "Damani Ralph",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "78'",
+          "player": "Ante Razov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-22 01:30",
+      "home": "DC United",
+      "away": "New England Rev.",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Hristo Stoitchkov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "24'",
+          "player": "Brian Kamler",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-21 22:00",
+      "home": "New York Red Bulls",
+      "away": "L.A. Galaxy",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Magee",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-19 04:30",
+      "home": "L.A. Galaxy",
+      "away": "San Jose Earthquakes",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Sasha Victorine",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "63'",
+          "player": "Jamil Walker",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-19 02:30",
+      "home": "Chicago Fire",
+      "away": "Dallas Burn",
+      "score": "4-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Damani Ralph",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "Kelly Gray",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "78'",
+          "player": "Ryan Suarez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-15 04:00",
+      "home": "L.A. Galaxy",
+      "away": "Kansas City Wizards",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Cobi Jones",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "73'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "49'",
+          "player": "Josh Wolff",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-15 03:00",
+      "home": "Dallas Burn",
+      "away": "San Jose Earthquakes",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Jason Kreis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "49'",
+          "player": "Brian Mullan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "87'",
+          "player": "Arturo Alvarez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-15 03:00",
+      "home": "Colorado Rapids",
+      "away": "New England Rev.",
+      "score": "4-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "9'",
+          "player": "Seth Trembly",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "John Spencer",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Mark Chung",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Chris Carrieri",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "81'",
+          "player": "Wolde Harris",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-15 01:30",
+      "home": "DC United",
+      "away": "Columbus Crew",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "43'",
+          "player": "Mike Petke",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "79'",
+          "player": "Alecko Eskandarian",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "85'",
+          "player": "Alecko Eskandarian",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-14 22:00",
+      "home": "New York Red Bulls",
+      "away": "Chicago Fire",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Jacob LeBlanc",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Amado Guevara",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "31'",
+          "player": "Razov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "61'",
+          "player": "Ralph",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "66'",
+          "player": "Razov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-12 03:30",
+      "home": "Colorado Rapids",
+      "away": "DC United",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-08 02:00",
+      "home": "Kansas City Wizards",
+      "away": "New York Red Bulls",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "11'",
+          "player": "Arnaud",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Wolff",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "17'",
+          "player": "Magee",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-08 01:30",
+      "home": "DC United",
+      "away": "Chicago Fire",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "37'",
+          "player": "Etcheverry",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Kovalenko",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-08 01:30",
+      "home": "Columbus Crew",
+      "away": "San Jose Earthquakes",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "85'",
+          "player": "McBride",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-07 22:30",
+      "home": "L.A. Galaxy",
+      "away": "Colorado Rapids",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "50'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-01 03:00",
+      "home": "Colorado Rapids",
+      "away": "L.A. Galaxy",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Carrieri",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-01 03:00",
+      "home": "Dallas Burn",
+      "away": "DC United",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "16'",
+          "player": "Kreis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "41'",
+          "player": "Gbandi",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Cerritos",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "51'",
+          "player": "Convey",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Convey",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-01 01:30",
+      "home": "Columbus Crew",
+      "away": "New York Red Bulls",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "64'",
+          "player": "Mathis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-06-01 00:00",
+      "home": "New England Rev.",
+      "away": "Kansas City Wizards",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Conrad",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "63'",
+          "player": "Kamler",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "72'",
+          "player": "Preki",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "83'",
+          "player": "Preki",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-05-31 22:00",
+      "home": "San Jose Earthquakes",
+      "away": "Chicago Fire",
+      "score": "1-4",
+      "events": [
+        {
+          "team": "home",
+          "time": "59'",
+          "player": "Roner",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "28'",
+          "player": "Beasley",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "47'",
+          "player": "Ralph",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "81'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "DaMarcus Beasley",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-05-26 02:30",
+      "home": "Chicago Fire",
+      "away": "Colorado Rapids",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "32'",
+          "player": "DaMarcus Beasley",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "38'",
+          "player": "Justin Mapp",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Razov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-05-25 02:00",
+      "home": "Kansas City Wizards",
+      "away": "L.A. Galaxy",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Simutenkov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Preki",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "75'",
+          "player": "Ruiz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-05-25 01:30",
+      "home": "New York Red Bulls",
+      "away": "Dallas Burn",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Mathis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "Jolley",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "63'",
+          "player": "Kreis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-05-25 01:30",
+      "home": "Columbus Crew",
+      "away": "New England Rev.",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "40'",
+          "player": "Paule",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "player": "Dunseth",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "36'",
+          "player": "Kamler",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "70'",
+          "player": "Kamler",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-05-18 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Columbus Crew",
+      "score": "4-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "30'",
+          "player": "Brian Mullan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Jeff Agoos",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "38'",
+          "player": "Brian McBride",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "61'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Ross Paule",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-05-18 02:30",
+      "home": "Dallas Burn",
+      "away": "L.A. Galaxy",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Davis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "43'",
+          "player": "Glinton",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-05-18 01:30",
+      "home": "DC United",
+      "away": "Kansas City Wizards",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Etcheverry",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "6'",
+          "player": "Preki",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-05-18 00:00",
+      "home": "New England Rev.",
+      "away": "Chicago Fire",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "18'",
+          "player": "Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Heaps",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Ralston",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-05-17 22:00",
+      "home": "Colorado Rapids",
+      "away": "New York Red Bulls",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "51'",
+          "player": "Mathis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "60'",
+          "player": "Magee",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-05-15 02:00",
+      "home": "Kansas City Wizards",
+      "away": "New England Rev.",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Simutenkov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-05-11 02:30",
+      "home": "Dallas Burn",
+      "away": "Kansas City Wizards",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "53'",
+          "player": "Kreis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "12'",
+          "player": "Quill",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Brown",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "66'",
+          "player": "Klein",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-05-11 02:30",
+      "home": "Chicago Fire",
+      "away": "San Jose Earthquakes",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-05-11 01:30",
+      "home": "New York Red Bulls",
+      "away": "DC United",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "42'",
+          "player": "Mathis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-05-11 01:30",
+      "home": "Columbus Crew",
+      "away": "Colorado Rapids",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "43'",
+          "player": "McBride",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-05-10 22:00",
+      "home": "New England Rev.",
+      "away": "L.A. Galaxy",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "59'",
+          "player": "Kamler",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "66'",
+          "player": "Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-05-04 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Columbus Crew",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Preki",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Jimmy Conrad",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "49'",
+          "player": "Brian McBride",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Kyle Martino",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-05-04 01:30",
+      "home": "New York Red Bulls",
+      "away": "Colorado Rapids",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "51'",
+          "player": "Clint Mathis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "62'",
+          "player": "Craig Ziadie",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "41'",
+          "player": "Zizi Roberts",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-05-04 01:30",
+      "home": "DC United",
+      "away": "Dallas Burn",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-05-03 22:00",
+      "home": "New England Rev.",
+      "away": "San Jose Earthquakes",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "42'",
+          "player": "Lamosa",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "56'",
+          "player": "Ching",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-04-27 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "L.A. Galaxy",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-04-27 03:00",
+      "home": "Colorado Rapids",
+      "away": "DC United",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "24'",
+          "player": "John Spencer",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "7'",
+          "player": "Marco Etcheverry",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-04-27 02:30",
+      "home": "Dallas Burn",
+      "away": "New England Rev.",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Kreis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "12'",
+          "player": "Max Moore",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "84'",
+          "player": "Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-04-27 01:30",
+      "home": "Kansas City Wizards",
+      "away": "Chicago Fire",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Igor Simutenkov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "38'",
+          "player": "Jimmy Conrad",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "53'",
+          "player": "Orlando Perez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "65'",
+          "player": "Andy Williams",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "70'",
+          "player": "Damani Ralph",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-04-26 22:00",
+      "home": "Columbus Crew",
+      "away": "New York Red Bulls",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Magee",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-04-20 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Kansas City Wizards",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Brian Mullan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "74'",
+          "player": "Pat Onstad",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-04-20 01:30",
+      "home": "DC United",
+      "away": "Chicago Fire",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-04-20 01:30",
+      "home": "New York Red Bulls",
+      "away": "L.A. Galaxy",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "42'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "20'",
+          "player": "Cobi Jones",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-04-19 22:00",
+      "home": "New England Rev.",
+      "away": "Columbus Crew",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Steve Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "12'",
+          "player": "Denton",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "53'",
+          "player": "McBride",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-04-14 01:00",
+      "home": "Chicago Fire",
+      "away": "New England Rev.",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "DaMarcus Beasley",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "41'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-04-13 03:00",
+      "home": "Colorado Rapids",
+      "away": "San Jose Earthquakes",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "46'",
+          "player": "Zizi Roberts",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "1'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "22'",
+          "player": "Todd Dunivant",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-04-13 02:00",
+      "home": "Kansas City Wizards",
+      "away": "DC United",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "3'",
+          "player": "Preki",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "61'",
+          "player": "Chris Klein",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "92'",
+          "player": "Chris Brown",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "36'",
+          "player": "Mike Petke",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Santino Quaranta",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-04-13 01:30",
+      "home": "New York Red Bulls",
+      "away": "Columbus Crew",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-04-12 22:00",
+      "home": "Dallas Burn",
+      "away": "L.A. Galaxy",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "1'",
+          "player": "O`Brien",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "30'",
+          "player": "Ruiz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2003-04-05 23:00",
+      "home": "Columbus Crew",
+      "away": "L.A. Galaxy",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "36'",
+          "player": "Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "64'",
+          "player": "Ruiz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    }
+  ]
+}

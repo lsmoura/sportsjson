@@ -1,0 +1,6733 @@
+{
+  "league": "Major League Soccer",
+  "region": "United States",
+  "matches": [
+    {
+      "date": "2006-10-16 01:00",
+      "home": "CD Chivas USA",
+      "away": "Real Salt Lake",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "20'",
+          "player": "Brent Whitfield",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Jafet Soto",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-10-15 23:00",
+      "home": "DC United",
+      "away": "Chicago Fire",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "21'",
+          "player": "Gonzalo Segares",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "24'",
+          "player": "Nate Jaqua",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "74'",
+          "player": "Andy Herron",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-10-15 04:30",
+      "home": "L.A. Galaxy",
+      "away": "FC Dallas",
+      "score": "5-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Herculez Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "38'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "52'",
+          "player": "Cobi Jones",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "79'",
+          "player": "Santino Quaranta",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "14'",
+          "player": "Abe Thompson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "80'",
+          "player": "Arturo Alvarez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-10-15 02:30",
+      "home": "Houston Dynamo",
+      "away": "Colorado Rapids",
+      "score": "3-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "2'",
+          "player": "Craig Waibel",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "43'",
+          "player": "Paul Dalglish",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "73'",
+          "player": "Craig Wibel",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "21'",
+          "player": "Thiago Martins",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Thiago Martins",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Jacob Peterson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-10-15 01:30",
+      "home": "New York Red Bulls",
+      "away": "Kansas City Wizards",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Amado Guevara",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Amado Guevara",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Amado Guevara",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "23'",
+          "player": "Dave Van Den Bergh",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "83'",
+          "player": "Scott Sealy",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "87'",
+          "player": "Nick Garcia",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-10-15 01:30",
+      "home": "New England Rev.",
+      "away": "Columbus Crew",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Khano Smith",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-10-08 03:00",
+      "home": "Real Salt Lake",
+      "away": "Houston Dynamo",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Mehdi Ballouchy",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "20'",
+          "player": "Paul Dalglish",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-10-08 03:00",
+      "home": "Colorado Rapids",
+      "away": "New York Red Bulls",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Jacob Peterson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Mike Petke",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "60'",
+          "player": "Amado Guevara",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-10-08 02:30",
+      "home": "Kansas City Wizards",
+      "away": "CD Chivas USA",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "50'",
+          "player": "Dave Van Den Bergh",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "74'",
+          "player": "Jose Burciaga Jr",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "71'",
+          "player": "Claudio Suarez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-10-08 02:30",
+      "home": "Chicago Fire",
+      "away": "Columbus Crew",
+      "score": "1-4",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Chris Rolfe",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "26'",
+          "player": "Eddie Gaven",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Jason Garey",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "77'",
+          "player": "Ricardo Virtuoso",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "82'",
+          "player": "Joseph Ngwenya",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-10-08 02:30",
+      "home": "FC Dallas",
+      "away": "L.A. Galaxy",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "30'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "47'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "71'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-10-08 01:30",
+      "home": "DC United",
+      "away": "New England Rev.",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "34'",
+          "player": "Clint Dempsey",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "47'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-10-01 04:30",
+      "home": "L.A. Galaxy",
+      "away": "CD Chivas USA",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "29'",
+          "player": "Peter Vagenas",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Cobi Jones",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Alan Gordon",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-10-01 02:30",
+      "home": "Kansas City Wizards",
+      "away": "Real Salt Lake",
+      "score": "3-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Josh Wolff",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Scott Sealy",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "63'",
+          "player": "Jose Burciaga",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "35'",
+          "player": "Atiba Harris",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "44'",
+          "player": "Atiba Harris",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "81'",
+          "player": "Jason Kreis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-10-01 02:30",
+      "home": "Houston Dynamo",
+      "away": "DC United",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Brain Ching",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-10-01 01:30",
+      "home": "New York Red Bulls",
+      "away": "Chicago Fire",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Josmer Altidore",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Marvell Wynne",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-10-01 01:30",
+      "home": "New England Rev.",
+      "away": "Colorado Rapids",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Steve Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "59'",
+          "player": "Jose Manuel Abundis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "79'",
+          "player": "Clint Dempsey",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "65'",
+          "player": "Clint Mathis",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Kyle Beckerman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-10-01 01:30",
+      "home": "Columbus Crew",
+      "away": "FC Dallas",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "22'",
+          "player": "Joseph Ngwenya",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "66'",
+          "player": "Jacob Thomas",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "player": "Jason Garey",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Brandon Moss",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-24 04:00",
+      "home": "CD Chivas USA",
+      "away": "Colorado Rapids",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Francisco Mendoza",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-24 02:30",
+      "home": "FC Dallas",
+      "away": "Real Salt Lake",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "9'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "14'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "48'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-24 02:30",
+      "home": "Chicago Fire",
+      "away": "L.A. Galaxy",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "1'",
+          "player": "Chris Rolfe",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "Andy Herron",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "78'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-24 01:30",
+      "home": "DC United",
+      "away": "New York Red Bulls",
+      "score": "4-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "10'",
+          "player": "Carlos Mendes",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "61'",
+          "player": "Facundo Erpen",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "73'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Matias Donnet",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "20'",
+          "player": "Amado Guevara",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "82'",
+          "player": "Amado Guevara",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Josmer Altidore",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-24 01:30",
+      "home": "Columbus Crew",
+      "away": "Houston Dynamo",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Jason Garey",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "54'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-24 01:30",
+      "home": "New England Rev.",
+      "away": "Kansas City Wizards",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "17'",
+          "player": "Clint Dempsey",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "58'",
+          "player": "Scott Sealy",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-21 01:30",
+      "home": "New York Red Bulls",
+      "away": "New England Rev.",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "16'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "48'",
+          "player": "Andy Dorman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-18 02:30",
+      "home": "Houston Dynamo",
+      "away": "CD Chivas USA",
+      "score": "0-0",
+      "events": [
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Tim Regan",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-17 22:00",
+      "home": "Chicago Fire",
+      "away": "DC United",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "61'",
+          "player": "Andy Herron",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "73'",
+          "player": "Bryan Namoff",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Joshua Gros",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-17 04:30",
+      "home": "L.A. Galaxy",
+      "away": "Colorado Rapids",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-17 03:00",
+      "home": "Real Salt Lake",
+      "away": "FC Dallas",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "13'",
+          "player": "Andy Williams",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "33'",
+          "player": "Carey Talley",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "62'",
+          "player": "Chris Klein",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Jason Kreis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "4'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-17 01:30",
+      "home": "New York Red Bulls",
+      "away": "Columbus Crew",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "64'",
+          "player": "Mike Magee",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Josmer Altidore",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "20'",
+          "player": "Joseph Ngwenya",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "71'",
+          "player": "Marcos Gonzalez",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-14 03:30",
+      "home": "Colorado Rapids",
+      "away": "Chicago Fire",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "3'",
+          "player": "Jim Curtin",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-14 02:30",
+      "home": "FC Dallas",
+      "away": "CD Chivas USA",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "13'",
+          "player": "Juan Pablo Garcia",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "76'",
+          "player": "Jesus Morales",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-14 01:30",
+      "home": "New England Rev.",
+      "away": "DC United",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "58'",
+          "player": "Clint Dempsey",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "25'",
+          "player": "Joshua Gros",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-11 02:00",
+      "home": "L.A. Galaxy",
+      "away": "Houston Dynamo",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "29'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "32'",
+          "player": "Craig Waibel",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "56'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "66'",
+          "player": "Brian Mullan",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-10 04:00",
+      "home": "CD Chivas USA",
+      "away": "FC Dallas",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Juan Pablo Garcia",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-10 02:30",
+      "home": "Kansas City Wizards",
+      "away": "Colorado Rapids",
+      "score": "4-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "1'",
+          "player": "Scott Sealy",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Dave Van Den Bergh",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Davy Arnaud",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Davy Arnaud",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "11'",
+          "player": "Kyle Beckerman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-10 01:30",
+      "home": "DC United",
+      "away": "Real Salt Lake",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Freddy Adu",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "65'",
+          "player": "Chris Klein",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-10 01:30",
+      "home": "New England Rev.",
+      "away": "New York Red Bulls",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Pat Noonan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "81'",
+          "player": "Amado Guevara",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-10 00:00",
+      "home": "Columbus Crew",
+      "away": "Chicago Fire",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Sebastian Rozental",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "40'",
+          "player": "Nate Jaqua",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "C.J. Brown",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "63'",
+          "player": "Calen Carr",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-04 01:00",
+      "home": "Chicago Fire",
+      "away": "New York Red Bulls",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "13'",
+          "player": "Chris Rolfe",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Diego Gutierrez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "78'",
+          "player": "John Wolyniec",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-04 01:00",
+      "home": "CD Chivas USA",
+      "away": "DC United",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "32'",
+          "player": "Claudio Suarez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Juan Francisco Palencia",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "3'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "33'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Joshua Gros",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-03 04:30",
+      "home": "L.A. Galaxy",
+      "away": "Kansas City Wizards",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "47'",
+          "player": "Alan Gordon",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Alan Gordon",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "52'",
+          "player": "Shavar Thomas",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-03 03:00",
+      "home": "Real Salt Lake",
+      "away": "Colorado Rapids",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "48'",
+          "player": "Nicolas Hernandez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-03 02:30",
+      "home": "FC Dallas",
+      "away": "Houston Dynamo",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Eddie Robinson",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Arturo Alvarez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-09-03 01:30",
+      "home": "Columbus Crew",
+      "away": "New England Rev.",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "3'",
+          "player": "Jason Garey",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Eddie Gaven",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Ezra Hendrickson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-31 03:30",
+      "home": "Colorado Rapids",
+      "away": "FC Dallas",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "25'",
+          "player": "Ramon Nunez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "57'",
+          "player": "Richard Mulrooney",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-31 03:00",
+      "home": "Real Salt Lake",
+      "away": "L.A. Galaxy",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-31 03:00",
+      "home": "Chicago Fire",
+      "away": "Houston Dynamo",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "36'",
+          "player": "Justin Mapp",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Andy Herron",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "42'",
+          "player": "Chris Wondolowski",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-31 02:30",
+      "home": "Kansas City Wizards",
+      "away": "New York Red Bulls",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Scott Sealy",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Josh Wolff",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "30'",
+          "player": "John Wolyniec",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "53'",
+          "player": "Todd Dunivant",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-28 02:30",
+      "home": "Kansas City Wizards",
+      "away": "FC Dallas",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "62'",
+          "player": "Scott Sealy",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-28 01:00",
+      "home": "New England Rev.",
+      "away": "Columbus Crew",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Jeff Larentowicz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "64'",
+          "player": "Joseph Ngwenya",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-27 05:00",
+      "home": "CD Chivas USA",
+      "away": "Houston Dynamo",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Jonathan Bornstein",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Ante Razzov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "57'",
+          "player": "Ante Razzov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "28'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "31'",
+          "player": "Ricardo Clark",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-27 02:30",
+      "home": "Chicago Fire",
+      "away": "Colorado Rapids",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "12'",
+          "player": "Dasan Robinson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "87'",
+          "player": "Hunter Freeman",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-27 01:30",
+      "home": "New York Red Bulls",
+      "away": "Real Salt Lake",
+      "score": "6-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "61'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Jordan Cila",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "79'",
+          "player": "Todd Dunivant",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "John Wolyniec",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "8'",
+          "player": "Jack Stewart",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-27 01:30",
+      "home": "DC United",
+      "away": "L.A. Galaxy",
+      "score": "2-5",
+      "events": [
+        {
+          "team": "home",
+          "time": "9'",
+          "player": "Chris Albright",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Facundo Erpen",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "4'",
+          "player": "Alan Gordon",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Chris Albright",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "66'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "71'",
+          "player": "Bryan Namoff",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-21 02:00",
+      "home": "L.A. Galaxy",
+      "away": "FC Dallas",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Santino Quaranta",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-20 21:00",
+      "home": "New England Rev.",
+      "away": "Chicago Fire",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "24'",
+          "player": "Andy Herron",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-20 04:00",
+      "home": "CD Chivas USA",
+      "away": "Kansas City Wizards",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Jonathan Bornstein",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "42'",
+          "player": "Jose Burciaga",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-20 03:00",
+      "home": "Real Salt Lake",
+      "away": "Houston Dynamo",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Chris Klein",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "64'",
+          "player": "Douglas Sequeira",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "72'",
+          "player": "Adrian Serioux",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-20 01:30",
+      "home": "Columbus Crew",
+      "away": "New York Red Bulls",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Joseph Ngwenya",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-19 22:00",
+      "home": "DC United",
+      "away": "Colorado Rapids",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "32'",
+          "player": "Kyle Beckerman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-17 03:00",
+      "home": "Chicago Fire",
+      "away": "Kansas City Wizards",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Nate Jaqua",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "61'",
+          "player": "Chad Barrett",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Justin Mapp",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "47'",
+          "player": "Ryan Raybould",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-17 01:30",
+      "home": "Columbus Crew",
+      "away": "Real Salt Lake",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "23'",
+          "player": "Sebastian Rozental",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "75'",
+          "player": "Chris Klein",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Carey Talley",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-17 01:30",
+      "home": "New York Red Bulls",
+      "away": "DC United",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-13 03:00",
+      "home": "Colorado Rapids",
+      "away": "L.A. Galaxy",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "41'",
+          "player": "Nicolas Hernandez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-13 02:30",
+      "home": "Chicago Fire",
+      "away": "CD Chivas USA",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Chris Rolfe",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "77'",
+          "player": "Juan Pablo Garcia",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Claudio Suarez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-13 02:30",
+      "home": "Kansas City Wizards",
+      "away": "Columbus Crew",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Davy Arnaud",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "17'",
+          "player": "Scott Sealy",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Sasha Victorine",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Ryan Pore",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-13 02:30",
+      "home": "Houston Dynamo",
+      "away": "FC Dallas",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "37'",
+          "player": "Craig Waibel",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-10 03:30",
+      "home": "Colorado Rapids",
+      "away": "Real Salt Lake",
+      "score": "1-4",
+      "events": [
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Eric Denton",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "Thiago Martins",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "25'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "63'",
+          "player": "Chris Klein",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "76'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "85'",
+          "player": "Douglas Sequeria",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Chris Brown",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-10 02:00",
+      "home": "Houston Dynamo",
+      "away": "L.A. Galaxy",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "69'",
+          "player": "Santino Quaranta",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-10 01:30",
+      "home": "New England Rev.",
+      "away": "Kansas City Wizards",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-08-07 01:00",
+      "home": "CD Chivas USA",
+      "away": "New England Rev.",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "22'",
+          "player": "Jesse Marsch",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "16'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-30 03:00",
+      "home": "Real Salt Lake",
+      "away": "DC United",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Jeff Cuningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "36'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-30 02:30",
+      "home": "Kansas City Wizards",
+      "away": "New England Rev.",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "12'",
+          "player": "Josh Wolff",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Steve Ralston",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-30 02:30",
+      "home": "Chicago Fire",
+      "away": "Columbus Crew",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-30 02:30",
+      "home": "Houston Dynamo",
+      "away": "New York Red Bulls",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "70'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Dwayne De Rosario",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "player": "Chris Henderson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "71'",
+          "player": "Danny O'Rourke",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-30 01:00",
+      "home": "FC Dallas",
+      "away": "Colorado Rapids",
+      "score": "4-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Bobby Rhine",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Ramon Nunez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "74'",
+          "player": "Ramon Nunez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "34'",
+          "player": "Kyle Beckerman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-27 03:30",
+      "home": "Colorado Rapids",
+      "away": "Houston Dynamo",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Nicolas Hemandez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-27 03:00",
+      "home": "Real Salt Lake",
+      "away": "CD Chivas USA",
+      "score": "3-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "33'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Carey Talley",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "74'",
+          "player": "Andy Williams",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "2'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Jonathan Bornstein",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Claudio Suarez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-23 04:00",
+      "home": "Real Salt Lake",
+      "away": "FC Dallas",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Abe Thompson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-23 02:30",
+      "home": "Chicago Fire",
+      "away": "DC United",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "29'",
+          "player": "Nate Jaqua",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "51'",
+          "player": "Logan Pause",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "74'",
+          "player": "Alecko Eskandarian",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-23 02:30",
+      "home": "Houston Dynamo",
+      "away": "New England Rev.",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "63'",
+          "player": "Stuart Holden",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Wade Barrett",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "60'",
+          "player": "Craig Waibel",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-23 01:30",
+      "home": "New York Red Bulls",
+      "away": "Kansas City Wizards",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Mike Magee",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-22 22:00",
+      "home": "Columbus Crew",
+      "away": "L.A. Galaxy",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "9'",
+          "player": "Eddie Gaven",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "14'",
+          "player": "Peter Vagenas",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-21 02:00",
+      "home": "Colorado Rapids",
+      "away": "CD Chivas USA",
+      "score": "3-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "10'",
+          "player": "Dedi Ben Dayan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Clint Mathis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Mike Petke",
+          "type": "card"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Jacob Peterson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "9'",
+          "player": "Juan Francisco Palencia",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "74'",
+          "player": "Jonathan Bornstein",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Jonathan Bornstein",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-20 01:30",
+      "home": "Columbus Crew",
+      "away": "New York Red Bulls",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "50'",
+          "player": "Chris Henderson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Jerrod Laventure",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-16 04:00",
+      "home": "CD Chivas USA",
+      "away": "L.A. Galaxy",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-16 02:30",
+      "home": "Kansas City Wizards",
+      "away": "Houston Dynamo",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "23'",
+          "player": "Josh Wolff",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Jimmy Conrad",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "21'",
+          "player": "Eddie Robinson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "56'",
+          "player": "Brad Davis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "66'",
+          "player": "Brian Ching",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-16 01:30",
+      "home": "DC United",
+      "away": "Columbus Crew",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "16'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Brian Carroll",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "64'",
+          "player": "Ben Olsen",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Kei Kamara",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "72'",
+          "player": "Eric Vasquez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-15 22:00",
+      "home": "Chicago Fire",
+      "away": "FC Dallas",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Andy Herron",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Andy Herron",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "8'",
+          "player": "Ramon Nunez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "77'",
+          "player": "Bobby Rhine",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "79'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-15 01:30",
+      "home": "New England Rev.",
+      "away": "Real Salt Lake",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "57'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "16'",
+          "player": "Chris Klein",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "52'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Jason Kreis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-14 20:00",
+      "home": "New York Red Bulls",
+      "away": "Colorado Rapids",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Amado Guevara",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-09 04:30",
+      "home": "L.A. Galaxy",
+      "away": "Real Salt Lake",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "47'",
+          "player": "Herculez Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "50'",
+          "player": "Josh Gardner",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-09 03:00",
+      "home": "Colorado Rapids",
+      "away": "Kansas City Wizards",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Clint Mathis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-09 02:30",
+      "home": "Chicago Fire",
+      "away": "New England Rev.",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "51'",
+          "player": "Nate Jaqua",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "23'",
+          "player": "Steve Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "37'",
+          "player": "Andy Dorman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-09 02:30",
+      "home": "FC Dallas",
+      "away": "New York Red Bulls",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "2'",
+          "player": "Dominic Oduro",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "33'",
+          "player": "David Wagenfuhr",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "80'",
+          "player": "Mike Magee",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-09 01:30",
+      "home": "Columbus Crew",
+      "away": "DC United",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "42'",
+          "player": "Alecko Eskandarian",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "65'",
+          "player": "Alecko Eskandarian",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-08 23:45",
+      "home": "Houston Dynamo",
+      "away": "CD Chivas USA",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "19'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "64'",
+          "player": "Brian Mullan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "8'",
+          "player": "Ante Razov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-05 04:00",
+      "home": "Real Salt Lake",
+      "away": "CD Chivas USA",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-05 04:00",
+      "home": "L.A. Galaxy",
+      "away": "New York Red Bulls",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-05 03:30",
+      "home": "Colorado Rapids",
+      "away": "New England Rev.",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "13'",
+          "player": "Nicolas Hemandez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Kyle Beckerman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Nicolas Hernandez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "26'",
+          "player": "Clint Dempsey",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-05 02:30",
+      "home": "Houston Dynamo",
+      "away": "Columbus Crew",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "5'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "66'",
+          "player": "Eddie Gaven",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-05 02:00",
+      "home": "Chicago Fire",
+      "away": "Kansas City Wizards",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Andy Herron",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-05 00:00",
+      "home": "FC Dallas",
+      "away": "DC United",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "34'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-02 04:00",
+      "home": "CD Chivas USA",
+      "away": "FC Dallas",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "20'",
+          "player": "Claudio Suarez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "24'",
+          "player": "Claudio Suarez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "43'",
+          "player": "Jonathan Bornstein",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-02 02:30",
+      "home": "Kansas City Wizards",
+      "away": "L.A. Galaxy",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Jimmy Conrad",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "36'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-07-02 00:00",
+      "home": "New England Rev.",
+      "away": "New York Red Bulls",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Clint Dempsey",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Clint Dempsey",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Avery John",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "24'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "66'",
+          "player": "Mike Magee",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-29 04:30",
+      "home": "CD Chivas USA",
+      "away": "Houston Dynamo",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Jesse Marsch",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-29 03:00",
+      "home": "Chicago Fire",
+      "away": "Real Salt Lake",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Chad Barrett",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "85'",
+          "player": "Chad Barrett",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "25'",
+          "player": "Jason Kreis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-29 02:30",
+      "home": "Kansas City Wizards",
+      "away": "DC United",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "20'",
+          "player": "Nick Garcia",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Jose Burciaga",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "5'",
+          "player": "Jimmy Conrad",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "16'",
+          "player": "Freddy Adu",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "50'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-29 01:30",
+      "home": "New York Red Bulls",
+      "away": "Columbus Crew",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-29 01:30",
+      "home": "New England Rev.",
+      "away": "FC Dallas",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "23'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-26 01:00",
+      "home": "Chicago Fire",
+      "away": "New York Red Bulls",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "12'",
+          "player": "Chris Armas",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Thiago",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-25 04:30",
+      "home": "L.A. Galaxy",
+      "away": "Houston Dynamo",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-25 03:00",
+      "home": "Real Salt Lake",
+      "away": "New England Rev.",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-25 02:30",
+      "home": "FC Dallas",
+      "away": "Colorado Rapids",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "32'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-25 01:30",
+      "home": "DC United",
+      "away": "Kansas City Wizards",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "52'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-25 01:30",
+      "home": "Columbus Crew",
+      "away": "CD Chivas USA",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "12'",
+          "player": "Jose Retiz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "54'",
+          "player": "Juan Pablo Garcia",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-22 03:30",
+      "home": "Colorado Rapids",
+      "away": "CD Chivas USA",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "58'",
+          "player": "Dedi Ben Dayan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "10'",
+          "player": "Juan Pablo Garcia",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-22 01:30",
+      "home": "DC United",
+      "away": "Chicago Fire",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "17'",
+          "player": "Clyde Simms",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-22 01:30",
+      "home": "Columbus Crew",
+      "away": "New England Rev.",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Kei Kamara",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "66'",
+          "player": "Andy Dorman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-19 04:00",
+      "home": "CD Chivas USA",
+      "away": "Columbus Crew",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "5'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "85'",
+          "player": "Juan Pablo Garcia",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-18 02:30",
+      "home": "Kansas City Wizards",
+      "away": "Chicago Fire",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "27'",
+          "player": "Scott Sealy",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Scott Sealy",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Jose Burciaga",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "4'",
+          "player": "Andy Herron",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "30'",
+          "player": "Nate Jaqua",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-18 02:30",
+      "home": "Houston Dynamo",
+      "away": "Real Salt Lake",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "36'",
+          "player": "Brian Mullan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Jason Kreis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-18 01:30",
+      "home": "New York Red Bulls",
+      "away": "L.A. Galaxy",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "27'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Jean Philippe Peguero",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "25'",
+          "player": "Herculez Gomez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-18 00:00",
+      "home": "New England Rev.",
+      "away": "DC United",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Andy Dorman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "44'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-12 02:00",
+      "home": "L.A. Galaxy",
+      "away": "DC United",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Cobi Jones",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "21'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-12 01:00",
+      "home": "Chicago Fire",
+      "away": "New England Rev.",
+      "score": "3-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Nate Jaqua",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "79'",
+          "player": "Nate Jaqua",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Calen Carr",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "87'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Andy Dorman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Steve Ralston",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-12 00:00",
+      "home": "FC Dallas",
+      "away": "CD Chivas USA",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Roberto Mina",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "83'",
+          "player": "Ante Razov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-11 01:30",
+      "home": "Columbus Crew",
+      "away": "Kansas City Wizards",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Jose Burciaga",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-11 01:30",
+      "home": "New York Red Bulls",
+      "away": "Houston Dynamo",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "2'",
+          "player": "Jean Philippe Peguero",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "19'",
+          "player": "Ricardo Clark",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-10 03:30",
+      "home": "Colorado Rapids",
+      "away": "Real Salt Lake",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "16'",
+          "player": "Nicolas Hernandez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-09 04:00",
+      "home": "L.A. Galaxy",
+      "away": "CD Chivas USA",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "27'",
+          "player": "Herculez Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "21'",
+          "player": "Ante Razov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-04 04:00",
+      "home": "CD Chivas USA",
+      "away": "Colorado Rapids",
+      "score": "4-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Mike Petke",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "24'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "player": "Francisco Mendoza",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "85'",
+          "player": "Juan Francisco Palencia",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "31'",
+          "player": "Dedi Ben Dayan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-04 03:00",
+      "home": "Real Salt Lake",
+      "away": "Chicago Fire",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "57'",
+          "player": "Jeff Conningham",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Dasan Robinson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "62'",
+          "player": "Brian Plotkin",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-04 02:30",
+      "home": "Kansas City Wizards",
+      "away": "New York Red Bulls",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "58'",
+          "player": "Jose Burciaga",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "30'",
+          "player": "Chris Henderson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-04 02:30",
+      "home": "Houston Dynamo",
+      "away": "L.A. Galaxy",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "22'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "85'",
+          "player": "Eddie Robinson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "John Wolyniec",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-04 02:30",
+      "home": "FC Dallas",
+      "away": "Columbus Crew",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "75'",
+          "player": "Leonard Bisaku",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Ritchie Kotschau",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-04 01:30",
+      "home": "DC United",
+      "away": "New England Rev.",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "14'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-01 03:30",
+      "home": "Colorado Rapids",
+      "away": "L.A. Galaxy",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "33'",
+          "player": "Dedi Ben Dayan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-06-01 01:30",
+      "home": "DC United",
+      "away": "Columbus Crew",
+      "score": "5-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "48'",
+          "player": "Ezra Hendrickson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "58'",
+          "player": "Joshua Gros",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Alecko Eskandarian",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Lucio Filomeno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "21'",
+          "player": "Joseph Ngwenya",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-28 05:00",
+      "home": "CD Chivas USA",
+      "away": "Chicago Fire",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "2'",
+          "player": "Juan Pablo Garcia",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-28 02:30",
+      "home": "Kansas City Wizards",
+      "away": "DC United",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Scott Sealy",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "2'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "18'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Bobby Boswell",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-28 01:30",
+      "home": "New England Rev.",
+      "away": "Houston Dynamo",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Steve Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "85'",
+          "player": "Ryan Cochrane",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-27 22:00",
+      "home": "Real Salt Lake",
+      "away": "Colorado Rapids",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "73'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Atiba Harris",
+          "type": "card"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Jason Kreis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "33'",
+          "player": "Jovan Kirovski",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "84'",
+          "player": "Daniel Wasson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-25 00:30",
+      "home": "New York Red Bulls",
+      "away": "FC Dallas",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Seth Stammler",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "76'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "87'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-21 04:30",
+      "home": "L.A. Galaxy",
+      "away": "Colorado Rapids",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "14'",
+          "player": "Jacob Peterson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-21 03:00",
+      "home": "Real Salt Lake",
+      "away": "Kansas City Wizards",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Mehdi Ballouchy",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "27'",
+          "player": "Ryan Pore",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-21 02:30",
+      "home": "FC Dallas",
+      "away": "New England Rev.",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "7'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "16'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "19'",
+          "player": "Ramon Nunez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-21 01:30",
+      "home": "Columbus Crew",
+      "away": "DC United",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "23'",
+          "player": "Joseph Ngwenya",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "29'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-21 01:30",
+      "home": "New York Red Bulls",
+      "away": "CD Chivas USA",
+      "score": "5-4",
+      "events": [
+        {
+          "team": "home",
+          "time": "20'",
+          "player": "Jean Philippe Peguero",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "38'",
+          "player": "Jean Philippe Peguero",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Seth Stammler",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Seth Stammler",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Jean Philippe Peguero",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "64'",
+          "player": "Francisco Palencia",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "77'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Francisco Palencia",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-20 22:00",
+      "home": "Houston Dynamo",
+      "away": "Chicago Fire",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "50'",
+          "player": "Thiago",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-14 04:30",
+      "home": "L.A. Galaxy",
+      "away": "Real Salt Lake",
+      "score": "0-3",
+      "events": [
+        {
+          "team": "away",
+          "time": "17'",
+          "player": "Atiba Harris",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "72'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "87'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-14 01:30",
+      "home": "New York Red Bulls",
+      "away": "Chicago Fire",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "27'",
+          "player": "Jean Philippe Peguero",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "68'",
+          "player": "Diego Gutierrez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-14 01:30",
+      "home": "Columbus Crew",
+      "away": "Colorado Rapids",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "74'",
+          "player": "Ned Grabovoy",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-14 01:30",
+      "home": "DC United",
+      "away": "Kansas City Wizards",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "12'",
+          "player": "Alecko Eskandarian",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "23'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "16'",
+          "player": "Sasha Victorine",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-14 01:00",
+      "home": "New England Rev.",
+      "away": "CD Chivas USA",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "23'",
+          "player": "Andy Dorman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "53'",
+          "player": "Shalrie Joseph",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "19'",
+          "player": "Francisco Mendoza",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-13 22:00",
+      "home": "FC Dallas",
+      "away": "Houston Dynamo",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "19'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "81'",
+          "player": "Clarence Goodson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-11 02:30",
+      "home": "FC Dallas",
+      "away": "L.A. Galaxy",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "20'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "43'",
+          "player": "Bobby Rhine",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-07 03:00",
+      "home": "Real Salt Lake",
+      "away": "Columbus Crew",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "70'",
+          "player": "Jason Garey",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "85'",
+          "player": "Jose Retiz",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-07 03:00",
+      "home": "Colorado Rapids",
+      "away": "DC United",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Jovan Kirovski",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "Nicolas Hernandez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "49'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-07 02:30",
+      "home": "Houston Dynamo",
+      "away": "FC Dallas",
+      "score": "4-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Ricardo Clark",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "60'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "61'",
+          "player": "Ramon Nunez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "76'",
+          "player": "Drew Moor",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-07 02:30",
+      "home": "Kansas City Wizards",
+      "away": "Chicago Fire",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "48'",
+          "player": "Eddie Johnson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "18'",
+          "player": "Chad Barrett",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-05-06 22:00",
+      "home": "New England Rev.",
+      "away": "L.A. Galaxy",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "5'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Stev Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "43'",
+          "player": "Shalrie Joseph",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Shalrie Joseph",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-30 21:00",
+      "home": "New England Rev.",
+      "away": "Chicago Fire",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "64'",
+          "player": "Thiago",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "68'",
+          "player": "Chris Rolfe",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-30 04:00",
+      "home": "CD Chivas USA",
+      "away": "New York Red Bulls",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-30 03:00",
+      "home": "Colorado Rapids",
+      "away": "Houston Dynamo",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "16'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "Alejandro Moreno",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-30 01:30",
+      "home": "Columbus Crew",
+      "away": "Kansas City Wizards",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "74'",
+          "player": "Josh Wolff",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-30 01:30",
+      "home": "DC United",
+      "away": "FC Dallas",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "17'",
+          "player": "Ben Olsen",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "41'",
+          "player": "Ronnie O'Brien",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-29 22:00",
+      "home": "Real Salt Lake",
+      "away": "L.A. Galaxy",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Jason kreis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "74'",
+          "player": "Atiba Harris",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Jason Kreis",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "11'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "26'",
+          "player": "Cobi Jones",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "60'",
+          "player": "Herculez Gomez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-23 23:00",
+      "home": "FC Dallas",
+      "away": "Kansas City Wizards",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Chris Gbandi",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Aaron Pitchkolan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Alex Zotinca",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-23 04:30",
+      "home": "L.A. Galaxy",
+      "away": "Columbus Crew",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Kyle Martino",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-23 02:30",
+      "home": "Houston Dynamo",
+      "away": "Real Salt Lake",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Craig Waibel",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "57'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-22 22:00",
+      "home": "New York Red Bulls",
+      "away": "DC United",
+      "score": "1-4",
+      "events": [
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Youri Djorkaeff",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "41'",
+          "player": "Alecko Eskandarian",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Alecko Eskandarian",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "71'",
+          "player": "Facundo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Jamil Walker",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-16 05:00",
+      "home": "CD Chivas USA",
+      "away": "L.A. Galaxy",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "46'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "84'",
+          "player": "Cornell Glen",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Cornell Glen",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-16 03:00",
+      "home": "Real Salt Lake",
+      "away": "New York Red Bulls",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Jason Kreis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "77'",
+          "player": "Amado Guevara",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-16 03:00",
+      "home": "Colorado Rapids",
+      "away": "FC Dallas",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Jovan Kirovski",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Clarence Goodson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "5'",
+          "player": "Greg Vanney",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "25'",
+          "player": "Roberto Mina",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-16 02:30",
+      "home": "Kansas City Wizards",
+      "away": "New England Rev.",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "3'",
+          "player": "Jimmy Conard",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-16 01:30",
+      "home": "DC United",
+      "away": "Houston Dynamo",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Joshua Gros",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-15 22:00",
+      "home": "Columbus Crew",
+      "away": "Chicago Fire",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Sebastian Rozental",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "49'",
+          "player": "Chris Rolfe",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-09 04:30",
+      "home": "L.A. Galaxy",
+      "away": "Chicago Fire",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Chris Albright",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "Jim Curtin",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-09 03:00",
+      "home": "Colorado Rapids",
+      "away": "Columbus Crew",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Jovan Kirovski",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "50'",
+          "player": "Kyle Beckerman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Fabrice Noel",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "10'",
+          "player": "Chad Marshall",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-09 02:30",
+      "home": "Houston Dynamo",
+      "away": "Kansas City Wizards",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "64'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Dwayne De Rosario",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "66'",
+          "player": "Sasha Victorine",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Jose Burciaga",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Jose Burciaga",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-09 02:30",
+      "home": "FC Dallas",
+      "away": "Real Salt Lake",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "43'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "57'",
+          "player": "Mark Wilson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "36'",
+          "player": "Chris Klein",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-09 01:30",
+      "home": "New York Red Bulls",
+      "away": "New England Rev.",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-08 22:00",
+      "home": "DC United",
+      "away": "CD Chivas USA",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "59'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-03 01:30",
+      "home": "Houston Dynamo",
+      "away": "Colorado Rapids",
+      "score": "5-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "13'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "37'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Kyle Beckerman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "52'",
+          "player": "Jovan Kirovski",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "Pablo Mastroeni",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-03 01:00",
+      "home": "CD Chivas USA",
+      "away": "Real Salt Lake",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Juan Pablo Garcia",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Ante Razov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-02 23:00",
+      "home": "DC United",
+      "away": "New York Red Bulls",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Alecko Eskandarian",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Facundo Erpen",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Youri Djorkaeff",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "18'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-02 06:00",
+      "home": "L.A. Galaxy",
+      "away": "New England Rev.",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "33'",
+          "player": "Clint Dempsey",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-02 03:30",
+      "home": "Kansas City Wizards",
+      "away": "Columbus Crew",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Davy Arnaud",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Jack Jewsbury",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "61'",
+          "player": "Eddie Johnson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "33'",
+          "player": "Kei Kamara",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2006-04-01 23:00",
+      "home": "FC Dallas",
+      "away": "Chicago Fire",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Arturo Alvarez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "66'",
+          "player": "Roberto Mina",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "70'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "12'",
+          "player": "Chad Barrett",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "54'",
+          "player": "Chris Rolfe",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,5096 @@
+{
+  "league": "Major League Soccer",
+  "region": "United States",
+  "matches": [
+    {
+      "date": "2002-09-22 22:00",
+      "home": "Chicago Fire",
+      "away": "Columbus Crew",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Nowak",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Razov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Cunningham",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-09-22 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "L.A. Galaxy",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Ruiz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-09-22 01:30",
+      "home": "New England Rev.",
+      "away": "New York Red Bulls",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Harris",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Harris",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-09-21 03:00",
+      "home": "Colorado Rapids",
+      "away": "Kansas City Wizards",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Chung",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "34'",
+          "player": "Klein",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-09-20 01:30",
+      "home": "DC United",
+      "away": "Dallas Burn",
+      "score": "3-4",
+      "events": [
+        {
+          "team": "home",
+          "time": "48'",
+          "player": "Convey",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Zambrano",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Curtis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "34'",
+          "player": "Rodriguez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "74'",
+          "player": "Martinez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "80'",
+          "player": "Rhine",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "96'",
+          "player": "Johnson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-09-15 05:00",
+      "home": "L.A. Galaxy",
+      "away": "San Jose Earthquakes",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Ruiz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-09-15 02:30",
+      "home": "Dallas Burn",
+      "away": "New England Rev.",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Rodriguez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "35'",
+          "player": "Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "64'",
+          "player": "Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-09-15 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Colorado Rapids",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Preki",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "36'",
+          "player": "Kingsley",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "50'",
+          "player": "Spencer",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-09-15 01:30",
+      "home": "Columbus Crew",
+      "away": "Chicago Fire",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "15'",
+          "player": "Denton",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "22'",
+          "player": "Cunningham",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-09-15 01:30",
+      "home": "DC United",
+      "away": "New York Red Bulls",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Convey",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Curtis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "6'",
+          "player": "Faria",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-09-13 01:30",
+      "home": "New York Red Bulls",
+      "away": "DC United",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Etcheverry",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-09-08 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Columbus Crew",
+      "score": "4-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Robinson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "22'",
+          "player": "Ekelund",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "53'",
+          "player": "Graziani",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "95'",
+          "player": "Graziani",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "28'",
+          "player": "Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "82'",
+          "player": "Buddle",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-09-08 02:30",
+      "home": "Chicago Fire",
+      "away": "L.A. Galaxy",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Marsch",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "79'",
+          "player": "Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "87'",
+          "player": "Ruiz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-09-08 01:30",
+      "home": "New England Rev.",
+      "away": "DC United",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "63'",
+          "player": "Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-09-06 02:00",
+      "home": "Dallas Burn",
+      "away": "New York Red Bulls",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "14'",
+          "player": "Cerritos",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "2'",
+          "player": "Mathis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "62'",
+          "player": "Faria",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "73'",
+          "player": "Faria",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-09-02 03:00",
+      "home": "Colorado Rapids",
+      "away": "Dallas Burn",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "12'",
+          "player": "Henderson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Kingsley",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Carrieri",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "34'",
+          "player": "Johnson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "player": "Martinez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-09-01 04:00",
+      "home": "L.A. Galaxy",
+      "away": "New York Red Bulls",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "23'",
+          "player": "Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Ruiz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-09-01 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Chicago Fire",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "22'",
+          "player": "Fabbro",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Brown",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "62'",
+          "player": "Bocanegra",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-09-01 01:30",
+      "home": "Columbus Crew",
+      "away": "New England Rev.",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-09-01 01:30",
+      "home": "DC United",
+      "away": "San Jose Earthquakes",
+      "score": "4-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Convey",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "74'",
+          "player": "Nelsen",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "Pope",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Villegas",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "49'",
+          "player": "Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "58'",
+          "player": "Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-08-29 01:30",
+      "home": "New England Rev.",
+      "away": "Colorado Rapids",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "27'",
+          "player": "Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Hernandez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "75'",
+          "player": "Chung",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-08-25 22:00",
+      "home": "New York Red Bulls",
+      "away": "DC United",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Mathis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-08-25 02:30",
+      "home": "Chicago Fire",
+      "away": "New England Rev.",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "50'",
+          "player": "Curtin",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "65'",
+          "player": "Harris",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Kante",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-08-25 02:30",
+      "home": "Dallas Burn",
+      "away": "L.A. Galaxy",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "96'",
+          "player": "Rhine",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-08-24 22:00",
+      "home": "Colorado Rapids",
+      "away": "San Jose Earthquakes",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Carrieri",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Kingsley",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Chung",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-08-22 04:00",
+      "home": "L.A. Galaxy",
+      "away": "Kansas City Wizards",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Lalas",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "60'",
+          "player": "Preki",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-08-22 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Dallas Burn",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "7'",
+          "player": "Graziani",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "33'",
+          "player": "Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "63'",
+          "player": "Corrales",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "43'",
+          "player": "Rodriguez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-08-19 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Columbus Crew",
+      "score": "0-4",
+      "events": [
+        {
+          "team": "away",
+          "time": "11'",
+          "player": "Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "41'",
+          "player": "Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "58'",
+          "player": "Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "61'",
+          "player": "Cunningham",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-08-19 01:00",
+      "home": "New England Rev.",
+      "away": "Chicago Fire",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "31'",
+          "player": "Razov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "85'",
+          "player": "Razov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-08-18 04:00",
+      "home": "L.A. Galaxy",
+      "away": "Colorado Rapids",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Lalas",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "59'",
+          "player": "Cienfuegos",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Victorine",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Cienfuegos",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-08-18 01:30",
+      "home": "New York Red Bulls",
+      "away": "Dallas Burn",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "48'",
+          "player": "Paule",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "player": "Cerritos",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "76'",
+          "player": "Martinez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "87'",
+          "player": "Martinez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-08-17 22:00",
+      "home": "San Jose Earthquakes",
+      "away": "DC United",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "17'",
+          "player": "Ekelund",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "63'",
+          "player": "Ekelund",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "5'",
+          "player": "Quintanilla",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "61'",
+          "player": "Quintanilla",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-08-15 02:30",
+      "home": "Chicago Fire",
+      "away": "Kansas City Wizards",
+      "score": "5-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "12'",
+          "player": "Beasley",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "15'",
+          "player": "Wolff",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Stoitchkov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Kovalenko",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Razov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "8'",
+          "player": "Preki",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-08-15 01:30",
+      "home": "Columbus Crew",
+      "away": "L.A. Galaxy",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "24'",
+          "player": "Martino",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "6'",
+          "player": "Jones",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "66'",
+          "player": "Elliott",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-08-11 04:00",
+      "home": "L.A. Galaxy",
+      "away": "New England Rev.",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "33'",
+          "player": "Jones",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Jones",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "62'",
+          "player": "Hernandez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-08-11 03:00",
+      "home": "Colorado Rapids",
+      "away": "Columbus Crew",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "57'",
+          "player": "Carrieri",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "64'",
+          "player": "Henderson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "Buddle",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-08-11 01:30",
+      "home": "DC United",
+      "away": "Kansas City Wizards",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-08-10 22:00",
+      "home": "Dallas Burn",
+      "away": "Chicago Fire",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Pareja",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Kreis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "O`Brian",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "64'",
+          "player": "Stoitchkov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-08-01 02:30",
+      "home": "Dallas Burn",
+      "away": "Kansas City Wizards",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "77'",
+          "player": "Armstrong",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-08-01 02:30",
+      "home": "Chicago Fire",
+      "away": "DC United",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-08-01 01:30",
+      "home": "New York Red Bulls",
+      "away": "Columbus Crew",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "3'",
+          "player": "Faria",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Addo",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Diallo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "19'",
+          "player": "McBride",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "27'",
+          "player": "Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "70'",
+          "player": "West",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-28 04:00",
+      "home": "L.A. Galaxy",
+      "away": "Columbus Crew",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "9'",
+          "player": "Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "42'",
+          "player": "Clark",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-28 03:00",
+      "home": "Colorado Rapids",
+      "away": "Dallas Burn",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "62'",
+          "player": "Carrieri",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "player": "Chung",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "53'",
+          "player": "Cerritos",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Morrow",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-28 02:00",
+      "home": "Kansas City Wizards",
+      "away": "San Jose Earthquakes",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "30'",
+          "player": "Armstrong",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Simutenkov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "25'",
+          "player": "Robinson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-28 00:30",
+      "home": "DC United",
+      "away": "New England Rev.",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "16'",
+          "player": "Heaps",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-27 22:00",
+      "home": "Chicago Fire",
+      "away": "New York Red Bulls",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Curtin",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Razov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "57'",
+          "player": "Razov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-25 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Chicago Fire",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Graziani",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-25 02:00",
+      "home": "Kansas City Wizards",
+      "away": "New York Red Bulls",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "61'",
+          "player": "Simintikov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "22'",
+          "player": "Faria",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "26'",
+          "player": "Diallo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Faria",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-25 01:30",
+      "home": "Columbus Crew",
+      "away": "DC United",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "52'",
+          "player": "Washington",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-25 01:30",
+      "home": "New England Rev.",
+      "away": "Colorado Rapids",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "52'",
+          "player": "Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Wilson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "34'",
+          "player": "Henderson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "58'",
+          "player": "Kingsley",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "63'",
+          "player": "Chung",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-21 04:00",
+      "home": "L.A. Galaxy",
+      "away": "Kansas City Wizards",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Hendrickson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Califf",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "4'",
+          "player": "Klein",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "27'",
+          "player": "Meola",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Talley",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-21 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Dallas Burn",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "3'",
+          "player": "Graziani",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Lagos",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "42'",
+          "player": "DeRosario",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-21 02:30",
+      "home": "Chicago Fire",
+      "away": "DC United",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-21 01:30",
+      "home": "Columbus Crew",
+      "away": "Colorado Rapids",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Washington",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Carrieri",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-20 22:00",
+      "home": "New York Red Bulls",
+      "away": "New England Rev.",
+      "score": "4-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Williams",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Diallo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "41'",
+          "player": "Davis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "46'",
+          "player": "Diallo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "43'",
+          "player": "Twellmen",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "63'",
+          "player": "Hernandez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-14 03:00",
+      "home": "Colorado Rapids",
+      "away": "L.A. Galaxy",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "29'",
+          "player": "Henderson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "35'",
+          "player": "Califf",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "69'",
+          "player": "Hendrickson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "72'",
+          "player": "Ruiz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-14 02:30",
+      "home": "Dallas Burn",
+      "away": "San Jose Earthquakes",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "50'",
+          "player": "Own Goal",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "O`Brien",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "DeRosario",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-14 01:30",
+      "home": "DC United",
+      "away": "Columbus Crew",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Convey",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "27'",
+          "player": "McBride",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "40'",
+          "player": "McBride",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "49'",
+          "player": "Perez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-13 22:00",
+      "home": "New England Rev.",
+      "away": "Kansas City Wizards",
+      "score": "2-4",
+      "events": [
+        {
+          "team": "home",
+          "time": "41'",
+          "player": "Cullen",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Pineda Chacon",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "12'",
+          "player": "Klein",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Zavagnin",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "64'",
+          "player": "Klein",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "84'",
+          "player": "Fabbro",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-13 22:00",
+      "home": "New York Red Bulls",
+      "away": "Chicago Fire",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "14'",
+          "player": "Williams",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Diallo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "53'",
+          "player": "Wolff",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Wolff",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "96'",
+          "player": "Beasley",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-08 03:00",
+      "home": "San Jose Earthquakes",
+      "away": "L.A. Galaxy",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-07 22:00",
+      "home": "Chicago Fire",
+      "away": "Colorado Rapids",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "63'",
+          "player": "Wolff",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "95'",
+          "player": "Vaudreuil",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "12'",
+          "player": "Henderson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-07 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Dallas Burn",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "51'",
+          "player": "McKeon",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "62'",
+          "player": "Cerritos",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-07 01:30",
+      "home": "New England Rev.",
+      "away": "DC United",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "3'",
+          "player": "Kamler",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-06 22:00",
+      "home": "Columbus Crew",
+      "away": "New York Red Bulls",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "29'",
+          "player": "McBride",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "5'",
+          "player": "Faria",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Paule",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "64'",
+          "player": "Jolley",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-05 04:00",
+      "home": "L.A. Galaxy",
+      "away": "San Jose Earthquakes",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "30'",
+          "player": "Lagos",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-05 03:30",
+      "home": "Colorado Rapids",
+      "away": "Chicago Fire",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "57'",
+          "player": "Carrieri",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Carrieri",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Carrieri",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "7'",
+          "player": "Razov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "70'",
+          "player": "Moore",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-05 02:00",
+      "home": "Kansas City Wizards",
+      "away": "DC United",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "17'",
+          "player": "Fabbro",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "20'",
+          "player": "Talley",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Curtis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-05 02:00",
+      "home": "Dallas Burn",
+      "away": "New York Red Bulls",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "38'",
+          "player": "Rhine",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Kreis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-07-05 01:30",
+      "home": "New England Rev.",
+      "away": "Columbus Crew",
+      "score": "4-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "11'",
+          "player": "Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Cullen",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "82'",
+          "player": "McBride",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-30 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Kansas City Wizards",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "85'",
+          "player": "Graziani",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Corrales",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "16'",
+          "player": "Fabbro",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-30 02:00",
+      "home": "Dallas Burn",
+      "away": "Columbus Crew",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "97'",
+          "player": "Kreis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-30 01:30",
+      "home": "DC United",
+      "away": "L.A. Galaxy",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "98'",
+          "player": "Convey",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-29 22:00",
+      "home": "New England Rev.",
+      "away": "New York Red Bulls",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "5'",
+          "player": "Diallo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "85'",
+          "player": "Lisi",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-27 01:30",
+      "home": "New York Red Bulls",
+      "away": "Colorado Rapids",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Carrieri",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-23 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Colorado Rapids",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "5'",
+          "player": "Conrad",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "62'",
+          "player": "Unknown",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Graziani",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Unknown",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-23 04:00",
+      "home": "L.A. Galaxy",
+      "away": "Dallas Burn",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "58'",
+          "player": "Victorine",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Lalas",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Mullan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-23 02:00",
+      "home": "Kansas City Wizards",
+      "away": "New England Rev.",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "22'",
+          "player": "Simutenkov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "30'",
+          "player": "Simutenkov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Talley",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "24'",
+          "player": "Heaps",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "65'",
+          "player": "Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-22 22:00",
+      "home": "Chicago Fire",
+      "away": "New York Red Bulls",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "81'",
+          "player": "Faria",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-20 01:30",
+      "home": "Columbus Crew",
+      "away": "Kansas City Wizards",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "52'",
+          "player": "Preki",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-20 01:30",
+      "home": "DC United",
+      "away": "Colorado Rapids",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "17'",
+          "player": "Nelson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Moreno",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-16 03:00",
+      "home": "Colorado Rapids",
+      "away": "New England Rev.",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Carrieri",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "22'",
+          "player": "Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "57'",
+          "player": "Kamler",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-16 02:30",
+      "home": "Chicago Fire",
+      "away": "Dallas Burn",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Wolyniec",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Kreis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "68'",
+          "player": "Kreis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "73'",
+          "player": "Rhine",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-16 02:00",
+      "home": "Kansas City Wizards",
+      "away": "DC United",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Brown",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "51'",
+          "player": "Armstrong",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-16 01:30",
+      "home": "Columbus Crew",
+      "away": "San Jose Earthquakes",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "30'",
+          "player": "Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Washington",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "39'",
+          "player": "DeRosario",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-15 22:00",
+      "home": "New York Red Bulls",
+      "away": "L.A. Galaxy",
+      "score": "5-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "27'",
+          "player": "Diallo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "36'",
+          "player": "Diallo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "58'",
+          "player": "Diallo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Davis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Diallo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-13 01:00",
+      "home": "New England Rev.",
+      "away": "Columbus Crew",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "11'",
+          "player": "Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "20'",
+          "player": "McCarty",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "101'",
+          "player": "Buddle",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-09 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Kansas City Wizards",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "40'",
+          "player": "Graziani",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "48'",
+          "player": "Graziani",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Mulrooney",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-09 02:30",
+      "home": "Dallas Burn",
+      "away": "Colorado Rapids",
+      "score": "4-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Rhine",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "17'",
+          "player": "Rhine",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Kreis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "73'",
+          "player": "Rhine",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "95'",
+          "player": "Chung",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-09 01:30",
+      "home": "DC United",
+      "away": "New England Rev.",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "38'",
+          "player": "Nelsen",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Quaranta",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "64'",
+          "player": "Nelsen",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "35'",
+          "player": "Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "36'",
+          "player": "Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-08 22:00",
+      "home": "L.A. Galaxy",
+      "away": "Chicago Fire",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "57'",
+          "player": "Lalas",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-03 01:00",
+      "home": "Chicago Fire",
+      "away": "Columbus Crew",
+      "score": "5-4",
+      "events": [
+        {
+          "team": "home",
+          "time": "2'",
+          "player": "Magee",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Razov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Magee",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "63'",
+          "player": "Razov",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Bocanegra",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "25'",
+          "player": "Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "28'",
+          "player": "Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "41'",
+          "player": "Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "65'",
+          "player": "Martino",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-02 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Dallas Burn",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Fabbro",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "70'",
+          "player": "Fabbro",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "24'",
+          "player": "Kreis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Vaca",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-02 00:30",
+      "home": "New England Rev.",
+      "away": "San Jose Earthquakes",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "23'",
+          "player": "Graziani",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "player": "Graziani",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-06-01 22:00",
+      "home": "Colorado Rapids",
+      "away": "L.A. Galaxy",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "42'",
+          "player": "Chung",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Valderrama",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Chung",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "32'",
+          "player": "Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "64'",
+          "player": "Ruiz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-05-27 02:30",
+      "home": "Chicago Fire",
+      "away": "San Jose Earthquakes",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "10'",
+          "player": "Gray",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "60'",
+          "player": "Ekelund",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-05-26 01:30",
+      "home": "New England Rev.",
+      "away": "L.A. Galaxy",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "11'",
+          "player": "Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "51'",
+          "player": "Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "player": "Serna",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "36'",
+          "player": "Griffiths",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Ruiz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-05-26 01:30",
+      "home": "New York Red Bulls",
+      "away": "Kansas City Wizards",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "41'",
+          "player": "Diallo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "10'",
+          "player": "Klein",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-05-26 01:30",
+      "home": "Columbus Crew",
+      "away": "Dallas Burn",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "66'",
+          "player": "Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Deering",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-05-23 03:00",
+      "home": "Colorado Rapids",
+      "away": "New England Rev.",
+      "score": "5-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "1'",
+          "player": "Chung",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Chung",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Carrieri",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Henderson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Henderson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "33'",
+          "player": "Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Harris",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-05-19 22:40",
+      "home": "New England Rev.",
+      "away": "Chicago Fire",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "64'",
+          "player": "Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "34'",
+          "player": "Razov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "54'",
+          "player": "Razov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "73'",
+          "player": "Razov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-05-19 02:00",
+      "home": "Kansas City Wizards",
+      "away": "L.A. Galaxy",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "58'",
+          "player": "Gutierrez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "61'",
+          "player": "Preki",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Mullan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-05-19 01:30",
+      "home": "Columbus Crew",
+      "away": "San Jose Earthquakes",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "player": "Cunningham",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-05-19 00:30",
+      "home": "DC United",
+      "away": "New York Red Bulls",
+      "score": "4-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "16'",
+          "player": "Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "66'",
+          "player": "Villegas",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Etcheverry",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "4'",
+          "player": "Faria",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "61'",
+          "player": "Lisi",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-05-18 22:00",
+      "home": "Dallas Burn",
+      "away": "Colorado Rapids",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "10'",
+          "player": "Martinez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Kreis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Morrow",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "65'",
+          "player": "Spencer",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-05-12 22:30",
+      "home": "DC United",
+      "away": "Columbus Crew",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "47'",
+          "player": "Quaranta",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "player": "Washington",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-05-12 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "New York Red Bulls",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "13'",
+          "player": "Graziani",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "43'",
+          "player": "Graziani",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "49'",
+          "player": "Faria",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-05-12 03:00",
+      "home": "Colorado Rapids",
+      "away": "Kansas City Wizards",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "38'",
+          "player": "Spencer",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Henderson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-05-12 01:30",
+      "home": "New England Rev.",
+      "away": "Dallas Burn",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-05-11 22:00",
+      "home": "Chicago Fire",
+      "away": "L.A. Galaxy",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "5'",
+          "player": "Ruiz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-05-05 02:00",
+      "home": "New York Red Bulls",
+      "away": "Dallas Burn",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "42'",
+          "player": "Serna",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Petke",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "8'",
+          "player": "Suarez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "39'",
+          "player": "Kreis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "79'",
+          "player": "Rodriguez",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-05-05 01:30",
+      "home": "Kansas City Wizards",
+      "away": "L.A. Galaxy",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Preki",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "12'",
+          "player": "Mullan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "93'",
+          "player": "Glinton",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-05-05 01:30",
+      "home": "DC United",
+      "away": "Chicago Fire",
+      "score": "0-3",
+      "events": [
+        {
+          "team": "away",
+          "time": "26'",
+          "player": "Daniv",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Nowak",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Razov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-05-04 22:00",
+      "home": "San Jose Earthquakes",
+      "away": "Columbus Crew",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Barrett",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "47'",
+          "player": "Ekelund",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Corrales",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "23'",
+          "player": "Martino",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "43'",
+          "player": "Cunningham",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-04-28 02:30",
+      "home": "Dallas Burn",
+      "away": "Kansas City Wizards",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "52'",
+          "player": "Kreis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "0'",
+          "player": "Zavagnin",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Klein",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-04-28 02:30",
+      "home": "Chicago Fire",
+      "away": "New England Rev.",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "18'",
+          "player": "Nowak",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "59'",
+          "player": "Razov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "0'",
+          "player": "Rooney",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "2'",
+          "player": "Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "83'",
+          "player": "Franchino",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-04-28 01:30",
+      "home": "New York Red Bulls",
+      "away": "San Jose Earthquakes",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Mathis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "72'",
+          "player": "Graziani",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-04-28 01:30",
+      "home": "Columbus Crew",
+      "away": "DC United",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "15'",
+          "player": "Maisonneuve",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-04-27 22:00",
+      "home": "L.A. Galaxy",
+      "away": "Colorado Rapids",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "94'",
+          "player": "Spencer",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-04-21 02:30",
+      "home": "Dallas Burn",
+      "away": "L.A. Galaxy",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "62'",
+          "player": "Kreis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "26'",
+          "player": "Ruiz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-04-21 02:30",
+      "home": "San Jose Earthquakes",
+      "away": "Colorado Rapids",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Graziani",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "74'",
+          "player": "Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-04-21 01:30",
+      "home": "DC United",
+      "away": "Kansas City Wizards",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Curtis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "McKinley",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "73'",
+          "player": "Preki",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-04-21 01:30",
+      "home": "New York Red Bulls",
+      "away": "Chicago Fire",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Ramos",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "26'",
+          "player": "Gray",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "80'",
+          "player": "Beasley",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-04-20 22:00",
+      "home": "Columbus Crew",
+      "away": "New England Rev.",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "10'",
+          "player": "Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "28'",
+          "player": "Rooney",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-04-14 04:00",
+      "home": "L.A. Galaxy",
+      "away": "Dallas Burn",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "85'",
+          "player": "Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "57'",
+          "player": "Kreis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-04-14 03:00",
+      "home": "Colorado Rapids",
+      "away": "New York Red Bulls",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Spencer",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "17'",
+          "player": "Kamler",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "78'",
+          "player": "Davis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-04-13 22:00",
+      "home": "Kansas City Wizards",
+      "away": "San Jose Earthquakes",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "52'",
+          "player": "Klein",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Brown",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-04-07 05:00",
+      "home": "L.A. Galaxy",
+      "away": "Chicago Fire",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "92'",
+          "player": "Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Razov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-04-07 03:30",
+      "home": "Dallas Burn",
+      "away": "DC United",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "62'",
+          "player": "Kreis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "Rodriguez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "60'",
+          "player": "Quaranta",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-04-07 02:30",
+      "home": "Columbus Crew",
+      "away": "New York Red Bulls",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "58'",
+          "player": "Washington",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "69'",
+          "player": "Faria",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "97'",
+          "player": "Davis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-04-06 22:00",
+      "home": "San Jose Earthquakes",
+      "away": "New England Rev.",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "2'",
+          "player": "Lagos",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Ekelund",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "38'",
+          "player": "Diallo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-04-04 02:30",
+      "home": "Colorado Rapids",
+      "away": "DC United",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Henderson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Henderson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-03-31 04:30",
+      "home": "Colorado Rapids",
+      "away": "San Jose Earthquakes",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Chung",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-03-30 22:00",
+      "home": "DC United",
+      "away": "Chicago Fire",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "38'",
+          "player": "Etcheverry",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Conteh",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-03-28 01:00",
+      "home": "New York Red Bulls",
+      "away": "Columbus Crew",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Cunningham",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-03-24 04:00",
+      "home": "L.A. Galaxy",
+      "away": "DC United",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "92'",
+          "player": "Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "76'",
+          "player": "Curtis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-03-24 02:30",
+      "home": "Dallas Burn",
+      "away": "San Jose Earthquakes",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "11'",
+          "player": "DeRosario",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "46'",
+          "player": "Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-03-24 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Colorado Rapids",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Brown",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "16'",
+          "player": "Henderson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-03-24 01:30",
+      "home": "New York Red Bulls",
+      "away": "New England Rev.",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "53'",
+          "player": "Faria",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Llamosa",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Mathis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "50'",
+          "player": "Pineda Chacon",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2002-03-23 22:00",
+      "home": "Columbus Crew",
+      "away": "Chicago Fire",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "18'",
+          "player": "McCarty",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "69'",
+          "player": "Wolff",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    }
+  ]
+}

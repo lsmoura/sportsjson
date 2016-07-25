@@ -1,0 +1,7663 @@
+{
+  "league": "Major League Soccer",
+  "region": "United States",
+  "matches": [
+    {
+      "date": "2008-10-26 22:00",
+      "home": "Columbus Crew",
+      "away": "DC United",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Brad Evans",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-26 20:00",
+      "home": "L.A. Galaxy",
+      "away": "FC Dallas",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "41'",
+          "player": "Pires",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "79'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "34'",
+          "player": "Drew Moor",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "39'",
+          "player": "Victor Sikora",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "49'",
+          "player": "Aaron Pitchkolan",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-26 03:30",
+      "home": "CD Chivas USA",
+      "away": "Houston Dynamo",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "50'",
+          "player": "Dan Kennedy",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Jim Curtin",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "52'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-26 03:00",
+      "home": "San Jose Earthquakes",
+      "away": "Toronto FC",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Ryan Cochrane",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Shea Salinas",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-26 02:30",
+      "home": "Colorado Rapids",
+      "away": "Real Salt Lake",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "19'",
+          "player": "Conor Casey",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Yura Movsisyan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-26 01:30",
+      "home": "New England Rev.",
+      "away": "Kansas City Wizards",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "27'",
+          "player": "Gabriel Badilla Segura",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "42'",
+          "player": "Khano Smith",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Jeff Larentowicz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "27'",
+          "player": "Claudio Lopez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "53'",
+          "player": "Davy Arnaud",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Michael Parkhurst",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-24 03:30",
+      "home": "Chicago Fire",
+      "away": "New York Red Bulls",
+      "score": "5-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "11'",
+          "player": "Chris Rolfe",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "38'",
+          "player": "Chris Rolfe",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Chris Rolfe",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "53'",
+          "player": "Brian McBride",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Daniel Woolard",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "32'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Macoumba Kandji",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-19 21:00",
+      "home": "CD Chivas USA",
+      "away": "Colorado Rapids",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Jonathan Bornstein",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "player": "Colin Clark",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "85'",
+          "player": "Conor Casey",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-19 03:00",
+      "home": "Real Salt Lake",
+      "away": "FC Dallas",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Yura Movsisyan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Will Johnson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Robbie Findley",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "7'",
+          "player": "Marcelo Saragosa",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "30'",
+          "player": "Marcelo Saragosa",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Pablo Javier Ricchetti",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-19 02:30",
+      "home": "Houston Dynamo",
+      "away": "L.A. Galaxy",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "14'",
+          "player": "Bryan Jordan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "20'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "23'",
+          "player": "Brian Ching",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-19 02:00",
+      "home": "Kansas City Wizards",
+      "away": "San Jose Earthquakes",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "18'",
+          "player": "Claudio Lopez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "27'",
+          "player": "Davy Arnaud",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Herculez Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "20'",
+          "player": "Scott Sealy",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "71'",
+          "player": "Shea Salinas",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-19 01:30",
+      "home": "New York Red Bulls",
+      "away": "Columbus Crew",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "48'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "Danny Cepero",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "62'",
+          "player": "Steven Lenhart",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-18 21:30",
+      "home": "Toronto FC",
+      "away": "Chicago Fire",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "11'",
+          "player": "Amado Guevara",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "17'",
+          "player": "Rohan Ricketts",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Rohan Ricketts",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "25'",
+          "player": "Justin Mapp",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Cuauhtemoc Blanco",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-17 02:00",
+      "home": "DC United",
+      "away": "New England Rev.",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "63'",
+          "player": "Francis Doe Forkey",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Francis Doe Forkey",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "58'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-16 03:00",
+      "home": "Houston Dynamo",
+      "away": "San Jose Earthquakes",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Stuart Holden",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "11'",
+          "player": "Kei Kamara",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Stuart Holden",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "68'",
+          "player": "Scott Sealy",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-13 02:00",
+      "home": "L.A. Galaxy",
+      "away": "Colorado Rapids",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "36'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "70'",
+          "player": "Ugo Ihemelu",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Brandon McDonald",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "43'",
+          "player": "Cory Gibbs",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Thomas McManus",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-13 01:00",
+      "home": "Houston Dynamo",
+      "away": "DC United",
+      "score": "0-0",
+      "events": [
+        {
+          "team": "away",
+          "time": "73'",
+          "player": "Bryan Namoff",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-12 21:00",
+      "home": "Chicago Fire",
+      "away": "Columbus Crew",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "13'",
+          "player": "Brian McBride",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "79'",
+          "player": "Brian McBride",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Eddie Gaven",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "61'",
+          "player": "Schelotto Guillermo Barros",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-12 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "CD Chivas USA",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "7'",
+          "player": "Justin Braun",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-12 02:30",
+      "home": "FC Dallas",
+      "away": "Toronto FC",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "72'",
+          "player": "Marco Velez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Marvell Wynne",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-12 02:00",
+      "home": "Kansas City Wizards",
+      "away": "New England Rev.",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "61'",
+          "player": "Jimmy Conrad",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-10 04:00",
+      "home": "Real Salt Lake",
+      "away": "New York Red Bulls",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "42'",
+          "player": "Jamison Olave",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "31'",
+          "player": "Dave van den Bergh",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "83'",
+          "player": "Juan Martin Pietravallo",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-05 21:00",
+      "home": "Kansas City Wizards",
+      "away": "Chicago Fire",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "48'",
+          "player": "Michael Harrington",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Cuauhtemoc Blanco",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-05 03:30",
+      "home": "Colorado Rapids",
+      "away": "Houston Dynamo",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "7'",
+          "player": "Conor Casey",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Conor Casey",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "2'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "9'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "19'",
+          "player": "Ricardo Clark",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-05 01:30",
+      "home": "New England Rev.",
+      "away": "Real Salt Lake",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Steve Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "13'",
+          "player": "Javier Damian Morales",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "74'",
+          "player": "Andy Williams",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Andy Williams",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-05 01:30",
+      "home": "DC United",
+      "away": "CD Chivas USA",
+      "score": "0-3",
+      "events": [
+        {
+          "team": "away",
+          "time": "35'",
+          "player": "Alecko Eskandarian",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "56'",
+          "player": "Sasha Victorine",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "68'",
+          "player": "Jorge Ferreira Dejair",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-05 01:30",
+      "home": "Columbus Crew",
+      "away": "L.A. Galaxy",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "43'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-05 01:30",
+      "home": "New York Red Bulls",
+      "away": "Toronto FC",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Dane Richards",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "27'",
+          "player": "Chad Barrett",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "65'",
+          "player": "Chad Barrett",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "Abdus Ibrahim",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-10-03 03:00",
+      "home": "FC Dallas",
+      "away": "San Jose Earthquakes",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "58'",
+          "player": "Ryan Johnson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-28 21:00",
+      "home": "FC Dallas",
+      "away": "DC United",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "9'",
+          "player": "Guerreiro André Rocha",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "Bruno Guarda",
+          "type": "card"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-28 04:30",
+      "home": "CD Chivas USA",
+      "away": "Kansas City Wizards",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Alecko Eskandarian",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Sasha Victorine",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "70'",
+          "player": "Josh Wolff",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-28 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Real Salt Lake",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "23'",
+          "player": "Darren Huckerby",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "47'",
+          "player": "Darren Huckerby",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "3'",
+          "player": "Yura Movsisyan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "49'",
+          "player": "Yura Movsisyan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Javier Damian Morales",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-28 01:30",
+      "home": "New England Rev.",
+      "away": "Columbus Crew",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "35'",
+          "player": "Chad Marshall",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "65'",
+          "player": "Frankie Hejduk",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-28 01:30",
+      "home": "New York Red Bulls",
+      "away": "Colorado Rapids",
+      "score": "4-5",
+      "events": [
+        {
+          "team": "home",
+          "time": "5'",
+          "player": "Mike Magee",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "40'",
+          "player": "Dane Richards",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "74'",
+          "player": "Andongcho Matthew Mbuta",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "3'",
+          "player": "Omar Cummings",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "11'",
+          "player": "Conor Casey",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "43'",
+          "player": "Mike Petke",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Conor Casey",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Conor Casey",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-27 21:30",
+      "home": "Toronto FC",
+      "away": "Houston Dynamo",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "73'",
+          "player": "Marvell Wynne",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "23'",
+          "player": "Hunter Freeman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-26 03:25",
+      "home": "Chicago Fire",
+      "away": "L.A. Galaxy",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "13'",
+          "player": "Chris Rolfe",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "57'",
+          "player": "Cuauhtemoc Blanco",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "59'",
+          "player": "Chris Rolfe",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "35'",
+          "player": "Eddie Lewis",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-21 21:00",
+      "home": "Chicago Fire",
+      "away": "FC Dallas",
+      "score": "1-4",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Brian McBride",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "2'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "43'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Bruno Guarda",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "61'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-21 05:00",
+      "home": "L.A. Galaxy",
+      "away": "DC United",
+      "score": "5-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "23'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "38'",
+          "player": "Alan Gordon",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Peter Vagenas",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "1'",
+          "player": "Devon McTavish",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "48'",
+          "player": "Thabiso Khumalo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "63'",
+          "player": "Marc Burch",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-21 03:00",
+      "home": "Real Salt Lake",
+      "away": "CD Chivas USA",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "72'",
+          "player": "Alecko Eskandarian",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-21 03:00",
+      "home": "Colorado Rapids",
+      "away": "New England Rev.",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "42'",
+          "player": "Colin Clark",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "50'",
+          "player": "Kenny Mansally",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-21 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Toronto FC",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "62'",
+          "player": "Jack Jewsbury",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Kevin Souter",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-19 01:00",
+      "home": "Columbus Crew",
+      "away": "New York Red Bulls",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "41'",
+          "player": "Frankie Hejduk",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "46'",
+          "player": "Robbie Rogers",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "85'",
+          "player": "Eddie Gaven",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "21'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Kevin Goldthwaite",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-14 21:00",
+      "home": "Colorado Rapids",
+      "away": "Chicago Fire",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Jon Busch",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Omar Cummings",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-14 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Houston Dynamo",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Ronnie O'Brien",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "70'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "85'",
+          "player": "Eddie Robinson",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-14 01:30",
+      "home": "DC United",
+      "away": "FC Dallas",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Santino Quaranta",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "10'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "80'",
+          "player": "Guerreiro André Rocha",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-14 01:30",
+      "home": "New York Red Bulls",
+      "away": "Real Salt Lake",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "64'",
+          "player": "Dave van den Bergh",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "38'",
+          "player": "Yura Movsisyan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-13 23:00",
+      "home": "Kansas City Wizards",
+      "away": "L.A. Galaxy",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "66'",
+          "player": "Josh Wolff",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Davy Arnaud",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-13 21:30",
+      "home": "Toronto FC",
+      "away": "Columbus Crew",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Carl Robinson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "40'",
+          "player": "Pat Noonan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-12 01:00",
+      "home": "New England Rev.",
+      "away": "CD Chivas USA",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "53'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Jeff Larentowicz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Steve Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Khano Smith",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-07 21:00",
+      "home": "Houston Dynamo",
+      "away": "Kansas City Wizards",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Brad Davis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Nate Jaqua",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Nate Jaqua",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "87'",
+          "player": "Davy Arnaud",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-07 04:30",
+      "home": "L.A. Galaxy",
+      "away": "Real Salt Lake",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Bryan Jordan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "21'",
+          "player": "Yura Movsisyan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "52'",
+          "player": "Will Johnson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-07 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "DC United",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "18'",
+          "player": "Arturo Alvarez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "62'",
+          "player": "Darren Huckerby",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "76'",
+          "player": "Santino Quaranta",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-07 02:30",
+      "home": "Chicago Fire",
+      "away": "New York Red Bulls",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "36'",
+          "player": "Stephen King",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-07 01:30",
+      "home": "Columbus Crew",
+      "away": "New England Rev.",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "40'",
+          "player": "Schelotto Guillermo Barros",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Andy Iro",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Jason Garey",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Jason Garey",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-06 22:00",
+      "home": "Toronto FC",
+      "away": "CD Chivas USA",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "30'",
+          "player": "Tyler Rosenlund",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Marco Velez",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "40'",
+          "player": "Daniel Paladini",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Alecko Eskandarian",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "58'",
+          "player": "Jonathan Bornstein",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Ante Razov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-05 02:30",
+      "home": "FC Dallas",
+      "away": "Colorado Rapids",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Mike Petke",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-09-01 01:00",
+      "home": "Houston Dynamo",
+      "away": "Chicago Fire",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "7'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "39'",
+          "player": "Brian Mullan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "5'",
+          "player": "Brian McBride",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-31 04:30",
+      "home": "CD Chivas USA",
+      "away": "Toronto FC",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "20'",
+          "player": "Alecko Eskandarian",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Atiba Harris",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "19'",
+          "player": "Jim Brennan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-31 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Kansas City Wizards",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Arturo Alvarez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Darren Huckerby",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "64'",
+          "player": "Davy Arnaud",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-31 03:00",
+      "home": "FC Dallas",
+      "away": "Columbus Crew",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "38'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "41'",
+          "player": "Eddie Gaven",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-31 01:30",
+      "home": "New England Rev.",
+      "away": "L.A. Galaxy",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "22'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Shalrie Joseph",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "34'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-31 01:30",
+      "home": "DC United",
+      "away": "New York Red Bulls",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-30 03:00",
+      "home": "Real Salt Lake",
+      "away": "Colorado Rapids",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "23'",
+          "player": "Fabian Espindola",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "59'",
+          "player": "Fabian Espindola",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-24 21:00",
+      "home": "New York Red Bulls",
+      "away": "Houston Dynamo",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Dane Richards",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Mike Magee",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-24 04:30",
+      "home": "CD Chivas USA",
+      "away": "San Jose Earthquakes",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-24 02:00",
+      "home": "Kansas City Wizards",
+      "away": "FC Dallas",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Jimmy Conrad",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "7'",
+          "player": "Guerreiro André Rocha",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "62'",
+          "player": "Pablo Javier Ricchetti",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-24 01:30",
+      "home": "Columbus Crew",
+      "away": "Real Salt Lake",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "15'",
+          "player": "Chad Marshall",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Schelotto Guillermo Barros",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Brad Evans",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-24 01:30",
+      "home": "Toronto FC",
+      "away": "New England Rev.",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "66'",
+          "player": "Chad Barrett",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "35'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-24 01:30",
+      "home": "DC United",
+      "away": "Colorado Rapids",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Joe Vide",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Santino Quaranta",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Quavas Kirk",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-22 04:30",
+      "home": "L.A. Galaxy",
+      "away": "Chicago Fire",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "65'",
+          "player": "John Thorrington",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-21 03:00",
+      "home": "Houston Dynamo",
+      "away": "CD Chivas USA",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "12'",
+          "player": "Stuart Holden",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "23'",
+          "player": "Kei Kamara",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Nate Jaqua",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Kei Kamara",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-21 01:30",
+      "home": "New England Rev.",
+      "away": "DC United",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "24'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Jeff Larentowicz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "69'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-17 23:00",
+      "home": "New York Red Bulls",
+      "away": "Toronto FC",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "37'",
+          "player": "Mike Magee",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "46'",
+          "player": "Gabriel Cichero",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-17 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "New England Rev.",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "11'",
+          "player": "Ronnie O'Brien",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Ryan Johnson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "player": "Scott Sealy",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Ronnie O'Brien",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-17 03:30",
+      "home": "Colorado Rapids",
+      "away": "Kansas City Wizards",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "11'",
+          "player": "Conor Casey",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "47'",
+          "player": "Conor Casey",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "44'",
+          "player": "Michael Harrington",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-17 02:30",
+      "home": "Houston Dynamo",
+      "away": "Real Salt Lake",
+      "score": "4-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "16'",
+          "player": "Brian Mullan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "29'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Ricardo Clark",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "41'",
+          "player": "Nate Jaqua",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "3'",
+          "player": "Yura Movsisyan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "25'",
+          "player": "Javier Damian Morales",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "80'",
+          "player": "Kenny Deuchar",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-17 02:30",
+      "home": "Chicago Fire",
+      "away": "DC United",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "28'",
+          "player": "Helbert Frederico Carreiro da Silva Fred",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-17 01:30",
+      "home": "Columbus Crew",
+      "away": "FC Dallas",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "62'",
+          "player": "Brian Carroll",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Brad Evans",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "35'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-15 05:00",
+      "home": "CD Chivas USA",
+      "away": "L.A. Galaxy",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "50'",
+          "player": "Atiba Harris",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "63'",
+          "player": "Paulo Nagamura",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "8'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Alan Gordon",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-10 23:00",
+      "home": "New York Red Bulls",
+      "away": "DC United",
+      "score": "4-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Mike Magee",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "50'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Sinisa Ubiparipovic",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "16'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-10 02:00",
+      "home": "Kansas City Wizards",
+      "away": "CD Chivas USA",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "22'",
+          "player": "Sasha Victorine",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Claudio Lopez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "59'",
+          "player": "Davy Arnaud",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "73'",
+          "player": "Carey Talley",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "83'",
+          "player": "Justin Braun",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-10 01:30",
+      "home": "New England Rev.",
+      "away": "Chicago Fire",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "3'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "74'",
+          "player": "Shalrie Joseph",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "81'",
+          "player": "Gonzalo Segares",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "Wilman Conde",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-09 22:00",
+      "home": "Colorado Rapids",
+      "away": "Toronto FC",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "70'",
+          "player": "Colin Clark",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "44'",
+          "player": "Chad Barrett",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-03 22:00",
+      "home": "Toronto FC",
+      "away": "FC Dallas",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "79'",
+          "player": "Amado Guevara",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "Marco Velez",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "82'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-03 21:00",
+      "home": "San Jose Earthquakes",
+      "away": "L.A. Galaxy",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "7'",
+          "player": "Arturo Alvarez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "40'",
+          "player": "Darren Huckerby",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Ryan Cochrane",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "42'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "76'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-03 02:30",
+      "home": "Houston Dynamo",
+      "away": "Columbus Crew",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "13'",
+          "player": "Brad Davis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "43'",
+          "player": "Brian Ching",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-03 02:30",
+      "home": "Chicago Fire",
+      "away": "CD Chivas USA",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "16'",
+          "player": "Patrick Nyarko",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-08-03 01:30",
+      "home": "DC United",
+      "away": "Kansas City Wizards",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-07-29 03:00",
+      "home": "Real Salt Lake",
+      "away": "Toronto FC",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "63'",
+          "player": "Jamison Olave",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Robbie Findley",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "84'",
+          "player": "Amado Guevara",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-07-28 03:30",
+      "home": "Colorado Rapids",
+      "away": "Columbus Crew",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "21'",
+          "player": "Steven Lenhart",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "42'",
+          "player": "Steven Lenhart",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "75'",
+          "player": "Jason Garey",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-07-28 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Chicago Fire",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-07-28 01:00",
+      "home": "FC Dallas",
+      "away": "L.A. Galaxy",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "15'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "17'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "37'",
+          "player": "Dominic Oduro",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Abe Thompson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-07-27 21:00",
+      "home": "San Jose Earthquakes",
+      "away": "New York Red Bulls",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "13'",
+          "player": "Darren Huckerby",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "4'",
+          "player": "Eric Denton",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-07-24 01:30",
+      "home": "DC United",
+      "away": "Houston Dynamo",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Gonzalo Martinez",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "20'",
+          "player": "Brian Mullan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "79'",
+          "player": "Brian Ching",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-07-20 02:30",
+      "home": "FC Dallas",
+      "away": "Colorado Rapids",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "64'",
+          "player": "Juan Carlos Toja",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "5'",
+          "player": "Herculez Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "player": "Conor Casey",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-07-20 02:30",
+      "home": "Chicago Fire",
+      "away": "Real Salt Lake",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-07-20 00:30",
+      "home": "New York Red Bulls",
+      "away": "L.A. Galaxy",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Dave van den Bergh",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "29'",
+          "player": "Carlos Ruiz",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-07-19 21:00",
+      "home": "Toronto FC",
+      "away": "San Jose Earthquakes",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-07-18 02:00",
+      "home": "Columbus Crew",
+      "away": "Kansas City Wizards",
+      "score": "3-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Schelotto Guillermo Barros",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "38'",
+          "player": "Chad Marshall",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "22'",
+          "player": "Frankie Hejduk",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "24'",
+          "player": "Roger Espinoza",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "75'",
+          "player": "Josh Wolff",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-07-13 03:00",
+      "home": "Real Salt Lake",
+      "away": "Columbus Crew",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Javier Damian Morales",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Robbie Findley",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-07-13 02:30",
+      "home": "Chicago Fire",
+      "away": "Toronto FC",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "5'",
+          "player": "Chris Rolfe",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "John Thorrington",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "62'",
+          "player": "Abdus Ibrahim",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-07-12 22:00",
+      "home": "San Jose Earthquakes",
+      "away": "Colorado Rapids",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "62'",
+          "player": "Ryan Johnson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "70'",
+          "player": "Conor Casey",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-07-11 05:20",
+      "home": "L.A. Galaxy",
+      "away": "CD Chivas USA",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Ante Razov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-07-11 02:00",
+      "home": "Kansas City Wizards",
+      "away": "New York Red Bulls",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "11'",
+          "player": "Jimmy Conrad",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "47'",
+          "player": "Davy Arnaud",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "71'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-07-06 04:30",
+      "home": "CD Chivas USA",
+      "away": "San Jose Earthquakes",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Ante Razov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-07-06 02:00",
+      "home": "Columbus Crew",
+      "away": "Chicago Fire",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Emmanuel Ekpo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Steven Lenhart",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "8'",
+          "player": "Chris Rolfe",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "25'",
+          "player": "Calen Carr",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-07-05 04:30",
+      "home": "L.A. Galaxy",
+      "away": "New England Rev.",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "66'",
+          "player": "David Beckham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "33'",
+          "player": "Adam Cristman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "37'",
+          "player": "Adam Cristman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-07-05 03:30",
+      "home": "Colorado Rapids",
+      "away": "New York Red Bulls",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "24'",
+          "player": "Thomas McManus",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "36'",
+          "player": "Mehdi Ballouchy",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Colin Clark",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Omar Cummings",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-07-05 01:00",
+      "home": "FC Dallas",
+      "away": "Kansas City Wizards",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Abe Thompson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "39'",
+          "player": "Scott Sealy",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-07-04 04:00",
+      "home": "Real Salt Lake",
+      "away": "Houston Dynamo",
+      "score": "0-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Chris Wingert",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-29 18:00",
+      "home": "DC United",
+      "away": "L.A. Galaxy",
+      "score": "4-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "5'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "37'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Marcelo Gallardo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "26'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-29 04:30",
+      "home": "CD Chivas USA",
+      "away": "New York Red Bulls",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Ante Razov",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "27'",
+          "player": "Dave van den Bergh",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-29 02:30",
+      "home": "Chicago Fire",
+      "away": "San Jose Earthquakes",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-29 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Real Salt Lake",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Tony Beltran",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-29 01:30",
+      "home": "New England Rev.",
+      "away": "Toronto FC",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "12'",
+          "player": "Steve Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "59'",
+          "player": "Steve Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "78'",
+          "player": "Shalrie Joseph",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-29 01:30",
+      "home": "Columbus Crew",
+      "away": "Colorado Rapids",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "53'",
+          "player": "Schelotto Guillermo Barros",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "70'",
+          "player": "Emmanuel Ekpo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Nick LaBrocca",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-27 03:00",
+      "home": "Houston Dynamo",
+      "away": "FC Dallas",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "62'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-22 21:00",
+      "home": "DC United",
+      "away": "San Jose Earthquakes",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "50'",
+          "player": "Clyde Simms",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Gonzalo Martinez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "51'",
+          "player": "John Cunliffe",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "83'",
+          "player": "James Riley",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-22 04:30",
+      "home": "L.A. Galaxy",
+      "away": "Columbus Crew",
+      "score": "3-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "47'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "player": "Brad Evans",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "71'",
+          "player": "Schelotto Guillermo Barros",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Steven Lenhart",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-22 03:30",
+      "home": "Real Salt Lake",
+      "away": "New England Rev.",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "11'",
+          "player": "Jay Heaps",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Tino Nunez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "9'",
+          "player": "Adam Cristman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-22 03:30",
+      "home": "Colorado Rapids",
+      "away": "Houston Dynamo",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-22 01:30",
+      "home": "New York Red Bulls",
+      "away": "FC Dallas",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "16'",
+          "player": "Kevin Goldthwaite",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-21 21:30",
+      "home": "Toronto FC",
+      "away": "Kansas City Wizards",
+      "score": "0-0",
+      "events": [
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Roger Espinoza",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-20 04:30",
+      "home": "CD Chivas USA",
+      "away": "Chicago Fire",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Sacha Kljestan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "32'",
+          "player": "Justin Braun",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Paulo Nagamura",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-19 03:00",
+      "home": "Real Salt Lake",
+      "away": "San Jose Earthquakes",
+      "score": "0-0",
+      "events": [
+        {
+          "team": "away",
+          "time": "44'",
+          "player": "Jason Hernandez",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-19 01:30",
+      "home": "New England Rev.",
+      "away": "New York Red Bulls",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "79'",
+          "player": "Steve Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "37'",
+          "player": "Seth Stammler",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-15 21:00",
+      "home": "FC Dallas",
+      "away": "Chicago Fire",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "17'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-15 04:30",
+      "home": "CD Chivas USA",
+      "away": "Real Salt Lake",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "34'",
+          "player": "Robbie Findley",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-15 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "L.A. Galaxy",
+      "score": "0-3",
+      "events": [
+        {
+          "team": "away",
+          "time": "6'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "63'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "68'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-15 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Columbus Crew",
+      "score": "0-3",
+      "events": [
+        {
+          "team": "away",
+          "time": "3'",
+          "player": "Chad Marshall",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "20'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-15 01:30",
+      "home": "DC United",
+      "away": "New York Red Bulls",
+      "score": "4-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "23'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Clyde Simms",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "59'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "54'",
+          "player": "Dave van den Bergh",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-15 01:00",
+      "home": "Toronto FC",
+      "away": "Colorado Rapids",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "37'",
+          "player": "Daniele Dichio",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "58'",
+          "player": "Rohan Ricketts",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Rohan Ricketts",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "80'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-13 03:30",
+      "home": "Houston Dynamo",
+      "away": "New England Rev.",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "8'",
+          "player": "Steve Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "35'",
+          "player": "Kheli Dube",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-09 02:30",
+      "home": "Houston Dynamo",
+      "away": "Toronto FC",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "53'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "71'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-08 04:30",
+      "home": "L.A. Galaxy",
+      "away": "Colorado Rapids",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Alvaro Pires",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "32'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Alan Gordon",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Ely Allen",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Facundo Erpen",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "73'",
+          "player": "Colin Clark",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "82'",
+          "player": "Herculez Gomez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-08 03:00",
+      "home": "Real Salt Lake",
+      "away": "Kansas City Wizards",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-08 02:30",
+      "home": "Chicago Fire",
+      "away": "DC United",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "27'",
+          "player": "Chad Barrett",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Brandon Prideaux",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Marcelo Gallardo",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "63'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Bryan Namoff",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-08 01:30",
+      "home": "Columbus Crew",
+      "away": "San Jose Earthquakes",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Brad Evans",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "10'",
+          "player": "Ryan Johnson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "60'",
+          "player": "Ramiro Corrales",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "85'",
+          "player": "James Riley",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-07 00:30",
+      "home": "New England Rev.",
+      "away": "FC Dallas",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Adam Cristman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "22'",
+          "player": "Steve Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Arturo Alvarez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-06 01:30",
+      "home": "New York Red Bulls",
+      "away": "CD Chivas USA",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-01 21:00",
+      "home": "Colorado Rapids",
+      "away": "FC Dallas",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "7'",
+          "player": "Conor Casey",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Thomas McManus",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "44'",
+          "player": "Dominic Oduro",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-01 04:30",
+      "home": "CD Chivas USA",
+      "away": "Columbus Crew",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "20'",
+          "player": "Jorge Villafana",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Jesse Marsch",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "22'",
+          "player": "Danny O Rourke",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-01 03:00",
+      "home": "Real Salt Lake",
+      "away": "San Jose Earthquakes",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "48'",
+          "player": "Robbie Findley",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Javier Damian Morales",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "73'",
+          "player": "Dema Kovalenko",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "84'",
+          "player": "John Cunliffe",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-06-01 02:30",
+      "home": "Houston Dynamo",
+      "away": "New York Red Bulls",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "68'",
+          "player": "Brian Ching",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-31 21:30",
+      "home": "Toronto FC",
+      "away": "L.A. Galaxy",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Julius James",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-30 01:30",
+      "home": "New England Rev.",
+      "away": "DC United",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "59'",
+          "player": "Adam Cristman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Kheli Dube",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "53'",
+          "player": "Helbert Frederico Carreiro da Silva Fred",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-29 02:30",
+      "home": "FC Dallas",
+      "away": "Houston Dynamo",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Drew Moor",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Guerreiro André Rocha",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Corey Ashe",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "80'",
+          "player": "Eddie Robinson",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-25 21:00",
+      "home": "New York Red Bulls",
+      "away": "Chicago Fire",
+      "score": "1-5",
+      "events": [
+        {
+          "team": "home",
+          "time": "74'",
+          "player": "Jozy Altidore",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "8'",
+          "player": "Chad Barrett",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "48'",
+          "player": "Chris Rolfe",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Cuauhtemoc Blanco",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "60'",
+          "player": "Chad Barrett",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "62'",
+          "player": "Gonzalo Segares",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-25 04:30",
+      "home": "L.A. Galaxy",
+      "away": "Kansas City Wizards",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "74'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "David Beckham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "40'",
+          "player": "Claudio Lopez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-25 03:30",
+      "home": "Colorado Rapids",
+      "away": "CD Chivas USA",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Thomas McManus",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Jesse Marsch",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "79'",
+          "player": "Jorge Villafana",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-25 02:30",
+      "home": "FC Dallas",
+      "away": "Real Salt Lake",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Bobby Rhine",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Dominic Oduro",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Dominic Oduro",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "38'",
+          "player": "Ian Paul Joy",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "69'",
+          "player": "Fabian Espindola",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-25 01:30",
+      "home": "Columbus Crew",
+      "away": "New England Rev.",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Kheli Dube",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-25 01:30",
+      "home": "DC United",
+      "away": "Toronto FC",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "41'",
+          "player": "Gonzalo Peralta",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "70'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "12'",
+          "player": "Daniele Dichio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Daniele Dichio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Laurent Robert",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-23 04:30",
+      "home": "San Jose Earthquakes",
+      "away": "Houston Dynamo",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Kei Kamara",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Ivan Guerrero",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Brian Ching",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-22 01:30",
+      "home": "Toronto FC",
+      "away": "DC United",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "7'",
+          "player": "Daniele Dichio",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-18 21:00",
+      "home": "FC Dallas",
+      "away": "L.A. Galaxy",
+      "score": "1-5",
+      "events": [
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Dominic Oduro",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "player": "Adrian Serioux",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "25'",
+          "player": "Chris Klein",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "31'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "34'",
+          "player": "Duilio Davino",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "39'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "85'",
+          "player": "Edson Buddle",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-18 04:30",
+      "home": "CD Chivas USA",
+      "away": "DC United",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "73'",
+          "player": "Jesse Marsch",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "player": "Sacha Kljestan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Jorge Villafana",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "30'",
+          "player": "Marcelo Gallardo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-18 02:30",
+      "home": "Chicago Fire",
+      "away": "Houston Dynamo",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Chad Barrett",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Ricardo Clark",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "82'",
+          "player": "Bobby Boswell",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-18 01:30",
+      "home": "New York Red Bulls",
+      "away": "Kansas City Wizards",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Dave van den Bergh",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Danleigh Borman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "20'",
+          "player": "Jimmy Conrad",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-18 01:30",
+      "home": "New England Rev.",
+      "away": "San Jose Earthquakes",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "5'",
+          "player": "Kheli Dube",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "24'",
+          "player": "James Riley",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-17 22:00",
+      "home": "Toronto FC",
+      "away": "Columbus Crew",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-16 03:30",
+      "home": "Colorado Rapids",
+      "away": "Real Salt Lake",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Omar Cummings",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-11 21:00",
+      "home": "CD Chivas USA",
+      "away": "New England Rev.",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Justin Braun",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "18'",
+          "player": "Kenny Mansally",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Taylor Twellman",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-11 04:30",
+      "home": "L.A. Galaxy",
+      "away": "New York Red Bulls",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Alan Gordon",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "21'",
+          "player": "Danleigh Borman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "78'",
+          "player": "Juan Pablo Angel",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-11 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "Columbus Crew",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "42'",
+          "player": "Ramiro Corrales",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Ryan Johnson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "73'",
+          "player": "Robbie Rogers",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "81'",
+          "player": "Robbie Rogers",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "83'",
+          "player": "Brad Evans",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-11 03:00",
+      "home": "Real Salt Lake",
+      "away": "FC Dallas",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Javier Damian Morales",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "73'",
+          "player": "Kyle Beckerman",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "56'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-11 02:30",
+      "home": "Houston Dynamo",
+      "away": "Colorado Rapids",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "43'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "89'",
+          "player": "Dwayne De Rosario",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "68'",
+          "player": "Omar Cummings",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-09 02:00",
+      "home": "DC United",
+      "away": "Chicago Fire",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "38'",
+          "player": "Justin Mapp",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "62'",
+          "player": "Cuauhtemoc Blanco",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-04 21:00",
+      "home": "Colorado Rapids",
+      "away": "DC United",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "52'",
+          "player": "Jacob Peterson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Facundo Erpen",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-04 04:00",
+      "home": "San Jose Earthquakes",
+      "away": "FC Dallas",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-04 03:00",
+      "home": "Real Salt Lake",
+      "away": "L.A. Galaxy",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "6'",
+          "player": "Fabian Espindola",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "18'",
+          "player": "Kenny Deuchar",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "36'",
+          "player": "David Beckham",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "40'",
+          "player": "David Beckham",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-04 02:30",
+      "home": "Houston Dynamo",
+      "away": "CD Chivas USA",
+      "score": "0-0",
+      "events": [
+        {
+          "team": "away",
+          "time": "82'",
+          "player": "Claudio Suarez",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-04 01:30",
+      "home": "New England Rev.",
+      "away": "Chicago Fire",
+      "score": "0-3",
+      "events": [
+        {
+          "team": "away",
+          "time": "29'",
+          "player": "Chris Rolfe",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "50'",
+          "player": "John Thorrington",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "76'",
+          "player": "Stephen King",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-04 01:30",
+      "home": "Columbus Crew",
+      "away": "Kansas City Wizards",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Adam Moffat",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Robbie Rogers",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "36'",
+          "player": "Roger Espinoza",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "79'",
+          "player": "Claudio Lopez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-05-02 01:00",
+      "home": "Toronto FC",
+      "away": "New York Red Bulls",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "22'",
+          "player": "Marco Velez",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "39'",
+          "player": "Dave van den Bergh",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-27 21:00",
+      "home": "New York Red Bulls",
+      "away": "San Jose Earthquakes",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "79'",
+          "player": "Mike Magee",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Jozy Altidore",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-27 04:30",
+      "home": "L.A. Galaxy",
+      "away": "CD Chivas USA",
+      "score": "5-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "18'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "59'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "player": "Alan Gordon",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "Alan Gordon",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "37'",
+          "player": "Sacha Kljestan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "62'",
+          "player": "Ante Razov",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-27 02:30",
+      "home": "Chicago Fire",
+      "away": "Colorado Rapids",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "53'",
+          "player": "John Thorrington",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "John Thorrington",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "Thomas McManus",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-27 01:30",
+      "home": "Columbus Crew",
+      "away": "Houston Dynamo",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "22'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-27 01:30",
+      "home": "DC United",
+      "away": "Real Salt Lake",
+      "score": "4-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "30'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "52'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Santino Quaranta",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Marcelo Gallardo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "77'",
+          "player": "Carey Talley",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-26 21:30",
+      "home": "Toronto FC",
+      "away": "Kansas City Wizards",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Amado Guevara",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Amado Guevara",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-25 02:30",
+      "home": "FC Dallas",
+      "away": "New England Rev.",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "72'",
+          "player": "Khano Smith",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-21 02:00",
+      "home": "CD Chivas USA",
+      "away": "FC Dallas",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "4'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "80'",
+          "player": "Abe Thompson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-20 21:00",
+      "home": "Chicago Fire",
+      "away": "Kansas City Wizards",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "4'",
+          "player": "Jack Jewsbury",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-20 04:30",
+      "home": "L.A. Galaxy",
+      "away": "Houston Dynamo",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "36'",
+          "player": "Brad Davis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "78'",
+          "player": "Franco Caraccio",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-20 03:30",
+      "home": "Colorado Rapids",
+      "away": "San Jose Earthquakes",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "away",
+          "time": "43'",
+          "player": "Ronnie O'Brien",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "61'",
+          "player": "Kei Kamara",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-20 01:30",
+      "home": "New York Red Bulls",
+      "away": "New England Rev.",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "30'",
+          "player": "Jozy Altidore",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "46'",
+          "player": "Mauricio Castro",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "56'",
+          "player": "Jeff Larentowicz",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-19 18:30",
+      "home": "Toronto FC",
+      "away": "Real Salt Lake",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "31'",
+          "player": "Laurent Robert",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-18 02:00",
+      "home": "DC United",
+      "away": "Columbus Crew",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "42'",
+          "player": "Bryan Namoff",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "32'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "43'",
+          "player": "Gonzalo Peralta",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-13 21:00",
+      "home": "L.A. Galaxy",
+      "away": "Toronto FC",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "43'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "58'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "42'",
+          "player": "Daniele Dichio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "53'",
+          "player": "Jarrod Smith",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Jeff Cunningham",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-13 03:00",
+      "home": "Real Salt Lake",
+      "away": "DC United",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "12'",
+          "player": "Kyle Beckerman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "19'",
+          "player": "Fabian Espindola",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Kyle Beckerman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Robbie Findley",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-13 02:30",
+      "home": "FC Dallas",
+      "away": "New York Red Bulls",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "1'",
+          "player": "Arturo Alvarez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "66'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-13 02:00",
+      "home": "Kansas City Wizards",
+      "away": "Houston Dynamo",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-13 01:30",
+      "home": "Columbus Crew",
+      "away": "CD Chivas USA",
+      "score": "4-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "26'",
+          "player": "Schelotto Guillermo Barros",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Robbie Rogers",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "player": "Robbie Rogers",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "33'",
+          "player": "Sacha Kljestan",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "72'",
+          "player": "Jesse Marsch",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "78'",
+          "player": "Paulo Nagamura",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "83'",
+          "player": "Francisco Mendoza",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "84'",
+          "player": "Sacha Kljestan",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-13 01:30",
+      "home": "New England Rev.",
+      "away": "Colorado Rapids",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "68'",
+          "player": "Nick LaBrocca",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-12 22:30",
+      "home": "San Jose Earthquakes",
+      "away": "Chicago Fire",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "away",
+          "time": "19'",
+          "player": "Chad Barrett",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-10 02:00",
+      "home": "Kansas City Wizards",
+      "away": "New England Rev.",
+      "score": "1-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Jack Jewsbury",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "13'",
+          "player": "Jack Jewsbury",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "34'",
+          "player": "Sainey Nyassi",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "40'",
+          "player": "Kenny Mansally",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-06 21:00",
+      "home": "Houston Dynamo",
+      "away": "FC Dallas",
+      "score": "3-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Franco Caraccio",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Brian Ching",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Geoff Cameron",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "35'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "44'",
+          "player": "Kenny Cooper",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "56'",
+          "player": "Arturo Alvarez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-06 04:30",
+      "home": "CD Chivas USA",
+      "away": "Real Salt Lake",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "33'",
+          "player": "Sacha Kljestan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Atiba Harris",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Alecko Eskandarian",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "57'",
+          "player": "Kenny Deuchar",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-06 01:30",
+      "home": "New York Red Bulls",
+      "away": "Columbus Crew",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "1'",
+          "player": "Dave van den Bergh",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "10'",
+          "player": "Kevin Goldthwaite",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Jeff Parke",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-06 01:30",
+      "home": "DC United",
+      "away": "Toronto FC",
+      "score": "4-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "1'",
+          "player": "Luciano Emilio",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "5'",
+          "player": "Santino Quaranta",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "52'",
+          "player": "Marcelo Gallardo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "78'",
+          "player": "Jaime Moreno",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "21'",
+          "player": "Kevin Harmse",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Maurice Edu",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-05 23:00",
+      "home": "Kansas City Wizards",
+      "away": "Colorado Rapids",
+      "score": "3-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "52'",
+          "player": "Jimmy Conrad",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "54'",
+          "player": "Jimmy Conrad",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Scott Sealy",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "57'",
+          "player": "Jose Burciaga Jr.",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "68'",
+          "player": "John Di Raimondo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-04 04:30",
+      "home": "L.A. Galaxy",
+      "away": "San Jose Earthquakes",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "9'",
+          "player": "David Beckham",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "37'",
+          "player": "Landon Donovan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-04-04 02:30",
+      "home": "Chicago Fire",
+      "away": "New England Rev.",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "4'",
+          "player": "Chad Barrett",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "22'",
+          "player": "Tomasz Frankowski",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "36'",
+          "player": "Cuauhtemoc Blanco",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "38'",
+          "player": "Tomasz Frankowski",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "7'",
+          "player": "Jeff Larentowicz",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-03-30 21:00",
+      "home": "FC Dallas",
+      "away": "CD Chivas USA",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Juan Carlos Toja",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "82'",
+          "player": "Maykel Galindo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-03-30 03:30",
+      "home": "Colorado Rapids",
+      "away": "L.A. Galaxy",
+      "score": "4-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "10'",
+          "player": "Terry Cooke",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "59'",
+          "player": "Christian Gomez",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "66'",
+          "player": "Omar Cummings",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Colin Clark",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Ciaran O'Brien",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Abel Xavier",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-03-30 01:00",
+      "home": "Kansas City Wizards",
+      "away": "DC United",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "47'",
+          "player": "Ivan Rodrigo Trujillo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "61'",
+          "player": "Claudio Lopez",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-03-30 00:30",
+      "home": "New England Rev.",
+      "away": "Houston Dynamo",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "16'",
+          "player": "Steve Ralston",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "32'",
+          "player": "Adam Cristman",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Sainey Nyassi",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-03-29 23:00",
+      "home": "Real Salt Lake",
+      "away": "Chicago Fire",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Bakary Soumare",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Cuauhtemoc Blanco",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2008-03-29 21:00",
+      "home": "Columbus Crew",
+      "away": "Toronto FC",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "27'",
+          "player": "Adam Moffat",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "player": "Alejandro Moreno",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    }
+  ]
+}
