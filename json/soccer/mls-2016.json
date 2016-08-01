@@ -47088,6 +47088,2849 @@
           ]
         }
       }
+    },
+    {
+      "date": "2016-08-01 03:05",
+      "home": "Houston Dynamo",
+      "away": "San Jose Earthquakes",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "17'",
+          "player": "Kenny Mansally",
+          "type": "card-y"
+        },
+        {
+          "team": "home",
+          "time": "40'",
+          "player": "Alex",
+          "type": "card-y"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Alex",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "61'",
+          "out": "Collen Warner",
+          "in": "Eric Alexander",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "72'",
+          "out": "Will Bruin",
+          "in": "Mauro Manotas",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "out": "Ricardo A. Clark",
+          "in": "Andrew Wenger",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "player": "Chris Wondolowski",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "73'",
+          "out": "Alberto Quintero",
+          "in": "Shea Salinas",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "83'",
+          "out": "Quincy Amarikwa",
+          "in": "Chad Barrett",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "87'",
+          "out": "Simon Dawkins",
+          "in": "Andres Roberto Imperiale",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Jordan Stewart",
+          "type": "card-y"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "31",
+              "name": "Joe Willis"
+            },
+            {
+              "number": "2",
+              "name": "Jalil Anibaba"
+            },
+            {
+              "number": "18",
+              "name": "David Horst"
+            },
+            {
+              "number": "20",
+              "name": "Kenny Mansally"
+            },
+            {
+              "number": "22",
+              "name": "Sheanon Williams"
+            },
+            {
+              "number": "13",
+              "name": "Ricardo A. Clark"
+            },
+            {
+              "number": "14",
+              "name": " Alex"
+            },
+            {
+              "number": "27",
+              "name": "Boniek Garcia"
+            },
+            {
+              "number": "8",
+              "name": "Cristian Maidana"
+            },
+            {
+              "number": "26",
+              "name": "Collen Warner"
+            },
+            {
+              "number": "12",
+              "name": "Will Bruin"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "6",
+              "name": "Eric Alexander"
+            },
+            {
+              "number": "24",
+              "name": "Calle Brown"
+            },
+            {
+              "number": "3",
+              "name": "Rob Lovejoy"
+            },
+            {
+              "number": "29",
+              "name": "Christian Lucatero"
+            },
+            {
+              "number": "19",
+              "name": "Mauro Manotas"
+            },
+            {
+              "number": "11",
+              "name": "Andrew Wenger"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "1",
+              "name": "David Bingham"
+            },
+            {
+              "number": "5",
+              "name": "Victor Bernardez"
+            },
+            {
+              "number": "7",
+              "name": "Cordell Cato"
+            },
+            {
+              "number": "3",
+              "name": "Jordan Stewart"
+            },
+            {
+              "number": "4",
+              "name": "Marvell Wynne"
+            },
+            {
+              "number": "27",
+              "name": "Fatai Alashe"
+            },
+            {
+              "number": "30",
+              "name": "Anibal Cesis Godoy"
+            },
+            {
+              "number": "49",
+              "name": "Simon Dawkins"
+            },
+            {
+              "number": "91",
+              "name": "Alberto Quintero"
+            },
+            {
+              "number": "25",
+              "name": "Quincy Amarikwa"
+            },
+            {
+              "number": "8",
+              "name": "Chris Wondolowski"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "19",
+              "name": "Chad Barrett"
+            },
+            {
+              "number": "20",
+              "name": "Shaun Francis"
+            },
+            {
+              "number": "10",
+              "name": "Matias Perez Garcia"
+            },
+            {
+              "number": "32",
+              "name": "Andres Roberto Imperiale"
+            },
+            {
+              "number": "6",
+              "name": "Shea Salinas"
+            },
+            {
+              "number": "28",
+              "name": "Andrew Tarbell"
+            },
+            {
+              "number": "22",
+              "name": "Tommy Thompson"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-08-01 01:40",
+      "home": "Orlando City",
+      "away": "New England Rev.",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "46'",
+          "out": "Hadji Barry",
+          "in": "Brek Shea",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "46'",
+          "player": "Cyle Larin",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "64'",
+          "player": "Kevin Molino",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "78'",
+          "out": "Antonio Nocerino",
+          "in": "Cristian Higuita",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "player": "Cristian Higuita",
+          "type": "card-y"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "player": "Kevin Molino",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "85'",
+          "out": " Kaka",
+          "in": "Darwin Ceren",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "18'",
+          "player": "Scott Caldwell",
+          "type": "card-y"
+        },
+        {
+          "team": "away",
+          "time": "19'",
+          "player": "Kei Ansu Kamara",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "62'",
+          "out": "Chris Tierney",
+          "in": "Gershon Koffie",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "69'",
+          "out": "Teal Bunbury",
+          "in": "Diego Fagundez",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "75'",
+          "out": "Scott Caldwell",
+          "in": "Charlie Davies",
+          "type": "substitution"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "1",
+              "name": "Joe Bendik"
+            },
+            {
+              "number": "12",
+              "name": "Kevin Alston"
+            },
+            {
+              "number": "14",
+              "name": "Luke Boden"
+            },
+            {
+              "number": "3",
+              "name": "Seb Hines"
+            },
+            {
+              "number": "44",
+              "name": "David Mateos"
+            },
+            {
+              "number": "13",
+              "name": "Hadji Barry"
+            },
+            {
+              "number": "5",
+              "name": "Servando Carrasco"
+            },
+            {
+              "number": "10",
+              "name": " Kaka"
+            },
+            {
+              "number": "18",
+              "name": "Kevin Molino"
+            },
+            {
+              "number": "22",
+              "name": "Antonio Nocerino"
+            },
+            {
+              "number": "9",
+              "name": "Cyle Larin"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "4",
+              "name": "Jose Aja"
+            },
+            {
+              "number": "19",
+              "name": "Julio Baptista"
+            },
+            {
+              "number": "17",
+              "name": "Darwin Ceren"
+            },
+            {
+              "number": "36",
+              "name": "Earl Edwards Jr."
+            },
+            {
+              "number": "7",
+              "name": "Cristian Higuita"
+            },
+            {
+              "number": "11",
+              "name": "Carlos Rivas"
+            },
+            {
+              "number": "20",
+              "name": "Brek Shea"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "22",
+              "name": "Bobby Shuttleworth"
+            },
+            {
+              "number": "2",
+              "name": "Andrew Farrell"
+            },
+            {
+              "number": "23",
+              "name": "Jose Goncalves"
+            },
+            {
+              "number": "8",
+              "name": "Chris Tierney"
+            },
+            {
+              "number": "28",
+              "name": "London Woodberry"
+            },
+            {
+              "number": "10",
+              "name": "Teal Bunbury"
+            },
+            {
+              "number": "6",
+              "name": "Scott Caldwell"
+            },
+            {
+              "number": "24",
+              "name": "Lee Nguyen"
+            },
+            {
+              "number": "11",
+              "name": "Kelyn Rowe"
+            },
+            {
+              "number": "15",
+              "name": "Je-Vaughn Watson"
+            },
+            {
+              "number": "13",
+              "name": "Kei Ansu Kamara"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "25",
+              "name": "Darrius Barnes"
+            },
+            {
+              "number": "9",
+              "name": "Charlie Davies"
+            },
+            {
+              "number": "14",
+              "name": "Diego Fagundez"
+            },
+            {
+              "number": "21",
+              "name": "Zachary Herivaux"
+            },
+            {
+              "number": "18",
+              "name": "Brad Knighton"
+            },
+            {
+              "number": "16",
+              "name": "Daigo Kobayashi"
+            },
+            {
+              "number": "7",
+              "name": "Gershon Koffie"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-08-01 01:40",
+      "home": "Toronto FC",
+      "away": "Columbus Crew",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Tsubasa Endoh",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "24'",
+          "player": "Sebastian Giovinco",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "57'",
+          "out": "Jordan Hamilton",
+          "in": "Jozy Altidore",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "out": "Jay Chapman",
+          "in": "Mark Bloom",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Jozy Altidore",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "out": "Tsubasa Endoh",
+          "in": "Josh Williams",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "46'",
+          "out": " Cedric",
+          "in": "Ethan Finlay",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "out": "Federico Higuain",
+          "in": "Dilly Duka",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "74'",
+          "out": "Harrison Afful",
+          "in": "Adam Jahn",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Tony Tchani",
+          "type": "card-y"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Michael Parkhurst",
+          "type": "card-y"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "25",
+              "name": "Alexander Bono"
+            },
+            {
+              "number": "33",
+              "name": "Steven Beitashour"
+            },
+            {
+              "number": "3",
+              "name": "Drew Moor"
+            },
+            {
+              "number": "2",
+              "name": "Justin Morrow"
+            },
+            {
+              "number": "15",
+              "name": "Eriq Zavaleta"
+            },
+            {
+              "number": "14",
+              "name": "Jay Chapman"
+            },
+            {
+              "number": "18",
+              "name": "Marco Delgado"
+            },
+            {
+              "number": "9",
+              "name": "Tsubasa Endoh"
+            },
+            {
+              "number": "21",
+              "name": "Jonathan Osorio"
+            },
+            {
+              "number": "10",
+              "name": "Sebastian Giovinco"
+            },
+            {
+              "number": "22",
+              "name": "Jordan Hamilton"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "17",
+              "name": "Jozy Altidore"
+            },
+            {
+              "number": "11",
+              "name": "Mo Babouli"
+            },
+            {
+              "number": "28",
+              "name": "Mark Bloom"
+            },
+            {
+              "number": "6",
+              "name": "Nick Hagglund"
+            },
+            {
+              "number": "87",
+              "name": "Tosaint Ricketts"
+            },
+            {
+              "number": "40",
+              "name": "Quillan Roberts"
+            },
+            {
+              "number": "23",
+              "name": "Josh Williams"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "1",
+              "name": "Steve Clark"
+            },
+            {
+              "number": "25",
+              "name": "Harrison Afful"
+            },
+            {
+              "number": "14",
+              "name": "Waylon Francis"
+            },
+            {
+              "number": "4",
+              "name": "Michael Parkhurst"
+            },
+            {
+              "number": "2",
+              "name": "Tyson Wahl"
+            },
+            {
+              "number": "11",
+              "name": " Cedric"
+            },
+            {
+              "number": "10",
+              "name": "Federico Higuain"
+            },
+            {
+              "number": "9",
+              "name": "Justin Meram"
+            },
+            {
+              "number": "6",
+              "name": "Tony Tchani"
+            },
+            {
+              "number": "20",
+              "name": "Wil Trapp"
+            },
+            {
+              "number": "17",
+              "name": "Ola Kamara"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "21",
+              "name": "Chad Barson"
+            },
+            {
+              "number": "5",
+              "name": "Dilly Duka"
+            },
+            {
+              "number": "13",
+              "name": "Ethan Finlay"
+            },
+            {
+              "number": "12",
+              "name": "Adam Jahn"
+            },
+            {
+              "number": "16",
+              "name": "Hector Jimenez"
+            },
+            {
+              "number": "8",
+              "name": "Mohammed Saeid"
+            },
+            {
+              "number": "23",
+              "name": "Zack Steffen"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-08-01 01:05",
+      "home": "Philadelphia Union",
+      "away": "Real Salt Lake",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Fabinho",
+          "type": "card-y"
+        },
+        {
+          "team": "home",
+          "time": "44'",
+          "player": "Roland Alberg",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "63'",
+          "out": "Roland Alberg",
+          "in": "Fabian Herbers",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "72'",
+          "out": "Warren Creavalle",
+          "in": "Leo Fernandes",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "out": " Ilsinho",
+          "in": "Sebastien Le Toux",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Brian Carroll",
+          "type": "card-y"
+        },
+        {
+          "team": "away",
+          "time": "42'",
+          "player": "Aaron Maund",
+          "type": "card-y"
+        },
+        {
+          "team": "away",
+          "time": "48'",
+          "player": "Joao Plata",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "54'",
+          "player": "Javier Damian Morales",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "player": "Javier Damian Morales",
+          "type": "card-y"
+        },
+        {
+          "team": "away",
+          "time": "69'",
+          "out": "Juan Manuel Martinez",
+          "in": "Omar Holness",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "out": "Kyle Beckerman",
+          "in": "John Stertzer",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "out": "Javier Damian Morales",
+          "in": "Devon Sandoval",
+          "type": "substitution"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "1",
+              "name": "Andre Blake"
+            },
+            {
+              "number": "33",
+              "name": " Fabinho"
+            },
+            {
+              "number": "16",
+              "name": "Richard Marquez"
+            },
+            {
+              "number": "12",
+              "name": "Keegan Rosenberry"
+            },
+            {
+              "number": "4",
+              "name": "Ken Tribbett"
+            },
+            {
+              "number": "6",
+              "name": "Roland Alberg"
+            },
+            {
+              "number": "7",
+              "name": "Brian Carroll"
+            },
+            {
+              "number": "2",
+              "name": "Warren Creavalle"
+            },
+            {
+              "number": "25",
+              "name": " Ilsinho"
+            },
+            {
+              "number": "13",
+              "name": "Chris Pontius"
+            },
+            {
+              "number": "17",
+              "name": "Charles Sapong"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "22",
+              "name": "Leo Fernandes"
+            },
+            {
+              "number": "28",
+              "name": "Raymon Gaddis"
+            },
+            {
+              "number": "11",
+              "name": "Fabian Herbers"
+            },
+            {
+              "number": "9",
+              "name": "Sebastien Le Toux"
+            },
+            {
+              "number": "27",
+              "name": "John McCarthy"
+            },
+            {
+              "number": "20",
+              "name": "Walter Restrepo"
+            },
+            {
+              "number": "15",
+              "name": "Joshua Yaro"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "18",
+              "name": "Nick Rimando"
+            },
+            {
+              "number": "2",
+              "name": "Tony Beltran"
+            },
+            {
+              "number": "21",
+              "name": "Aaron Maund"
+            },
+            {
+              "number": "4",
+              "name": "Jamison Olave"
+            },
+            {
+              "number": "17",
+              "name": "Demar Phillips"
+            },
+            {
+              "number": "5",
+              "name": "Kyle Beckerman"
+            },
+            {
+              "number": "11",
+              "name": "Javier Damian Morales"
+            },
+            {
+              "number": "19",
+              "name": "Luke Mulholland"
+            },
+            {
+              "number": "80",
+              "name": "Olmes Garcia"
+            },
+            {
+              "number": "7",
+              "name": "Juan Manuel Martinez"
+            },
+            {
+              "number": "10",
+              "name": "Joao Plata"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "24",
+              "name": "Jeff Attinella"
+            },
+            {
+              "number": "15",
+              "name": "Justin Glad"
+            },
+            {
+              "number": "12",
+              "name": "Omar Holness"
+            },
+            {
+              "number": "3",
+              "name": "Phanuel Kavita"
+            },
+            {
+              "number": "49",
+              "name": "Devon Sandoval"
+            },
+            {
+              "number": "27",
+              "name": "John Stertzer"
+            },
+            {
+              "number": "16",
+              "name": "Chris Wingert"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-08-01 01:05",
+      "home": "Chicago Fire",
+      "away": "New York Red Bulls",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "David Accam",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "38'",
+          "player": "Khaly Thiam",
+          "type": "card-y"
+        },
+        {
+          "team": "home",
+          "time": "43'",
+          "out": "Joao Meira",
+          "in": "Jonathan Campbell",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Matt Polster",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "out": "Arturo Alvarez",
+          "in": "Rezvan Cocis",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "player": "Rezvan Cocis",
+          "type": "card-y"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "out": "John Goossens",
+          "in": "Nick LaBrocca",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Felipe Martins",
+          "type": "card-y"
+        },
+        {
+          "team": "away",
+          "time": "16'",
+          "player": "Matt Polster",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "42'",
+          "out": "Dax McCarty",
+          "in": "Sean Davis",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "55'",
+          "out": "Alex Muyl",
+          "in": "Gonzalo Veron",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "57'",
+          "player": "Mike Grella",
+          "type": "card-y"
+        },
+        {
+          "team": "away",
+          "time": "73'",
+          "out": "Salvatore Zizzo",
+          "in": "Justin Bilyeu",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Bradley Wright-Phillips",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Ronald Zubar",
+          "type": "card-y"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "25",
+              "name": "Sean Johnson"
+            },
+            {
+              "number": "5",
+              "name": "Michael Harrington"
+            },
+            {
+              "number": "4",
+              "name": "Johan Kappelhof"
+            },
+            {
+              "number": "66",
+              "name": "Joao Meira"
+            },
+            {
+              "number": "13",
+              "name": " Rodrigo"
+            },
+            {
+              "number": "11",
+              "name": "David Accam"
+            },
+            {
+              "number": "12",
+              "name": "Arturo Alvarez"
+            },
+            {
+              "number": "7",
+              "name": "John Goossens"
+            },
+            {
+              "number": "2",
+              "name": "Matt Polster"
+            },
+            {
+              "number": "19",
+              "name": "Khaly Thiam"
+            },
+            {
+              "number": "8",
+              "name": "Michael de Leeuw"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "16",
+              "name": "Jonathan Campbell"
+            },
+            {
+              "number": "30",
+              "name": "Rezvan Cocis"
+            },
+            {
+              "number": "6",
+              "name": "Eric Gehrig"
+            },
+            {
+              "number": "21",
+              "name": "Nick LaBrocca"
+            },
+            {
+              "number": "28",
+              "name": "Matt Lampson"
+            },
+            {
+              "number": "26",
+              "name": "Michael Stephens"
+            },
+            {
+              "number": "3",
+              "name": "Brandon Vincent"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "31",
+              "name": "Luis Robles"
+            },
+            {
+              "number": "78",
+              "name": "Aurelien Collin"
+            },
+            {
+              "number": "5",
+              "name": "Connor Lade"
+            },
+            {
+              "number": "15",
+              "name": "Salvatore Zizzo"
+            },
+            {
+              "number": "23",
+              "name": "Ronald Zubar"
+            },
+            {
+              "number": "13",
+              "name": "Mike Grella"
+            },
+            {
+              "number": "16",
+              "name": "Sacha Kljestan"
+            },
+            {
+              "number": "8",
+              "name": "Felipe Martins"
+            },
+            {
+              "number": "11",
+              "name": "Dax McCarty"
+            },
+            {
+              "number": "19",
+              "name": "Alex Muyl"
+            },
+            {
+              "number": "99",
+              "name": "Bradley Wright-Phillips"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "20",
+              "name": "Justin Bilyeu"
+            },
+            {
+              "number": "27",
+              "name": "Sean Davis"
+            },
+            {
+              "number": "25",
+              "name": "Chris Duvall"
+            },
+            {
+              "number": "55",
+              "name": "Damien Perrinelle"
+            },
+            {
+              "number": "24",
+              "name": "Kyle Reynish"
+            },
+            {
+              "number": "30",
+              "name": "Gonzalo Veron"
+            },
+            {
+              "number": "98",
+              "name": "Shaun Wright-Phillips"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-08-01 00:40",
+      "home": "DC United",
+      "away": "Montreal Impact",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "20'",
+          "player": "Patrick Mullins",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Marcelo Sarvas",
+          "type": "card-y"
+        },
+        {
+          "team": "home",
+          "time": "56'",
+          "out": "Jared Jeffrey",
+          "in": "Rob Vincent",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "64'",
+          "out": "Patrick Nyarko",
+          "in": "Kennedy Igboananike",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "77'",
+          "player": "Patrick Mullins",
+          "type": "card-y"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "out": "Patrick Mullins",
+          "in": "Alvaro Saborio",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "54'",
+          "player": "Kyle Bekker",
+          "type": "card-y"
+        },
+        {
+          "team": "away",
+          "time": "66'",
+          "out": "Michael Salazar",
+          "in": "Dominic Oduro",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "71'",
+          "out": "Kyle Bekker",
+          "in": "Hernan Dario Bernardello",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "75'",
+          "out": "Harrison Shipp",
+          "in": "Matteo Mancosu",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "81'",
+          "player": "Didier Drogba",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "Hernan Dario Bernardello",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Hernan Dario Bernardello",
+          "type": "card-y"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "28",
+              "name": "Bill Hamid"
+            },
+            {
+              "number": "15",
+              "name": "Steven Birnbaum"
+            },
+            {
+              "number": "32",
+              "name": "Bobby Boswell"
+            },
+            {
+              "number": "5",
+              "name": "Sean Franklin"
+            },
+            {
+              "number": "2",
+              "name": "Taylor Kemp"
+            },
+            {
+              "number": "11",
+              "name": "Luciano Acosta"
+            },
+            {
+              "number": "14",
+              "name": "Nick DeLeon"
+            },
+            {
+              "number": "25",
+              "name": "Jared Jeffrey"
+            },
+            {
+              "number": "12",
+              "name": "Patrick Nyarko"
+            },
+            {
+              "number": "7",
+              "name": "Marcelo Sarvas"
+            },
+            {
+              "number": "16",
+              "name": "Patrick Mullins"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "33",
+              "name": "Julian Buescher"
+            },
+            {
+              "number": "77",
+              "name": "Kennedy Igboananike"
+            },
+            {
+              "number": "6",
+              "name": "Kofi Opare"
+            },
+            {
+              "number": "20",
+              "name": "Jalen Robinson"
+            },
+            {
+              "number": "9",
+              "name": "Alvaro Saborio"
+            },
+            {
+              "number": "26",
+              "name": "Rob Vincent"
+            },
+            {
+              "number": "48",
+              "name": "Travis Worra"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "1",
+              "name": "Evan Bush"
+            },
+            {
+              "number": "36",
+              "name": "Victor Cabrera"
+            },
+            {
+              "number": "6",
+              "name": "Hassoun Camara"
+            },
+            {
+              "number": "23",
+              "name": "Laurent Ciman"
+            },
+            {
+              "number": "2",
+              "name": "Ambroise Oyongo Bitolo"
+            },
+            {
+              "number": "18",
+              "name": "Kyle Bekker"
+            },
+            {
+              "number": "33",
+              "name": "Marco Donadel"
+            },
+            {
+              "number": "10",
+              "name": "Ignacio Piatti"
+            },
+            {
+              "number": "19",
+              "name": "Michael Salazar"
+            },
+            {
+              "number": "14",
+              "name": "Harrison Shipp"
+            },
+            {
+              "number": "11",
+              "name": "Didier Drogba"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "30",
+              "name": "Hernan Dario Bernardello"
+            },
+            {
+              "number": "3",
+              "name": "Amadou Dia"
+            },
+            {
+              "number": "32",
+              "name": "Lucas Elias Ontivero"
+            },
+            {
+              "number": "22",
+              "name": "Eric Kronberg"
+            },
+            {
+              "number": "21",
+              "name": "Matteo Mancosu"
+            },
+            {
+              "number": "7",
+              "name": "Dominic Oduro"
+            },
+            {
+              "number": "25",
+              "name": "Donny Toia"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-08-01 00:05",
+      "home": "FC Dallas",
+      "away": "Vancouver Whitecaps",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Kellyn Acosta",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "59'",
+          "player": "Maximiliano Nicolas Urruti",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "73'",
+          "out": "Michael Barrios",
+          "in": "Tesho Akindele",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "83'",
+          "out": "Maximiliano Nicolas Urruti",
+          "in": "Carlos Lizarazo",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "85'",
+          "out": "Mauro Diaz",
+          "in": "Mauro Rosales",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "64'",
+          "out": "Masato Kudo",
+          "in": "Erik Hurtado",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "64'",
+          "out": "Blas Perez",
+          "in": "Nicolas Mezquida",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "73'",
+          "out": "Pedro Morales",
+          "in": "Cristian Techera",
+          "type": "substitution"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "18",
+              "name": "Chris Seitz"
+            },
+            {
+              "number": "31",
+              "name": "Maynor Figueroa"
+            },
+            {
+              "number": "14",
+              "name": "Atiba Harris"
+            },
+            {
+              "number": "24",
+              "name": "Matt Hedges"
+            },
+            {
+              "number": "25",
+              "name": "Walker Zimmerman"
+            },
+            {
+              "number": "23",
+              "name": "Kellyn Acosta"
+            },
+            {
+              "number": "21",
+              "name": "Michael Barrios"
+            },
+            {
+              "number": "10",
+              "name": "Mauro Diaz"
+            },
+            {
+              "number": "7",
+              "name": "Carlos Gruezo"
+            },
+            {
+              "number": "12",
+              "name": "Ryan Hollingshead"
+            },
+            {
+              "number": "37",
+              "name": "Maximiliano Nicolas Urruti"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "13",
+              "name": "Tesho Akindele"
+            },
+            {
+              "number": "2",
+              "name": "Aubrey David"
+            },
+            {
+              "number": "20",
+              "name": "Juan Esteban Ortiz"
+            },
+            {
+              "number": "1",
+              "name": "Jesse Gonzalez"
+            },
+            {
+              "number": "22",
+              "name": "Carlos Lizarazo"
+            },
+            {
+              "number": "77",
+              "name": "Mauro Rosales"
+            },
+            {
+              "number": "8",
+              "name": "Victor Ulloa"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "1",
+              "name": "David Ousted"
+            },
+            {
+              "number": "33",
+              "name": "Marcel De Jong"
+            },
+            {
+              "number": "26",
+              "name": "Tim Parker"
+            },
+            {
+              "number": "14",
+              "name": "Cole Seiler"
+            },
+            {
+              "number": "4",
+              "name": "Kendall Waston"
+            },
+            {
+              "number": "7",
+              "name": "Christian Bolanos"
+            },
+            {
+              "number": "17",
+              "name": "Andrew Jacobson"
+            },
+            {
+              "number": "15",
+              "name": "Matias Laba"
+            },
+            {
+              "number": "77",
+              "name": "Pedro Morales"
+            },
+            {
+              "number": "27",
+              "name": "Blas Perez"
+            },
+            {
+              "number": "9",
+              "name": "Masato Kudo"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "8",
+              "name": "Fraser Aird"
+            },
+            {
+              "number": "67",
+              "name": "Alphonso Davies"
+            },
+            {
+              "number": "18",
+              "name": "David Edgar"
+            },
+            {
+              "number": "19",
+              "name": "Erik Hurtado"
+            },
+            {
+              "number": "11",
+              "name": "Nicolas Mezquida"
+            },
+            {
+              "number": "13",
+              "name": "Cristian Techera"
+            },
+            {
+              "number": "70",
+              "name": "Paolo Tornaghi"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-07-31 22:05",
+      "home": "Seattle Sounders FC",
+      "away": "L.A. Galaxy",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Cristian Roldan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "57'",
+          "out": "Nelson Haedo Valdez",
+          "in": "Herculez Gomez",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "63'",
+          "out": "Emmanuel Boateng",
+          "in": "Sebastian Lletget",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "65'",
+          "player": "Jelle van Damme",
+          "type": "card-y"
+        },
+        {
+          "team": "away",
+          "time": "71'",
+          "out": "Jeff Larentowicz",
+          "in": "Mike Magee",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "77'",
+          "player": "Sebastian Lletget",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "out": "Giovani dos Santos",
+          "in": "Baggio Husidic",
+          "type": "substitution"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "24",
+              "name": "Stefan Frei"
+            },
+            {
+              "number": "3",
+              "name": "Brad Evans"
+            },
+            {
+              "number": "33",
+              "name": "Joevin Jones"
+            },
+            {
+              "number": "14",
+              "name": "Chad Marshall"
+            },
+            {
+              "number": "4",
+              "name": "Tyrone Mears"
+            },
+            {
+              "number": "6",
+              "name": "Osvaldo Alonso"
+            },
+            {
+              "number": "2",
+              "name": "Clint Dempsey"
+            },
+            {
+              "number": "10",
+              "name": "Nicolas Lodeiro"
+            },
+            {
+              "number": "13",
+              "name": "Jordan Morris"
+            },
+            {
+              "number": "7",
+              "name": "Cristian Roldan"
+            },
+            {
+              "number": "16",
+              "name": "Nelson Haedo Valdez"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "39",
+              "name": "Oalex Anderson"
+            },
+            {
+              "number": "21",
+              "name": "Alvaro Fernandez"
+            },
+            {
+              "number": "91",
+              "name": "Oniel Fisher"
+            },
+            {
+              "number": "9",
+              "name": "Herculez Gomez"
+            },
+            {
+              "number": "23",
+              "name": "Andreas Ivanschitz"
+            },
+            {
+              "number": "1",
+              "name": "Tyler Miller"
+            },
+            {
+              "number": "20",
+              "name": "Zach Scott"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "12",
+              "name": "Brian Rowe"
+            },
+            {
+              "number": "3",
+              "name": "Ashley Cole"
+            },
+            {
+              "number": "20",
+              "name": "Adolph Joseph DeLaGarza"
+            },
+            {
+              "number": "44",
+              "name": "Daniel Steres"
+            },
+            {
+              "number": "37",
+              "name": "Jelle van Damme"
+            },
+            {
+              "number": "24",
+              "name": "Emmanuel Boateng"
+            },
+            {
+              "number": "34",
+              "name": "Nigel de Jong"
+            },
+            {
+              "number": "10",
+              "name": "Giovani dos Santos"
+            },
+            {
+              "number": "8",
+              "name": "Steven Gerrard"
+            },
+            {
+              "number": "21",
+              "name": "Jeff Larentowicz"
+            },
+            {
+              "number": "7",
+              "name": "Robbie Keane"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "31",
+              "name": "Clement Diop"
+            },
+            {
+              "number": "9",
+              "name": "Alan Gordon"
+            },
+            {
+              "number": "6",
+              "name": "Baggio Husidic"
+            },
+            {
+              "number": "22",
+              "name": " Leonardo"
+            },
+            {
+              "number": "17",
+              "name": "Sebastian Lletget"
+            },
+            {
+              "number": "18",
+              "name": "Mike Magee"
+            },
+            {
+              "number": "27",
+              "name": "David Romney"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-07-31 20:00",
+      "home": "Kansas City Wizards",
+      "away": "Portland Timbers",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "50'",
+          "player": "Jacob Peterson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "71'",
+          "out": "Jacob Peterson",
+          "in": "Cameron Porter",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "72'",
+          "player": "Jimmy Medranda",
+          "type": "card-y"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Roger Espinoza",
+          "type": "card-y"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "out": "Connor Hallisey",
+          "in": "Kevin Ellis",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "out": "Ikenna Ike Opara",
+          "in": "Chance Myers",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "10'",
+          "player": "Fanendo Adi",
+          "type": "card-y"
+        },
+        {
+          "team": "away",
+          "time": "69'",
+          "out": "Zarek Valentin",
+          "in": "Vytautas Andriuskevicius",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "74'",
+          "player": "Jermaine Taylor",
+          "type": "card-y"
+        },
+        {
+          "team": "away",
+          "time": "75'",
+          "out": "Ben Zemanski",
+          "in": "Jack McInerney",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "Diego Chara",
+          "type": "card-y"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "out": "Alvas Elvis Powell",
+          "in": "Jack Barmby",
+          "type": "substitution"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "25",
+              "name": "Alec Kann"
+            },
+            {
+              "number": "17",
+              "name": "Saad Abdul-Salam"
+            },
+            {
+              "number": "3",
+              "name": "Ikenna Ike Opara"
+            },
+            {
+              "number": "94",
+              "name": "Jimmy Medranda"
+            },
+            {
+              "number": "16",
+              "name": "Lawrence Olum"
+            },
+            {
+              "number": "27",
+              "name": "Roger Espinoza"
+            },
+            {
+              "number": "10",
+              "name": "Benny Feilhaber"
+            },
+            {
+              "number": "93",
+              "name": "Sonny Mustivar"
+            },
+            {
+              "number": "14",
+              "name": "Dominic Dwyer"
+            },
+            {
+              "number": "22",
+              "name": "Connor Hallisey"
+            },
+            {
+              "number": "37",
+              "name": "Jacob Peterson"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "23",
+              "name": "Emmanuel Appiah"
+            },
+            {
+              "number": "4",
+              "name": "Kevin Ellis"
+            },
+            {
+              "number": "1",
+              "name": "Jon Kempin"
+            },
+            {
+              "number": "7",
+              "name": "Chance Myers"
+            },
+            {
+              "number": "39",
+              "name": "Cameron Porter"
+            },
+            {
+              "number": "9",
+              "name": "Diego Rubio"
+            },
+            {
+              "number": "15",
+              "name": "Seth Sinovic"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "90",
+              "name": "Jacob Gleeson"
+            },
+            {
+              "number": "2",
+              "name": "Alvas Elvis Powell"
+            },
+            {
+              "number": "18",
+              "name": "Amobi Okugo"
+            },
+            {
+              "number": "4",
+              "name": "Jermaine Taylor"
+            },
+            {
+              "number": "16",
+              "name": "Zarek Valentin"
+            },
+            {
+              "number": "21",
+              "name": "Diego Chara"
+            },
+            {
+              "number": "6",
+              "name": "Darlington Nagbe"
+            },
+            {
+              "number": "26",
+              "name": "Lucas Santiago Melano"
+            },
+            {
+              "number": "8",
+              "name": "Diego Valeri"
+            },
+            {
+              "number": "14",
+              "name": "Ben Zemanski"
+            },
+            {
+              "number": "9",
+              "name": "Fanendo Adi"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "5",
+              "name": "Vytautas Andriuskevicius"
+            },
+            {
+              "number": "23",
+              "name": "Jack Barmby"
+            },
+            {
+              "number": "10",
+              "name": "Ned Grabavoy"
+            },
+            {
+              "number": "13",
+              "name": "Jack Jewsbury"
+            },
+            {
+              "number": "1",
+              "name": "Chris Konopka"
+            },
+            {
+              "number": "99",
+              "name": "Jack McInerney"
+            },
+            {
+              "number": "20",
+              "name": "Taylor Peay"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-07-30 21:05",
+      "home": "New York City FC",
+      "away": "Colorado Rapids",
+      "score": "5-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "28'",
+          "player": "Frank Lampard",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "32'",
+          "player": "Diego Martinez",
+          "type": "card-y"
+        },
+        {
+          "team": "home",
+          "time": "32'",
+          "player": "Frank Lampard",
+          "type": "card-y"
+        },
+        {
+          "team": "home",
+          "time": "42'",
+          "player": "Tony Taylor",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "46'",
+          "out": "Jefferson Mena",
+          "in": "Maxime Chanot",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "66'",
+          "out": "Andrea Pirlo",
+          "in": "Mikey Lopez",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "67'",
+          "out": "Tony Taylor",
+          "in": "Stiven Mendoza",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Stiven Mendoza",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "player": "Frank Lampard",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "player": "Frank Lampard",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "21'",
+          "player": "Michael Azira",
+          "type": "card-y"
+        },
+        {
+          "team": "away",
+          "time": "23'",
+          "player": "Jared Watts",
+          "type": "card-y"
+        },
+        {
+          "team": "away",
+          "time": "37'",
+          "player": "Michael Azira",
+          "type": "card"
+        },
+        {
+          "team": "away",
+          "time": "46'",
+          "out": "Mekeil Williams",
+          "in": "Eric Miller",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "46'",
+          "out": "Marlon Hairston",
+          "in": "Marco Pappa",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "72'",
+          "out": "Axel Sjoeberg",
+          "in": "Dominique Badji",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Shkelzen Gashi",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "12",
+              "name": "Josh Saunders"
+            },
+            {
+              "number": "13",
+              "name": "Fredric Brillant"
+            },
+            {
+              "number": "2",
+              "name": "Jason Hernandez"
+            },
+            {
+              "number": "30",
+              "name": "Diego Martinez"
+            },
+            {
+              "number": "23",
+              "name": "Jefferson Mena"
+            },
+            {
+              "number": "51",
+              "name": "Andoni Iraola"
+            },
+            {
+              "number": "8",
+              "name": "Frank Lampard"
+            },
+            {
+              "number": "21",
+              "name": "Andrea Pirlo"
+            },
+            {
+              "number": "11",
+              "name": "Jack Harrison"
+            },
+            {
+              "number": "15",
+              "name": "Thomas McNamara"
+            },
+            {
+              "number": "99",
+              "name": "Tony Taylor"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "20",
+              "name": "Mehdi Ballouchy"
+            },
+            {
+              "number": "4",
+              "name": "Maxime Chanot"
+            },
+            {
+              "number": "10",
+              "name": "Mikkel Diskerud"
+            },
+            {
+              "number": "25",
+              "name": "Eirik Holmen Johansen"
+            },
+            {
+              "number": "5",
+              "name": "Mikey Lopez"
+            },
+            {
+              "number": "9",
+              "name": "Stiven Mendoza"
+            },
+            {
+              "number": "19",
+              "name": "Khiry Shelton"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "1",
+              "name": "Tim Howard"
+            },
+            {
+              "number": "4",
+              "name": "Marc Burch"
+            },
+            {
+              "number": "44",
+              "name": "Axel Sjoeberg"
+            },
+            {
+              "number": "33",
+              "name": "Jared Watts"
+            },
+            {
+              "number": "5",
+              "name": "Mekeil Williams"
+            },
+            {
+              "number": "22",
+              "name": "Michael Azira"
+            },
+            {
+              "number": "6",
+              "name": "Sam Cronin"
+            },
+            {
+              "number": "11",
+              "name": "Shkelzen Gashi"
+            },
+            {
+              "number": "94",
+              "name": "Marlon Hairston"
+            },
+            {
+              "number": "8",
+              "name": "Dillon Powers"
+            },
+            {
+              "number": "9",
+              "name": "Kevin Doyle"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "14",
+              "name": "Dominique Badji"
+            },
+            {
+              "number": "23",
+              "name": "Bobby Burling"
+            },
+            {
+              "number": "26",
+              "name": "Dennis Castillo"
+            },
+            {
+              "number": "18",
+              "name": "Zac MacMath"
+            },
+            {
+              "number": "3",
+              "name": "Eric Miller"
+            },
+            {
+              "number": "10",
+              "name": "Marco Pappa"
+            },
+            {
+              "number": "21",
+              "name": "Luis Solignac"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-07-24 21:10",
+      "home": "Kansas City Wizards",
+      "away": "Seattle Sounders FC",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "21'",
+          "player": "Dominic Dwyer",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "23'",
+          "player": "Roger Espinoza",
+          "type": "card-y"
+        },
+        {
+          "team": "home",
+          "time": "42'",
+          "out": "Graham Zusi",
+          "in": "Connor Hallisey",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Jacob Peterson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "65'",
+          "player": "Sonny Mustivar",
+          "type": "card-y"
+        },
+        {
+          "team": "home",
+          "time": "77'",
+          "out": "Jacob Peterson",
+          "in": "Cameron Porter",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "79'",
+          "player": "Dominic Dwyer",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "85'",
+          "out": "Saad Abdul-Salam",
+          "in": "Seth Sinovic",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "44'",
+          "player": "Herculez Gomez",
+          "type": "card-y"
+        },
+        {
+          "team": "away",
+          "time": "46'",
+          "out": "Erik Friberg",
+          "in": "Tony Alfaro",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "46'",
+          "out": "Herculez Gomez",
+          "in": "Zach Scott",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "57'",
+          "player": "Joevin Jones",
+          "type": "card-y"
+        },
+        {
+          "team": "away",
+          "time": "64'",
+          "out": "Andreas Ivanschitz",
+          "in": "Michael Farfan",
+          "type": "substitution"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "29",
+              "name": "Tim Melia"
+            },
+            {
+              "number": "17",
+              "name": "Saad Abdul-Salam"
+            },
+            {
+              "number": "3",
+              "name": "Ikenna Ike Opara"
+            },
+            {
+              "number": "94",
+              "name": "Jimmy Medranda"
+            },
+            {
+              "number": "16",
+              "name": "Lawrence Olum"
+            },
+            {
+              "number": "27",
+              "name": "Roger Espinoza"
+            },
+            {
+              "number": "10",
+              "name": "Benny Feilhaber"
+            },
+            {
+              "number": "93",
+              "name": "Sonny Mustivar"
+            },
+            {
+              "number": "14",
+              "name": "Dominic Dwyer"
+            },
+            {
+              "number": "37",
+              "name": "Jacob Peterson"
+            },
+            {
+              "number": "8",
+              "name": "Graham Zusi"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "23",
+              "name": "Emmanuel Appiah"
+            },
+            {
+              "number": "4",
+              "name": "Kevin Ellis"
+            },
+            {
+              "number": "22",
+              "name": "Connor Hallisey"
+            },
+            {
+              "number": "25",
+              "name": "Alec Kann"
+            },
+            {
+              "number": "39",
+              "name": "Cameron Porter"
+            },
+            {
+              "number": "9",
+              "name": "Diego Rubio"
+            },
+            {
+              "number": "15",
+              "name": "Seth Sinovic"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "24",
+              "name": "Stefan Frei"
+            },
+            {
+              "number": "3",
+              "name": "Brad Evans"
+            },
+            {
+              "number": "33",
+              "name": "Joevin Jones"
+            },
+            {
+              "number": "14",
+              "name": "Chad Marshall"
+            },
+            {
+              "number": "4",
+              "name": "Tyrone Mears"
+            },
+            {
+              "number": "8",
+              "name": "Erik Friberg"
+            },
+            {
+              "number": "23",
+              "name": "Andreas Ivanschitz"
+            },
+            {
+              "number": "7",
+              "name": "Cristian Roldan"
+            },
+            {
+              "number": "2",
+              "name": "Clint Dempsey"
+            },
+            {
+              "number": "9",
+              "name": "Herculez Gomez"
+            },
+            {
+              "number": "13",
+              "name": "Jordan Morris"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "25",
+              "name": "Tony Alfaro"
+            },
+            {
+              "number": "39",
+              "name": "Oalex Anderson"
+            },
+            {
+              "number": "12",
+              "name": "Michael Farfan"
+            },
+            {
+              "number": "91",
+              "name": "Oniel Fisher"
+            },
+            {
+              "number": "16",
+              "name": "Nelson Haedo Valdez"
+            },
+            {
+              "number": "1",
+              "name": "Tyler Miller"
+            },
+            {
+              "number": "20",
+              "name": "Zach Scott"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-07-24 19:05",
+      "home": "New York Red Bulls",
+      "away": "New York City FC",
+      "score": "4-1",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "31",
+              "name": "Luis Robles"
+            },
+            {
+              "number": "78",
+              "name": "Aurelien Collin"
+            },
+            {
+              "number": "5",
+              "name": "Connor Lade"
+            },
+            {
+              "number": "15",
+              "name": "Salvatore Zizzo"
+            },
+            {
+              "number": "23",
+              "name": "Ronald Zubar"
+            },
+            {
+              "number": "13",
+              "name": "Mike Grella"
+            },
+            {
+              "number": "16",
+              "name": "Sacha Kljestan"
+            },
+            {
+              "number": "8",
+              "name": "Felipe Martins"
+            },
+            {
+              "number": "11",
+              "name": "Dax McCarty"
+            },
+            {
+              "number": "19",
+              "name": "Alex Muyl"
+            },
+            {
+              "number": "99",
+              "name": "Bradley Wright-Phillips"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "20",
+              "name": "Justin Bilyeu"
+            },
+            {
+              "number": "27",
+              "name": "Sean Davis"
+            },
+            {
+              "number": "25",
+              "name": "Chris Duvall"
+            },
+            {
+              "number": "55",
+              "name": "Damien Perrinelle"
+            },
+            {
+              "number": "24",
+              "name": "Kyle Reynish"
+            },
+            {
+              "number": "30",
+              "name": "Gonzalo Veron"
+            },
+            {
+              "number": "98",
+              "name": "Shaun Wright-Phillips"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "12",
+              "name": "Josh Saunders"
+            },
+            {
+              "number": "13",
+              "name": "Fredric Brillant"
+            },
+            {
+              "number": "3",
+              "name": "Norris Ethan White"
+            },
+            {
+              "number": "27",
+              "name": "R. J. Allen"
+            },
+            {
+              "number": "23",
+              "name": "Jefferson Mena"
+            },
+            {
+              "number": "51",
+              "name": "Andoni Iraola"
+            },
+            {
+              "number": "8",
+              "name": "Frank Lampard"
+            },
+            {
+              "number": "21",
+              "name": "Andrea Pirlo"
+            },
+            {
+              "number": "11",
+              "name": "Jack Harrison"
+            },
+            {
+              "number": "15",
+              "name": "Thomas McNamara"
+            },
+            {
+              "number": "7",
+              "name": "David Villa"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "20",
+              "name": "Mehdi Ballouchy"
+            },
+            {
+              "number": "6",
+              "name": "Federico Bravo"
+            },
+            {
+              "number": "2",
+              "name": "Jason Hernandez"
+            },
+            {
+              "number": "25",
+              "name": "Eirik Holmen Johansen"
+            },
+            {
+              "number": "5",
+              "name": "Mikey Lopez"
+            },
+            {
+              "number": "30",
+              "name": "Diego Martinez"
+            },
+            {
+              "number": "99",
+              "name": "Tony Taylor"
+            }
+          ]
+        }
+      }
     }
   ]
 }

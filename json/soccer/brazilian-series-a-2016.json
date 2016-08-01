@@ -38829,6 +38829,4040 @@
           ]
         }
       }
+    },
+    {
+      "date": "2016-07-31 23:30",
+      "home": "America MG",
+      "away": "Gremio",
+      "score": "0-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "71'",
+          "out": "Leandro Luchese Guerreiro",
+          "in": " Claudinei",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "75'",
+          "out": " Matheus",
+          "in": "Eisner Loboa",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "out": " Michael",
+          "in": " Vitinho",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "out": "Pedro Rocha",
+          "in": " Guilherme",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "74'",
+          "out": "Miller Bolanos",
+          "in": "Henrique Almeida",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "75'",
+          "player": "Edilson",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "77'",
+          "out": " Douglas",
+          "in": " Ramiro",
+          "type": "substitution"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "1",
+              "name": "Joao Ricardo"
+            },
+            {
+              "number": "4",
+              "name": " Alison"
+            },
+            {
+              "number": "11",
+              "name": " Gilson"
+            },
+            {
+              "number": "2",
+              "name": " Jonas"
+            },
+            {
+              "number": "3",
+              "name": " Sueliton"
+            },
+            {
+              "number": "5",
+              "name": " Adilson"
+            },
+            {
+              "number": "7",
+              "name": "Osman Junior"
+            },
+            {
+              "number": "8",
+              "name": "Leandro Luchese Guerreiro"
+            },
+            {
+              "number": "21",
+              "name": " Matheus"
+            },
+            {
+              "number": "22",
+              "name": " Pablo"
+            },
+            {
+              "number": "19",
+              "name": " Michael"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "16",
+              "name": " Claudinei"
+            },
+            {
+              "number": "18",
+              "name": "Danilo Dias"
+            },
+            {
+              "number": "2",
+              "name": " Helder"
+            },
+            {
+              "number": "12",
+              "name": "Fernando Leal"
+            },
+            {
+              "number": "-",
+              "name": "Eisner Loboa"
+            },
+            {
+              "number": "-",
+              "name": "Diego Lopes"
+            },
+            {
+              "number": "3",
+              "name": " Roger"
+            },
+            {
+              "number": "9",
+              "name": " Vitinho"
+            },
+            {
+              "number": "17",
+              "name": " Xavier"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "1",
+              "name": "Marcelo Grohe"
+            },
+            {
+              "number": "33",
+              "name": " Edilson"
+            },
+            {
+              "number": "3",
+              "name": " Geromel"
+            },
+            {
+              "number": "26",
+              "name": "Marcelo Oliveira"
+            },
+            {
+              "number": "14",
+              "name": " Wallace"
+            },
+            {
+              "number": "10",
+              "name": " Douglas"
+            },
+            {
+              "number": "25",
+              "name": " Jaja"
+            },
+            {
+              "number": "19",
+              "name": " Maicon"
+            },
+            {
+              "number": "23",
+              "name": "Miller Bolanos"
+            },
+            {
+              "number": "77",
+              "name": " Negueba"
+            },
+            {
+              "number": "32",
+              "name": "Pedro Rocha"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "91",
+              "name": "Henrique Almeida"
+            },
+            {
+              "number": "13",
+              "name": " Bobo"
+            },
+            {
+              "number": "6",
+              "name": " Fred"
+            },
+            {
+              "number": "38",
+              "name": " Guilherme"
+            },
+            {
+              "number": "28",
+              "name": " Kaio"
+            },
+            {
+              "number": "27",
+              "name": " Lincoln"
+            },
+            {
+              "number": "30",
+              "name": "Bruno Medeiros Grassi"
+            },
+            {
+              "number": "17",
+              "name": " Ramiro"
+            },
+            {
+              "number": "34",
+              "name": "Iago Silva"
+            },
+            {
+              "number": "2",
+              "name": " Wallace"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-07-31 23:30",
+      "home": "Botafogo RJ",
+      "away": "Palmeiras",
+      "score": "3-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "20'",
+          "player": "Neilton",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "35'",
+          "player": "Neilton",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "62'",
+          "out": " Rodrigo",
+          "in": "Dudu Cearense",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "74'",
+          "out": "Gustavo Canales",
+          "in": "Vinicius Tanque",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "87'",
+          "player": "Fernando Farias",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "out": "Fernando Farias",
+          "in": "Juan Manuel Salguiero",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "46'",
+          "out": " Roger",
+          "in": " Dudu",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "46'",
+          "out": "Cleiton Xavier",
+          "in": "Rafael Marques",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "51'",
+          "out": "Edu Dracena",
+          "in": "Thiago Martins",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "78'",
+          "player": "Erik Lima",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "1",
+              "name": "Aparecido Ramos da Silva Sidney"
+            },
+            {
+              "number": "2",
+              "name": " Emerson"
+            },
+            {
+              "number": "3",
+              "name": "Renan Fonseca"
+            },
+            {
+              "number": "6",
+              "name": "Diogo Goiano"
+            },
+            {
+              "number": "4",
+              "name": "Luis Richardo"
+            },
+            {
+              "number": "5",
+              "name": " Airton"
+            },
+            {
+              "number": "10",
+              "name": "Fernando Farias"
+            },
+            {
+              "number": "5",
+              "name": " Rodrigo"
+            },
+            {
+              "number": "8",
+              "name": "Bruno Silva"
+            },
+            {
+              "number": "-",
+              "name": "Gustavo Canales"
+            },
+            {
+              "number": "7",
+              "name": " Neilton"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "-",
+              "name": "Anderson Angus Aquino"
+            },
+            {
+              "number": "-",
+              "name": "Dudu Cearense"
+            },
+            {
+              "number": "20",
+              "name": "Gervasio Daniel Nunez"
+            },
+            {
+              "number": "21",
+              "name": " Diego"
+            },
+            {
+              "number": "16",
+              "name": " Dierson"
+            },
+            {
+              "number": "11",
+              "name": " Fernandes"
+            },
+            {
+              "number": "21",
+              "name": "Luis Henrique"
+            },
+            {
+              "number": "12",
+              "name": "Helton Leite"
+            },
+            {
+              "number": "15",
+              "name": "Victor Luis"
+            },
+            {
+              "number": "19",
+              "name": "Juan Manuel Salguiero"
+            },
+            {
+              "number": "-",
+              "name": "Geovane Maranhao"
+            },
+            {
+              "number": "-",
+              "name": "Vinicius Tanque"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "25",
+              "name": " Vagner"
+            },
+            {
+              "number": "3",
+              "name": "Edu Dracena"
+            },
+            {
+              "number": "4",
+              "name": "Vitor Hugo"
+            },
+            {
+              "number": "17",
+              "name": " Jean"
+            },
+            {
+              "number": "11",
+              "name": "Ze Roberto"
+            },
+            {
+              "number": "28",
+              "name": "Moises Lima"
+            },
+            {
+              "number": "21",
+              "name": "Thiago Santos"
+            },
+            {
+              "number": "10",
+              "name": "Cleiton Xavier"
+            },
+            {
+              "number": "14",
+              "name": "Erik Lima"
+            },
+            {
+              "number": "30",
+              "name": "Leandro Pereira"
+            },
+            {
+              "number": "23",
+              "name": " Roger"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "5",
+              "name": " Arouca"
+            },
+            {
+              "number": "8",
+              "name": "Lucas Barrios"
+            },
+            {
+              "number": "7",
+              "name": " Dudu"
+            },
+            {
+              "number": "6",
+              "name": " Egidio"
+            },
+            {
+              "number": "16",
+              "name": " Fabricio"
+            },
+            {
+              "number": "18",
+              "name": " Gabriel"
+            },
+            {
+              "number": "49",
+              "name": " Jailson"
+            },
+            {
+              "number": "15",
+              "name": "Agustin Lionel Allione"
+            },
+            {
+              "number": "19",
+              "name": "Rafael Marques"
+            },
+            {
+              "number": "31",
+              "name": "Thiago Martins"
+            },
+            {
+              "number": "27",
+              "name": " Matheus"
+            },
+            {
+              "number": "22",
+              "name": "Joao Pedro"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-07-31 21:00",
+      "home": "Coritiba",
+      "away": "Flamengo",
+      "score": "0-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "19'",
+          "out": "Alan Santos",
+          "in": " Iago",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "70'",
+          "out": "Raphael Veiga",
+          "in": "Felipe Amorim",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "86'",
+          "out": "Marcos Ceara",
+          "in": " Bernardo",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "52'",
+          "player": "Jose Paolo Guerrero",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "56'",
+          "out": " Juan",
+          "in": "Alejandro Donatti",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "63'",
+          "out": "Federico Mancuello",
+          "in": "Marcelo Cirino",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "83'",
+          "out": "Alan Patrick",
+          "in": "Gustavo Cuellar",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Marcelo Cirino",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "84",
+              "name": " Wilson"
+            },
+            {
+              "number": "30",
+              "name": " Carlinho"
+            },
+            {
+              "number": "2",
+              "name": "Marcos Ceara"
+            },
+            {
+              "number": "3",
+              "name": "Luccas Claro"
+            },
+            {
+              "number": "28",
+              "name": "Jose Ferreira"
+            },
+            {
+              "number": "33",
+              "name": " Edinho"
+            },
+            {
+              "number": "31",
+              "name": "Joao Paulo"
+            },
+            {
+              "number": "5",
+              "name": "Alan Santos"
+            },
+            {
+              "number": "20",
+              "name": "Raphael Veiga"
+            },
+            {
+              "number": "10",
+              "name": "Colin Kazim-Richards"
+            },
+            {
+              "number": "83",
+              "name": " Kleber"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "16",
+              "name": " Amaral"
+            },
+            {
+              "number": "23",
+              "name": "Felipe Amorim"
+            },
+            {
+              "number": "29",
+              "name": "Nery Bareiro"
+            },
+            {
+              "number": "32",
+              "name": " Bernardo"
+            },
+            {
+              "number": "1",
+              "name": " Bruno"
+            },
+            {
+              "number": "98",
+              "name": " Dodo"
+            },
+            {
+              "number": "40",
+              "name": " Emerson"
+            },
+            {
+              "number": "25",
+              "name": " Fabio"
+            },
+            {
+              "number": "7",
+              "name": " Iago"
+            },
+            {
+              "number": "18",
+              "name": "Jorge Ortega"
+            },
+            {
+              "number": "8",
+              "name": " Vinicius"
+            },
+            {
+              "number": "21",
+              "name": " Walisson"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "38",
+              "name": "Alex Muralha"
+            },
+            {
+              "number": "30",
+              "name": " Chiquinho"
+            },
+            {
+              "number": "4",
+              "name": " Juan"
+            },
+            {
+              "number": "21",
+              "name": " Para"
+            },
+            {
+              "number": "33",
+              "name": "Rafael Vaz"
+            },
+            {
+              "number": "5",
+              "name": "Willian Arao"
+            },
+            {
+              "number": "8",
+              "name": "Marcio Araujo"
+            },
+            {
+              "number": "23",
+              "name": "Federico Mancuello"
+            },
+            {
+              "number": "19",
+              "name": "Alan Patrick"
+            },
+            {
+              "number": "22",
+              "name": " Everton"
+            },
+            {
+              "number": "9",
+              "name": "Jose Paolo Guerrero"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "37",
+              "name": " Adryan"
+            },
+            {
+              "number": "7",
+              "name": "Marcelo Cirino"
+            },
+            {
+              "number": "26",
+              "name": "Gustavo Cuellar"
+            },
+            {
+              "number": "18",
+              "name": "Leandro Damiao"
+            },
+            {
+              "number": "25",
+              "name": "Alejandro Donatti"
+            },
+            {
+              "number": "46",
+              "name": "Thiago Ennes"
+            },
+            {
+              "number": "31",
+              "name": " Fernandinho"
+            },
+            {
+              "number": "17",
+              "name": " Gabriel"
+            },
+            {
+              "number": "41",
+              "name": " Ronaldo"
+            },
+            {
+              "number": "48",
+              "name": "Paulo Victor"
+            },
+            {
+              "number": "47",
+              "name": "Felipe Vizeu"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-07-31 21:00",
+      "home": "Internacional",
+      "away": "Corinthians",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "18'",
+          "out": " Anselmo",
+          "in": " Jair",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "46'",
+          "out": " Vitinho",
+          "in": "Eduardo Sasha",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "46'",
+          "out": " Valdivia",
+          "in": "Nicolas Lopez",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "42'",
+          "player": "Elias",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "64'",
+          "out": "Giovanni Augusto",
+          "in": " Danilo",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "68'",
+          "out": " Andre",
+          "in": "Luciano Neves",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "75'",
+          "out": " Elias",
+          "in": " Rodriguinho",
+          "type": "substitution"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "32",
+              "name": "Marcelo Lomba"
+            },
+            {
+              "number": "4",
+              "name": "Leandro Almeida"
+            },
+            {
+              "number": "15",
+              "name": " Artur"
+            },
+            {
+              "number": "14",
+              "name": " Ernando"
+            },
+            {
+              "number": "25",
+              "name": " Paulao"
+            },
+            {
+              "number": "21",
+              "name": " Anselmo"
+            },
+            {
+              "number": "17",
+              "name": " Fabinho"
+            },
+            {
+              "number": "23",
+              "name": "Luis Seijas"
+            },
+            {
+              "number": "29",
+              "name": " Valdivia"
+            },
+            {
+              "number": "37",
+              "name": "Ariel Nahuelpan"
+            },
+            {
+              "number": "11",
+              "name": " Vitinho"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "26",
+              "name": " Alan"
+            },
+            {
+              "number": "12",
+              "name": " Alex"
+            },
+            {
+              "number": "8",
+              "name": " Anderson"
+            },
+            {
+              "number": "20",
+              "name": " Andrigo"
+            },
+            {
+              "number": "6",
+              "name": " Geferson"
+            },
+            {
+              "number": "31",
+              "name": " Gustavo"
+            },
+            {
+              "number": "22",
+              "name": " Jaccson"
+            },
+            {
+              "number": "24",
+              "name": " Jair"
+            },
+            {
+              "number": "7",
+              "name": "Nicolas Lopez"
+            },
+            {
+              "number": "19",
+              "name": " Marquinhos"
+            },
+            {
+              "number": "9",
+              "name": "Eduardo Sasha"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "12",
+              "name": " Cassio"
+            },
+            {
+              "number": "4",
+              "name": "Fabian Balbuena"
+            },
+            {
+              "number": "23",
+              "name": " Fagner"
+            },
+            {
+              "number": "6",
+              "name": " Uendel"
+            },
+            {
+              "number": "3",
+              "name": " Yago"
+            },
+            {
+              "number": "17",
+              "name": "Giovanni Augusto"
+            },
+            {
+              "number": "7",
+              "name": " Elias"
+            },
+            {
+              "number": "25",
+              "name": "Bruno Henrique"
+            },
+            {
+              "number": "31",
+              "name": " Marquinhos"
+            },
+            {
+              "number": "11",
+              "name": "Angel Romero"
+            },
+            {
+              "number": "9",
+              "name": " Andre"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "16",
+              "name": " Cristian"
+            },
+            {
+              "number": "20",
+              "name": " Danilo"
+            },
+            {
+              "number": "10",
+              "name": " Guilherme"
+            },
+            {
+              "number": "30",
+              "name": " Lucca"
+            },
+            {
+              "number": "8",
+              "name": " Marlone"
+            },
+            {
+              "number": "18",
+              "name": "Luciano Neves"
+            },
+            {
+              "number": "32",
+              "name": "Leo Principe"
+            },
+            {
+              "number": "19",
+              "name": " Rildo"
+            },
+            {
+              "number": "14",
+              "name": "Leonardo Rodrigues"
+            },
+            {
+              "number": "26",
+              "name": " Rodriguinho"
+            },
+            {
+              "number": "27",
+              "name": " Walter"
+            },
+            {
+              "number": "5",
+              "name": " Willians"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-07-31 21:00",
+      "home": "Santos FC",
+      "away": "Cruzeiro",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "46'",
+          "out": "Emiliano Vecchio",
+          "in": "Jean Mota",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "62'",
+          "player": "Vitor",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "68'",
+          "out": "Yuri Oliveira Lima",
+          "in": "Rafael Longuine",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "74'",
+          "player": "Lucas",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "84'",
+          "out": "Jonathan Copete",
+          "in": " Joel",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "64'",
+          "out": "Giorgian De Arrascaeta",
+          "in": "Ramon Abila",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "72'",
+          "out": "Rafael Sobis",
+          "in": " Rafinha",
+          "type": "substitution"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "1",
+              "name": " Vanderlei"
+            },
+            {
+              "number": "3",
+              "name": " Caju"
+            },
+            {
+              "number": "2",
+              "name": "Luiz Felipe"
+            },
+            {
+              "number": "4",
+              "name": "Victor Ferraz"
+            },
+            {
+              "number": "6",
+              "name": "Gustavo Henrique"
+            },
+            {
+              "number": "25",
+              "name": "Yuri Oliveira Lima"
+            },
+            {
+              "number": "8",
+              "name": " Renato"
+            },
+            {
+              "number": "40",
+              "name": "Emiliano Vecchio"
+            },
+            {
+              "number": "18",
+              "name": " Vitor"
+            },
+            {
+              "number": "36",
+              "name": "Jonathan Copete"
+            },
+            {
+              "number": "9",
+              "name": "Ricardo Oliveira"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "14",
+              "name": "David Braz"
+            },
+            {
+              "number": "27",
+              "name": "Leo Cittadini"
+            },
+            {
+              "number": "11",
+              "name": " Elano"
+            },
+            {
+              "number": "38",
+              "name": "Daniel Guedes"
+            },
+            {
+              "number": "30",
+              "name": " Joel"
+            },
+            {
+              "number": "17",
+              "name": "Rafael Longuine"
+            },
+            {
+              "number": "28",
+              "name": " Lucas"
+            },
+            {
+              "number": "16",
+              "name": "Fernando Medeiros"
+            },
+            {
+              "number": "39",
+              "name": "Jean Mota"
+            },
+            {
+              "number": "22",
+              "name": " Rodrigao"
+            },
+            {
+              "number": "15",
+              "name": "Edwin Valencia"
+            },
+            {
+              "number": "12",
+              "name": " Vladimir"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "1",
+              "name": " Fabio"
+            },
+            {
+              "number": "31",
+              "name": "Edimar Fraga"
+            },
+            {
+              "number": "21",
+              "name": " Lucas"
+            },
+            {
+              "number": "27",
+              "name": "Manoel Messias"
+            },
+            {
+              "number": "4",
+              "name": "Bruno Rodrigo"
+            },
+            {
+              "number": "5",
+              "name": "Alejandro Ariel Cabral"
+            },
+            {
+              "number": "33",
+              "name": "Bruno Edgar"
+            },
+            {
+              "number": "19",
+              "name": " Robinho"
+            },
+            {
+              "number": "10",
+              "name": "Giorgian De Arrascaeta"
+            },
+            {
+              "number": "7",
+              "name": "Rafael Sobis"
+            },
+            {
+              "number": "9",
+              "name": " Willian"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "50",
+              "name": "Ramon Abila"
+            },
+            {
+              "number": "34",
+              "name": "Fabricio Bruno"
+            },
+            {
+              "number": "87",
+              "name": " Elisson"
+            },
+            {
+              "number": "30",
+              "name": " Ezequiel"
+            },
+            {
+              "number": "37",
+              "name": "Lucas Franca"
+            },
+            {
+              "number": "17",
+              "name": "Bryan Garcia"
+            },
+            {
+              "number": "40",
+              "name": "Federico Gino"
+            },
+            {
+              "number": "3",
+              "name": " Leo"
+            },
+            {
+              "number": "32",
+              "name": "Matias Pisano"
+            },
+            {
+              "number": "70",
+              "name": " Rafinha"
+            },
+            {
+              "number": "36",
+              "name": "Bruno Viana"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-07-31 16:00",
+      "home": "Fluminense",
+      "away": "Ponte Preta",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "20'",
+          "player": "Cicero",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "46'",
+          "out": "Douglas Gomes",
+          "in": " Edson",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "46'",
+          "out": " Samuel",
+          "in": "Wellington Silva",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "55'",
+          "player": "Cicero",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "63'",
+          "out": "Henrique Dourado",
+          "in": " Danilinho",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "70'",
+          "player": "Wellington Silva",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "46'",
+          "out": " Wendel",
+          "in": "Thiago Galhardo",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "56'",
+          "out": " Roger",
+          "in": "William Pottker",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "66'",
+          "out": " Rhayner",
+          "in": " Giva",
+          "type": "substitution"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "12",
+              "name": "Diego Cavalieri"
+            },
+            {
+              "number": "3",
+              "name": " Gum"
+            },
+            {
+              "number": "33",
+              "name": " Henrique"
+            },
+            {
+              "number": "30",
+              "name": "William Matheus"
+            },
+            {
+              "number": "25",
+              "name": "Wellington Silva"
+            },
+            {
+              "number": "7",
+              "name": " Cicero"
+            },
+            {
+              "number": "89",
+              "name": "Henrique Dourado"
+            },
+            {
+              "number": "27",
+              "name": "Douglas Gomes"
+            },
+            {
+              "number": "35",
+              "name": "Marcos Junior"
+            },
+            {
+              "number": "18",
+              "name": " Samuel"
+            },
+            {
+              "number": "40",
+              "name": "Gustavo Scarpa"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "20",
+              "name": "Magno Alves"
+            },
+            {
+              "number": "22",
+              "name": "Julio Cesar"
+            },
+            {
+              "number": "31",
+              "name": "Renato Chaves"
+            },
+            {
+              "number": "21",
+              "name": " Danilinho"
+            },
+            {
+              "number": "23",
+              "name": " Dudu"
+            },
+            {
+              "number": "8",
+              "name": " Edson"
+            },
+            {
+              "number": "6",
+              "name": " Giovanni"
+            },
+            {
+              "number": "2",
+              "name": " Jonathan"
+            },
+            {
+              "number": "39",
+              "name": " Maranhao"
+            },
+            {
+              "number": "77",
+              "name": " Marquinho"
+            },
+            {
+              "number": "5",
+              "name": " Pierre"
+            },
+            {
+              "number": "11",
+              "name": "Wellington Silva"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "-",
+              "name": "Joao Carlos"
+            },
+            {
+              "number": "-",
+              "name": " Fabio"
+            },
+            {
+              "number": "-",
+              "name": "Douglas Grolli"
+            },
+            {
+              "number": "-",
+              "name": "Breno Lopes"
+            },
+            {
+              "number": "-",
+              "name": "Nino Paraiba"
+            },
+            {
+              "number": "-",
+              "name": "Maycon Barberan"
+            },
+            {
+              "number": "-",
+              "name": " Clayson"
+            },
+            {
+              "number": "-",
+              "name": " Rhayner"
+            },
+            {
+              "number": "-",
+              "name": "Joao Vitor"
+            },
+            {
+              "number": "-",
+              "name": " Wendel"
+            },
+            {
+              "number": "-",
+              "name": " Roger"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "-",
+              "name": "Antonio Carlos"
+            },
+            {
+              "number": "-",
+              "name": " Cesar"
+            },
+            {
+              "number": "-",
+              "name": "Thiago Galhardo"
+            },
+            {
+              "number": "-",
+              "name": " Giva"
+            },
+            {
+              "number": "-",
+              "name": " Jefferson"
+            },
+            {
+              "number": "-",
+              "name": "Matheus Jesus"
+            },
+            {
+              "number": "-",
+              "name": "Wellington Paulista"
+            },
+            {
+              "number": "-",
+              "name": "William Pottker"
+            },
+            {
+              "number": "-",
+              "name": " Ravanelli"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-07-31 16:00",
+      "home": "Sao Paulo",
+      "away": "Chapecoense AF",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "46'",
+          "out": "Thiago Mendes",
+          "in": "Andres Chavez",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "61'",
+          "player": "Christian Cueva",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "61'",
+          "out": " Carlinhos",
+          "in": "Luiz Araujo",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "79'",
+          "out": " Kelvin",
+          "in": "Pedro Bortoluzo",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "86'",
+          "player": "Christian Cueva",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "5'",
+          "player": "Kempes",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "12'",
+          "player": "Thiego",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "46'",
+          "out": "Alejandro Martinuccio",
+          "in": "Tiago Vieira",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "out": " Gimenez",
+          "in": "Matheus Biteco",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "73'",
+          "out": " Kempes",
+          "in": "Bruno Rangel",
+          "type": "substitution"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "1",
+              "name": " Denis"
+            },
+            {
+              "number": "2",
+              "name": " Bruno"
+            },
+            {
+              "number": "6",
+              "name": " Carlinhos"
+            },
+            {
+              "number": "5",
+              "name": "Diego Lugano"
+            },
+            {
+              "number": "27",
+              "name": " Maicon"
+            },
+            {
+              "number": "7",
+              "name": "Michel Bastos"
+            },
+            {
+              "number": "13",
+              "name": "Christian Cueva"
+            },
+            {
+              "number": "25",
+              "name": " Hudson"
+            },
+            {
+              "number": "30",
+              "name": " Kelvin"
+            },
+            {
+              "number": "23",
+              "name": "Thiago Mendes"
+            },
+            {
+              "number": "20",
+              "name": "Adrian Ricardo Centurion"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "31",
+              "name": "Luiz Araujo"
+            },
+            {
+              "number": "33",
+              "name": " Artur"
+            },
+            {
+              "number": "26",
+              "name": " Auro"
+            },
+            {
+              "number": "35",
+              "name": "Pedro Bortoluzo"
+            },
+            {
+              "number": "9",
+              "name": "Andres Chavez"
+            },
+            {
+              "number": "8",
+              "name": " Daniel"
+            },
+            {
+              "number": "24",
+              "name": " Leo"
+            },
+            {
+              "number": "4",
+              "name": " Lucao"
+            },
+            {
+              "number": "19",
+              "name": " Lyanco"
+            },
+            {
+              "number": "28",
+              "name": " Matheus"
+            },
+            {
+              "number": "15",
+              "name": "Joao Schimdt"
+            },
+            {
+              "number": "11",
+              "name": " Wesley"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "1",
+              "name": " Danilo"
+            },
+            {
+              "number": "6",
+              "name": " Dener"
+            },
+            {
+              "number": "2",
+              "name": " Gimenez"
+            },
+            {
+              "number": "45",
+              "name": "Filipe Machado"
+            },
+            {
+              "number": "27",
+              "name": " Thiego"
+            },
+            {
+              "number": "8",
+              "name": " Gil"
+            },
+            {
+              "number": "10",
+              "name": " Hyoran"
+            },
+            {
+              "number": "5",
+              "name": " Josimar"
+            },
+            {
+              "number": "87",
+              "name": "Alejandro Martinuccio"
+            },
+            {
+              "number": "88",
+              "name": "Cleber Santana"
+            },
+            {
+              "number": "33",
+              "name": " Kempes"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "85",
+              "name": "Rafael Bastos"
+            },
+            {
+              "number": "77",
+              "name": "Matheus Biteco"
+            },
+            {
+              "number": "12",
+              "name": "Marcelo Boeck"
+            },
+            {
+              "number": "70",
+              "name": "Ailton Canela"
+            },
+            {
+              "number": "44",
+              "name": " Demerson"
+            },
+            {
+              "number": "40",
+              "name": " Follmann"
+            },
+            {
+              "number": "3",
+              "name": "Rafael Lima"
+            },
+            {
+              "number": "30",
+              "name": " Nenem"
+            },
+            {
+              "number": "9",
+              "name": "Bruno Rangel"
+            },
+            {
+              "number": "94",
+              "name": "Tiago Vieira"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-07-31 02:00",
+      "home": "Atletico MG",
+      "away": "Santa Cruz",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "22'",
+          "player": "Robinho",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "25'",
+          "out": "Carlos Cesar",
+          "in": " Patric",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "67'",
+          "player": "Fred",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "70'",
+          "out": "Lucas Pratto",
+          "in": " Luan",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Luan",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "82'",
+          "out": " Maicosuel",
+          "in": "Junior Urso",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "59'",
+          "out": "Danilo Pires",
+          "in": " Arthur",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "69'",
+          "out": " Jadson",
+          "in": " Lele",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "82'",
+          "out": " Grafite",
+          "in": "Fernando Gabriel",
+          "type": "substitution"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "1",
+              "name": " Victor"
+            },
+            {
+              "number": "19",
+              "name": "Carlos Cesar"
+            },
+            {
+              "number": "4",
+              "name": "Frickson Erazo"
+            },
+            {
+              "number": "39",
+              "name": "Fabio Santos"
+            },
+            {
+              "number": "3",
+              "name": "Leo Silva"
+            },
+            {
+              "number": "5",
+              "name": "Rafael Carioca"
+            },
+            {
+              "number": "8",
+              "name": "Leandro Donizete"
+            },
+            {
+              "number": "99",
+              "name": " Fred"
+            },
+            {
+              "number": "70",
+              "name": " Maicosuel"
+            },
+            {
+              "number": "9",
+              "name": "Lucas Pratto"
+            },
+            {
+              "number": "7",
+              "name": " Robinho"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "18",
+              "name": "Lucas Candido"
+            },
+            {
+              "number": "13",
+              "name": " Carlos"
+            },
+            {
+              "number": "23",
+              "name": " Claytinho"
+            },
+            {
+              "number": "30",
+              "name": " Eduardo"
+            },
+            {
+              "number": "22",
+              "name": "Carlos Eduardo"
+            },
+            {
+              "number": "20",
+              "name": " Giovanni"
+            },
+            {
+              "number": "38",
+              "name": " Jesiel"
+            },
+            {
+              "number": "27",
+              "name": " Luan"
+            },
+            {
+              "number": "-",
+              "name": "Romulo Otero"
+            },
+            {
+              "number": "29",
+              "name": " Patric"
+            },
+            {
+              "number": "33",
+              "name": "Silveira Ronaldo Conceicao"
+            },
+            {
+              "number": "21",
+              "name": "Junior Urso"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "1",
+              "name": "Tiago Cardoso"
+            },
+            {
+              "number": "6",
+              "name": "Tiago Costa"
+            },
+            {
+              "number": "18",
+              "name": " Derley"
+            },
+            {
+              "number": "4",
+              "name": "Danny Morais"
+            },
+            {
+              "number": "2",
+              "name": "Leo Moura"
+            },
+            {
+              "number": "5",
+              "name": "Uillian Correia"
+            },
+            {
+              "number": "23",
+              "name": " Grafite"
+            },
+            {
+              "number": "20",
+              "name": " Jadson"
+            },
+            {
+              "number": "13",
+              "name": "Luan Peres"
+            },
+            {
+              "number": "-",
+              "name": "Danilo Pires"
+            },
+            {
+              "number": "11",
+              "name": " Keno"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "7",
+              "name": " Arthur"
+            },
+            {
+              "number": "17",
+              "name": "Fernando Gabriel"
+            },
+            {
+              "number": "12",
+              "name": "Edson Kolln"
+            },
+            {
+              "number": "21",
+              "name": " Lele"
+            },
+            {
+              "number": "19",
+              "name": " Marcinho"
+            },
+            {
+              "number": "9",
+              "name": "Bruno Moraes"
+            },
+            {
+              "number": "16",
+              "name": " Renatinho"
+            },
+            {
+              "number": "3",
+              "name": "Allan Vieira"
+            },
+            {
+              "number": "-",
+              "name": " Wellington"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-07-30 23:30",
+      "home": "Sport",
+      "away": "Atletico PR",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "17'",
+          "player": "Diego Souza",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "53'",
+          "player": "Edmilson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "71'",
+          "out": " Serginho",
+          "in": "Rodrigo Mancha",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "80'",
+          "out": " Edmilson",
+          "in": "Mark Gonzalez",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "85'",
+          "out": " Rogerio",
+          "in": "Paulo Roberto",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "65'",
+          "out": " Juninho",
+          "in": "Matheus Rossetto",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "72'",
+          "out": "Yago Cesar",
+          "in": "Lucas Fernandes",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "out": "Marcos Guilherme",
+          "in": " Giovanny",
+          "type": "substitution"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "1",
+              "name": " Magrao"
+            },
+            {
+              "number": "3",
+              "name": "Ronaldo Alves"
+            },
+            {
+              "number": "16",
+              "name": "Matheus Ferraz"
+            },
+            {
+              "number": "27",
+              "name": " Samuel"
+            },
+            {
+              "number": "22",
+              "name": "Rodney Wallace"
+            },
+            {
+              "number": "97",
+              "name": " Everton"
+            },
+            {
+              "number": "21",
+              "name": " Rithely"
+            },
+            {
+              "number": "90",
+              "name": " Rogerio"
+            },
+            {
+              "number": "8",
+              "name": " Serginho"
+            },
+            {
+              "number": "87",
+              "name": "Diego Souza"
+            },
+            {
+              "number": "17",
+              "name": " Edmilson"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "12",
+              "name": " Agenor"
+            },
+            {
+              "number": "32",
+              "name": " Apodi"
+            },
+            {
+              "number": "20",
+              "name": " Clayton"
+            },
+            {
+              "number": "99",
+              "name": "Tulio de Melo"
+            },
+            {
+              "number": "11",
+              "name": "Mark Gonzalez"
+            },
+            {
+              "number": "7",
+              "name": "Reinaldo Lenis"
+            },
+            {
+              "number": "5",
+              "name": "Rodrigo Mancha"
+            },
+            {
+              "number": "93",
+              "name": " Mansur"
+            },
+            {
+              "number": "26",
+              "name": " Oswaldo"
+            },
+            {
+              "number": "6",
+              "name": " Rene"
+            },
+            {
+              "number": "28",
+              "name": "Paulo Roberto"
+            },
+            {
+              "number": "10",
+              "name": "Gabriel Xavier"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "12",
+              "name": " Weverton"
+            },
+            {
+              "number": "13",
+              "name": "Paulo Andre"
+            },
+            {
+              "number": "2",
+              "name": "Rafael Galhardo"
+            },
+            {
+              "number": "97",
+              "name": "Nicolas Vichiatto"
+            },
+            {
+              "number": "89",
+              "name": " Wanderson"
+            },
+            {
+              "number": "14",
+              "name": "Luciano Cabral"
+            },
+            {
+              "number": "70",
+              "name": "Yago Cesar"
+            },
+            {
+              "number": "10",
+              "name": "Marcos Guilherme"
+            },
+            {
+              "number": "45",
+              "name": " Marcao"
+            },
+            {
+              "number": "92",
+              "name": " Pablo"
+            },
+            {
+              "number": "26",
+              "name": " Juninho"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "47",
+              "name": "Gustavo Cascardo"
+            },
+            {
+              "number": "77",
+              "name": "Lucas Fernandes"
+            },
+            {
+              "number": "8",
+              "name": "Sidcley Ferreira"
+            },
+            {
+              "number": "32",
+              "name": " Giovanny"
+            },
+            {
+              "number": "27",
+              "name": " Ivaldo"
+            },
+            {
+              "number": "39",
+              "name": " Mosquito"
+            },
+            {
+              "number": "21",
+              "name": "Joao Pedro"
+            },
+            {
+              "number": "95",
+              "name": " Renan"
+            },
+            {
+              "number": "20",
+              "name": "Matheus Rossetto"
+            },
+            {
+              "number": "1",
+              "name": "Aderbar Santos"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-07-30 23:30",
+      "home": "Figueirense",
+      "away": "Vitoria",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "16'",
+          "player": "Dodo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "42'",
+          "player": "Rafael Moura",
+          "type": "card-r"
+        },
+        {
+          "team": "home",
+          "time": "59'",
+          "out": "Carlos Alberto",
+          "in": " Ayrton",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "66'",
+          "out": "Rafael Silva",
+          "in": " Yago",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "76'",
+          "out": " Dodo",
+          "in": " Maurides",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "46'",
+          "out": " Ramon",
+          "in": "Rodrigo Ramallo",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "46'",
+          "out": " Euller",
+          "in": " Norberto",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "75'",
+          "out": " Serginho",
+          "in": "Tiago Real",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "83'",
+          "player": "Victor Ramos",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "73",
+              "name": "Thiago Rodrigues"
+            },
+            {
+              "number": "59",
+              "name": "Bruno Alves"
+            },
+            {
+              "number": "15",
+              "name": " Jefferson"
+            },
+            {
+              "number": "3",
+              "name": " Marquinhos"
+            },
+            {
+              "number": "31",
+              "name": " Para"
+            },
+            {
+              "number": "19",
+              "name": "Carlos Alberto"
+            },
+            {
+              "number": "17",
+              "name": "Jackson Caucaia"
+            },
+            {
+              "number": "7",
+              "name": " Dodo"
+            },
+            {
+              "number": "85",
+              "name": " Elicarlos"
+            },
+            {
+              "number": "11",
+              "name": "Rafael Silva"
+            },
+            {
+              "number": "9",
+              "name": "Rafael Moura"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "25",
+              "name": " Alisson"
+            },
+            {
+              "number": "32",
+              "name": " Ayrton"
+            },
+            {
+              "number": "20",
+              "name": " Bady"
+            },
+            {
+              "number": "1",
+              "name": "Roberto Fernandez"
+            },
+            {
+              "number": "95",
+              "name": " Guilherme"
+            },
+            {
+              "number": "98",
+              "name": " Indio"
+            },
+            {
+              "number": "99",
+              "name": " Maurides"
+            },
+            {
+              "number": "10",
+              "name": "Michael Ortega"
+            },
+            {
+              "number": "77",
+              "name": "Guilherme Queiroz"
+            },
+            {
+              "number": "4",
+              "name": " Werley"
+            },
+            {
+              "number": "27",
+              "name": " Yago"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "1",
+              "name": "Fernando Miguel"
+            },
+            {
+              "number": "16",
+              "name": " Euller"
+            },
+            {
+              "number": "25",
+              "name": " Kanu"
+            },
+            {
+              "number": "4",
+              "name": " Ramon"
+            },
+            {
+              "number": "3",
+              "name": "Victor Ramos"
+            },
+            {
+              "number": "26",
+              "name": "Diego Renan"
+            },
+            {
+              "number": "8",
+              "name": "Willian Farias"
+            },
+            {
+              "number": "7",
+              "name": " Marinho"
+            },
+            {
+              "number": "13",
+              "name": " Serginho"
+            },
+            {
+              "number": "17",
+              "name": " Vander"
+            },
+            {
+              "number": "9",
+              "name": " Kieza"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "5",
+              "name": " Amaral"
+            },
+            {
+              "number": "23",
+              "name": " Caique"
+            },
+            {
+              "number": "15",
+              "name": " Flavio"
+            },
+            {
+              "number": "29",
+              "name": " Marcelo"
+            },
+            {
+              "number": "32",
+              "name": " Norberto"
+            },
+            {
+              "number": "36",
+              "name": "Rodrigo Ramallo"
+            },
+            {
+              "number": "11",
+              "name": "Tiago Real"
+            },
+            {
+              "number": "14",
+              "name": "Jose Welison"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-07-26 01:00",
+      "home": "Flamengo",
+      "away": "America MG",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "56'",
+          "player": "Jose Paolo Guerrero",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "player": "Alan Patrick",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "68'",
+          "out": " Chiquinho",
+          "in": "Rafael Vaz",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "78'",
+          "out": " Fernandinho",
+          "in": " Gabriel",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "86'",
+          "out": "Alan Patrick",
+          "in": " Adryan",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "62'",
+          "out": "Alan Mineiro",
+          "in": " Claudinei",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "62'",
+          "out": " Vitinho",
+          "in": " Michael",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "73'",
+          "out": "Bruno Teles",
+          "in": " Danilo",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "77'",
+          "player": "Adilson",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "38",
+              "name": "Alex Muralha"
+            },
+            {
+              "number": "30",
+              "name": " Chiquinho"
+            },
+            {
+              "number": "4",
+              "name": " Juan"
+            },
+            {
+              "number": "21",
+              "name": " Para"
+            },
+            {
+              "number": "15",
+              "name": " Rever"
+            },
+            {
+              "number": "5",
+              "name": "Willian Arao"
+            },
+            {
+              "number": "8",
+              "name": "Marcio Araujo"
+            },
+            {
+              "number": "23",
+              "name": "Federico Mancuello"
+            },
+            {
+              "number": "19",
+              "name": "Alan Patrick"
+            },
+            {
+              "number": "31",
+              "name": " Fernandinho"
+            },
+            {
+              "number": "9",
+              "name": "Jose Paolo Guerrero"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "37",
+              "name": " Adryan"
+            },
+            {
+              "number": "20",
+              "name": "Hector Canteros"
+            },
+            {
+              "number": "26",
+              "name": "Gustavo Cuellar"
+            },
+            {
+              "number": "46",
+              "name": "Thiago Ennes"
+            },
+            {
+              "number": "17",
+              "name": " Gabriel"
+            },
+            {
+              "number": "41",
+              "name": " Ronaldo"
+            },
+            {
+              "number": "40",
+              "name": " Thiago"
+            },
+            {
+              "number": "33",
+              "name": "Rafael Vaz"
+            },
+            {
+              "number": "48",
+              "name": "Paulo Victor"
+            },
+            {
+              "number": "47",
+              "name": "Felipe Vizeu"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "1",
+              "name": "Joao Ricardo"
+            },
+            {
+              "number": "4",
+              "name": " Alison"
+            },
+            {
+              "number": "22",
+              "name": " Pablo"
+            },
+            {
+              "number": "3",
+              "name": " Roger"
+            },
+            {
+              "number": "6",
+              "name": "Bruno Teles"
+            },
+            {
+              "number": "5",
+              "name": " Adilson"
+            },
+            {
+              "number": "11",
+              "name": " Gilson"
+            },
+            {
+              "number": "8",
+              "name": "Leandro Luchese Guerreiro"
+            },
+            {
+              "number": "10",
+              "name": "Alan Mineiro"
+            },
+            {
+              "number": "7",
+              "name": "Osman Junior"
+            },
+            {
+              "number": "9",
+              "name": " Vitinho"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "13",
+              "name": " Adalberto"
+            },
+            {
+              "number": "16",
+              "name": " Claudinei"
+            },
+            {
+              "number": "14",
+              "name": " Danilo"
+            },
+            {
+              "number": "18",
+              "name": "Danilo Dias"
+            },
+            {
+              "number": "2",
+              "name": " Helder"
+            },
+            {
+              "number": "12",
+              "name": "Fernando Leal"
+            },
+            {
+              "number": "19",
+              "name": " Michael"
+            },
+            {
+              "number": "21",
+              "name": "Bruno Savio"
+            },
+            {
+              "number": "17",
+              "name": " Xavier"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-07-24 23:30",
+      "home": "Vitoria",
+      "away": "Santos FC",
+      "score": "2-3",
+      "events": [
+        {
+          "team": "home",
+          "time": "30'",
+          "player": "Kanu",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "65'",
+          "out": " Serginho",
+          "in": "Sherman Cardenas",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "65'",
+          "out": " Dagoberto",
+          "in": "Rodrigo Ramallo",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "71'",
+          "player": "Vander",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "85'",
+          "out": "Willian Farias",
+          "in": "Tiago Real",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "20'",
+          "player": "Vitor",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "32'",
+          "player": "Jonathan Copete",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "69'",
+          "out": "Ricardo Oliveira",
+          "in": " Rodrigao",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "73'",
+          "out": "Lucas Lima",
+          "in": "Fernando Medeiros",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "81'",
+          "out": "Leo Cittadini",
+          "in": "Jean Mota",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "82'",
+          "player": "Jean Mota",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "23",
+              "name": " Caique"
+            },
+            {
+              "number": "16",
+              "name": " Euller"
+            },
+            {
+              "number": "25",
+              "name": " Kanu"
+            },
+            {
+              "number": "3",
+              "name": "Victor Ramos"
+            },
+            {
+              "number": "26",
+              "name": "Diego Renan"
+            },
+            {
+              "number": "22",
+              "name": " Dagoberto"
+            },
+            {
+              "number": "8",
+              "name": "Willian Farias"
+            },
+            {
+              "number": "13",
+              "name": " Serginho"
+            },
+            {
+              "number": "17",
+              "name": " Vander"
+            },
+            {
+              "number": "14",
+              "name": "Jose Welison"
+            },
+            {
+              "number": "9",
+              "name": " Kieza"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "20",
+              "name": " Alipio"
+            },
+            {
+              "number": "10",
+              "name": "Sherman Cardenas"
+            },
+            {
+              "number": "30",
+              "name": "Leandro Domingues"
+            },
+            {
+              "number": "15",
+              "name": " Flavio"
+            },
+            {
+              "number": "29",
+              "name": " Marcelo"
+            },
+            {
+              "number": "28",
+              "name": " Nickson"
+            },
+            {
+              "number": "32",
+              "name": " Norberto"
+            },
+            {
+              "number": "36",
+              "name": "Rodrigo Ramallo"
+            },
+            {
+              "number": "4",
+              "name": " Ramon"
+            },
+            {
+              "number": "11",
+              "name": "Tiago Real"
+            },
+            {
+              "number": "34",
+              "name": " Wallace"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "1",
+              "name": " Vanderlei"
+            },
+            {
+              "number": "3",
+              "name": " Caju"
+            },
+            {
+              "number": "2",
+              "name": "Luiz Felipe"
+            },
+            {
+              "number": "4",
+              "name": "Victor Ferraz"
+            },
+            {
+              "number": "6",
+              "name": "Gustavo Henrique"
+            },
+            {
+              "number": "27",
+              "name": "Leo Cittadini"
+            },
+            {
+              "number": "36",
+              "name": "Jonathan Copete"
+            },
+            {
+              "number": "20",
+              "name": "Lucas Lima"
+            },
+            {
+              "number": "8",
+              "name": " Renato"
+            },
+            {
+              "number": "18",
+              "name": " Vitor"
+            },
+            {
+              "number": "9",
+              "name": "Ricardo Oliveira"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "14",
+              "name": "David Braz"
+            },
+            {
+              "number": "38",
+              "name": "Daniel Guedes"
+            },
+            {
+              "number": "30",
+              "name": " Joel"
+            },
+            {
+              "number": "17",
+              "name": "Rafael Longuine"
+            },
+            {
+              "number": "16",
+              "name": "Fernando Medeiros"
+            },
+            {
+              "number": "39",
+              "name": "Jean Mota"
+            },
+            {
+              "number": "25",
+              "name": "Yuri Oliveira Lima"
+            },
+            {
+              "number": "22",
+              "name": " Rodrigao"
+            },
+            {
+              "number": "15",
+              "name": "Edwin Valencia"
+            },
+            {
+              "number": "40",
+              "name": "Emiliano Vecchio"
+            },
+            {
+              "number": "12",
+              "name": " Vladimir"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-07-24 21:00",
+      "home": "Chapecoense AF",
+      "away": "Botafogo RJ",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "25'",
+          "player": "Hyoran",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "46'",
+          "out": "Sergio Manoel",
+          "in": "Matheus Biteco",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "55'",
+          "out": " Ananias",
+          "in": "Lucas Gomes",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "62'",
+          "out": " Hyoran",
+          "in": "Alejandro Martinuccio",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Lucas Gomes",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "46'",
+          "out": " Fernandes",
+          "in": " Neilton",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "67'",
+          "out": "Gustavo Canales",
+          "in": "Luis Henrique",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "77'",
+          "out": "Juan Manuel Salguiero",
+          "in": "Gervasio Daniel Nunez",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "Fernando Farias",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "12",
+              "name": "Marcelo Boeck"
+            },
+            {
+              "number": "6",
+              "name": " Dener"
+            },
+            {
+              "number": "2",
+              "name": " Gimenez"
+            },
+            {
+              "number": "45",
+              "name": "Filipe Machado"
+            },
+            {
+              "number": "27",
+              "name": " Thiego"
+            },
+            {
+              "number": "5",
+              "name": " Josimar"
+            },
+            {
+              "number": "35",
+              "name": "Sergio Manoel"
+            },
+            {
+              "number": "88",
+              "name": "Cleber Santana"
+            },
+            {
+              "number": "11",
+              "name": " Ananias"
+            },
+            {
+              "number": "10",
+              "name": " Hyoran"
+            },
+            {
+              "number": "33",
+              "name": " Kempes"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "85",
+              "name": "Rafael Bastos"
+            },
+            {
+              "number": "77",
+              "name": "Matheus Biteco"
+            },
+            {
+              "number": "1",
+              "name": " Danilo"
+            },
+            {
+              "number": "44",
+              "name": " Demerson"
+            },
+            {
+              "number": "23",
+              "name": "Lucas Gomes"
+            },
+            {
+              "number": "3",
+              "name": "Rafael Lima"
+            },
+            {
+              "number": "87",
+              "name": "Alejandro Martinuccio"
+            },
+            {
+              "number": "36",
+              "name": " Nivaldo"
+            },
+            {
+              "number": "9",
+              "name": "Bruno Rangel"
+            },
+            {
+              "number": "94",
+              "name": "Tiago Vieira"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "1",
+              "name": "Aparecido Ramos da Silva Sidney"
+            },
+            {
+              "number": "2",
+              "name": " Emerson"
+            },
+            {
+              "number": "6",
+              "name": "Diogo Goiano"
+            },
+            {
+              "number": "-",
+              "name": "Mauro Joel Carli"
+            },
+            {
+              "number": "4",
+              "name": "Luis Richardo"
+            },
+            {
+              "number": "10",
+              "name": "Fernando Farias"
+            },
+            {
+              "number": "11",
+              "name": " Fernandes"
+            },
+            {
+              "number": "19",
+              "name": "Juan Manuel Salguiero"
+            },
+            {
+              "number": "5",
+              "name": " Rodrigo"
+            },
+            {
+              "number": "8",
+              "name": "Bruno Silva"
+            },
+            {
+              "number": "-",
+              "name": "Gustavo Canales"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "-",
+              "name": "Anderson Angus Aquino"
+            },
+            {
+              "number": "-",
+              "name": "Dudu Cearense"
+            },
+            {
+              "number": "20",
+              "name": "Gervasio Daniel Nunez"
+            },
+            {
+              "number": "21",
+              "name": " Diego"
+            },
+            {
+              "number": "16",
+              "name": " Dierson"
+            },
+            {
+              "number": "3",
+              "name": "Renan Fonseca"
+            },
+            {
+              "number": "21",
+              "name": "Luis Henrique"
+            },
+            {
+              "number": "12",
+              "name": "Helton Leite"
+            },
+            {
+              "number": "15",
+              "name": "Victor Luis"
+            },
+            {
+              "number": "-",
+              "name": "Geovane Maranhao"
+            },
+            {
+              "number": "7",
+              "name": " Neilton"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-07-24 21:00",
+      "home": "Atletico PR",
+      "away": "Fluminense",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Hernani",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "60'",
+          "out": " Vinicius",
+          "in": " Juninho",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "85'",
+          "out": "Yago Cesar",
+          "in": " Giovanny",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "out": " Walter",
+          "in": " Marcao",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "46'",
+          "out": " Maranhao",
+          "in": " Dudu",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "69'",
+          "out": " Richarlison",
+          "in": "Magno Alves",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "70'",
+          "out": "Douglas Gomes",
+          "in": " Edson",
+          "type": "substitution"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "12",
+              "name": " Weverton"
+            },
+            {
+              "number": "8",
+              "name": "Sidcley Ferreira"
+            },
+            {
+              "number": "44",
+              "name": "Thiago Heleno"
+            },
+            {
+              "number": "33",
+              "name": "Leo Morais"
+            },
+            {
+              "number": "19",
+              "name": " Wanderson"
+            },
+            {
+              "number": "23",
+              "name": " Hernani"
+            },
+            {
+              "number": "7",
+              "name": " Otavio"
+            },
+            {
+              "number": "29",
+              "name": " Vinicius"
+            },
+            {
+              "number": "70",
+              "name": "Yago Cesar"
+            },
+            {
+              "number": "92",
+              "name": " Pablo"
+            },
+            {
+              "number": "18",
+              "name": " Walter"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "32",
+              "name": " Giovanny"
+            },
+            {
+              "number": "27",
+              "name": " Ivaldo"
+            },
+            {
+              "number": "26",
+              "name": " Juninho"
+            },
+            {
+              "number": "45",
+              "name": " Marcao"
+            },
+            {
+              "number": "21",
+              "name": "Joao Pedro"
+            },
+            {
+              "number": "95",
+              "name": " Renan"
+            },
+            {
+              "number": "52",
+              "name": " Rodolfo"
+            },
+            {
+              "number": "20",
+              "name": "Matheus Rossetto"
+            },
+            {
+              "number": "97",
+              "name": "Nicolas Vichiatto"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "12",
+              "name": "Diego Cavalieri"
+            },
+            {
+              "number": "3",
+              "name": " Gum"
+            },
+            {
+              "number": "33",
+              "name": " Henrique"
+            },
+            {
+              "number": "30",
+              "name": "William Matheus"
+            },
+            {
+              "number": "25",
+              "name": "Wellington Silva"
+            },
+            {
+              "number": "7",
+              "name": " Cicero"
+            },
+            {
+              "number": "27",
+              "name": "Douglas Gomes"
+            },
+            {
+              "number": "35",
+              "name": "Marcos Junior"
+            },
+            {
+              "number": "39",
+              "name": " Maranhao"
+            },
+            {
+              "number": "19",
+              "name": " Richarlison"
+            },
+            {
+              "number": "18",
+              "name": " Samuel"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "20",
+              "name": "Magno Alves"
+            },
+            {
+              "number": "22",
+              "name": "Julio Cesar"
+            },
+            {
+              "number": "31",
+              "name": "Renato Chaves"
+            },
+            {
+              "number": "23",
+              "name": " Dudu"
+            },
+            {
+              "number": "8",
+              "name": " Edson"
+            },
+            {
+              "number": "6",
+              "name": " Giovanni"
+            },
+            {
+              "number": "2",
+              "name": " Jonathan"
+            },
+            {
+              "number": "17",
+              "name": " Osvaldo"
+            },
+            {
+              "number": "5",
+              "name": " Pierre"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-07-24 21:00",
+      "home": "Gremio",
+      "away": "Sao Paulo",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "44'",
+          "out": " Everton",
+          "in": "Pedro Rocha",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "53'",
+          "player": "Douglas",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "81'",
+          "out": " Douglas",
+          "in": "Henrique Almeida",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "out": " Negueba",
+          "in": " Kaio",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "63'",
+          "out": " Gilberto",
+          "in": " Kelvin",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "78'",
+          "out": "Adrian Ricardo Centurion",
+          "in": "Pedro Bortoluzo",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "79'",
+          "player": "Eugenio Mena",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "1",
+              "name": "Marcelo Grohe"
+            },
+            {
+              "number": "33",
+              "name": " Edilson"
+            },
+            {
+              "number": "3",
+              "name": " Geromel"
+            },
+            {
+              "number": "34",
+              "name": "Iago Silva"
+            },
+            {
+              "number": "14",
+              "name": " Wallace"
+            },
+            {
+              "number": "10",
+              "name": " Douglas"
+            },
+            {
+              "number": "25",
+              "name": " Jaja"
+            },
+            {
+              "number": "19",
+              "name": " Maicon"
+            },
+            {
+              "number": "23",
+              "name": "Miller Bolanos"
+            },
+            {
+              "number": "11",
+              "name": " Everton"
+            },
+            {
+              "number": "77",
+              "name": " Negueba"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "91",
+              "name": "Henrique Almeida"
+            },
+            {
+              "number": "13",
+              "name": " Bobo"
+            },
+            {
+              "number": "6",
+              "name": " Fred"
+            },
+            {
+              "number": "38",
+              "name": " Guilherme"
+            },
+            {
+              "number": "28",
+              "name": " Kaio"
+            },
+            {
+              "number": "20",
+              "name": " Leonardo"
+            },
+            {
+              "number": "27",
+              "name": " Lincoln"
+            },
+            {
+              "number": "39",
+              "name": "Lucas Lovat"
+            },
+            {
+              "number": "41",
+              "name": " Machado"
+            },
+            {
+              "number": "32",
+              "name": "Pedro Rocha"
+            },
+            {
+              "number": "15",
+              "name": "Rafael Thyere"
+            },
+            {
+              "number": "2",
+              "name": " Wallace"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "1",
+              "name": " Denis"
+            },
+            {
+              "number": "2",
+              "name": " Bruno"
+            },
+            {
+              "number": "5",
+              "name": "Diego Lugano"
+            },
+            {
+              "number": "27",
+              "name": " Maicon"
+            },
+            {
+              "number": "21",
+              "name": "Eugenio Mena"
+            },
+            {
+              "number": "7",
+              "name": "Michel Bastos"
+            },
+            {
+              "number": "13",
+              "name": "Christian Cueva"
+            },
+            {
+              "number": "23",
+              "name": "Thiago Mendes"
+            },
+            {
+              "number": "11",
+              "name": " Wesley"
+            },
+            {
+              "number": "17",
+              "name": " Gilberto"
+            },
+            {
+              "number": "20",
+              "name": "Adrian Ricardo Centurion"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "31",
+              "name": "Luiz Araujo"
+            },
+            {
+              "number": "33",
+              "name": " Artur"
+            },
+            {
+              "number": "35",
+              "name": "Pedro Bortoluzo"
+            },
+            {
+              "number": "6",
+              "name": " Carlinhos"
+            },
+            {
+              "number": "30",
+              "name": " Kelvin"
+            },
+            {
+              "number": "24",
+              "name": " Leo"
+            },
+            {
+              "number": "19",
+              "name": " Lyanco"
+            },
+            {
+              "number": "28",
+              "name": " Matheus"
+            },
+            {
+              "number": "15",
+              "name": "Joao Schimdt"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "date": "2016-07-24 21:00",
+      "home": "Cruzeiro",
+      "away": "Sport",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "52'",
+          "out": "Alejandro Ariel Cabral",
+          "in": " Robinho",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "69'",
+          "out": "Ramon Abila",
+          "in": " Rafinha",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "78'",
+          "out": " Lucas",
+          "in": "Douglas Coutinho",
+          "type": "substitution"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Willian",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "38'",
+          "player": "Rogerio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "51'",
+          "player": "Rogerio",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "74'",
+          "out": " Edmilson",
+          "in": "Rodrigo Mancha",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "83'",
+          "out": " Rogerio",
+          "in": "Mark Gonzalez",
+          "type": "substitution"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "out": "Diego Souza",
+          "in": "Tulio de Melo",
+          "type": "substitution"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [
+            {
+              "number": "1",
+              "name": " Fabio"
+            },
+            {
+              "number": "31",
+              "name": "Edimar Fraga"
+            },
+            {
+              "number": "3",
+              "name": " Leo"
+            },
+            {
+              "number": "21",
+              "name": " Lucas"
+            },
+            {
+              "number": "4",
+              "name": "Bruno Rodrigo"
+            },
+            {
+              "number": "5",
+              "name": "Alejandro Ariel Cabral"
+            },
+            {
+              "number": "10",
+              "name": "Giorgian De Arrascaeta"
+            },
+            {
+              "number": "8",
+              "name": " Henrique"
+            },
+            {
+              "number": "7",
+              "name": "Rafael Sobis"
+            },
+            {
+              "number": "9",
+              "name": " Willian"
+            },
+            {
+              "number": "50",
+              "name": "Ramon Abila"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "34",
+              "name": "Fabricio Bruno"
+            },
+            {
+              "number": "14",
+              "name": "Douglas Coutinho"
+            },
+            {
+              "number": "-",
+              "name": " Elisson"
+            },
+            {
+              "number": "30",
+              "name": " Ezequiel"
+            },
+            {
+              "number": "37",
+              "name": "Lucas Franca"
+            },
+            {
+              "number": "17",
+              "name": "Bryan Garcia"
+            },
+            {
+              "number": "40",
+              "name": "Federico Gino"
+            },
+            {
+              "number": "27",
+              "name": "Manoel Messias"
+            },
+            {
+              "number": "25",
+              "name": "Bruno Nazario"
+            },
+            {
+              "number": "32",
+              "name": "Matias Pisano"
+            },
+            {
+              "number": "70",
+              "name": " Rafinha"
+            },
+            {
+              "number": "19",
+              "name": " Robinho"
+            }
+          ]
+        },
+        "away": {
+          "squad": [
+            {
+              "number": "1",
+              "name": " Magrao"
+            },
+            {
+              "number": "3",
+              "name": "Ronaldo Alves"
+            },
+            {
+              "number": "16",
+              "name": "Matheus Ferraz"
+            },
+            {
+              "number": "27",
+              "name": " Samuel"
+            },
+            {
+              "number": "22",
+              "name": "Rodney Wallace"
+            },
+            {
+              "number": "97",
+              "name": " Everton"
+            },
+            {
+              "number": "21",
+              "name": " Rithely"
+            },
+            {
+              "number": "90",
+              "name": " Rogerio"
+            },
+            {
+              "number": "8",
+              "name": " Serginho"
+            },
+            {
+              "number": "87",
+              "name": "Diego Souza"
+            },
+            {
+              "number": "17",
+              "name": " Edmilson"
+            }
+          ],
+          "reserve": [
+            {
+              "number": "12",
+              "name": " Agenor"
+            },
+            {
+              "number": "-",
+              "name": " Apodi"
+            },
+            {
+              "number": "20",
+              "name": " Clayton"
+            },
+            {
+              "number": "99",
+              "name": "Tulio de Melo"
+            },
+            {
+              "number": "11",
+              "name": "Mark Gonzalez"
+            },
+            {
+              "number": "7",
+              "name": "Reinaldo Lenis"
+            },
+            {
+              "number": "5",
+              "name": "Rodrigo Mancha"
+            },
+            {
+              "number": "93",
+              "name": " Mansur"
+            },
+            {
+              "number": "26",
+              "name": " Oswaldo"
+            },
+            {
+              "number": "6",
+              "name": " Rene"
+            },
+            {
+              "number": "29",
+              "name": " Ronaldo"
+            }
+          ]
+        }
+      }
     }
   ]
 }

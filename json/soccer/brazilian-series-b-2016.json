@@ -5653,6 +5653,336 @@
           "reserve": []
         }
       }
+    },
+    {
+      "date": "2016-07-31 21:00",
+      "home": "Atletico GO",
+      "away": "Sampaio Correa",
+      "score": "4-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "27'",
+          "player": "Magno Cruz",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "49'",
+          "player": "Alison",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "57'",
+          "player": "Willian Schuster",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "90'",
+          "player": "Alison",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "88'",
+          "player": "Edgar",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-31 02:00",
+      "home": "Vasco da Gama",
+      "away": "Criciuma",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "37'",
+          "player": "Ederson",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "73'",
+          "player": "Thalles",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "44'",
+          "player": "Diego Giaretta",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-31 00:00",
+      "home": "Parana Clube",
+      "away": "Ceara",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "30'",
+          "player": "Robson",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "William Henrique",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-30 23:35",
+      "home": "Paysandu",
+      "away": "Vila Nova",
+      "score": "2-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "34'",
+          "player": "Tiago Luis",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "45'",
+          "player": "Tiago Luis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "56'",
+          "player": "Thiago Brito",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "72'",
+          "player": "Thiago Brito",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-30 21:30",
+      "home": "Bragantino",
+      "away": "Bahia",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "69'",
+          "player": "Rivaldo Barbosa de Souza",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-30 21:00",
+      "home": "Joinville",
+      "away": "Oeste FC",
+      "score": "0-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "75'",
+          "player": "Edson Ratinho",
+          "type": "card-r"
+        },
+        {
+          "team": "away",
+          "time": "5'",
+          "player": "Marcus Vinicius",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-30 02:30",
+      "home": "Nautico",
+      "away": "Tupi",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "51'",
+          "player": "Léo Santos",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "89'",
+          "player": "Jonathan",
+          "type": "card-r"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-30 00:15",
+      "home": "CRB",
+      "away": "Brasil de Pelotas",
+      "score": "1-2",
+      "events": [
+        {
+          "team": "home",
+          "time": "5'",
+          "player": "Diego Jussani",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "45'",
+          "player": "Ramon Machado de Macedo",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "74'",
+          "player": "Nathan",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-27 02:30",
+      "home": "Avai FC",
+      "away": "Londrina EC",
+      "score": "1-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "50'",
+          "player": "Diego Jardel",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-07-27 00:15",
+      "home": "Goias",
+      "away": "Luverdense",
+      "score": "1-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "17'",
+          "player": "Marcao",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "86'",
+          "player": "Douglas Baggio",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
     }
   ]
 }
