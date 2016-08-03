@@ -1,0 +1,40 @@
+{
+  "name": "2015 Canberra Challenger (Men's Singles)",
+  "country": "Australia",
+  "gender": "male",
+  "location": "Canberra",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "0",
+            "1"
+          ],
+          "name": "Luke Saville",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Benjamin Mitchell",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:50:57",
+      "round": "Championship",
+      "date": "2015-11-07"
+    }
+  ],
+  "players": [
+    "Benjamin Mitchell",
+    "Luke Saville"
+  ]
+}

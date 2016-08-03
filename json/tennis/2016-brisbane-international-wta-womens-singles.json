@@ -1,0 +1,784 @@
+{
+  "name": "2016 Brisbane International WTA (Women's Singles)",
+  "country": "Australia",
+  "gender": "female",
+  "location": "Brisbane",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alize Cornet",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Kristina Mladenovic",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:24:48",
+      "round": "Round of 32",
+      "date": "2016-01-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Timea Bacsinszky",
+          "country": "CH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Anastasia Pavlyuchenkova",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:04:20",
+      "round": "Round of 32",
+      "date": "2016-01-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Varvara Lepchenko",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Anna Schmiedlova",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:13:32",
+      "round": "Round of 32",
+      "date": "2016-01-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "4"
+          ],
+          "name": "Yanina Wickmayer",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Dominika Cibulkova",
+          "country": "SK"
+        }
+      ],
+      "duration": "02:11:21",
+      "round": "Round of 32",
+      "date": "2016-01-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Carla Suarez",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Ajla Tomljanovic",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:04:18",
+      "round": "Round of 32",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "4"
+          ],
+          "name": "Jana Cepelova",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Samantha Stosur",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:13:46",
+      "round": "Round of 32",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "4"
+          ],
+          "name": "Jelena Jankovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Roberta Vinci",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:15:26",
+      "round": "Round of 32",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "4"
+          ],
+          "name": "Kateryna Bondarenko",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Madison Brengle",
+          "country": "US"
+        }
+      ],
+      "duration": "01:47:19",
+      "round": "Round of 32",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Samantha Crawford",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Priscilla Hon",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:17:03",
+      "round": "Round of 32",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Sara Errani",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Belinda Bencic",
+          "country": "CH"
+        }
+      ],
+      "duration": "00:54:59",
+      "round": "Round of 32",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Teliana Pereira",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andrea Petkovic",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:18:51",
+      "round": "Round of 32",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "0"
+          ],
+          "name": "Camila Giorgi",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Angelique Kerber",
+          "country": "DE"
+        }
+      ],
+      "duration": "02:50:43",
+      "round": "Round of 32",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Dominika Cibulkova",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Roberta Vinci",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:11:41",
+      "round": "Round of 16",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Elena Vesnina",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Victoria Azarenka",
+          "country": "BY"
+        }
+      ],
+      "duration": "01:27:07",
+      "round": "Round of 32",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Anastasia Pavlyuchenkova",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "4"
+          ],
+          "name": "Alize Cornet",
+          "country": "FR"
+        }
+      ],
+      "duration": "04:10:32",
+      "round": "Round of 16",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Carla Suarez",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "7",
+            "4"
+          ],
+          "name": "Samantha Stosur",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:02:49",
+      "round": "Round of 16",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Ekaterina Makarova",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Andrea Petkovic",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:36:25",
+      "round": "Round of 16",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "0"
+          ],
+          "name": "Madison Brengle",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Angelique Kerber",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:01:40",
+      "round": "Round of 16",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Margarita Gasparyan",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Ekaterina Makarova",
+          "country": "RU"
+        }
+      ],
+      "duration": "02:15:14",
+      "round": "Round of 32",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Samantha Crawford",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "5"
+          ],
+          "name": "Belinda Bencic",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:30:07",
+      "round": "Round of 16",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Ysaline Bonaventure",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Victoria Azarenka",
+          "country": "BY"
+        }
+      ],
+      "duration": "01:27:14",
+      "round": "Round of 16",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Anastasia Pavlyuchenkova",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Angelique Kerber",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:22:42",
+      "round": "Quarter-Final",
+      "date": "2016-01-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "0"
+          ],
+          "name": "Andrea Petkovic",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Samantha Crawford",
+          "country": "US"
+        }
+      ],
+      "duration": "00:58:57",
+      "round": "Quarter-Final",
+      "date": "2016-01-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "1"
+          ],
+          "name": "Varvara Lepchenko",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "0"
+          ],
+          "name": "Garbine Muguruza",
+          "country": "ES"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2016-01-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "7"
+          ],
+          "name": "Carla Suarez",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "5"
+          ],
+          "name": "Varvara Lepchenko",
+          "country": "US"
+        }
+      ],
+      "duration": "02:42:17",
+      "round": "Quarter-Final",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Victoria Azarenka",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Roberta Vinci",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:18:18",
+      "round": "Quarter-Final",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Angelique Kerber",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Carla Suarez",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:15:07",
+      "round": "Semi-Final",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Victoria Azarenka",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Samantha Crawford",
+          "country": "US"
+        }
+      ],
+      "duration": "01:08:40",
+      "round": "Semi-Final",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Victoria Azarenka",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Angelique Kerber",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:13:36",
+      "round": "Championship",
+      "date": "2016-01-09"
+    }
+  ],
+  "players": [
+    "Ajla Tomljanovic",
+    "Alize Cornet",
+    "Anastasia Pavlyuchenkova",
+    "Andrea Petkovic",
+    "Angelique Kerber",
+    "Anna Schmiedlova",
+    "Belinda Bencic",
+    "Camila Giorgi",
+    "Carla Suarez",
+    "Dominika Cibulkova",
+    "Ekaterina Makarova",
+    "Elena Vesnina",
+    "Garbine Muguruza",
+    "Jana Cepelova",
+    "Jelena Jankovic",
+    "Kateryna Bondarenko",
+    "Kristina Mladenovic",
+    "Madison Brengle",
+    "Margarita Gasparyan",
+    "Priscilla Hon",
+    "Roberta Vinci",
+    "Samantha Crawford",
+    "Samantha Stosur",
+    "Sara Errani",
+    "Teliana Pereira",
+    "Timea Bacsinszky",
+    "Varvara Lepchenko",
+    "Victoria Azarenka",
+    "Yanina Wickmayer",
+    "Ysaline Bonaventure"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "2015 Guayaquil Challenger (Men's Singles)",
+  "country": "Ecuador",
+  "gender": "male",
+  "location": "Guayaquil",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "4"
+          ],
+          "name": "Diego Sebastian Schwartzman",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gastao Elias",
+          "country": "PT"
+        }
+      ],
+      "duration": "01:11:03",
+      "round": "Championship",
+      "date": "2015-11-07"
+    }
+  ],
+  "players": [
+    "Diego Sebastian Schwartzman",
+    "Gastao Elias"
+  ]
+}

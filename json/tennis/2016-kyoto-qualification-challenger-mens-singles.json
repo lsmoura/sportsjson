@@ -441,31 +441,6 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Kazuma Kawachi",
-          "country": "JP"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "1"
-          ],
-          "name": "Shoma Kato",
-          "country": "JP"
-        }
-      ],
-      "duration": "00:59:08",
-      "round": "Round of 32",
-      "date": "2016-02-20"
-    },
-    {
-      "players": [
-        {
           "is_winner": false,
           "set_games": [
             "4",
@@ -486,6 +461,31 @@
       ],
       "duration": "01:04:01",
       "round": "Round of 16",
+      "date": "2016-02-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kazuma Kawachi",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Shoma Kato",
+          "country": "JP"
+        }
+      ],
+      "duration": "00:59:08",
+      "round": "Round of 32",
       "date": "2016-02-20"
     },
     {
@@ -719,5 +719,39 @@
       "round": "Quarter-Final",
       "date": "2016-02-21"
     }
+  ],
+  "players": [
+    "Andriej Kapas",
+    "Francesco Vilardo",
+    "Gengo Kikuchi",
+    "Hiroki Kondo",
+    "Hiromasa Oku",
+    "Issei Okamura",
+    "Kaito Itsusaki",
+    "Kazuma Kawachi",
+    "Ken Onoda",
+    "Ko Suzuki",
+    "Konosuke Kiryu",
+    "Luke Saville",
+    "Masakatsu Noguchi",
+    "Masaya Kobayashi",
+    "Masayoshi Ono",
+    "Renta Tokuda",
+    "Ryota Kishi",
+    "Ryota Tanuma",
+    "Sho Katayama",
+    "Shoma Kato",
+    "Shuichi Sekiguchi",
+    "Shunrou Takeshima",
+    "Soichiro Moritani",
+    "Takao Suzuki",
+    "Tetsuro Habusawa",
+    "Toshihide Matsui",
+    "Yuga Tashiro",
+    "Yuichi Ito",
+    "Yuichiro Inui",
+    "Yusuke Takahashi",
+    "Yutaro Matsuzaki",
+    "Yuuya Kibi"
   ]
 }

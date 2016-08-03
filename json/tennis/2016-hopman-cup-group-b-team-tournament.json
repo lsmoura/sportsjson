@@ -1,0 +1,440 @@
+{
+  "name": "2016 Hopman Cup, Group B Team Tournament ()",
+  "country": "Australia",
+  "gender": "mixed",
+  "location": "Perth",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": null,
+          "set_games": [],
+          "name": "Australia Green",
+          "country": "AU"
+        },
+        {
+          "is_winner": null,
+          "set_games": [],
+          "name": "Germany",
+          "country": "DE"
+        }
+      ],
+      "duration": "N/A",
+      "round": "",
+      "date": "2016-01-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daria Gavrilova",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Sabine Lisicki",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:08:54",
+      "round": "Semi-Final",
+      "date": "2016-01-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Nick Kyrgios",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "4"
+          ],
+          "name": "Alexander Zverev",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:23:07",
+      "round": "Semi-Final",
+      "date": "2016-01-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andy Murray",
+          "country": "01"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Kenny De Schepper",
+          "country": "FR"
+        }
+      ],
+      "duration": "00:59:07",
+      "round": "World team Cup",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": null,
+          "set_games": [],
+          "name": "Great Britain"
+        },
+        {
+          "is_winner": null,
+          "set_games": [],
+          "name": "France",
+          "country": "FR"
+        }
+      ],
+      "duration": "N/A",
+      "round": "",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "3"
+          ],
+          "name": "Heather Watson",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Caroline Garcia",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:17:00",
+      "round": "Semi-Final",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Caroline Garcia",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Sabine Lisicki",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:36:39",
+      "round": "World team Cup",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": null,
+          "set_games": [],
+          "name": "France",
+          "country": "FR"
+        },
+        {
+          "is_winner": null,
+          "set_games": [],
+          "name": "Germany",
+          "country": "DE"
+        }
+      ],
+      "duration": "N/A",
+      "round": "",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Kenny De Schepper",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alexander Zverev",
+          "country": "DE"
+        }
+      ],
+      "duration": "00:57:58",
+      "round": "World team Cup",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": null,
+          "set_games": [],
+          "name": "Australia Green",
+          "country": "AU"
+        },
+        {
+          "is_winner": null,
+          "set_games": [],
+          "name": "Great Britain"
+        }
+      ],
+      "duration": "N/A",
+      "round": "",
+      "date": "2016-01-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "5"
+          ],
+          "name": "Daria Gavrilova",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Heather Watson",
+          "country": "GB"
+        }
+      ],
+      "duration": "02:46:03",
+      "round": "World team Cup",
+      "date": "2016-01-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Nick Kyrgios",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Andy Murray",
+          "country": "01"
+        }
+      ],
+      "duration": "01:21:50",
+      "round": "World team Cup",
+      "date": "2016-01-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andy Murray",
+          "country": "01"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Alexander Zverev",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:18:24",
+      "round": "World team Cup",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": null,
+          "set_games": [],
+          "name": "Great Britain"
+        },
+        {
+          "is_winner": null,
+          "set_games": [],
+          "name": "Germany",
+          "country": "DE"
+        }
+      ],
+      "duration": "N/A",
+      "round": "",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Heather Watson",
+          "country": "GB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Sabine Lisicki",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:12:11",
+      "round": "World team Cup",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": null,
+          "set_games": [],
+          "name": "Australia Green",
+          "country": "AU"
+        },
+        {
+          "is_winner": null,
+          "set_games": [],
+          "name": "France",
+          "country": "FR"
+        }
+      ],
+      "duration": "N/A",
+      "round": "",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Daria Gavrilova",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Caroline Garcia",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:42:45",
+      "round": "World team Cup",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nick Kyrgios",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Kenny De Schepper",
+          "country": "FR"
+        }
+      ],
+      "duration": "00:56:34",
+      "round": "World team Cup",
+      "date": "2016-01-08"
+    }
+  ],
+  "players": [
+    "Alexander Zverev",
+    "Andy Murray",
+    "Australia Green",
+    "Caroline Garcia",
+    "Daria Gavrilova",
+    "France",
+    "Germany",
+    "Great Britain",
+    "Heather Watson",
+    "Kenny De Schepper",
+    "Nick Kyrgios",
+    "Sabine Lisicki"
+  ]
+}

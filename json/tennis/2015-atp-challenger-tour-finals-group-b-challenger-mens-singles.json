@@ -1,0 +1,169 @@
+{
+  "name": "2015 ATP Challenger Tour Finals Group B Challenger (Men's Singles)",
+  "country": "Brazil",
+  "gender": "male",
+  "location": "Sao Paulo",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Guido Pella",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "3"
+          ],
+          "name": "Radu Albot",
+          "country": "MD"
+        }
+      ],
+      "duration": "01:50:18",
+      "round": "Quarter-Final",
+      "date": "2015-11-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Marco Cecchinato",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Guilherme Clezar",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:20:10",
+      "round": "Quarter-Final",
+      "date": "2015-11-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Guido Pella",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Guilherme Clezar",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:30:35",
+      "round": "Quarter-Final",
+      "date": "2015-11-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "Marco Cecchinato",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Radu Albot",
+          "country": "MD"
+        }
+      ],
+      "duration": "01:37:09",
+      "round": "Quarter-Final",
+      "date": "2015-11-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Guido Pella",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Marco Cecchinato",
+          "country": "IT"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Quarter-Final",
+      "date": "2015-11-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Radu Albot",
+          "country": "MD"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Guilherme Clezar",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:11:04",
+      "round": "Quarter-Final",
+      "date": "2015-11-27"
+    }
+  ],
+  "players": [
+    "Guido Pella",
+    "Guilherme Clezar",
+    "Marco Cecchinato",
+    "Radu Albot"
+  ]
+}

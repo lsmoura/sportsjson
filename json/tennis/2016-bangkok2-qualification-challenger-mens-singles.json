@@ -1,0 +1,760 @@
+{
+  "name": "2016 Bangkok2, Qualification Challenger (Men's Singles)",
+  "country": "Thailand",
+  "gender": "male",
+  "location": "Bangkok",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Alex Kuznetsov",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "2"
+          ],
+          "name": "Sanchai Ratiwatana",
+          "country": "TH"
+        }
+      ],
+      "duration": "01:36:29",
+      "round": "Round of 32",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Jatuporn Na Lamphun",
+          "country": "TH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Maximilian Neuchrist",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:05:43",
+      "round": "Round of 32",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "0"
+          ],
+          "name": "Jirayu Limpathum",
+          "country": "TH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alexander Vasilenko",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:55:05",
+      "round": "Round of 32",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Joshua Milton"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Laurent Rochette",
+          "country": "FR"
+        }
+      ],
+      "duration": "00:52:03",
+      "round": "Round of 32",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Ruan Roelofse",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Hugo Nys",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:15:26",
+      "round": "Round of 32",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yuuya Kibi",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Chu-Huan Yi",
+          "country": "TW"
+        }
+      ],
+      "duration": "00:57:40",
+      "round": "Round of 32",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Alex Kuznetsov",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "1"
+          ],
+          "name": "Hugo Nys",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:03:20",
+      "round": "Round of 16",
+      "date": "2016-01-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Alexander Vasilenko",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Maximilian Neuchrist",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:34:44",
+      "round": "Round of 16",
+      "date": "2016-01-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Benjamin Balleret",
+          "country": "MC"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Mico Santiago",
+          "country": "US"
+        }
+      ],
+      "duration": "01:11:12",
+      "round": "Round of 32",
+      "date": "2016-01-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "David Rice",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Kirill Dmitriev",
+          "country": "RU"
+        }
+      ],
+      "duration": "02:11:06",
+      "round": "Round of 32",
+      "date": "2016-01-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Dmytro Badanov",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Dmitry Tursunov",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:45:44",
+      "round": "Round of 32",
+      "date": "2016-01-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Frederik Loechte Nielsen",
+          "country": "DK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Natthasith Kunsuwan",
+          "country": "TH"
+        }
+      ],
+      "duration": "01:06:21",
+      "round": "Round of 32",
+      "date": "2016-01-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "3"
+          ],
+          "name": "Grzegorz Panfil",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Shuichi Sekiguchi",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:36:52",
+      "round": "Round of 32",
+      "date": "2016-01-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Jui-Chen Hung",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "N. Vijay Sundar Prashanth",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:27:01",
+      "round": "Round of 32",
+      "date": "2016-01-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Lucas Miedler",
+          "country": "AT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "3"
+          ],
+          "name": "Kento Takeuchi",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:59:45",
+      "round": "Round of 32",
+      "date": "2016-01-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "1"
+          ],
+          "name": "Sasi Kumar Mukund",
+          "country": "IN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Cheong-Eui Kim",
+          "country": "KR"
+        }
+      ],
+      "duration": "01:47:58",
+      "round": "Round of 32",
+      "date": "2016-01-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Takanyi Garanganga",
+          "country": "ZW"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Filip Peliwo",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:14:04",
+      "round": "Round of 32",
+      "date": "2016-01-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Teeradon Tortrakul",
+          "country": "TH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Evgeny Elistratov",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:05:11",
+      "round": "Round of 32",
+      "date": "2016-01-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Yuuya Kibi",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "1"
+          ],
+          "name": "N. Vijay Sundar Prashanth",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:24:13",
+      "round": "Round of 16",
+      "date": "2016-01-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Alex Kuznetsov",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "7"
+          ],
+          "name": "Maximilian Neuchrist",
+          "country": "AT"
+        }
+      ],
+      "duration": "02:59:31",
+      "round": "Quarter-Final",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Benjamin Balleret",
+          "country": "MC"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Cheong-Eui Kim",
+          "country": "KR"
+        }
+      ],
+      "duration": "00:59:57",
+      "round": "Quarter-Final",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Dmitry Tursunov",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Takanyi Garanganga",
+          "country": "ZW"
+        }
+      ],
+      "duration": "01:33:37",
+      "round": "Round of 16",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Frederik Loechte Nielsen",
+          "country": "DK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Dmitry Tursunov",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:28:41",
+      "round": "Quarter-Final",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Frederik Loechte Nielsen",
+          "country": "DK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Shuichi Sekiguchi",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:49:28",
+      "round": "Round of 16",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Joshua Milton"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Evgeny Elistratov",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:26:32",
+      "round": "Round of 16",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "0",
+            "7"
+          ],
+          "name": "Joshua Milton"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Yuuya Kibi",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:55:40",
+      "round": "Quarter-Final",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Kirill Dmitriev",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Cheong-Eui Kim",
+          "country": "KR"
+        }
+      ],
+      "duration": "00:56:54",
+      "round": "Round of 16",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "2"
+          ],
+          "name": "Lucas Miedler",
+          "country": "AT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Benjamin Balleret",
+          "country": "MC"
+        }
+      ],
+      "duration": "01:34:03",
+      "round": "Round of 16",
+      "date": "2016-01-10"
+    }
+  ],
+  "players": [
+    "Alex Kuznetsov",
+    "Alexander Vasilenko",
+    "Benjamin Balleret",
+    "Cheong-Eui Kim",
+    "Chu-Huan Yi",
+    "David Rice",
+    "Dmitry Tursunov",
+    "Dmytro Badanov",
+    "Evgeny Elistratov",
+    "Filip Peliwo",
+    "Frederik Loechte Nielsen",
+    "Grzegorz Panfil",
+    "Hugo Nys",
+    "Jatuporn Na Lamphun",
+    "Jirayu Limpathum",
+    "Joshua Milton",
+    "Jui-Chen Hung",
+    "Kento Takeuchi",
+    "Kirill Dmitriev",
+    "Laurent Rochette",
+    "Lucas Miedler",
+    "Maximilian Neuchrist",
+    "Mico Santiago",
+    "N. Vijay Sundar Prashanth",
+    "Natthasith Kunsuwan",
+    "Ruan Roelofse",
+    "Sanchai Ratiwatana",
+    "Sasi Kumar Mukund",
+    "Shuichi Sekiguchi",
+    "Takanyi Garanganga",
+    "Teeradon Tortrakul",
+    "Yuuya Kibi"
+  ]
+}

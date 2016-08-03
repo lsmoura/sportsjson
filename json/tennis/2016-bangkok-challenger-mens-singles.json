@@ -1,0 +1,828 @@
+{
+  "name": "2016 Bangkok Challenger (Men's Singles)",
+  "country": "Thailand",
+  "gender": "male",
+  "location": "Bangkok",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Duck-Hee Lee",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:53:44",
+      "round": "Round of 32",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Franco Skugor",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Di Wu",
+          "country": "CN"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "1"
+          ],
+          "name": "David Guez",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:54:41",
+      "round": "Round of 32",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Konstantin Kravchuk",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "0"
+          ],
+          "name": "Nattan Benjasupawan",
+          "country": "TH"
+        }
+      ],
+      "duration": "00:43:09",
+      "round": "Round of 32",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Michael Linzer",
+          "country": "AT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Yannick Mertens",
+          "country": "BE"
+        }
+      ],
+      "duration": "02:38:50",
+      "round": "Round of 32",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Phassawit Burapharitta",
+          "country": "TH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Kimmer Coppejans",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:24:30",
+      "round": "Round of 32",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3"
+          ],
+          "name": "Roberto Marcora",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2"
+          ],
+          "name": "Yan Bai",
+          "country": "CN"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marco Chiudinelli",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:09:34",
+      "round": "Round of 32",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tsung-Hua Yang",
+          "country": "TW"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Kittipong Wachiramanowong",
+          "country": "TH"
+        }
+      ],
+      "duration": "01:18:30",
+      "round": "Round of 32",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yasutaka Uchiyama",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Jirat Navasirisomboon",
+          "country": "TH"
+        }
+      ],
+      "duration": "01:08:02",
+      "round": "Round of 32",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Dmitry Popko",
+          "country": "KZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "2"
+          ],
+          "name": "Gastao Elias",
+          "country": "PT"
+        }
+      ],
+      "duration": "02:12:09",
+      "round": "Round of 32",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5"
+          ],
+          "name": "Egor Gerasimov",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3"
+          ],
+          "name": "Ilya Ivashka",
+          "country": "BY"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Franco Skugor",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:27:30",
+      "round": "Round of 16",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [],
+          "name": "Konstantin Kravchuk",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [],
+          "name": "Tsung-Hua Yang",
+          "country": "TW"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "2"
+          ],
+          "name": "Maximilian Neuchrist",
+          "country": "AT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Jason Jung",
+          "country": "US"
+        }
+      ],
+      "duration": "01:47:24",
+      "round": "Round of 32",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Adam Pavlasek",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:22:31",
+      "round": "Round of 32",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Stephane Robert",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "3"
+          ],
+          "name": "Andre Ghem",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:06:22",
+      "round": "Round of 32",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Ti Chen",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Amir Weintraub",
+          "country": "IL"
+        }
+      ],
+      "duration": "01:25:50",
+      "round": "Round of 32",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Yannick Mertens",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Kimmer Coppejans",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:40:36",
+      "round": "Round of 16",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Egor Gerasimov",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Dmitry Popko",
+          "country": "KZ"
+        }
+      ],
+      "duration": "01:14:45",
+      "round": "Round of 16",
+      "date": "2016-01-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Jason Jung",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:16:18",
+      "round": "Round of 16",
+      "date": "2016-01-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Marco Chiudinelli",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "2"
+          ],
+          "name": "Roberto Marcora",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:12:59",
+      "round": "Round of 16",
+      "date": "2016-01-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Yasutaka Uchiyama",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Stephane Robert",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:28:29",
+      "round": "Round of 16",
+      "date": "2016-01-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "1"
+          ],
+          "name": "Kimmer Coppejans",
+          "country": "BE"
+        }
+      ],
+      "duration": "02:03:21",
+      "round": "Quarter-Final",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Konstantin Kravchuk",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "4"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:03:49",
+      "round": "Quarter-Final",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Amir Weintraub",
+          "country": "IL"
+        }
+      ],
+      "duration": "01:18:21",
+      "round": "Round of 16",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Konstantin Kravchuk",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:11:50",
+      "round": "Semi-Final",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Marco Chiudinelli",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Yasutaka Uchiyama",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:20:32",
+      "round": "Quarter-Final",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Marco Chiudinelli",
+          "country": "CH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:45:37",
+      "round": "Semi-Final",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "3"
+          ],
+          "name": "Egor Gerasimov",
+          "country": "BY"
+        }
+      ],
+      "duration": "02:04:41",
+      "round": "Quarter-Final",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:23:30",
+      "round": "Championship",
+      "date": "2016-01-09"
+    }
+  ],
+  "players": [
+    "Adam Pavlasek",
+    "Amir Weintraub",
+    "Andre Ghem",
+    "David Guez",
+    "Di Wu",
+    "Dmitry Popko",
+    "Duck-Hee Lee",
+    "Egor Gerasimov",
+    "Franco Skugor",
+    "Gastao Elias",
+    "Go Soeda",
+    "Ilya Ivashka",
+    "Jason Jung",
+    "Jirat Navasirisomboon",
+    "Kimmer Coppejans",
+    "Kittipong Wachiramanowong",
+    "Konstantin Kravchuk",
+    "Marco Chiudinelli",
+    "Maximilian Neuchrist",
+    "Michael Linzer",
+    "Mikhail Youzhny",
+    "Nattan Benjasupawan",
+    "Phassawit Burapharitta",
+    "Roberto Marcora",
+    "Stephane Robert",
+    "Tatsuma Ito",
+    "Ti Chen",
+    "Tsung-Hua Yang",
+    "Yan Bai",
+    "Yannick Mertens",
+    "Yasutaka Uchiyama",
+    "Yuichi Sugita"
+  ]
+}

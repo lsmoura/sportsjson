@@ -10,6 +10,726 @@
         {
           "is_winner": false,
           "set_games": [
+            "6",
+            "5",
+            "5"
+          ],
+          "name": "Alex Kuznetsov",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "7",
+            "7"
+          ],
+          "name": "Ryan Harrison",
+          "country": "US"
+        }
+      ],
+      "duration": "02:25:27",
+      "round": "Round of 32",
+      "date": "2016-02-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "3"
+          ],
+          "name": "Andrey Rublev",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Daniel Evans",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:44:00",
+      "round": "Round of 32",
+      "date": "2016-02-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Benjamin Becker",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Jean Andersen",
+          "country": "ZA"
+        }
+      ],
+      "duration": "00:58:09",
+      "round": "Round of 32",
+      "date": "2016-02-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "6"
+          ],
+          "name": "Denys Molchanov",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:20:33",
+      "round": "Round of 32",
+      "date": "2016-02-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Jared Donaldson",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Bjorn Fratangelo",
+          "country": "US"
+        }
+      ],
+      "duration": "01:09:47",
+      "round": "Round of 32",
+      "date": "2016-02-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Mitchell Krueger",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tim Smyczek",
+          "country": "US"
+        }
+      ],
+      "duration": "01:10:35",
+      "round": "Round of 32",
+      "date": "2016-02-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Clay Thompson",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Ernesto Escobedo",
+          "country": "US"
+        }
+      ],
+      "duration": "01:05:03",
+      "round": "Round of 32",
+      "date": "2016-02-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "7"
+          ],
+          "name": "Grega Zemlja",
+          "country": "SI"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Jason Jung",
+          "country": "US"
+        }
+      ],
+      "duration": "01:44:47",
+      "round": "Round of 32",
+      "date": "2016-02-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Henri Laaksonen",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "1"
+          ],
+          "name": "Marek Michalicka",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:12:08",
+      "round": "Round of 32",
+      "date": "2016-02-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "James McGee",
+          "country": "IE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "1",
+            "4"
+          ],
+          "name": "Dennis Novikov",
+          "country": "US"
+        }
+      ],
+      "duration": "01:52:07",
+      "round": "Round of 32",
+      "date": "2016-02-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "John-Patrick Smith",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Eric Quigley",
+          "country": "US"
+        }
+      ],
+      "duration": "01:19:29",
+      "round": "Round of 32",
+      "date": "2016-02-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mikhail Vaks",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Connor Smith",
+          "country": "US"
+        }
+      ],
+      "duration": "01:10:23",
+      "round": "Round of 32",
+      "date": "2016-02-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Nicolas Barrientos",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Marco Trungelliti",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:20:05",
+      "round": "Round of 32",
+      "date": "2016-02-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "4"
+          ],
+          "name": "Radu Albot",
+          "country": "MD"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Marinko Matosevic",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:07:07",
+      "round": "Round of 32",
+      "date": "2016-02-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Samuel Groth",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Francis Tiafoe",
+          "country": "US"
+        }
+      ],
+      "duration": "01:05:37",
+      "round": "Round of 32",
+      "date": "2016-02-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Sekou Bangoura",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Kyle Edmund",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:09:52",
+      "round": "Round of 32",
+      "date": "2016-02-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Benjamin Becker",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Ernesto Escobedo",
+          "country": "US"
+        }
+      ],
+      "duration": "00:58:12",
+      "round": "Round of 16",
+      "date": "2016-02-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniel Evans",
+          "country": "GB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Bjorn Fratangelo",
+          "country": "US"
+        }
+      ],
+      "duration": "01:00:47",
+      "round": "Round of 16",
+      "date": "2016-02-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Francis Tiafoe",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Mikhail Vaks",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:01:09",
+      "round": "Round of 16",
+      "date": "2016-02-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Henri Laaksonen",
+          "country": "CH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:08:16",
+      "round": "Round of 16",
+      "date": "2016-02-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "James McGee",
+          "country": "IE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kyle Edmund",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:07:07",
+      "round": "Round of 16",
+      "date": "2016-02-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "John-Patrick Smith",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Grega Zemlja",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:24:08",
+      "round": "Round of 16",
+      "date": "2016-02-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marinko Matosevic",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Marco Trungelliti",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:34:21",
+      "round": "Round of 16",
+      "date": "2016-02-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "7",
+            "4"
+          ],
+          "name": "Ryan Harrison",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Tim Smyczek",
+          "country": "US"
+        }
+      ],
+      "duration": "01:38:29",
+      "round": "Round of 16",
+      "date": "2016-02-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Benjamin Becker",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniel Evans",
+          "country": "GB"
+        }
+      ],
+      "duration": "00:58:36",
+      "round": "Quarter-Final",
+      "date": "2016-02-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "4"
+          ],
+          "name": "Francis Tiafoe",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:14:23",
+      "round": "Quarter-Final",
+      "date": "2016-02-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "1"
+          ],
+          "name": "Grega Zemlja",
+          "country": "SI"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Kyle Edmund",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:15:20",
+      "round": "Quarter-Final",
+      "date": "2016-02-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "3"
+          ],
+          "name": "Marinko Matosevic",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Tim Smyczek",
+          "country": "US"
+        }
+      ],
+      "duration": "02:31:46",
+      "round": "Quarter-Final",
+      "date": "2016-02-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
             "2",
             "6",
             "1"
@@ -82,5 +802,39 @@
       "round": "Championship",
       "date": "2016-02-06"
     }
+  ],
+  "players": [
+    "Alex Kuznetsov",
+    "Andrey Rublev",
+    "Benjamin Becker",
+    "Bjorn Fratangelo",
+    "Clay Thompson",
+    "Connor Smith",
+    "Daniel Evans",
+    "Dennis Novikov",
+    "Denys Molchanov",
+    "Eric Quigley",
+    "Ernesto Escobedo",
+    "Francis Tiafoe",
+    "Grega Zemlja",
+    "Henri Laaksonen",
+    "James McGee",
+    "Jared Donaldson",
+    "Jason Jung",
+    "Jean Andersen",
+    "John-Patrick Smith",
+    "Kyle Edmund",
+    "Marco Trungelliti",
+    "Marek Michalicka",
+    "Marinko Matosevic",
+    "Mikhail Vaks",
+    "Mitchell Krueger",
+    "Nicolas Barrientos",
+    "Radu Albot",
+    "Ryan Harrison",
+    "Samuel Groth",
+    "Sekou Bangoura",
+    "Tatsuma Ito",
+    "Tim Smyczek"
   ]
 }

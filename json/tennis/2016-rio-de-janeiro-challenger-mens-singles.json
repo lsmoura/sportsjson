@@ -1,0 +1,842 @@
+{
+  "name": "2016 Rio de Janeiro Challenger (Men's Singles)",
+  "country": "Brazil",
+  "gender": "male",
+  "location": "Rio de Janeiro",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "7",
+            "7"
+          ],
+          "name": "Axel Michon",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "5"
+          ],
+          "name": "Roberto Carballes",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:26:35",
+      "round": "Round of 32",
+      "date": "2016-01-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Carlos Eduardo Severino",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pedro Sakamoto",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:18:16",
+      "round": "Round of 32",
+      "date": "2016-01-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Giovanni Lapentti",
+          "country": "EC"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Guilherme Clezar",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:06:50",
+      "round": "Round of 32",
+      "date": "2016-01-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Christian Lindell",
+          "country": "SE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Wilson Leite",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:06:22",
+      "round": "Round of 32",
+      "date": "2016-01-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Fabricio Neis",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Gerald Melzer",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:37:05",
+      "round": "Round of 32",
+      "date": "2016-01-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Facundo Arguello",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Gonzalo Escobar",
+          "country": "EC"
+        }
+      ],
+      "duration": "01:03:37",
+      "round": "Round of 32",
+      "date": "2016-01-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Gastao Elias",
+          "country": "PT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "3"
+          ],
+          "name": "Jonathan Eysseric",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:58:33",
+      "round": "Round of 32",
+      "date": "2016-01-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Guido Andreozzi",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Pere Riba",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:27:25",
+      "round": "Round of 32",
+      "date": "2016-01-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Joao Souza",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andrej Martin",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:20:33",
+      "round": "Round of 32",
+      "date": "2016-01-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jose Pereira",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Clement Geens",
+          "country": "BE"
+        }
+      ],
+      "duration": "00:58:07",
+      "round": "Round of 32",
+      "date": "2016-01-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Marcelo Arevalo",
+          "country": "SV"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Facundo Bagnis",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:16:25",
+      "round": "Round of 32",
+      "date": "2016-01-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Maximo Gonzalez",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Thiago Monteiro",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:14:02",
+      "round": "Round of 32",
+      "date": "2016-01-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "7"
+          ],
+          "name": "Pedro Cachin",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Andre Ghem",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:27:15",
+      "round": "Round of 32",
+      "date": "2016-01-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "7",
+            "7"
+          ],
+          "name": "Peter Torebko",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "5",
+            "6"
+          ],
+          "name": "Nicolas Kicker",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:57:58",
+      "round": "Round of 32",
+      "date": "2016-01-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Rogerio Dutra Silva",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "4"
+          ],
+          "name": "Arthur de Greef",
+          "country": "BE"
+        }
+      ],
+      "duration": "02:08:37",
+      "round": "Round of 32",
+      "date": "2016-01-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Ruben Ramirez",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Andrea Collarini",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:44:30",
+      "round": "Round of 32",
+      "date": "2016-01-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "1"
+          ],
+          "name": "Christian Lindell",
+          "country": "SE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Facundo Bagnis",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:48:38",
+      "round": "Round of 16",
+      "date": "2016-01-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Facundo Arguello",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Pedro Sakamoto",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:45:21",
+      "round": "Round of 16",
+      "date": "2016-01-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gastao Elias",
+          "country": "PT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Pedro Cachin",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:13:58",
+      "round": "Round of 16",
+      "date": "2016-01-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "5"
+          ],
+          "name": "Guido Andreozzi",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "7"
+          ],
+          "name": "Andrej Martin",
+          "country": "SK"
+        }
+      ],
+      "duration": "03:35:05",
+      "round": "Round of 16",
+      "date": "2016-01-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "5"
+          ],
+          "name": "Peter Torebko",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "2"
+          ],
+          "name": "Jose Pereira",
+          "country": "BR"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2016-01-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Rogerio Dutra Silva",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Guilherme Clezar",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:13:09",
+      "round": "Round of 16",
+      "date": "2016-01-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ruben Ramirez",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Fabricio Neis",
+          "country": "BR"
+        }
+      ],
+      "duration": "00:50:25",
+      "round": "Round of 16",
+      "date": "2016-01-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Thiago Monteiro",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Axel Michon",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:42:46",
+      "round": "Round of 16",
+      "date": "2016-01-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Facundo Arguello",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Thiago Monteiro",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:11:54",
+      "round": "Quarter-Final",
+      "date": "2016-01-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Facundo Bagnis",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Thiago Monteiro",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:52:40",
+      "round": "Semi-Final",
+      "date": "2016-01-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "5"
+          ],
+          "name": "Gastao Elias",
+          "country": "PT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "7"
+          ],
+          "name": "Facundo Bagnis",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:18:56",
+      "round": "Quarter-Final",
+      "date": "2016-01-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Guilherme Clezar",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Andrej Martin",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:12:59",
+      "round": "Quarter-Final",
+      "date": "2016-01-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Peter Torebko",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ruben Ramirez",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:14:25",
+      "round": "Quarter-Final",
+      "date": "2016-01-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Ruben Ramirez",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Guilherme Clezar",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:07:07",
+      "round": "Semi-Final",
+      "date": "2016-01-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "2"
+          ],
+          "name": "Guilherme Clezar",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Facundo Bagnis",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:04:00",
+      "round": "Championship",
+      "date": "2016-01-24"
+    }
+  ],
+  "players": [
+    "Andre Ghem",
+    "Andrea Collarini",
+    "Andrej Martin",
+    "Arthur de Greef",
+    "Axel Michon",
+    "Carlos Eduardo Severino",
+    "Christian Lindell",
+    "Clement Geens",
+    "Fabricio Neis",
+    "Facundo Arguello",
+    "Facundo Bagnis",
+    "Gastao Elias",
+    "Gerald Melzer",
+    "Giovanni Lapentti",
+    "Gonzalo Escobar",
+    "Guido Andreozzi",
+    "Guilherme Clezar",
+    "Joao Souza",
+    "Jonathan Eysseric",
+    "Jose Pereira",
+    "Marcelo Arevalo",
+    "Maximo Gonzalez",
+    "Nicolas Kicker",
+    "Pedro Cachin",
+    "Pedro Sakamoto",
+    "Pere Riba",
+    "Peter Torebko",
+    "Roberto Carballes",
+    "Rogerio Dutra Silva",
+    "Ruben Ramirez",
+    "Thiago Monteiro",
+    "Wilson Leite"
+  ]
+}

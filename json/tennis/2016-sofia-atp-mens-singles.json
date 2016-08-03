@@ -8,6 +8,514 @@
     {
       "players": [
         {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Martin Klizan",
+          "country": "SK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "0"
+          ],
+          "name": "Alexander Lazov",
+          "country": "BG"
+        }
+      ],
+      "duration": "00:58:59",
+      "round": "Round of 32",
+      "date": "2016-02-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Lukas Rosol",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:46:51",
+      "round": "Round of 32",
+      "date": "2016-02-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Yuki Bhambri",
+          "country": "IN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Mirza Basic",
+          "country": "BA"
+        }
+      ],
+      "duration": "01:25:16",
+      "round": "Round of 32",
+      "date": "2016-02-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Damir Dzumhur",
+          "country": "BA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Jiri Vesely",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:34:57",
+      "round": "Round of 32",
+      "date": "2016-02-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Filip Krajinovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "4"
+          ],
+          "name": "Marsel Ilhan",
+          "country": "TR"
+        }
+      ],
+      "duration": "01:36:23",
+      "round": "Round of 32",
+      "date": "2016-02-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Hyeon Chung",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marius Copil",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:00:23",
+      "round": "Round of 32",
+      "date": "2016-02-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Malek Jaziri",
+          "country": "TN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gilles Mueller",
+          "country": "LU"
+        }
+      ],
+      "duration": "01:01:20",
+      "round": "Round of 32",
+      "date": "2016-02-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Matthew Ebden",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Thiemo de Bakker",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:00:33",
+      "round": "Round of 32",
+      "date": "2016-02-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Philipp Kohlschreiber",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Sergiy Stakhovsky",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:08:58",
+      "round": "Round of 32",
+      "date": "2016-02-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Daniel Brands",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Thomas Fabbiano",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:38:37",
+      "round": "Round of 32",
+      "date": "2016-02-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Evgeny Donskoy",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Adrian Mannarino",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:23:22",
+      "round": "Round of 32",
+      "date": "2016-02-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Guillermo Garcia",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Mirza Basic",
+          "country": "BA"
+        }
+      ],
+      "duration": "01:19:22",
+      "round": "Round of 16",
+      "date": "2016-02-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "7"
+          ],
+          "name": "Martin Klizan",
+          "country": "SK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Lukas Rosol",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:04:02",
+      "round": "Round of 16",
+      "date": "2016-02-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Ricardas Berankis",
+          "country": "LT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Dimitar Kuzmanov",
+          "country": "BG"
+        }
+      ],
+      "duration": "01:50:24",
+      "round": "Round of 32",
+      "date": "2016-02-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Daniel Brands",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Viktor Troicki",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:05:34",
+      "round": "Round of 16",
+      "date": "2016-02-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "3"
+          ],
+          "name": "Marius Copil",
+          "country": "RO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Adrian Mannarino",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:01:51",
+      "round": "Round of 16",
+      "date": "2016-02-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Philipp Kohlschreiber",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "3"
+          ],
+          "name": "Damir Dzumhur",
+          "country": "BA"
+        }
+      ],
+      "duration": "01:30:09",
+      "round": "Round of 16",
+      "date": "2016-02-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6"
+          ],
+          "name": "Ricardas Berankis",
+          "country": "LT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Gilles Mueller",
+          "country": "LU"
+        }
+      ],
+      "duration": "01:48:46",
+      "round": "Round of 16",
+      "date": "2016-02-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [],
+          "name": "Roberto Bautista",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [],
+          "name": "Filip Krajinovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2016-02-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Thiemo de Bakker",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andreas Seppi",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:57:22",
+      "round": "Round of 16",
+      "date": "2016-02-04"
+    },
+    {
+      "players": [
+        {
           "is_winner": false,
           "set_games": [
             "6",
@@ -182,5 +690,35 @@
       "round": "Championship",
       "date": "2016-02-07"
     }
+  ],
+  "players": [
+    "Adrian Mannarino",
+    "Alexander Lazov",
+    "Andreas Seppi",
+    "Damir Dzumhur",
+    "Daniel Brands",
+    "Dimitar Kuzmanov",
+    "Evgeny Donskoy",
+    "Filip Krajinovic",
+    "Gilles Mueller",
+    "Guillermo Garcia",
+    "Hyeon Chung",
+    "Jiri Vesely",
+    "Lukas Rosol",
+    "Malek Jaziri",
+    "Marius Copil",
+    "Marsel Ilhan",
+    "Martin Klizan",
+    "Matthew Ebden",
+    "Mirza Basic",
+    "Philipp Kohlschreiber",
+    "Ricardas Berankis",
+    "Roberto Bautista",
+    "Robin Haase",
+    "Sergiy Stakhovsky",
+    "Thiemo de Bakker",
+    "Thomas Fabbiano",
+    "Viktor Troicki",
+    "Yuki Bhambri"
   ]
 }

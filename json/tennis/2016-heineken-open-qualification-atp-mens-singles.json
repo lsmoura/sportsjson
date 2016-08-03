@@ -1,0 +1,329 @@
+{
+  "name": "2016 Heineken Open, Qualification ATP (Men's Singles)",
+  "country": "New Zealand",
+  "gender": "male",
+  "location": "Auckland",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "0"
+          ],
+          "name": "Artem Sitak",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Matthew Barton",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:09:01",
+      "round": "Round of 16",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Benjamin Becker",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Scott Lipsky",
+          "country": "US"
+        }
+      ],
+      "duration": "00:43:46",
+      "round": "Round of 16",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Chung-Hyo Woo",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Cameron Norrie",
+          "country": "NZ"
+        }
+      ],
+      "duration": "00:39:36",
+      "round": "Round of 16",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Denis Kudla",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Treat Huey",
+          "country": "PH"
+        }
+      ],
+      "duration": "00:58:06",
+      "round": "Round of 16",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Juan Sebastian Cabal",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mate Pavic",
+          "country": "HR"
+        }
+      ],
+      "duration": "00:57:56",
+      "round": "Round of 16",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Robert Farah",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Duck-Hee Lee",
+          "country": "KR"
+        }
+      ],
+      "duration": "00:41:57",
+      "round": "Round of 16",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Eric Butorac",
+          "country": "US"
+        }
+      ],
+      "duration": "00:57:06",
+      "round": "Round of 16",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Thiemo de Bakker",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Greg Jones",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:07:40",
+      "round": "Round of 16",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Benjamin Becker",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Cameron Norrie",
+          "country": "NZ"
+        }
+      ],
+      "duration": "00:49:10",
+      "round": "Quarter-Final",
+      "date": "2016-01-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Denis Kudla",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Matthew Barton",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:43:13",
+      "round": "Quarter-Final",
+      "date": "2016-01-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Duck-Hee Lee",
+          "country": "KR"
+        }
+      ],
+      "duration": "00:46:53",
+      "round": "Quarter-Final",
+      "date": "2016-01-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Thiemo de Bakker",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "3"
+          ],
+          "name": "Mate Pavic",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:45:15",
+      "round": "Quarter-Final",
+      "date": "2016-01-09"
+    }
+  ],
+  "players": [
+    "Artem Sitak",
+    "Benjamin Becker",
+    "Cameron Norrie",
+    "Chung-Hyo Woo",
+    "Denis Kudla",
+    "Duck-Hee Lee",
+    "Eric Butorac",
+    "Greg Jones",
+    "Juan Sebastian Cabal",
+    "Mate Pavic",
+    "Matthew Barton",
+    "Robert Farah",
+    "Robin Haase",
+    "Scott Lipsky",
+    "Thiemo de Bakker",
+    "Treat Huey"
+  ]
+}

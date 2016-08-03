@@ -1,0 +1,86 @@
+{
+  "name": "2015 ATP Challenger Tour Finals final stages Challenger (Men's Singles)",
+  "country": "Brazil",
+  "gender": "male",
+  "location": "Sao Paulo",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [],
+          "name": "Guido Pella",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [],
+          "name": "Daniel Munoz",
+          "country": "ES"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Semi-Final",
+      "date": "2015-11-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Inigo Cervantes",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Guilherme Clezar",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:43:27",
+      "round": "Semi-Final",
+      "date": "2015-11-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Daniel Munoz",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "7"
+          ],
+          "name": "Inigo Cervantes",
+          "country": "ES"
+        }
+      ],
+      "duration": "04:18:37",
+      "round": "Championship",
+      "date": "2015-11-29"
+    }
+  ],
+  "players": [
+    "Daniel Munoz",
+    "Guido Pella",
+    "Guilherme Clezar",
+    "Inigo Cervantes"
+  ]
+}

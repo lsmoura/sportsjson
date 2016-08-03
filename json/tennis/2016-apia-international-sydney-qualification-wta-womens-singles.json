@@ -1,0 +1,757 @@
+{
+  "name": "2016 Apia International Sydney, Qualification WTA (Women's Singles)",
+  "country": "Australia",
+  "gender": "female",
+  "location": "Sydney",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Arina Rodionova",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mirjana Lucic-Baroni",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:10:45",
+      "round": "Round of 32",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "2"
+          ],
+          "name": "Evgeniya Rodina",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Laura Siegemund",
+          "country": "DE"
+        }
+      ],
+      "duration": "02:11:29",
+      "round": "Round of 32",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Jelena Ostapenko",
+          "country": "LV"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniela Hantuchova",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:28:28",
+      "round": "Round of 32",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "7"
+          ],
+          "name": "Lauren Davis",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Stefanie Voegele",
+          "country": "CH"
+        }
+      ],
+      "duration": "02:37:35",
+      "round": "Round of 32",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lucie Hradecka",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Magda Linette",
+          "country": "PL"
+        }
+      ],
+      "duration": "01:10:45",
+      "round": "Round of 32",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Magdalena Rybarikova",
+          "country": "SK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Donna Vekic",
+          "country": "HR"
+        }
+      ],
+      "duration": "00:56:58",
+      "round": "Round of 32",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Mariana Duque",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daria Kasatkina",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:33:55",
+      "round": "Round of 32",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Olivia Rogowska",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Polona Hercog",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:12:51",
+      "round": "Round of 32",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Olivia Tjandramulia",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lara Arruabarrena",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:28:11",
+      "round": "Round of 32",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Storm Sanders",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "3"
+          ],
+          "name": "Patricia Maria Tig",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:52:03",
+      "round": "Round of 32",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Su-Wei Hsieh",
+          "country": "TW"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "2"
+          ],
+          "name": "Elizaveta Kulichkova",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:53:19",
+      "round": "Round of 32",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Yanina Wickmayer",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "4"
+          ],
+          "name": "Anastasija Sevastova",
+          "country": "LV"
+        }
+      ],
+      "duration": "01:58:27",
+      "round": "Round of 32",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1"
+          ],
+          "name": "Yaroslava Shvedova",
+          "country": "KZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4"
+          ],
+          "name": "Sesil Karatantcheva",
+          "country": "BG"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Anna Tatishvili",
+          "country": "GE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Irina Falconi",
+          "country": "US"
+        }
+      ],
+      "duration": "01:41:32",
+      "round": "Round of 32",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Daniela Hantuchova",
+          "country": "SK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "1"
+          ],
+          "name": "Irina Falconi",
+          "country": "US"
+        }
+      ],
+      "duration": "01:24:46",
+      "round": "Round of 16",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "1"
+          ],
+          "name": "Lara Arruabarrena",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "0"
+          ],
+          "name": "Daria Kasatkina",
+          "country": "RU"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "7"
+          ],
+          "name": "Lucie Hradecka",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Laura Siegemund",
+          "country": "DE"
+        }
+      ],
+      "duration": "02:49:23",
+      "round": "Round of 16",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Monica Puig",
+          "country": "PR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Andreea Mitu",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:06:56",
+      "round": "Round of 32",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Sesil Karatantcheva",
+          "country": "BG"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Magdalena Rybarikova",
+          "country": "SK"
+        }
+      ],
+      "duration": "00:48:38",
+      "round": "Round of 16",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "1"
+          ],
+          "name": "Storm Sanders",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Mirjana Lucic-Baroni",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:42:57",
+      "round": "Round of 16",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "5"
+          ],
+          "name": "Su-Wei Hsieh",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Polona Hercog",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:10:51",
+      "round": "Round of 16",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Yanina Wickmayer",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Lauren Davis",
+          "country": "US"
+        }
+      ],
+      "duration": "01:51:19",
+      "round": "Round of 16",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "1"
+          ],
+          "name": "Yulia Putintseva",
+          "country": "KZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Monica Puig",
+          "country": "PR"
+        }
+      ],
+      "duration": "01:35:33",
+      "round": "Round of 16",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yulia Putintseva",
+          "country": "KZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Aliaksandra Sasnovich",
+          "country": "BY"
+        }
+      ],
+      "duration": "01:01:30",
+      "round": "Round of 32",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Lauren Davis",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniela Hantuchova",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:26:47",
+      "round": "Quarter-Final",
+      "date": "2016-01-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Lucie Hradecka",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mirjana Lucic-Baroni",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:19:20",
+      "round": "Quarter-Final",
+      "date": "2016-01-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Magdalena Rybarikova",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Lara Arruabarrena",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:28:19",
+      "round": "Quarter-Final",
+      "date": "2016-01-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Monica Puig",
+          "country": "PR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "1"
+          ],
+          "name": "Polona Hercog",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:30:02",
+      "round": "Quarter-Final",
+      "date": "2016-01-09"
+    }
+  ],
+  "players": [
+    "Aliaksandra Sasnovich",
+    "Anastasija Sevastova",
+    "Andreea Mitu",
+    "Anna Tatishvili",
+    "Arina Rodionova",
+    "Daniela Hantuchova",
+    "Daria Kasatkina",
+    "Donna Vekic",
+    "Elizaveta Kulichkova",
+    "Evgeniya Rodina",
+    "Irina Falconi",
+    "Jelena Ostapenko",
+    "Lara Arruabarrena",
+    "Laura Siegemund",
+    "Lauren Davis",
+    "Lucie Hradecka",
+    "Magda Linette",
+    "Magdalena Rybarikova",
+    "Mariana Duque",
+    "Mirjana Lucic-Baroni",
+    "Monica Puig",
+    "Olivia Rogowska",
+    "Olivia Tjandramulia",
+    "Patricia Maria Tig",
+    "Polona Hercog",
+    "Sesil Karatantcheva",
+    "Stefanie Voegele",
+    "Storm Sanders",
+    "Su-Wei Hsieh",
+    "Yanina Wickmayer",
+    "Yaroslava Shvedova",
+    "Yulia Putintseva"
+  ]
+}

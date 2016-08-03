@@ -1,0 +1,828 @@
+{
+  "name": "2015 Yokohama Challenger (Men's Singles)",
+  "country": "Japan",
+  "gender": "male",
+  "location": "Yokohama",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "5"
+          ],
+          "name": "Makoto Ochi",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "7"
+          ],
+          "name": "Masato Shiga",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:36:17",
+      "round": "Round of 32",
+      "date": "2015-11-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Sora Fukuda",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:08:04",
+      "round": "Round of 32",
+      "date": "2015-11-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Duck-Hee Lee",
+          "country": "KR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Yasutaka Uchiyama",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:03:01",
+      "round": "Round of 32",
+      "date": "2015-11-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Franco Skugor",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Tucker Vorster",
+          "country": "ZA"
+        }
+      ],
+      "duration": "01:38:37",
+      "round": "Round of 32",
+      "date": "2015-11-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Gavin Van Peperzeel",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:19:07",
+      "round": "Round of 32",
+      "date": "2015-11-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Kaito Uesugi",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Jason Jung",
+          "country": "US"
+        }
+      ],
+      "duration": "01:17:47",
+      "round": "Round of 32",
+      "date": "2015-11-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Kento Takeuchi",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:17:20",
+      "round": "Round of 32",
+      "date": "2015-11-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Ti Chen",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Brydan Klein",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:22:48",
+      "round": "Round of 32",
+      "date": "2015-11-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "4"
+          ],
+          "name": "Yoshihito Nishioka",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "2"
+          ],
+          "name": "Peter Kobelt",
+          "country": "US"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-11-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "1"
+          ],
+          "name": "Yusuke Watanuki",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Matthew Ebden",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:21:55",
+      "round": "Round of 32",
+      "date": "2015-11-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6"
+          ],
+          "name": "Zhe Li",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Jordan Thompson",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:00:06",
+      "round": "Round of 32",
+      "date": "2015-11-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Duck-Hee Lee",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:36:45",
+      "round": "Round of 16",
+      "date": "2015-11-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1"
+          ],
+          "name": "Franco Skugor",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6"
+          ],
+          "name": "Matthew Ebden",
+          "country": "AU"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2015-11-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Hiroki Moriya",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Konstantin Kravchuk",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:42:37",
+      "round": "Round of 32",
+      "date": "2015-11-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Jimmy Wang",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Tsung-Hua Yang",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:49:00",
+      "round": "Round of 32",
+      "date": "2015-11-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "John Millman",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alexander Kudryavtsev",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:10:47",
+      "round": "Round of 32",
+      "date": "2015-11-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Omar Jasika",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Yan Bai",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:12:13",
+      "round": "Round of 32",
+      "date": "2015-11-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Yoshihito Nishioka",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Jason Jung",
+          "country": "US"
+        }
+      ],
+      "duration": "01:47:37",
+      "round": "Round of 16",
+      "date": "2015-11-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Masato Shiga",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:15:35",
+      "round": "Round of 16",
+      "date": "2015-11-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Yuuya Kibi",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Taro Daniel",
+          "country": "JP"
+        }
+      ],
+      "duration": "00:58:34",
+      "round": "Round of 32",
+      "date": "2015-11-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Alexander Kudryavtsev",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Tsung-Hua Yang",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:18:36",
+      "round": "Round of 16",
+      "date": "2015-11-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "7"
+          ],
+          "name": "Jordan Thompson",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Konstantin Kravchuk",
+          "country": "RU"
+        }
+      ],
+      "duration": "02:12:54",
+      "round": "Round of 16",
+      "date": "2015-11-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Omar Jasika",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Taro Daniel",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:36:55",
+      "round": "Round of 16",
+      "date": "2015-11-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Brydan Klein",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:44:38",
+      "round": "Round of 16",
+      "date": "2015-11-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "0"
+          ],
+          "name": "Yoshihito Nishioka",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:21:56",
+      "round": "Quarter-Final",
+      "date": "2015-11-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "0"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Matthew Ebden",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:21:41",
+      "round": "Quarter-Final",
+      "date": "2015-11-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Alexander Kudryavtsev",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Taro Daniel",
+          "country": "JP"
+        }
+      ],
+      "duration": "00:58:39",
+      "round": "Quarter-Final",
+      "date": "2015-11-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Matthew Ebden",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:31:02",
+      "round": "Semi-Final",
+      "date": "2015-11-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Taro Daniel",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:05:53",
+      "round": "Semi-Final",
+      "date": "2015-11-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Jordan Thompson",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:43:34",
+      "round": "Quarter-Final",
+      "date": "2015-11-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Taro Daniel",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "3"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:03:20",
+      "round": "Championship",
+      "date": "2015-11-21"
+    }
+  ],
+  "players": [
+    "Alexander Kudryavtsev",
+    "Brydan Klein",
+    "Duck-Hee Lee",
+    "Franco Skugor",
+    "Gavin Van Peperzeel",
+    "Go Soeda",
+    "Hiroki Moriya",
+    "Jason Jung",
+    "Jimmy Wang",
+    "John Millman",
+    "Jordan Thompson",
+    "Kaito Uesugi",
+    "Kento Takeuchi",
+    "Konstantin Kravchuk",
+    "Makoto Ochi",
+    "Masato Shiga",
+    "Matthew Ebden",
+    "Omar Jasika",
+    "Peter Kobelt",
+    "Sora Fukuda",
+    "Taro Daniel",
+    "Tatsuma Ito",
+    "Ti Chen",
+    "Tsung-Hua Yang",
+    "Tucker Vorster",
+    "Yan Bai",
+    "Yasutaka Uchiyama",
+    "Yoshihito Nishioka",
+    "Yuichi Sugita",
+    "Yusuke Watanuki",
+    "Yuuya Kibi",
+    "Zhe Li"
+  ]
+}

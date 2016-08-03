@@ -1,0 +1,499 @@
+{
+  "name": "2016 Mendoza, Qualification Challenger (Men's Singles)",
+  "country": "Argentina",
+  "gender": "male",
+  "location": "Mendoza",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Agustin Velotti",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Facundo Jofre",
+          "country": "AR"
+        }
+      ],
+      "duration": "00:59:47",
+      "round": "Round of 16",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "2"
+          ],
+          "name": "Cristobal Grandon",
+          "country": "CL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Fabricio Neis",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:06:08",
+      "round": "Round of 32",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Fabricio Neis",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Pedro Sakamoto",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:23:02",
+      "round": "Round of 16",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Gonzalo Villanueva",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Dante Gennaro",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:07:37",
+      "round": "Round of 32",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Ignacio Dagostino",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nicolas Alejandro De Gregorio",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:27:58",
+      "round": "Round of 32",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Juan Ignacio Galarza",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "3"
+          ],
+          "name": "Gonzalo Villanueva",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:19:47",
+      "round": "Round of 16",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Juan Manuel Matute",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "7",
+            "4"
+          ],
+          "name": "Matt Seeburger",
+          "country": "US"
+        }
+      ],
+      "duration": "01:58:10",
+      "round": "Round of 32",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Juan Manuel Matute",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Andres Molteni",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:01:07",
+      "round": "Round of 16",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Juan Martin",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Thiago Monteiro",
+          "country": "BR"
+        }
+      ],
+      "duration": "00:54:20",
+      "round": "Round of 16",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Maximiliano Estevez",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "5"
+          ],
+          "name": "Franco Emanuel Egea",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:21:46",
+      "round": "Round of 16",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "2"
+          ],
+          "name": "Michel Vernier",
+          "country": "CL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "5",
+            "6"
+          ],
+          "name": "Franco Emanuel Egea",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:48:40",
+      "round": "Round of 32",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Nicolas Alejandro De Gregorio",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Franco Agamenone",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:15:34",
+      "round": "Round of 16",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Peter Torebko",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Sebastian Pini",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:11:03",
+      "round": "Round of 16",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Sebastian Pini",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Santiago Fa Rodriguez Taverna",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:38:12",
+      "round": "Round of 32",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Agustin Velotti",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "6"
+          ],
+          "name": "Thiago Monteiro",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:40:18",
+      "round": "Quarter-Final",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Juan Ignacio Galarza",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Juan Manuel Matute",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:04:18",
+      "round": "Quarter-Final",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Maximiliano Estevez",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "0",
+            "4"
+          ],
+          "name": "Franco Agamenone",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:18:28",
+      "round": "Quarter-Final",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Peter Torebko",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "1"
+          ],
+          "name": "Fabricio Neis",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:47:51",
+      "round": "Quarter-Final",
+      "date": "2016-01-04"
+    }
+  ],
+  "players": [
+    "Agustin Velotti",
+    "Andres Molteni",
+    "Cristobal Grandon",
+    "Dante Gennaro",
+    "Fabricio Neis",
+    "Facundo Jofre",
+    "Franco Agamenone",
+    "Franco Emanuel Egea",
+    "Gonzalo Villanueva",
+    "Ignacio Dagostino",
+    "Juan Ignacio Galarza",
+    "Juan Manuel Matute",
+    "Juan Martin",
+    "Matt Seeburger",
+    "Maximiliano Estevez",
+    "Michel Vernier",
+    "Nicolas Alejandro De Gregorio",
+    "Pedro Sakamoto",
+    "Peter Torebko",
+    "Santiago Fa Rodriguez Taverna",
+    "Sebastian Pini",
+    "Thiago Monteiro"
+  ]
+}

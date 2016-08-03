@@ -1,0 +1,726 @@
+{
+  "name": "2016 Apia International Sydney ATP (Men's Singles)",
+  "country": "Australia",
+  "gender": "male",
+  "location": "Sydney",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Alexander Sarkissian",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Simone Bolelli",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:34:28",
+      "round": "Round of 32",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "2"
+          ],
+          "name": "Denis Istomin",
+          "country": "UZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Andreas Seppi",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:42:21",
+      "round": "Round of 32",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Jordan Thompson",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Martin Klizan",
+          "country": "SK"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pablo Cuevas",
+          "country": "UY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Maximilian Marterer",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:10:10",
+      "round": "Round of 32",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alexandr Dolgopolov",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Thomaz Bellucci",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:08:30",
+      "round": "Round of 32",
+      "date": "2016-01-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jeremy Chardy",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Mikhail Kukushkin",
+          "country": "KZ"
+        }
+      ],
+      "duration": "01:02:18",
+      "round": "Round of 32",
+      "date": "2016-01-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "John Millman",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Tommy Robredo",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:34:53",
+      "round": "Round of 32",
+      "date": "2016-01-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Nicolas Mahut",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Adrian Mannarino",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:37:39",
+      "round": "Round of 32",
+      "date": "2016-01-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Teymuraz Gabashvili",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Leonardo Mayer",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:32:53",
+      "round": "Round of 32",
+      "date": "2016-01-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Borna Coric",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gilles Mueller",
+          "country": "LU"
+        }
+      ],
+      "duration": "00:57:51",
+      "round": "Round of 32",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "2"
+          ],
+          "name": "Gilles Mueller",
+          "country": "LU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Dominic Thiem",
+          "country": "AT"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Inigo Cervantes",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "James Duckworth",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:10:21",
+      "round": "Round of 32",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Jeremy Chardy",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "James Duckworth",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:33:37",
+      "round": "Round of 16",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Nicolas Mahut",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Andreas Seppi",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:29:56",
+      "round": "Round of 16",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Pablo Cuevas",
+          "country": "UY"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Grigor Dimitrov",
+          "country": "BG"
+        }
+      ],
+      "duration": "01:36:34",
+      "round": "Round of 16",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Samuel Groth",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Federico Delbonis",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:41:11",
+      "round": "Round of 32",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Alexandr Dolgopolov",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Alexander Sarkissian",
+          "country": "US"
+        }
+      ],
+      "duration": "01:19:27",
+      "round": "Round of 16",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Bernard Tomic",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Jordan Thompson",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:49:55",
+      "round": "Round of 16",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Federico Delbonis",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Teymuraz Gabashvili",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:14:40",
+      "round": "Round of 16",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Viktor Troicki",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Tommy Robredo",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:00:17",
+      "round": "Round of 16",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Alexandr Dolgopolov",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Grigor Dimitrov",
+          "country": "BG"
+        }
+      ],
+      "duration": "22:53:29",
+      "round": "Quarter-Final",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "0"
+          ],
+          "name": "Bernard Tomic",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Teymuraz Gabashvili",
+          "country": "RU"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Quarter-Final",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Jeremy Chardy",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Gilles Mueller",
+          "country": "LU"
+        }
+      ],
+      "duration": "19:05:34",
+      "round": "Quarter-Final",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Viktor Troicki",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "3"
+          ],
+          "name": "Nicolas Mahut",
+          "country": "FR"
+        }
+      ],
+      "duration": "19:29:11",
+      "round": "Quarter-Final",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Grigor Dimitrov",
+          "country": "BG"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Gilles Mueller",
+          "country": "LU"
+        }
+      ],
+      "duration": "02:49:41",
+      "round": "Semi-Final",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "4"
+          ],
+          "name": "Teymuraz Gabashvili",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Viktor Troicki",
+          "country": "RS"
+        }
+      ],
+      "duration": "03:24:12",
+      "round": "Semi-Final",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "7"
+          ],
+          "name": "Viktor Troicki",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Grigor Dimitrov",
+          "country": "BG"
+        }
+      ],
+      "duration": "02:16:37",
+      "round": "Championship",
+      "date": "2016-01-16"
+    }
+  ],
+  "players": [
+    "Adrian Mannarino",
+    "Alexander Sarkissian",
+    "Alexandr Dolgopolov",
+    "Andreas Seppi",
+    "Bernard Tomic",
+    "Borna Coric",
+    "Denis Istomin",
+    "Dominic Thiem",
+    "Federico Delbonis",
+    "Gilles Mueller",
+    "Grigor Dimitrov",
+    "Inigo Cervantes",
+    "James Duckworth",
+    "Jeremy Chardy",
+    "John Millman",
+    "Jordan Thompson",
+    "Leonardo Mayer",
+    "Martin Klizan",
+    "Maximilian Marterer",
+    "Mikhail Kukushkin",
+    "Nicolas Mahut",
+    "Pablo Cuevas",
+    "Samuel Groth",
+    "Simone Bolelli",
+    "Teymuraz Gabashvili",
+    "Thomaz Bellucci",
+    "Tommy Robredo",
+    "Viktor Troicki"
+  ]
+}

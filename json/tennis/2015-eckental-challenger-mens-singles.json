@@ -1,0 +1,90 @@
+{
+  "name": "2015 Eckental Challenger (Men's Singles)",
+  "country": "Germany",
+  "gender": "male",
+  "location": "Eckental",
+  "surface": "Carpet",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Benjamin Becker",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Ruben Bemelmans",
+          "country": "BE"
+        }
+      ],
+      "duration": "00:55:02",
+      "round": "Semi-Final",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Ante Pavic",
+          "country": "HR"
+        }
+      ],
+      "duration": "00:58:58",
+      "round": "Semi-Final",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Benjamin Becker",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:19:25",
+      "round": "Championship",
+      "date": "2015-11-08"
+    }
+  ],
+  "players": [
+    "Ante Pavic",
+    "Benjamin Becker",
+    "Mikhail Youzhny",
+    "Ruben Bemelmans"
+  ]
+}

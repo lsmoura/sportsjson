@@ -1,0 +1,515 @@
+{
+  "name": "2015 Andria, Qualification Challenger (Men's Singles)",
+  "country": "Italy",
+  "gender": "male",
+  "location": "Andria",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Aaron Cortes",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Alexander Zhurbin",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:41:50",
+      "round": "Round of 32",
+      "date": "2015-11-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Andrea Camurri",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alessandro Motti",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:01:08",
+      "round": "Round of 32",
+      "date": "2015-11-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andreas Siljestroem",
+          "country": "SE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Shalva Dzhanashia",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:16:22",
+      "round": "Round of 32",
+      "date": "2015-11-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "1"
+          ],
+          "name": "Deivids Juksa",
+          "country": "LV"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Giorgio Ricca",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:44:46",
+      "round": "Round of 32",
+      "date": "2015-11-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mateusz Kowalczyk",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Enrico Becuzzi",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:53:11",
+      "round": "Round of 32",
+      "date": "2015-11-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Patrick Grigoriu",
+          "country": "RO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Gabriele Nardelli",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:13:36",
+      "round": "Round of 32",
+      "date": "2015-11-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Romain Bauvy",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "1"
+          ],
+          "name": "Giuseppe Tresca",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:42:53",
+      "round": "Round of 32",
+      "date": "2015-11-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Aaron Cortes",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Neil Pauffley",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:06:46",
+      "round": "Round of 16",
+      "date": "2015-11-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Ante Pavic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "4"
+          ],
+          "name": "Enrico Dalla Valle",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:39:37",
+      "round": "Round of 16",
+      "date": "2015-11-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "4"
+          ],
+          "name": "Giorgio Ricca",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Gianluca Di Nicola",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:45:07",
+      "round": "Round of 16",
+      "date": "2015-11-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Joris de Loore",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Alessandro Motti",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:44:03",
+      "round": "Round of 16",
+      "date": "2015-11-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3"
+          ],
+          "name": "Lorenzo Sonego",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Mateusz Kowalczyk",
+          "country": "PL"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2015-11-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Patrick Grigoriu",
+          "country": "RO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Viktor Galovic",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:03:15",
+      "round": "Round of 16",
+      "date": "2015-11-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Petru Alexandru Luncanu",
+          "country": "RO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Andreas Siljestroem",
+          "country": "SE"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2015-11-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Romain Bauvy",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Adelchi Virgili",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:00:14",
+      "round": "Round of 16",
+      "date": "2015-11-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Ante Pavic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Neil Pauffley",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:18:04",
+      "round": "Quarter-Final",
+      "date": "2015-11-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Joris de Loore",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Gianluca Di Nicola",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:55:19",
+      "round": "Quarter-Final",
+      "date": "2015-11-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lorenzo Sonego",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Viktor Galovic",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:09:57",
+      "round": "Quarter-Final",
+      "date": "2015-11-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Petru Alexandru Luncanu",
+          "country": "RO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "5",
+            "3"
+          ],
+          "name": "Adelchi Virgili",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:08:53",
+      "round": "Quarter-Final",
+      "date": "2015-11-23"
+    }
+  ],
+  "players": [
+    "Aaron Cortes",
+    "Adelchi Virgili",
+    "Alessandro Motti",
+    "Alexander Zhurbin",
+    "Andrea Camurri",
+    "Andreas Siljestroem",
+    "Ante Pavic",
+    "Deivids Juksa",
+    "Enrico Becuzzi",
+    "Enrico Dalla Valle",
+    "Gabriele Nardelli",
+    "Gianluca Di Nicola",
+    "Giorgio Ricca",
+    "Giuseppe Tresca",
+    "Joris de Loore",
+    "Lorenzo Sonego",
+    "Mateusz Kowalczyk",
+    "Neil Pauffley",
+    "Patrick Grigoriu",
+    "Petru Alexandru Luncanu",
+    "Romain Bauvy",
+    "Shalva Dzhanashia",
+    "Viktor Galovic"
+  ]
+}

@@ -1251,6 +1251,31 @@
     {
       "players": [
         {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Michaela Gordon",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Melany Krywoj",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:00:03",
+      "round": "Round of 32",
+      "date": "2016-06-02"
+    },
+    {
+      "players": [
+        {
           "is_winner": false,
           "set_games": [
             "0",
@@ -1273,31 +1298,6 @@
       ],
       "duration": "01:29:07",
       "round": "Round of 16",
-      "date": "2016-06-02"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Michaela Gordon",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "1",
-            "3"
-          ],
-          "name": "Melany Krywoj",
-          "country": "AR"
-        }
-      ],
-      "duration": "01:00:03",
-      "round": "Round of 32",
       "date": "2016-06-02"
     },
     {
@@ -1610,5 +1610,71 @@
       "round": "Championship",
       "date": "2016-06-05"
     }
+  ],
+  "players": [
+    "Alexandra Sanford",
+    "Amanda Anisimova",
+    "Amina Anshba",
+    "Anastasia Detiuc",
+    "Anastasia Potapova",
+    "Anastasia Zarytska",
+    "Ayano Shimizu",
+    "Ayumi Miyamoto",
+    "Baijing Lin",
+    "Caty McNally",
+    "Charlotte Robillard-Millette",
+    "Chihiro Muramatsu",
+    "Claire Liu",
+    "Dayana Yastremska",
+    "Dominique Schaefer",
+    "Elena Rybakina",
+    "Eleni Christofi",
+    "Emiliana Arango",
+    "Emily Appleton",
+    "Emmanuelle Salas",
+    "Federica Bilardo",
+    "Georgia Craciun",
+    "Iga Swiatek",
+    "Ines Ibbou",
+    "Ioana Minca",
+    "Jaimee Fourlis",
+    "Karman Thandi",
+    "Katarina Zavatska",
+    "Katie Swan",
+    "Kayla Day",
+    "Lara Escauriza",
+    "Loudmilla Bencheikh",
+    "Lucie Kankova",
+    "Lucrezia Stefanini",
+    "Mai Hontama",
+    "Malene Helgoe",
+    "Manon Leonard",
+    "Maria Mateas",
+    "Marketa Vondrousova",
+    "Melany Krywoj",
+    "Michaela Gordon",
+    "Mira Antonitsch",
+    "Mirjam Bjoerklund",
+    "Monika Kilnarova",
+    "Morgan Coppoc",
+    "Mylene Halemai",
+    "Oana Gavrila",
+    "Olesya Pervushina",
+    "Olga Danilovic",
+    "Panna Udvardy",
+    "Paula Arias",
+    "Rebeka Masarova",
+    "Sandra Bozinovic",
+    "Schena Benamar",
+    "Sofia Kenin",
+    "Sofya Zhuk",
+    "Tatiana Pieri",
+    "Tessah Andrianjafitrimo",
+    "Usue Maitane Arconada",
+    "Varvara Gracheva",
+    "Wushuang Zheng",
+    "Yasmine Mansouri",
+    "Ylena In-Albon",
+    "Yuki Naito"
   ]
 }

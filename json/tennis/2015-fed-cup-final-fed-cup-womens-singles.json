@@ -1,0 +1,140 @@
+{
+  "name": "2015 Fed Cup final Fed Cup (Women's Singles)",
+  "country": "",
+  "gender": "female",
+  "location": "Prague",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": null,
+          "set_games": [],
+          "name": "Czech Republic",
+          "country": "CZ"
+        },
+        {
+          "is_winner": null,
+          "set_games": [],
+          "name": "Russia",
+          "country": "RU"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Championship",
+      "date": "2015-11-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Karolina Pliskova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Maria Sharapova",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:29:24",
+      "round": "Championship",
+      "date": "2015-11-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Petra Kvitova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "1"
+          ],
+          "name": "Anastasia Pavlyuchenkova",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:44:27",
+      "round": "Championship",
+      "date": "2015-11-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Karolina Pliskova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Anastasia Pavlyuchenkova",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:35:52",
+      "round": "Championship",
+      "date": "2015-11-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "2"
+          ],
+          "name": "Petra Kvitova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Maria Sharapova",
+          "country": "RU"
+        }
+      ],
+      "duration": "02:33:24",
+      "round": "Championship",
+      "date": "2015-11-15"
+    }
+  ],
+  "players": [
+    "Anastasia Pavlyuchenkova",
+    "Czech Republic",
+    "Karolina Pliskova",
+    "Maria Sharapova",
+    "Petra Kvitova",
+    "Russia"
+  ]
+}

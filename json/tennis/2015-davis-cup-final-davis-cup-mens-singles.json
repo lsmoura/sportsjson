@@ -1,0 +1,100 @@
+{
+  "name": "2015 Davis Cup Final Davis Cup (Men's Singles)",
+  "country": "",
+  "gender": "male",
+  "location": "Unknown",
+  "surface": "Unknown",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "1",
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "David Goffin",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "2",
+            "1",
+            "0"
+          ],
+          "name": "Kyle Edmund",
+          "country": "GB"
+        }
+      ],
+      "duration": "02:47:56",
+      "round": "Championship",
+      "date": "2015-11-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2",
+            "5"
+          ],
+          "name": "Ruben Bemelmans",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Andy Murray",
+          "country": "01"
+        }
+      ],
+      "duration": "02:24:55",
+      "round": "Championship",
+      "date": "2015-11-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5",
+            "3"
+          ],
+          "name": "David Goffin",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Andy Murray",
+          "country": "01"
+        }
+      ],
+      "duration": "02:54:37",
+      "round": "Championship",
+      "date": "2015-11-29"
+    }
+  ],
+  "players": [
+    "Andy Murray",
+    "David Goffin",
+    "Kyle Edmund",
+    "Ruben Bemelmans"
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "name": "2015 Carlsbad, Qualification WTA Challenger (Women's Singles)",
+  "country": "United States",
+  "gender": "female",
+  "location": "Carlsbad",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Carol Zhao",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "7"
+          ],
+          "name": "Tori Kinard",
+          "country": "US"
+        }
+      ],
+      "duration": "02:44:41",
+      "round": "Quarter-Final",
+      "date": "2015-11-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "5"
+          ],
+          "name": "Gabriela Dabrowski",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "7"
+          ],
+          "name": "Vania King",
+          "country": "US"
+        }
+      ],
+      "duration": "02:01:41",
+      "round": "Quarter-Final",
+      "date": "2015-11-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Jacqueline Cako",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Sharon Fichman",
+          "country": "CA"
+        }
+      ],
+      "duration": "02:18:16",
+      "round": "Quarter-Final",
+      "date": "2015-11-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Zlata Bobyr",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Francoise Abanda",
+          "country": "CA"
+        }
+      ],
+      "duration": "00:57:12",
+      "round": "Quarter-Final",
+      "date": "2015-11-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "2"
+          ],
+          "name": "Tori Kinard",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Sharon Fichman",
+          "country": "CA"
+        }
+      ],
+      "duration": "02:14:30",
+      "round": "Semi-Final",
+      "date": "2015-11-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Vania King",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Francoise Abanda",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:12:56",
+      "round": "Semi-Final",
+      "date": "2015-11-23"
+    }
+  ],
+  "players": [
+    "Carol Zhao",
+    "Francoise Abanda",
+    "Gabriela Dabrowski",
+    "Jacqueline Cako",
+    "Sharon Fichman",
+    "Tori Kinard",
+    "Vania King",
+    "Zlata Bobyr"
+  ]
+}

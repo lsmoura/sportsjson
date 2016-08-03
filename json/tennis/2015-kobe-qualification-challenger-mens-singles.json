@@ -1,0 +1,383 @@
+{
+  "name": "2015 Kobe, Qualification Challenger (Men's Singles)",
+  "country": "Japan",
+  "gender": "male",
+  "location": "Kobe",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Andriej Kapas",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Oliver Anderson",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:16:32",
+      "round": "Round of 16",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "1"
+          ],
+          "name": "Chung-Hyo Woo",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yuichi Ito",
+          "country": "JP"
+        }
+      ],
+      "duration": "00:46:23",
+      "round": "Round of 32",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Gavin Van Peperzeel",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Masato Shiga",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:35:45",
+      "round": "Round of 16",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kento Takeuchi",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Shotaro Goto",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:26:13",
+      "round": "Round of 16",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Ko Suzuki",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Yuichi Ito",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:31:58",
+      "round": "Round of 16",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "4"
+          ],
+          "name": "Ryota Tanuma",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "7",
+            "6"
+          ],
+          "name": "Young-Seok Kim",
+          "country": "KR"
+        }
+      ],
+      "duration": "02:44:49",
+      "round": "Round of 16",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Shotaro Goto",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Kazuma Kawachi",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:27:04",
+      "round": "Round of 32",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sora Fukuda",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Jui-Chen Hung",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:15:37",
+      "round": "Round of 16",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Woong-Sun Jun",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Makoto Ochi",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:20:31",
+      "round": "Round of 16",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Andriej Kapas",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Makoto Ochi",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:17:23",
+      "round": "Quarter-Final",
+      "date": "2015-11-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Christopher Rungkat",
+          "country": "ID"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "1"
+          ],
+          "name": "Keisuke Numajiri",
+          "country": "JP"
+        }
+      ],
+      "duration": "00:52:59",
+      "round": "Round of 16",
+      "date": "2015-11-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Christopher Rungkat",
+          "country": "ID"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Sora Fukuda",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:52:31",
+      "round": "Quarter-Final",
+      "date": "2015-11-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kento Takeuchi",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Yuichi Ito",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:13:18",
+      "round": "Quarter-Final",
+      "date": "2015-11-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "4"
+          ],
+          "name": "Masato Shiga",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Young-Seok Kim",
+          "country": "KR"
+        }
+      ],
+      "duration": "02:28:32",
+      "round": "Quarter-Final",
+      "date": "2015-11-08"
+    }
+  ],
+  "players": [
+    "Andriej Kapas",
+    "Christopher Rungkat",
+    "Chung-Hyo Woo",
+    "Gavin Van Peperzeel",
+    "Jui-Chen Hung",
+    "Kazuma Kawachi",
+    "Keisuke Numajiri",
+    "Kento Takeuchi",
+    "Ko Suzuki",
+    "Makoto Ochi",
+    "Masato Shiga",
+    "Oliver Anderson",
+    "Ryota Tanuma",
+    "Shotaro Goto",
+    "Sora Fukuda",
+    "Woong-Sun Jun",
+    "Young-Seok Kim",
+    "Yuichi Ito"
+  ]
+}

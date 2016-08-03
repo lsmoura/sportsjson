@@ -1,0 +1,834 @@
+{
+  "name": "2016 Canberra Challenger (Men's Singles)",
+  "country": "Australia",
+  "gender": "male",
+  "location": "Canberra",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Daniel Nolan",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Evgeny Donskoy",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:47:08",
+      "round": "Round of 32",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Frank Moser",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Steven De Waard",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:14:59",
+      "round": "Round of 32",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Marcel Granollers",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Blake Mott",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:31:25",
+      "round": "Round of 32",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Maverick Banes",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Stefanos Tsitsipas",
+          "country": "GR"
+        }
+      ],
+      "duration": "01:34:02",
+      "round": "Round of 32",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Noah Rubin",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "4"
+          ],
+          "name": "Alex De Minaur",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:08:24",
+      "round": "Round of 32",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Sergey Betov",
+          "country": "BY"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniel Munoz",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:26:35",
+      "round": "Round of 32",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Xin Gao",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Hiroyasu Ehara",
+          "country": "JP"
+        }
+      ],
+      "duration": "00:48:04",
+      "round": "Round of 32",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Yoshihito Nishioka",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "4"
+          ],
+          "name": "Jarryd Chaplin",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:29:33",
+      "round": "Round of 32",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Daniel Gimeno",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "1"
+          ],
+          "name": "Matthew Ebden",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:51:36",
+      "round": "Round of 32",
+      "date": "2016-01-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Daniel Hobart",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Max Purcell",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:52:56",
+      "round": "Round of 32",
+      "date": "2016-01-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Diego Sebastian Schwartzman",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Alexei Popyrin",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:57:42",
+      "round": "Round of 32",
+      "date": "2016-01-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Ivan Dodig",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Dayne Kelly",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:26:54",
+      "round": "Round of 32",
+      "date": "2016-01-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "7",
+            "2"
+          ],
+          "name": "Nikoloz Basilashvili",
+          "country": "GE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Andrew Whittington",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:17:27",
+      "round": "Round of 32",
+      "date": "2016-01-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Stefano Napolitano",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:29:09",
+      "round": "Round of 32",
+      "date": "2016-01-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "7"
+          ],
+          "name": "Quentin Halys",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Taro Daniel",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:50:21",
+      "round": "Round of 32",
+      "date": "2016-01-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Andrew Whittington",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Quentin Halys",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:22:15",
+      "round": "Round of 16",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Diego Sebastian Schwartzman",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Frank Moser",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:23:52",
+      "round": "Round of 16",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Dudi Sela",
+          "country": "IL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Santiago Giraldo",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:04:03",
+      "round": "Round of 32",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ivan Dodig",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Daniel Gimeno",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:04:55",
+      "round": "Round of 16",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marcel Granollers",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Maverick Banes",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:20:34",
+      "round": "Round of 16",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "3"
+          ],
+          "name": "Max Purcell",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Santiago Giraldo",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:57:34",
+      "round": "Round of 16",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "0"
+          ],
+          "name": "Noah Rubin",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "Evgeny Donskoy",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:20:48",
+      "round": "Round of 16",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Xin Gao",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Daniel Munoz",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:25:54",
+      "round": "Round of 16",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4"
+          ],
+          "name": "Diego Sebastian Schwartzman",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6"
+          ],
+          "name": "Daniel Munoz",
+          "country": "ES"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Quarter-Final",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Ivan Dodig",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Santiago Giraldo",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:29:03",
+      "round": "Quarter-Final",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "0"
+          ],
+          "name": "Marcel Granollers",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "0"
+          ],
+          "name": "Quentin Halys",
+          "country": "FR"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Quarter-Final",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Evgeny Donskoy",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:24:07",
+      "round": "Quarter-Final",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "1"
+          ],
+          "name": "Yoshihito Nishioka",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:20:08",
+      "round": "Round of 16",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Daniel Munoz",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ivan Dodig",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:10:52",
+      "round": "Semi-Final",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "7"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "7",
+            "5"
+          ],
+          "name": "Marcel Granollers",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:57:15",
+      "round": "Semi-Final",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Ivan Dodig",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:19:07",
+      "round": "Championship",
+      "date": "2016-01-15"
+    }
+  ],
+  "players": [
+    "Alex De Minaur",
+    "Alexei Popyrin",
+    "Andrew Whittington",
+    "Blake Mott",
+    "Daniel Gimeno",
+    "Daniel Hobart",
+    "Daniel Munoz",
+    "Daniel Nolan",
+    "Dayne Kelly",
+    "Diego Sebastian Schwartzman",
+    "Dudi Sela",
+    "Evgeny Donskoy",
+    "Frank Moser",
+    "Hiroyasu Ehara",
+    "Ivan Dodig",
+    "Jarryd Chaplin",
+    "Marcel Granollers",
+    "Matthew Ebden",
+    "Maverick Banes",
+    "Max Purcell",
+    "Nikoloz Basilashvili",
+    "Noah Rubin",
+    "Paolo Lorenzi",
+    "Quentin Halys",
+    "Santiago Giraldo",
+    "Sergey Betov",
+    "Stefano Napolitano",
+    "Stefanos Tsitsipas",
+    "Steven De Waard",
+    "Taro Daniel",
+    "Xin Gao",
+    "Yoshihito Nishioka"
+  ]
+}

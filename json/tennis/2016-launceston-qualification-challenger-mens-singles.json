@@ -1,0 +1,565 @@
+{
+  "name": "2016 Launceston, Qualification Challenger (Men's Singles)",
+  "country": "Australia",
+  "gender": "male",
+  "location": "Launceston",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Calum Puttergill",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Steven De Waard",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:56:00",
+      "round": "Round of 32",
+      "date": "2016-01-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Damian Farinola",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Themi Sitzoukis",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:45:54",
+      "round": "Round of 32",
+      "date": "2016-01-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jake Delaney",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Daniel Groom",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:05:53",
+      "round": "Round of 32",
+      "date": "2016-01-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Jose Statham",
+          "country": "NZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Greg Jones",
+          "country": "AU"
+        }
+      ],
+      "duration": "03:56:59",
+      "round": "Round of 16",
+      "date": "2016-01-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Konstantinos Economidis",
+          "country": "GR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Daniel Nolan",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:07:57",
+      "round": "Round of 32",
+      "date": "2016-01-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Konstantinos Economidis",
+          "country": "GR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jarryd Chaplin",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:04:21",
+      "round": "Round of 16",
+      "date": "2016-01-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lawrence Bataljin",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Chung-Hyo Woo",
+          "country": "KR"
+        }
+      ],
+      "duration": "01:00:55",
+      "round": "Round of 32",
+      "date": "2016-01-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "1"
+          ],
+          "name": "Mario Matejcek",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Greg Jones",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:58:26",
+      "round": "Round of 32",
+      "date": "2016-01-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Marko Jovanovic",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Matthew Leffler",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:50:52",
+      "round": "Round of 32",
+      "date": "2016-01-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Matthew Leffler",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Thomas Fancutt",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:33:40",
+      "round": "Round of 16",
+      "date": "2016-01-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Scott Browne",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Aaron Addison",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:05:40",
+      "round": "Round of 32",
+      "date": "2016-01-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Scott Puodziunas",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Blazo N Djurovic",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:25:04",
+      "round": "Round of 32",
+      "date": "2016-01-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2"
+          ],
+          "name": "Sebastian Fanselow",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5"
+          ],
+          "name": "Lawrence Bataljin",
+          "country": "AU"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2016-01-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Stefanos Tsitsipas",
+          "country": "GR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Scott Puodziunas",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:40:56",
+      "round": "Round of 16",
+      "date": "2016-01-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "0",
+            "4"
+          ],
+          "name": "Yuichi Ito",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Aaron Addison",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:54:20",
+      "round": "Round of 16",
+      "date": "2016-01-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Aaron Addison",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marc Polmans",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:06:39",
+      "round": "Quarter-Final",
+      "date": "2016-01-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "2"
+          ],
+          "name": "Damian Farinola",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marc Polmans",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:45:28",
+      "round": "Round of 16",
+      "date": "2016-01-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "2"
+          ],
+          "name": "Jake Delaney",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Calum Puttergill",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:03:48",
+      "round": "Round of 16",
+      "date": "2016-01-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Jose Statham",
+          "country": "NZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Jarryd Chaplin",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:29:33",
+      "round": "Quarter-Final",
+      "date": "2016-01-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "3"
+          ],
+          "name": "Lawrence Bataljin",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Thomas Fancutt",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:09:03",
+      "round": "Quarter-Final",
+      "date": "2016-01-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Stefanos Tsitsipas",
+          "country": "GR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Calum Puttergill",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:56:04",
+      "round": "Quarter-Final",
+      "date": "2016-01-30"
+    }
+  ],
+  "players": [
+    "Aaron Addison",
+    "Blazo N Djurovic",
+    "Calum Puttergill",
+    "Chung-Hyo Woo",
+    "Damian Farinola",
+    "Daniel Groom",
+    "Daniel Nolan",
+    "Greg Jones",
+    "Jake Delaney",
+    "Jarryd Chaplin",
+    "Jose Statham",
+    "Konstantinos Economidis",
+    "Lawrence Bataljin",
+    "Marc Polmans",
+    "Mario Matejcek",
+    "Marko Jovanovic",
+    "Matthew Leffler",
+    "Scott Browne",
+    "Scott Puodziunas",
+    "Sebastian Fanselow",
+    "Stefanos Tsitsipas",
+    "Steven De Waard",
+    "Themi Sitzoukis",
+    "Thomas Fancutt",
+    "Yuichi Ito"
+  ]
+}

@@ -1,0 +1,3029 @@
+{
+  "name": "2016 Australian Open, Qualification Grand Slam (Men's Singles)",
+  "country": "Australia",
+  "gender": "male",
+  "location": "Melbourne",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Alessandro Giannessi",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Alexander Kudryavtsev",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:23:37",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "2"
+          ],
+          "name": "Alex Bolt",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Stephane Robert",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:12:58",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Amir Weintraub",
+          "country": "IL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Luke Saville",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:55:58",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Aslan Karatsev",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Franco Skugor",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:26:13",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "5",
+            "0"
+          ],
+          "name": "Bastian Trinker",
+          "country": "AT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Kenny De Schepper",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:17:07",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Benjamin Mitchell",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Darian King",
+          "country": "BB"
+        }
+      ],
+      "duration": "01:10:28",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Calvin Hemery",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "James McGee",
+          "country": "IE"
+        }
+      ],
+      "duration": "01:12:35",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "David Guez",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Vincent Millot",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:33:08",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Eduardo Struvay",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Igor Sijsling",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:00:59",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "2"
+          ],
+          "name": "Farrukh Dustov",
+          "country": "UZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Yannick Mertens",
+          "country": "BE"
+        }
+      ],
+      "duration": "02:25:32",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Federico Gaio",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Aldin Setkic",
+          "country": "BA"
+        }
+      ],
+      "duration": "01:22:35",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Frank Dancevic",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Bjorn Fratangelo",
+          "country": "US"
+        }
+      ],
+      "duration": "01:10:12",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "4"
+          ],
+          "name": "Maximilian Marterer",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:41:15",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "James Ward",
+          "country": "GB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Peter Polansky",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:46:14",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "John-Patrick Smith",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Michael Linzer",
+          "country": "AT"
+        }
+      ],
+      "duration": "00:57:34",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Jozef Kovalik",
+          "country": "SK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "1"
+          ],
+          "name": "Pedja Krstin",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:14:12",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Juergen Zopp",
+          "country": "EE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "4"
+          ],
+          "name": "Somdev Devvarman",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:45:58",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Karen Khachanov",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Grega Zemlja",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:10:00",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kimmer Coppejans",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Alex De Minaur",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:01:17",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Laslo Djere",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniel Brands",
+          "country": "DE"
+        }
+      ],
+      "duration": "03:49:36",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Luca Vanni",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Daniel Evans",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:50:14",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Marc Polmans",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Dennis Novikov",
+          "country": "US"
+        }
+      ],
+      "duration": "01:29:44",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Marsel Ilhan",
+          "country": "TR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Aleksandr Nedovyesov",
+          "country": "KZ"
+        }
+      ],
+      "duration": "01:39:00",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Matteo Donati",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "4"
+          ],
+          "name": "Blaz Rola",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:22:10",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Michael Berrer",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Tristan Lamasine",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:14:23",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mischa Zverev",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Andrea Arnaboldi",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:55:41",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "0"
+          ],
+          "name": "Nils Langer",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Egor Gerasimov",
+          "country": "BY"
+        }
+      ],
+      "duration": "01:23:54",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Oriol Roca",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Duck-Hee Lee",
+          "country": "KR"
+        }
+      ],
+      "duration": "01:41:07",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Radu Albot",
+          "country": "MD"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Jan Mertl",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:28:50",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Renzo Olivo",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "Elias Ymer",
+          "country": "SE"
+        }
+      ],
+      "duration": "02:06:54",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "5",
+            "4"
+          ],
+          "name": "Roberto Marcora",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Norbert Gombos",
+          "country": "SK"
+        }
+      ],
+      "duration": "02:34:38",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Ruben Bemelmans",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Harry Bourchier",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:31:18",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Taylor Harry Fritz",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Hiroki Moriya",
+          "country": "JP"
+        }
+      ],
+      "duration": "00:50:32",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tim Smyczek",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Jose Pereira",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:03:54",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "1"
+          ],
+          "name": "Ante Pavic",
+          "country": "HR"
+        }
+      ],
+      "duration": "02:01:31",
+      "round": "Round of 128",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Adrian Menendez",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Andre Ghem",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:09:15",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alejandro Falla",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Daniel Nguyen",
+          "country": "US"
+        }
+      ],
+      "duration": "01:09:44",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "2"
+          ],
+          "name": "Andrey Golubev",
+          "country": "KZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Konstantin Kravchuk",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:55:26",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3"
+          ],
+          "name": "Bradley Mousley",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6"
+          ],
+          "name": "Denys Molchanov",
+          "country": "UA"
+        }
+      ],
+      "duration": "00:28:18",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Brydan Klein",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:03:32",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Di Wu",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Ti Chen",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:34:00",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Dmitry Popko",
+          "country": "KZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marco Trungelliti",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:16:56",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Dustin Brown",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Dennis Novak",
+          "country": "AT"
+        }
+      ],
+      "duration": "00:52:54",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "Edouard Roger-Vasselin",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "3"
+          ],
+          "name": "Zhe Li",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:20:10",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Francis Tiafoe",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Jared Donaldson",
+          "country": "US"
+        }
+      ],
+      "duration": "00:29:28",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Gianluca Naso",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Marius Copil",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:03:56",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "5"
+          ],
+          "name": "Henri Laaksonen",
+          "country": "CH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Alejandro Gonzalez",
+          "country": "CO"
+        }
+      ],
+      "duration": "02:12:58",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jan-Lennard Struff",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Hans Podlipnik",
+          "country": "CL"
+        }
+      ],
+      "duration": "01:21:21",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jordi Samper",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Germain Gigounon",
+          "country": "BE"
+        }
+      ],
+      "duration": "03:31:49",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Lukas Lacko",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Lorenzo Giustino",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:57:36",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marinko Matosevic",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Gregoire Barrere",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:07:19",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Mathias Bourgue",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Mirza Basic",
+          "country": "BA"
+        }
+      ],
+      "duration": "01:08:51",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "13"
+          ],
+          "name": "Maxime Chazal",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "15"
+          ],
+          "name": "Maxime Janvier",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:18:48",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "4"
+          ],
+          "name": "Mitchell Krueger",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Marco Chiudinelli",
+          "country": "CH"
+        }
+      ],
+      "duration": "02:10:54",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Oliver Anderson",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Gavin Van Peperzeel",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:11:43",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Pierre-Hugues Herbert",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "3"
+          ],
+          "name": "Gastao Elias",
+          "country": "PT"
+        }
+      ],
+      "duration": "02:10:52",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Radek Stepanek",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "4"
+          ],
+          "name": "Jan Satral",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:34:20",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Saketh Myneni",
+          "country": "IN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Ramkumar Ramanathan",
+          "country": "IN"
+        }
+      ],
+      "duration": "00:47:50",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Salvatore Caruso",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Ryan Harrison",
+          "country": "US"
+        }
+      ],
+      "duration": "01:04:18",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Marton Fucsovics",
+          "country": "HU"
+        }
+      ],
+      "duration": "01:01:19",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tennys Sandgren",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Yasutaka Uchiyama",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:29:16",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Tsung-Hua Yang",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Niels Desein",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:37:50",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "2"
+          ],
+          "name": "Uladzimir Ignatik",
+          "country": "BY"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Thomas Fabbiano",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:45:22",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yan Bai",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Connor Smith",
+          "country": "US"
+        }
+      ],
+      "duration": "01:07:57",
+      "round": "Round of 128",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "5",
+            "1"
+          ],
+          "name": "Alejandro Falla",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "7",
+            "6"
+          ],
+          "name": "Niels Desein",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:56:54",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Aleksandr Nedovyesov",
+          "country": "KZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "0"
+          ],
+          "name": "Aldin Setkic",
+          "country": "BA"
+        }
+      ],
+      "duration": "01:39:22",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "5",
+            "2"
+          ],
+          "name": "Benjamin Mitchell",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Renzo Olivo",
+          "country": "AR"
+        }
+      ],
+      "duration": "03:01:38",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Daniel Evans",
+          "country": "GB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "7",
+            "2"
+          ],
+          "name": "Amir Weintraub",
+          "country": "IL"
+        }
+      ],
+      "duration": "02:31:52",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Dennis Novak",
+          "country": "AT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marco Trungelliti",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:10:39",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Denys Molchanov",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ryan Harrison",
+          "country": "US"
+        }
+      ],
+      "duration": "00:50:40",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Di Wu",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Thomas Fabbiano",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:58:03",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Edouard Roger-Vasselin",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Jordi Samper",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:07:22",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Alexander Kudryavtsev",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:37:58",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "James Ward",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Dennis Novikov",
+          "country": "US"
+        }
+      ],
+      "duration": "01:26:35",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Jan-Lennard Struff",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Radek Stepanek",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:13:25",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "John-Patrick Smith",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Vincent Millot",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:32:07",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jozef Kovalik",
+          "country": "SK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Matteo Donati",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:04:12",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "7",
+            "10"
+          ],
+          "name": "Juergen Zopp",
+          "country": "EE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "5",
+            "12"
+          ],
+          "name": "Kenny De Schepper",
+          "country": "FR"
+        }
+      ],
+      "duration": "03:24:00",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Kimmer Coppejans",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Karen Khachanov",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:12:28",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Lorenzo Giustino",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Saketh Myneni",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:22:41",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Marco Chiudinelli",
+          "country": "CH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Pierre-Hugues Herbert",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:40:17",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "2"
+          ],
+          "name": "Marinko Matosevic",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Alejandro Gonzalez",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:42:08",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Marius Copil",
+          "country": "RO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Mirza Basic",
+          "country": "BA"
+        }
+      ],
+      "duration": "01:09:45",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "2"
+          ],
+          "name": "Maxime Janvier",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Daniel Brands",
+          "country": "DE"
+        }
+      ],
+      "duration": "02:04:00",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "1"
+          ],
+          "name": "Michael Berrer",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Taylor Harry Fritz",
+          "country": "US"
+        }
+      ],
+      "duration": "01:50:04",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mischa Zverev",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Norbert Gombos",
+          "country": "SK"
+        }
+      ],
+      "duration": "00:51:59",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Oliver Anderson",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Adrian Menendez",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:04:05",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "Oriol Roca",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Bjorn Fratangelo",
+          "country": "US"
+        }
+      ],
+      "duration": "01:38:29",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Francis Tiafoe",
+          "country": "US"
+        }
+      ],
+      "duration": "00:47:34",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "2"
+          ],
+          "name": "Radu Albot",
+          "country": "MD"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "James McGee",
+          "country": "IE"
+        }
+      ],
+      "duration": "01:34:29",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Ruben Bemelmans",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "1"
+          ],
+          "name": "Egor Gerasimov",
+          "country": "BY"
+        }
+      ],
+      "duration": "01:47:28",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Stephane Robert",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "5"
+          ],
+          "name": "Igor Sijsling",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:02:07",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Tennys Sandgren",
+          "country": "US"
+        }
+      ],
+      "duration": "01:15:36",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tim Smyczek",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Aslan Karatsev",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:16:05",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "8"
+          ],
+          "name": "Yan Bai",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Konstantin Kravchuk",
+          "country": "RU"
+        }
+      ],
+      "duration": "02:09:47",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "4"
+          ],
+          "name": "Yannick Mertens",
+          "country": "BE"
+        }
+      ],
+      "duration": "05:36:19",
+      "round": "Round of 64",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "3"
+          ],
+          "name": "Aleksandr Nedovyesov",
+          "country": "KZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Ryan Harrison",
+          "country": "US"
+        }
+      ],
+      "duration": "02:36:47",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "2"
+          ],
+          "name": "Alexander Kudryavtsev",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:42:22",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Daniel Evans",
+          "country": "GB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "0"
+          ],
+          "name": "Bjorn Fratangelo",
+          "country": "US"
+        }
+      ],
+      "duration": "01:52:57",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "James McGee",
+          "country": "IE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Daniel Brands",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:23:33",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "2"
+          ],
+          "name": "Karen Khachanov",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "Stephane Robert",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:24:31",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "3"
+          ],
+          "name": "Marco Trungelliti",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "0"
+          ],
+          "name": "Yan Bai",
+          "country": "CN"
+        }
+      ],
+      "duration": "02:11:55",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Niels Desein",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Di Wu",
+          "country": "CN"
+        }
+      ],
+      "duration": "00:55:52",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Radek Stepanek",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Alejandro Gonzalez",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:12:28",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Ruben Bemelmans",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Jozef Kovalik",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:38:26",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Saketh Myneni",
+          "country": "IN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "8"
+          ],
+          "name": "Mirza Basic",
+          "country": "BA"
+        }
+      ],
+      "duration": "02:04:22",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "4"
+          ],
+          "name": "Adrian Menendez",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:43:12",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Taylor Harry Fritz",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "4"
+          ],
+          "name": "Mischa Zverev",
+          "country": "DE"
+        }
+      ],
+      "duration": "02:00:25",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Tim Smyczek",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "3"
+          ],
+          "name": "Kenny De Schepper",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:08:25",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Vincent Millot",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Renzo Olivo",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:24:57",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Dennis Novikov",
+          "country": "US"
+        }
+      ],
+      "duration": "02:00:43",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "7"
+          ],
+          "name": "Edouard Roger-Vasselin",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "9"
+          ],
+          "name": "Pierre-Hugues Herbert",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:00:57",
+      "round": "Round of 32",
+      "date": "2016-01-16"
+    }
+  ],
+  "players": [
+    "Adrian Menendez",
+    "Aldin Setkic",
+    "Alejandro Falla",
+    "Alejandro Gonzalez",
+    "Aleksandr Nedovyesov",
+    "Alessandro Giannessi",
+    "Alex Bolt",
+    "Alex De Minaur",
+    "Alexander Kudryavtsev",
+    "Amir Weintraub",
+    "Andre Ghem",
+    "Andrea Arnaboldi",
+    "Andrey Golubev",
+    "Ante Pavic",
+    "Aslan Karatsev",
+    "Bastian Trinker",
+    "Benjamin Mitchell",
+    "Bjorn Fratangelo",
+    "Blaz Rola",
+    "Bradley Mousley",
+    "Brydan Klein",
+    "Calvin Hemery",
+    "Connor Smith",
+    "Daniel Brands",
+    "Daniel Evans",
+    "Daniel Nguyen",
+    "Darian King",
+    "David Guez",
+    "Dennis Novak",
+    "Dennis Novikov",
+    "Denys Molchanov",
+    "Di Wu",
+    "Dmitry Popko",
+    "Duck-Hee Lee",
+    "Dustin Brown",
+    "Edouard Roger-Vasselin",
+    "Eduardo Struvay",
+    "Egor Gerasimov",
+    "Elias Ymer",
+    "Farrukh Dustov",
+    "Federico Gaio",
+    "Francis Tiafoe",
+    "Franco Skugor",
+    "Frank Dancevic",
+    "Gastao Elias",
+    "Gavin Van Peperzeel",
+    "Germain Gigounon",
+    "Gianluca Naso",
+    "Go Soeda",
+    "Grega Zemlja",
+    "Gregoire Barrere",
+    "Hans Podlipnik",
+    "Harry Bourchier",
+    "Henri Laaksonen",
+    "Hiroki Moriya",
+    "Igor Sijsling",
+    "James McGee",
+    "James Ward",
+    "Jan Mertl",
+    "Jan Satral",
+    "Jan-Lennard Struff",
+    "Jared Donaldson",
+    "John-Patrick Smith",
+    "Jordi Samper",
+    "Jose Pereira",
+    "Jozef Kovalik",
+    "Juergen Zopp",
+    "Karen Khachanov",
+    "Kenny De Schepper",
+    "Kimmer Coppejans",
+    "Konstantin Kravchuk",
+    "Laslo Djere",
+    "Lorenzo Giustino",
+    "Luca Vanni",
+    "Lukas Lacko",
+    "Luke Saville",
+    "Marc Polmans",
+    "Marco Chiudinelli",
+    "Marco Trungelliti",
+    "Marinko Matosevic",
+    "Marius Copil",
+    "Marsel Ilhan",
+    "Marton Fucsovics",
+    "Mathias Bourgue",
+    "Matteo Donati",
+    "Maxime Chazal",
+    "Maxime Janvier",
+    "Maximilian Marterer",
+    "Michael Berrer",
+    "Michael Linzer",
+    "Mirza Basic",
+    "Mischa Zverev",
+    "Mitchell Krueger",
+    "Niels Desein",
+    "Nils Langer",
+    "Norbert Gombos",
+    "Oliver Anderson",
+    "Oriol Roca",
+    "Pedja Krstin",
+    "Peter Gojowczyk",
+    "Peter Polansky",
+    "Pierre-Hugues Herbert",
+    "Radek Stepanek",
+    "Radu Albot",
+    "Ramkumar Ramanathan",
+    "Renzo Olivo",
+    "Roberto Marcora",
+    "Ruben Bemelmans",
+    "Ryan Harrison",
+    "Saketh Myneni",
+    "Salvatore Caruso",
+    "Somdev Devvarman",
+    "Stephane Robert",
+    "Tatsuma Ito",
+    "Taylor Harry Fritz",
+    "Tennys Sandgren",
+    "Thomas Fabbiano",
+    "Ti Chen",
+    "Tim Smyczek",
+    "Tristan Lamasine",
+    "Tsung-Hua Yang",
+    "Uladzimir Ignatik",
+    "Vincent Millot",
+    "Yan Bai",
+    "Yannick Mertens",
+    "Yasutaka Uchiyama",
+    "Yuichi Sugita",
+    "Zhe Li"
+  ]
+}

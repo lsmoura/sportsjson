@@ -1,0 +1,285 @@
+{
+  "name": "2015 Open GDF Suez De Limoges, Qualification WTA Challenger (Women's Singles)",
+  "country": "France",
+  "gender": "female",
+  "location": "Limoges",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Anna Blinkova",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "4"
+          ],
+          "name": "Nigina Abduraimova",
+          "country": "UZ"
+        }
+      ],
+      "duration": "02:10:21",
+      "round": "Round of 16",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "7"
+          ],
+          "name": "Ekaterina Alexandrova",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Chloe Paquet",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:07:24",
+      "round": "Round of 16",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Fiona Codino",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andrea Gamiz",
+          "country": "VE"
+        }
+      ],
+      "duration": "01:02:52",
+      "round": "Round of 16",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Georgina Garcia",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Myrtille Georges",
+          "country": "FR"
+        }
+      ],
+      "duration": "00:55:09",
+      "round": "Round of 16",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Katarzyna Piter",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Rebecca Sramkova",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:17:13",
+      "round": "Round of 16",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "7"
+          ],
+          "name": "Kateryna Kozlova",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "0",
+            "5"
+          ],
+          "name": "Oksana Kalashnikova",
+          "country": "GE"
+        }
+      ],
+      "duration": "01:43:03",
+      "round": "Round of 16",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Barbora Krejcikova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andrea Gamiz",
+          "country": "VE"
+        }
+      ],
+      "duration": "01:14:46",
+      "round": "Quarter-Final",
+      "date": "2015-11-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Katarzyna Piter",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Ekaterina Alexandrova",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:19:25",
+      "round": "Quarter-Final",
+      "date": "2015-11-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "Kateryna Kozlova",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "3"
+          ],
+          "name": "Myrtille Georges",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:41:45",
+      "round": "Quarter-Final",
+      "date": "2015-11-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "4"
+          ],
+          "name": "Mandy Minella",
+          "country": "LU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Anna Blinkova",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:54:36",
+      "round": "Quarter-Final",
+      "date": "2015-11-08"
+    }
+  ],
+  "players": [
+    "Andrea Gamiz",
+    "Anna Blinkova",
+    "Barbora Krejcikova",
+    "Chloe Paquet",
+    "Ekaterina Alexandrova",
+    "Fiona Codino",
+    "Georgina Garcia",
+    "Katarzyna Piter",
+    "Kateryna Kozlova",
+    "Mandy Minella",
+    "Myrtille Georges",
+    "Nigina Abduraimova",
+    "Oksana Kalashnikova",
+    "Rebecca Sramkova"
+  ]
+}

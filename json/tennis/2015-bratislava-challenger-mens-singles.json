@@ -1,0 +1,832 @@
+{
+  "name": "2015 Bratislava Challenger (Men's Singles)",
+  "country": "Slovakia",
+  "gender": "male",
+  "location": "Bratislava",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Amir Weintraub",
+          "country": "IL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Egor Gerasimov",
+          "country": "BY"
+        }
+      ],
+      "duration": "00:42:17",
+      "round": "Round of 32",
+      "date": "2015-11-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Jan-Lennard Struff",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Igor Sijsling",
+          "country": "NL"
+        }
+      ],
+      "duration": "00:59:17",
+      "round": "Round of 32",
+      "date": "2015-11-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marius Copil",
+          "country": "RO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Danylo Kalenichenko",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:09:03",
+      "round": "Round of 32",
+      "date": "2015-11-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4"
+          ],
+          "name": "Adam Pavlasek",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6"
+          ],
+          "name": "Andrey Rublev",
+          "country": "RU"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-11-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Aslan Karatsev",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Norbert Gombos",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:07:20",
+      "round": "Round of 32",
+      "date": "2015-11-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Farrukh Dustov",
+          "country": "UZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alexey Vatutin",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:21:29",
+      "round": "Round of 32",
+      "date": "2015-11-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Lukas Rosol",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Daniel Brands",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:34:04",
+      "round": "Round of 32",
+      "date": "2015-11-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2"
+          ],
+          "name": "Michal Przysiezny",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4"
+          ],
+          "name": "Edouard Roger-Vasselin",
+          "country": "FR"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-11-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Mikael Ymer",
+          "country": "SE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lukas Lacko",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:04:43",
+      "round": "Round of 32",
+      "date": "2015-11-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Uladzimir Ignatik",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "3"
+          ],
+          "name": "Alex Molcan",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:41:20",
+      "round": "Round of 32",
+      "date": "2015-11-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Aleksandr Nedovyesov",
+          "country": "KZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Artem Smirnov",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:26:25",
+      "round": "Round of 32",
+      "date": "2015-11-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Ante Pavic",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Illya Marchenko",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:23:53",
+      "round": "Round of 32",
+      "date": "2015-11-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Elias Ymer",
+          "country": "SE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Radek Stepanek",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:46:38",
+      "round": "Round of 32",
+      "date": "2015-11-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Jan-Lennard Struff",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marius Copil",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:01:59",
+      "round": "Round of 16",
+      "date": "2015-11-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "4"
+          ],
+          "name": "Jozef Kovalik",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Jan Satral",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:17:59",
+      "round": "Round of 32",
+      "date": "2015-11-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Lukas Rosol",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Egor Gerasimov",
+          "country": "BY"
+        }
+      ],
+      "duration": "01:20:46",
+      "round": "Round of 16",
+      "date": "2015-11-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Martin Blasko",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:00:00",
+      "round": "Round of 32",
+      "date": "2015-11-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "1"
+          ],
+          "name": "Altug Celikbilek",
+          "country": "TR"
+        }
+      ],
+      "duration": "00:57:44",
+      "round": "Round of 32",
+      "date": "2015-11-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "7"
+          ],
+          "name": "Alexey Vatutin",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Artem Smirnov",
+          "country": "UA"
+        }
+      ],
+      "duration": "02:20:10",
+      "round": "Round of 16",
+      "date": "2015-11-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "4"
+          ],
+          "name": "Andrey Rublev",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Lukas Lacko",
+          "country": "SK"
+        }
+      ],
+      "duration": "02:17:44",
+      "round": "Round of 16",
+      "date": "2015-11-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Jan Satral",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Illya Marchenko",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:09:15",
+      "round": "Round of 16",
+      "date": "2015-11-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Edouard Roger-Vasselin",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:35:56",
+      "round": "Round of 16",
+      "date": "2015-11-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Norbert Gombos",
+          "country": "SK"
+        }
+      ],
+      "duration": "00:58:10",
+      "round": "Round of 16",
+      "date": "2015-11-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Radek Stepanek",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Uladzimir Ignatik",
+          "country": "BY"
+        }
+      ],
+      "duration": "01:19:35",
+      "round": "Round of 16",
+      "date": "2015-11-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Alexey Vatutin",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lukas Lacko",
+          "country": "SK"
+        }
+      ],
+      "duration": "00:58:32",
+      "round": "Quarter-Final",
+      "date": "2015-11-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "7"
+          ],
+          "name": "Egor Gerasimov",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Norbert Gombos",
+          "country": "SK"
+        }
+      ],
+      "duration": "02:31:39",
+      "round": "Quarter-Final",
+      "date": "2015-11-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "5",
+            "6"
+          ],
+          "name": "Marius Copil",
+          "country": "RO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "3"
+          ],
+          "name": "Edouard Roger-Vasselin",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:03:03",
+      "round": "Quarter-Final",
+      "date": "2015-11-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "3"
+          ],
+          "name": "Radek Stepanek",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Illya Marchenko",
+          "country": "UA"
+        }
+      ],
+      "duration": "02:19:04",
+      "round": "Quarter-Final",
+      "date": "2015-11-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "2",
+            "6"
+          ],
+          "name": "Egor Gerasimov",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "2"
+          ],
+          "name": "Marius Copil",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:31:38",
+      "round": "Semi-Final",
+      "date": "2015-11-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "7"
+          ],
+          "name": "Lukas Lacko",
+          "country": "SK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Illya Marchenko",
+          "country": "UA"
+        }
+      ],
+      "duration": "02:28:17",
+      "round": "Semi-Final",
+      "date": "2015-11-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Egor Gerasimov",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lukas Lacko",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:25:25",
+      "round": "Championship",
+      "date": "2015-11-15"
+    }
+  ],
+  "players": [
+    "Adam Pavlasek",
+    "Aleksandr Nedovyesov",
+    "Alex Molcan",
+    "Alexey Vatutin",
+    "Altug Celikbilek",
+    "Amir Weintraub",
+    "Andrey Rublev",
+    "Ante Pavic",
+    "Artem Smirnov",
+    "Aslan Karatsev",
+    "Daniel Brands",
+    "Danylo Kalenichenko",
+    "Edouard Roger-Vasselin",
+    "Egor Gerasimov",
+    "Elias Ymer",
+    "Farrukh Dustov",
+    "Igor Sijsling",
+    "Illya Marchenko",
+    "Jan Satral",
+    "Jan-Lennard Struff",
+    "Jozef Kovalik",
+    "Lukas Lacko",
+    "Lukas Rosol",
+    "Marius Copil",
+    "Martin Blasko",
+    "Michal Przysiezny",
+    "Mikael Ymer",
+    "Mikhail Youzhny",
+    "Norbert Gombos",
+    "Peter Gojowczyk",
+    "Radek Stepanek",
+    "Uladzimir Ignatik"
+  ]
+}

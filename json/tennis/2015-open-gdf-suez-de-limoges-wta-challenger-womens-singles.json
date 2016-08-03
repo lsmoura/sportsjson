@@ -1,0 +1,840 @@
+{
+  "name": "2015 Open GDF Suez De Limoges WTA Challenger (Women's Singles)",
+  "country": "France",
+  "gender": "female",
+  "location": "Limoges",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "0"
+          ],
+          "name": "Amandine Hesse",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Donna Vekic",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:43:25",
+      "round": "Round of 32",
+      "date": "2015-11-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Anna Blinkova",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Anna-Lena Friedsam",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:44:20",
+      "round": "Round of 32",
+      "date": "2015-11-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Barbora Krejcikova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Kateryna Kozlova",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:33:04",
+      "round": "Round of 32",
+      "date": "2015-11-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Danka Kovinic",
+          "country": "ME"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Anastasija Sevastova",
+          "country": "LV"
+        }
+      ],
+      "duration": "01:07:57",
+      "round": "Round of 32",
+      "date": "2015-11-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Margarita Gasparyan",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Andrea Gamiz",
+          "country": "VE"
+        }
+      ],
+      "duration": "01:13:24",
+      "round": "Round of 32",
+      "date": "2015-11-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "7"
+          ],
+          "name": "Maryna Zanevska",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Silvia Soler",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:46:12",
+      "round": "Round of 32",
+      "date": "2015-11-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Tessah Andrianjafitrimo",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Carina Witthoeft",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:49:19",
+      "round": "Round of 32",
+      "date": "2015-11-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Alize Lim",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Katerina Siniakova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:57:14",
+      "round": "Round of 32",
+      "date": "2015-11-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Andreea Mitu",
+          "country": "RO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tamira Paszek",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:12:02",
+      "round": "Round of 32",
+      "date": "2015-11-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Kristyna Pliskova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Francesca Schiavone",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:29:03",
+      "round": "Round of 32",
+      "date": "2015-11-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Louisa Chirico",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "2"
+          ],
+          "name": "Annika Beck",
+          "country": "DE"
+        }
+      ],
+      "duration": "02:15:09",
+      "round": "Round of 32",
+      "date": "2015-11-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Oceane Dodin",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Richel Hogenkamp",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:33:33",
+      "round": "Round of 32",
+      "date": "2015-11-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Stefanie Voegele",
+          "country": "CH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mandy Minella",
+          "country": "LU"
+        }
+      ],
+      "duration": "01:12:07",
+      "round": "Round of 32",
+      "date": "2015-11-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "7"
+          ],
+          "name": "Caroline Garcia",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "5"
+          ],
+          "name": "Ekaterina Alexandrova",
+          "country": "RU"
+        }
+      ],
+      "duration": "02:06:28",
+      "round": "Round of 32",
+      "date": "2015-11-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "0"
+          ],
+          "name": "Danka Kovinic",
+          "country": "ME"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kateryna Kozlova",
+          "country": "UA"
+        }
+      ],
+      "duration": "00:46:22",
+      "round": "Round of 16",
+      "date": "2015-11-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Donna Vekic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "1"
+          ],
+          "name": "Carina Witthoeft",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:35:24",
+      "round": "Round of 16",
+      "date": "2015-11-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Elina Svitolina",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "7"
+          ],
+          "name": "Pauline Parmentier",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:32:43",
+      "round": "Round of 32",
+      "date": "2015-11-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Julie Coin",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Mathilde Johansson",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:56:34",
+      "round": "Round of 32",
+      "date": "2015-11-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Margarita Gasparyan",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Maryna Zanevska",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:21:10",
+      "round": "Round of 16",
+      "date": "2015-11-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Caroline Garcia",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Richel Hogenkamp",
+          "country": "NL"
+        }
+      ],
+      "duration": "00:47:29",
+      "round": "Round of 16",
+      "date": "2015-11-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Francesca Schiavone",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Mandy Minella",
+          "country": "LU"
+        }
+      ],
+      "duration": "01:04:37",
+      "round": "Round of 16",
+      "date": "2015-11-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "1"
+          ],
+          "name": "Mathilde Johansson",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Louisa Chirico",
+          "country": "US"
+        }
+      ],
+      "duration": "01:24:42",
+      "round": "Round of 16",
+      "date": "2015-11-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Pauline Parmentier",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Katerina Siniakova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:04:56",
+      "round": "Round of 16",
+      "date": "2015-11-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Tamira Paszek",
+          "country": "AT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Anna-Lena Friedsam",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:38:17",
+      "round": "Round of 16",
+      "date": "2015-11-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Caroline Garcia",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "1"
+          ],
+          "name": "Donna Vekic",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:21:24",
+      "round": "Quarter-Final",
+      "date": "2015-11-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "2",
+            "6"
+          ],
+          "name": "Katerina Siniakova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "3"
+          ],
+          "name": "Anna-Lena Friedsam",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:54:21",
+      "round": "Quarter-Final",
+      "date": "2015-11-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Kateryna Kozlova",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Louisa Chirico",
+          "country": "US"
+        }
+      ],
+      "duration": "01:33:12",
+      "round": "Quarter-Final",
+      "date": "2015-11-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6"
+          ],
+          "name": "Margarita Gasparyan",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7"
+          ],
+          "name": "Francesca Schiavone",
+          "country": "IT"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Quarter-Final",
+      "date": "2015-11-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "3"
+          ],
+          "name": "Katerina Siniakova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Caroline Garcia",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:54:25",
+      "round": "Semi-Final",
+      "date": "2015-11-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Louisa Chirico",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Francesca Schiavone",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:46:22",
+      "round": "Semi-Final",
+      "date": "2015-11-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Caroline Garcia",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Louisa Chirico",
+          "country": "US"
+        }
+      ],
+      "duration": "01:04:50",
+      "round": "Championship",
+      "date": "2015-11-15"
+    }
+  ],
+  "players": [
+    "Alize Lim",
+    "Amandine Hesse",
+    "Anastasija Sevastova",
+    "Andrea Gamiz",
+    "Andreea Mitu",
+    "Anna Blinkova",
+    "Anna-Lena Friedsam",
+    "Annika Beck",
+    "Barbora Krejcikova",
+    "Carina Witthoeft",
+    "Caroline Garcia",
+    "Danka Kovinic",
+    "Donna Vekic",
+    "Ekaterina Alexandrova",
+    "Elina Svitolina",
+    "Francesca Schiavone",
+    "Julie Coin",
+    "Katerina Siniakova",
+    "Kateryna Kozlova",
+    "Kristyna Pliskova",
+    "Louisa Chirico",
+    "Mandy Minella",
+    "Margarita Gasparyan",
+    "Maryna Zanevska",
+    "Mathilde Johansson",
+    "Oceane Dodin",
+    "Pauline Parmentier",
+    "Richel Hogenkamp",
+    "Silvia Soler",
+    "Stefanie Voegele",
+    "Tamira Paszek",
+    "Tessah Andrianjafitrimo"
+  ]
+}

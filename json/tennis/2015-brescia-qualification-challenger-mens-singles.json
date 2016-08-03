@@ -1,0 +1,651 @@
+{
+  "name": "2015 Brescia, Qualification Challenger (Men's Singles)",
+  "country": "Italy",
+  "gender": "male",
+  "location": "Brescia",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Andrea Agazzi",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andrea Pellegrino",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:15:50",
+      "round": "Round of 32",
+      "date": "2015-11-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "2"
+          ],
+          "name": "Dragos Dima",
+          "country": "RO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Kevin Krawietz",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:44:01",
+      "round": "Round of 32",
+      "date": "2015-11-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Enrico Dalla Valle",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Yann Marti",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:05:38",
+      "round": "Round of 32",
+      "date": "2015-11-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Enrico Gozzini",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pascal Meis",
+          "country": "DE"
+        }
+      ],
+      "duration": "00:38:16",
+      "round": "Round of 32",
+      "date": "2015-11-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Gianluca Di Nicola",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Luca Giacomini",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:48:27",
+      "round": "Round of 32",
+      "date": "2015-11-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Goncalo Oliveira",
+          "country": "PT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "1"
+          ],
+          "name": "Enrico Becuzzi",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:37:13",
+      "round": "Round of 32",
+      "date": "2015-11-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Julian Ocleppo",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ljubomir Celebic",
+          "country": "ME"
+        }
+      ],
+      "duration": "00:58:05",
+      "round": "Round of 32",
+      "date": "2015-11-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Martin Beran",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marco Chiudinelli",
+          "country": "CH"
+        }
+      ],
+      "duration": "00:57:25",
+      "round": "Round of 32",
+      "date": "2015-11-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mikael Ymer",
+          "country": "SE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Cristobal Grandon",
+          "country": "CL"
+        }
+      ],
+      "duration": "00:38:27",
+      "round": "Round of 32",
+      "date": "2015-11-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Peter Torebko",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Francesco Borgo",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:20:10",
+      "round": "Round of 32",
+      "date": "2015-11-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Viktor Galovic",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Luca Mainetti",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:51:44",
+      "round": "Round of 32",
+      "date": "2015-11-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Yannick Hanfmann",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "7"
+          ],
+          "name": "Tom Kocevar-Desman",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:33:52",
+      "round": "Round of 32",
+      "date": "2015-11-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Dimitar Kuzmanov",
+          "country": "BG"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Gianluca Di Nicola",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:56:55",
+      "round": "Round of 16",
+      "date": "2015-11-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Dimitar Kuzmanov",
+          "country": "BG"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Kevin Krawietz",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:14:24",
+      "round": "Quarter-Final",
+      "date": "2015-11-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Elias Ymer",
+          "country": "SE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Mikael Ymer",
+          "country": "SE"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2015-11-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Elias Ymer",
+          "country": "SE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "6"
+          ],
+          "name": "Marco Chiudinelli",
+          "country": "CH"
+        }
+      ],
+      "duration": "02:03:26",
+      "round": "Quarter-Final",
+      "date": "2015-11-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Francesco Borgo",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marco Chiudinelli",
+          "country": "CH"
+        }
+      ],
+      "duration": "00:46:43",
+      "round": "Round of 16",
+      "date": "2015-11-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Ljubomir Celebic",
+          "country": "ME"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "7"
+          ],
+          "name": "Kevin Krawietz",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:58:27",
+      "round": "Round of 16",
+      "date": "2015-11-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Matteo Viola",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Viktor Galovic",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:09:20",
+      "round": "Quarter-Final",
+      "date": "2015-11-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Matteo Viola",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Andrea Pellegrino",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:38:33",
+      "round": "Round of 16",
+      "date": "2015-11-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Pascal Meis",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yann Marti",
+          "country": "CH"
+        }
+      ],
+      "duration": "00:48:07",
+      "round": "Round of 16",
+      "date": "2015-11-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "7"
+          ],
+          "name": "Roberto Marcora",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Goncalo Oliveira",
+          "country": "PT"
+        }
+      ],
+      "duration": "02:19:16",
+      "round": "Round of 16",
+      "date": "2015-11-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Roberto Marcora",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Yann Marti",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:14:59",
+      "round": "Quarter-Final",
+      "date": "2015-11-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Viktor Galovic",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Tom Kocevar-Desman",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:06:09",
+      "round": "Round of 16",
+      "date": "2015-11-15"
+    }
+  ],
+  "players": [
+    "Andrea Agazzi",
+    "Andrea Pellegrino",
+    "Cristobal Grandon",
+    "Dimitar Kuzmanov",
+    "Dragos Dima",
+    "Elias Ymer",
+    "Enrico Becuzzi",
+    "Enrico Dalla Valle",
+    "Enrico Gozzini",
+    "Francesco Borgo",
+    "Gianluca Di Nicola",
+    "Goncalo Oliveira",
+    "Julian Ocleppo",
+    "Kevin Krawietz",
+    "Ljubomir Celebic",
+    "Luca Giacomini",
+    "Luca Mainetti",
+    "Marco Chiudinelli",
+    "Martin Beran",
+    "Matteo Viola",
+    "Mikael Ymer",
+    "Pascal Meis",
+    "Peter Torebko",
+    "Roberto Marcora",
+    "Tom Kocevar-Desman",
+    "Viktor Galovic",
+    "Yann Marti",
+    "Yannick Hanfmann"
+  ]
+}

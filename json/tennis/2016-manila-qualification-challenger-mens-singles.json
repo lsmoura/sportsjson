@@ -1,0 +1,759 @@
+{
+  "name": "2016 Manila, Qualification Challenger (Men's Singles)",
+  "country": "Philippines",
+  "gender": "male",
+  "location": "Manila",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "1"
+          ],
+          "name": "Alexander Vasilenko",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "6"
+          ],
+          "name": "N. Vijay Sundar Prashanth",
+          "country": "IN"
+        }
+      ],
+      "duration": "02:05:38",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Chu-Huan Yi",
+          "country": "TW"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "3"
+          ],
+          "name": "Patrick Tierro",
+          "country": "PH"
+        }
+      ],
+      "duration": "01:43:50",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Diego Garcia Dalisay",
+          "country": "PH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Fritz Chris Verdad"
+        }
+      ],
+      "duration": "01:07:25",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "7"
+          ],
+          "name": "Dino Marcan",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Dmytro Badanov",
+          "country": "UA"
+        }
+      ],
+      "duration": "00:00:17",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Gerard Granollers",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Maximilian Neuchrist",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:34:13",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Kento Takeuchi",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jimmy Wang",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:01:24",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Leander Lazaro"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ruan Roelofse",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:47:20",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Sanam Singh",
+          "country": "IN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "3"
+          ],
+          "name": "Benjamin Balleret",
+          "country": "MC"
+        }
+      ],
+      "duration": "01:32:39",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Stefano Napolitano",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Nikola Mektic",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:54:37",
+      "round": "Round of 32",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Antonio Sancic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Toshihide Matsui",
+          "country": "JP"
+        }
+      ],
+      "duration": "00:52:07",
+      "round": "Round of 32",
+      "date": "2016-01-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Cheong-Eui Kim",
+          "country": "KR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Liam Broady",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:06:52",
+      "round": "Round of 32",
+      "date": "2016-01-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Gerard Granollers",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Dino Marcan",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:18:46",
+      "round": "Round of 16",
+      "date": "2016-01-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Kamil Majchrzak",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Evgeny Elistratov",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:16:05",
+      "round": "Round of 32",
+      "date": "2016-01-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Mark Vervoort",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Robin Stanek",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:06:59",
+      "round": "Round of 32",
+      "date": "2016-01-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Mico Santiago",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Grzegorz Panfil",
+          "country": "PL"
+        }
+      ],
+      "duration": "01:13:48",
+      "round": "Round of 32",
+      "date": "2016-01-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Ruan Roelofse",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jimmy Wang",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:02:00",
+      "round": "Round of 16",
+      "date": "2016-01-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Sanam Singh",
+          "country": "IN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Chu-Huan Yi",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:20:29",
+      "round": "Round of 16",
+      "date": "2016-01-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Tucker Vorster",
+          "country": "ZA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Frederik Loechte Nielsen",
+          "country": "DK"
+        }
+      ],
+      "duration": "04:25:05",
+      "round": "Round of 32",
+      "date": "2016-01-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Xiao Gong",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Filip Peliwo",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:04:41",
+      "round": "Round of 32",
+      "date": "2016-01-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Chu-Huan Yi",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Nikola Mektic",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:40:33",
+      "round": "Quarter-Final",
+      "date": "2016-01-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Diego Garcia Dalisay",
+          "country": "PH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nikola Mektic",
+          "country": "HR"
+        }
+      ],
+      "duration": "00:49:07",
+      "round": "Round of 16",
+      "date": "2016-01-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Dino Marcan",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jimmy Wang",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:04:10",
+      "round": "Quarter-Final",
+      "date": "2016-01-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "3"
+          ],
+          "name": "Filip Peliwo",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Cheong-Eui Kim",
+          "country": "KR"
+        }
+      ],
+      "duration": "01:49:00",
+      "round": "Round of 16",
+      "date": "2016-01-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Frederik Loechte Nielsen",
+          "country": "DK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Antonio Sancic",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:21:19",
+      "round": "Round of 16",
+      "date": "2016-01-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Frederik Loechte Nielsen",
+          "country": "DK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Grzegorz Panfil",
+          "country": "PL"
+        }
+      ],
+      "duration": "01:21:23",
+      "round": "Quarter-Final",
+      "date": "2016-01-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Grzegorz Panfil",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Robin Stanek",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:42:50",
+      "round": "Round of 16",
+      "date": "2016-01-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "3"
+          ],
+          "name": "Kamil Majchrzak",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "N. Vijay Sundar Prashanth",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:58:15",
+      "round": "Round of 16",
+      "date": "2016-01-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "5",
+            "6"
+          ],
+          "name": "N. Vijay Sundar Prashanth",
+          "country": "IN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "3"
+          ],
+          "name": "Cheong-Eui Kim",
+          "country": "KR"
+        }
+      ],
+      "duration": "02:22:02",
+      "round": "Quarter-Final",
+      "date": "2016-01-18"
+    }
+  ],
+  "players": [
+    "Alexander Vasilenko",
+    "Antonio Sancic",
+    "Benjamin Balleret",
+    "Cheong-Eui Kim",
+    "Chu-Huan Yi",
+    "Diego Garcia Dalisay",
+    "Dino Marcan",
+    "Dmytro Badanov",
+    "Evgeny Elistratov",
+    "Filip Peliwo",
+    "Frederik Loechte Nielsen",
+    "Fritz Chris Verdad",
+    "Gerard Granollers",
+    "Grzegorz Panfil",
+    "Jimmy Wang",
+    "Kamil Majchrzak",
+    "Kento Takeuchi",
+    "Leander Lazaro",
+    "Liam Broady",
+    "Mark Vervoort",
+    "Maximilian Neuchrist",
+    "Mico Santiago",
+    "N. Vijay Sundar Prashanth",
+    "Nikola Mektic",
+    "Patrick Tierro",
+    "Robin Stanek",
+    "Ruan Roelofse",
+    "Sanam Singh",
+    "Stefano Napolitano",
+    "Toshihide Matsui",
+    "Tucker Vorster",
+    "Xiao Gong"
+  ]
+}

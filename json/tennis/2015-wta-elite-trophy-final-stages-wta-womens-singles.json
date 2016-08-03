@@ -1,0 +1,90 @@
+{
+  "name": "2015 WTA Elite Trophy Final stages WTA (Women's Singles)",
+  "country": "China",
+  "gender": "female",
+  "location": "Zhuhai",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Karolina Pliskova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Elina Svitolina",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:01:17",
+      "round": "Semi-Final",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Venus Williams",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Roberta Vinci",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:05:36",
+      "round": "Semi-Final",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Venus Williams",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6"
+          ],
+          "name": "Karolina Pliskova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:03:05",
+      "round": "Championship",
+      "date": "2015-11-08"
+    }
+  ],
+  "players": [
+    "Elina Svitolina",
+    "Karolina Pliskova",
+    "Roberta Vinci",
+    "Venus Williams"
+  ]
+}

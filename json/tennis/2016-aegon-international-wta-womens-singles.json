@@ -675,31 +675,6 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Lesia Tsurenko",
-          "country": "UA"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "1",
-            "6"
-          ],
-          "name": "Shuai Zhang",
-          "country": "CN"
-        }
-      ],
-      "duration": "01:17:48",
-      "round": "Round of 64",
-      "date": "2016-06-21"
-    },
-    {
-      "players": [
-        {
           "is_winner": false,
           "set_games": [
             "6",
@@ -720,6 +695,31 @@
       ],
       "duration": "01:48:54",
       "round": "Round of 32",
+      "date": "2016-06-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Lesia Tsurenko",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Shuai Zhang",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:17:48",
+      "round": "Round of 64",
       "date": "2016-06-21"
     },
     {
@@ -1211,5 +1211,55 @@
       "round": "Championship",
       "date": "2016-06-25"
     }
+  ],
+  "players": [
+    "Agnieszka Radwanska",
+    "Alison van Uytvanck",
+    "Alize Cornet",
+    "Ana Konjuh",
+    "Anastasia Pavlyuchenkova",
+    "Andrea Petkovic",
+    "Anett Kontaveit",
+    "Anna Schmiedlova",
+    "Anna-Lena Friedsam",
+    "Belinda Bencic",
+    "Camila Giorgi",
+    "Carla Suarez Navarro",
+    "Caroline Wozniacki",
+    "Daria Gavrilova",
+    "Daria Kasatkina",
+    "Denisa Allertova",
+    "Dominika Cibulkova",
+    "Ekaterina Makarova",
+    "Elena Vesnina",
+    "Eugenie Bouchard",
+    "Heather Watson",
+    "Irina Camelia Begu",
+    "Jelena Ostapenko",
+    "Johanna Konta",
+    "Karolina Pliskova",
+    "Kateryna Bondarenko",
+    "Kristina Mladenovic",
+    "Lesia Tsurenko",
+    "Lucie Safarova",
+    "Madison Brengle",
+    "Mirjana Lucic-Baroni",
+    "Misaki Doi",
+    "Monica Puig",
+    "Naomi Broady",
+    "Petra Kvitova",
+    "Polona Hercog",
+    "Roberta Vinci",
+    "Saisai Zheng",
+    "Samantha Stosur",
+    "Sara Errani",
+    "Shuai Zhang",
+    "Svetlana Kuznetsova",
+    "Tara Moore",
+    "Timea Babos",
+    "Timea Bacsinszky",
+    "Varvara Lepchenko",
+    "Yanina Wickmayer",
+    "Yulia Putintseva"
   ]
 }

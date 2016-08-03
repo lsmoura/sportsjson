@@ -1,0 +1,834 @@
+{
+  "name": "2015 Taipei WTA Challenger (Women's Singles)",
+  "country": "Taiwan",
+  "gender": "female",
+  "location": "Taipei",
+  "surface": "Carpet",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Ankita Raina",
+          "country": "IN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Chang Liu",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:43:28",
+      "round": "Round of 32",
+      "date": "2015-11-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Evgeniya Rodina",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Jiajing Lu",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:17:11",
+      "round": "Round of 32",
+      "date": "2015-11-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "2"
+          ],
+          "name": "Kotomi Takahata",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Yafan Wang",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:32:35",
+      "round": "Round of 32",
+      "date": "2015-11-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Ling Zhang",
+          "country": "HK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "7",
+            "2"
+          ],
+          "name": "Chieh-Yu Hsu",
+          "country": "US"
+        }
+      ],
+      "duration": "02:08:24",
+      "round": "Round of 32",
+      "date": "2015-11-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Luksika Kumkhum",
+          "country": "TH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "2"
+          ],
+          "name": "Ching-Wen Hsu",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:39:49",
+      "round": "Round of 32",
+      "date": "2015-11-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yuxuan Zhang",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Junri Namigata",
+          "country": "JP"
+        }
+      ],
+      "duration": "00:55:49",
+      "round": "Round of 32",
+      "date": "2015-11-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Chin-Wei Chan",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kailin Zhang",
+          "country": "CN"
+        }
+      ],
+      "duration": "00:50:18",
+      "round": "Round of 32",
+      "date": "2015-11-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Elise Mertens",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Xinyun Han",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:35:40",
+      "round": "Round of 32",
+      "date": "2015-11-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "1",
+            "6"
+          ],
+          "name": "Kimiko Date Krumm",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "3"
+          ],
+          "name": "Patricia Maria Tig",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:55:04",
+      "round": "Round of 32",
+      "date": "2015-11-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kirsten Flipkens",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "I-Hsuan Cho",
+          "country": "TW"
+        }
+      ],
+      "duration": "00:59:22",
+      "round": "Round of 32",
+      "date": "2015-11-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Misaki Doi",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Risa Ozaki",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:30:43",
+      "round": "Round of 32",
+      "date": "2015-11-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Nicha Lertpitaksinchai",
+          "country": "TH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Maria Sakkari",
+          "country": "GR"
+        }
+      ],
+      "duration": "01:29:38",
+      "round": "Round of 32",
+      "date": "2015-11-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Stefanie Voegele",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Ya-Hsuan Lee",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:33:37",
+      "round": "Round of 32",
+      "date": "2015-11-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Tena Lukas",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Timea Babos",
+          "country": "HU"
+        }
+      ],
+      "duration": "01:15:10",
+      "round": "Round of 32",
+      "date": "2015-11-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Elise Mertens",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Timea Babos",
+          "country": "HU"
+        }
+      ],
+      "duration": "01:06:53",
+      "round": "Round of 16",
+      "date": "2015-11-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "0"
+          ],
+          "name": "Hiroko Kuwata",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Amandine Hesse",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:01:04",
+      "round": "Round of 32",
+      "date": "2015-11-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kirsten Flipkens",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Kailin Zhang",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:15:30",
+      "round": "Round of 16",
+      "date": "2015-11-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "4"
+          ],
+          "name": "Marina Melnikova",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yaroslava Shvedova",
+          "country": "KZ"
+        }
+      ],
+      "duration": "01:14:25",
+      "round": "Round of 32",
+      "date": "2015-11-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "2"
+          ],
+          "name": "Amandine Hesse",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Yaroslava Shvedova",
+          "country": "KZ"
+        }
+      ],
+      "duration": "01:57:15",
+      "round": "Round of 16",
+      "date": "2015-11-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Chang Liu",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Kimiko Date Krumm",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:37:11",
+      "round": "Round of 16",
+      "date": "2015-11-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Evgeniya Rodina",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Yuxuan Zhang",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:14:03",
+      "round": "Round of 16",
+      "date": "2015-11-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Luksika Kumkhum",
+          "country": "TH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "1"
+          ],
+          "name": "Yafan Wang",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:32:24",
+      "round": "Round of 16",
+      "date": "2015-11-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Misaki Doi",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Ling Zhang",
+          "country": "HK"
+        }
+      ],
+      "duration": "01:13:58",
+      "round": "Round of 16",
+      "date": "2015-11-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Stefanie Voegele",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Maria Sakkari",
+          "country": "GR"
+        }
+      ],
+      "duration": "01:00:44",
+      "round": "Round of 16",
+      "date": "2015-11-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Evgeniya Rodina",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "4"
+          ],
+          "name": "Chang Liu",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:51:16",
+      "round": "Quarter-Final",
+      "date": "2015-11-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Kirsten Flipkens",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Yaroslava Shvedova",
+          "country": "KZ"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Quarter-Final",
+      "date": "2015-11-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Misaki Doi",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Luksika Kumkhum",
+          "country": "TH"
+        }
+      ],
+      "duration": "01:09:04",
+      "round": "Quarter-Final",
+      "date": "2015-11-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Stefanie Voegele",
+          "country": "CH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Timea Babos",
+          "country": "HU"
+        }
+      ],
+      "duration": "01:11:37",
+      "round": "Quarter-Final",
+      "date": "2015-11-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Misaki Doi",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Evgeniya Rodina",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:14:25",
+      "round": "Semi-Final",
+      "date": "2015-11-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Timea Babos",
+          "country": "HU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Kirsten Flipkens",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:32:17",
+      "round": "Semi-Final",
+      "date": "2015-11-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Misaki Doi",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Timea Babos",
+          "country": "HU"
+        }
+      ],
+      "duration": "01:17:08",
+      "round": "Championship",
+      "date": "2015-11-22"
+    }
+  ],
+  "players": [
+    "Amandine Hesse",
+    "Ankita Raina",
+    "Chang Liu",
+    "Chieh-Yu Hsu",
+    "Chin-Wei Chan",
+    "Ching-Wen Hsu",
+    "Elise Mertens",
+    "Evgeniya Rodina",
+    "Hiroko Kuwata",
+    "I-Hsuan Cho",
+    "Jiajing Lu",
+    "Junri Namigata",
+    "Kailin Zhang",
+    "Kimiko Date Krumm",
+    "Kirsten Flipkens",
+    "Kotomi Takahata",
+    "Ling Zhang",
+    "Luksika Kumkhum",
+    "Maria Sakkari",
+    "Marina Melnikova",
+    "Misaki Doi",
+    "Nicha Lertpitaksinchai",
+    "Patricia Maria Tig",
+    "Risa Ozaki",
+    "Stefanie Voegele",
+    "Tena Lukas",
+    "Timea Babos",
+    "Xinyun Han",
+    "Ya-Hsuan Lee",
+    "Yafan Wang",
+    "Yaroslava Shvedova",
+    "Yuxuan Zhang"
+  ]
+}

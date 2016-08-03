@@ -1,0 +1,836 @@
+{
+  "name": "2015 Carlsbad WTA Challenger (Women's Singles)",
+  "country": "United States",
+  "gender": "female",
+  "location": "Carlsbad",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "1"
+          ],
+          "name": "Alexandra Stevenson",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Bojana Jovanovski",
+          "country": "RS"
+        }
+      ],
+      "duration": "02:11:17",
+      "round": "Round of 32",
+      "date": "2015-11-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Amra Sadikovic",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Rebecca Peterson",
+          "country": "SE"
+        }
+      ],
+      "duration": "01:23:48",
+      "round": "Round of 32",
+      "date": "2015-11-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "1"
+          ],
+          "name": "Danielle Lao",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Jennifer Brady",
+          "country": "US"
+        }
+      ],
+      "duration": "01:25:22",
+      "round": "Round of 32",
+      "date": "2015-11-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Katerina Stewart",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Paula Cristina Goncalves",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:40:33",
+      "round": "Round of 32",
+      "date": "2015-11-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Naomi Broady",
+          "country": "GB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Jovana Jaksic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:24:12",
+      "round": "Round of 32",
+      "date": "2015-11-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Nicole Gibbs",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Alla Kudryavtseva",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:19:35",
+      "round": "Round of 32",
+      "date": "2015-11-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Samantha Crawford",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Grace Min",
+          "country": "US"
+        }
+      ],
+      "duration": "00:59:13",
+      "round": "Round of 32",
+      "date": "2015-11-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Catherine Bellis",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Julia Glushko",
+          "country": "IL"
+        }
+      ],
+      "duration": "01:18:53",
+      "round": "Round of 32",
+      "date": "2015-11-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Kristie Ahn",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "4"
+          ],
+          "name": "Dalila Jakupovic",
+          "country": "SI"
+        }
+      ],
+      "duration": "02:20:38",
+      "round": "Round of 32",
+      "date": "2015-11-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Maria Sakkari",
+          "country": "GR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "0"
+          ],
+          "name": "Brett Berger",
+          "country": "US"
+        }
+      ],
+      "duration": "00:36:46",
+      "round": "Round of 32",
+      "date": "2015-11-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Nicole Mossmer",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tatjana Maria",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:07:20",
+      "round": "Round of 32",
+      "date": "2015-11-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Sachia Vickery",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Elitsa Kostova",
+          "country": "BG"
+        }
+      ],
+      "duration": "01:28:44",
+      "round": "Round of 32",
+      "date": "2015-11-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Veronica Cepede",
+          "country": "PY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Gabriela Ce",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:15:45",
+      "round": "Round of 32",
+      "date": "2015-11-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Yanina Wickmayer",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Julia Boserup",
+          "country": "US"
+        }
+      ],
+      "duration": "01:32:29",
+      "round": "Round of 32",
+      "date": "2015-11-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Zoe Gwen Scandalis",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Francoise Abanda",
+          "country": "CA"
+        }
+      ],
+      "duration": "00:51:59",
+      "round": "Round of 32",
+      "date": "2015-11-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Francoise Abanda",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tatjana Maria",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:14:42",
+      "round": "Round of 16",
+      "date": "2015-11-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Maria Sakkari",
+          "country": "GR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "3"
+          ],
+          "name": "Amra Sadikovic",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:54:20",
+      "round": "Round of 16",
+      "date": "2015-11-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marina Melnikova",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Sharon Fichman",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:34:57",
+      "round": "Round of 32",
+      "date": "2015-11-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Naomi Broady",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Samantha Crawford",
+          "country": "US"
+        }
+      ],
+      "duration": "02:08:45",
+      "round": "Round of 16",
+      "date": "2015-11-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nicole Gibbs",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Veronica Cepede",
+          "country": "PY"
+        }
+      ],
+      "duration": "01:09:01",
+      "round": "Round of 16",
+      "date": "2015-11-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "4"
+          ],
+          "name": "Elitsa Kostova",
+          "country": "BG"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Jennifer Brady",
+          "country": "US"
+        }
+      ],
+      "duration": "02:26:30",
+      "round": "Round of 16",
+      "date": "2015-11-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "4"
+          ],
+          "name": "Katerina Stewart",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Catherine Bellis",
+          "country": "US"
+        }
+      ],
+      "duration": "02:22:54",
+      "round": "Round of 16",
+      "date": "2015-11-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Marina Melnikova",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "4"
+          ],
+          "name": "Bojana Jovanovski",
+          "country": "RS"
+        }
+      ],
+      "duration": "02:32:42",
+      "round": "Round of 16",
+      "date": "2015-11-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Yanina Wickmayer",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Kristie Ahn",
+          "country": "US"
+        }
+      ],
+      "duration": "01:35:32",
+      "round": "Round of 16",
+      "date": "2015-11-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Jennifer Brady",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Marina Melnikova",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:31:31",
+      "round": "Quarter-Final",
+      "date": "2015-11-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Nicole Gibbs",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "1"
+          ],
+          "name": "Tatjana Maria",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:29:30",
+      "round": "Quarter-Final",
+      "date": "2015-11-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "7",
+            "2"
+          ],
+          "name": "Samantha Crawford",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Maria Sakkari",
+          "country": "GR"
+        }
+      ],
+      "duration": "01:51:46",
+      "round": "Quarter-Final",
+      "date": "2015-11-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yanina Wickmayer",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Catherine Bellis",
+          "country": "US"
+        }
+      ],
+      "duration": "01:05:10",
+      "round": "Quarter-Final",
+      "date": "2015-11-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "4"
+          ],
+          "name": "Jennifer Brady",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nicole Gibbs",
+          "country": "US"
+        }
+      ],
+      "duration": "01:08:30",
+      "round": "Semi-Final",
+      "date": "2015-11-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yanina Wickmayer",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Maria Sakkari",
+          "country": "GR"
+        }
+      ],
+      "duration": "01:24:13",
+      "round": "Semi-Final",
+      "date": "2015-11-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Yanina Wickmayer",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Nicole Gibbs",
+          "country": "US"
+        }
+      ],
+      "duration": "01:35:10",
+      "round": "Championship",
+      "date": "2015-11-29"
+    }
+  ],
+  "players": [
+    "Alexandra Stevenson",
+    "Alla Kudryavtseva",
+    "Amra Sadikovic",
+    "Bojana Jovanovski",
+    "Brett Berger",
+    "Catherine Bellis",
+    "Dalila Jakupovic",
+    "Danielle Lao",
+    "Elitsa Kostova",
+    "Francoise Abanda",
+    "Gabriela Ce",
+    "Grace Min",
+    "Jennifer Brady",
+    "Jovana Jaksic",
+    "Julia Boserup",
+    "Julia Glushko",
+    "Katerina Stewart",
+    "Kristie Ahn",
+    "Maria Sakkari",
+    "Marina Melnikova",
+    "Naomi Broady",
+    "Nicole Gibbs",
+    "Nicole Mossmer",
+    "Paula Cristina Goncalves",
+    "Rebecca Peterson",
+    "Sachia Vickery",
+    "Samantha Crawford",
+    "Sharon Fichman",
+    "Tatjana Maria",
+    "Veronica Cepede",
+    "Yanina Wickmayer",
+    "Zoe Gwen Scandalis"
+  ]
+}

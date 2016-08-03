@@ -1,0 +1,121 @@
+{
+  "name": "2016 Noumea, Qualification Challenger (Men's Singles)",
+  "country": "New Caledonia",
+  "gender": "male",
+  "location": "Noumea",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "2"
+          ],
+          "name": "Loic Perret",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Florian Reynet",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:48:32",
+      "round": "Quarter-Final",
+      "date": "2016-01-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Maximilian Marterer",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Romain Bousquet",
+          "country": "FR"
+        }
+      ],
+      "duration": "00:48:24",
+      "round": "Quarter-Final",
+      "date": "2016-01-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Isaac Frost",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Leon Frost",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:59:07",
+      "round": "Quarter-Final",
+      "date": "2016-01-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Stefano Napolitano",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Enrico Becuzzi",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:48:18",
+      "round": "Quarter-Final",
+      "date": "2016-01-02"
+    }
+  ],
+  "players": [
+    "Enrico Becuzzi",
+    "Florian Reynet",
+    "Isaac Frost",
+    "Leon Frost",
+    "Loic Perret",
+    "Maximilian Marterer",
+    "Romain Bousquet",
+    "Stefano Napolitano"
+  ]
+}

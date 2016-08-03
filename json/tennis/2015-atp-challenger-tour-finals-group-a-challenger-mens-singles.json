@@ -1,0 +1,171 @@
+{
+  "name": "2015 ATP Challenger Tour Finals Group A Challenger (Men's Singles)",
+  "country": "Brazil",
+  "gender": "male",
+  "location": "Sao Paulo",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "5"
+          ],
+          "name": "Daniel Munoz",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "7"
+          ],
+          "name": "Inigo Cervantes",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:29:08",
+      "round": "Quarter-Final",
+      "date": "2015-11-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Farrukh Dustov",
+          "country": "UZ"
+        }
+      ],
+      "duration": "02:22:40",
+      "round": "Quarter-Final",
+      "date": "2015-11-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Daniel Munoz",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Farrukh Dustov",
+          "country": "UZ"
+        }
+      ],
+      "duration": "01:22:26",
+      "round": "Quarter-Final",
+      "date": "2015-11-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Inigo Cervantes",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:36:05",
+      "round": "Quarter-Final",
+      "date": "2015-11-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Inigo Cervantes",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Farrukh Dustov",
+          "country": "UZ"
+        }
+      ],
+      "duration": "01:18:02",
+      "round": "Quarter-Final",
+      "date": "2015-11-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Daniel Munoz",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:16:18",
+      "round": "Quarter-Final",
+      "date": "2015-11-27"
+    }
+  ],
+  "players": [
+    "Daniel Munoz",
+    "Farrukh Dustov",
+    "Inigo Cervantes",
+    "Paolo Lorenzi"
+  ]
+}

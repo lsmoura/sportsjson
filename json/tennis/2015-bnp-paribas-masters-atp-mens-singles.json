@@ -1,0 +1,92 @@
+{
+  "name": "2015 BNP Paribas Masters ATP (Men's Singles)",
+  "country": "France",
+  "gender": "male",
+  "location": "Paris",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "David Ferrer",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andy Murray",
+          "country": "01"
+        }
+      ],
+      "duration": "01:34:53",
+      "round": "Semi-Final",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Novak Djokovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "0"
+          ],
+          "name": "Stan Wawrinka",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:51:36",
+      "round": "Semi-Final",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Novak Djokovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Andy Murray",
+          "country": "01"
+        }
+      ],
+      "duration": "01:32:47",
+      "round": "Championship",
+      "date": "2015-11-08"
+    }
+  ],
+  "players": [
+    "Andy Murray",
+    "David Ferrer",
+    "Novak Djokovic",
+    "Stan Wawrinka"
+  ]
+}

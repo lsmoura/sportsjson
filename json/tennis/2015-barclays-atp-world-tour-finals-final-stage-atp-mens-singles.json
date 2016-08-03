@@ -1,0 +1,90 @@
+{
+  "name": "2015 Barclays ATP World Tour Finals final stage ATP (Men's Singles)",
+  "country": "United Kingdom",
+  "gender": "male",
+  "location": "London",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Rafael Nadal",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Novak Djokovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:19:24",
+      "round": "Semi-Final",
+      "date": "2015-11-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Roger Federer",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Stan Wawrinka",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:10:32",
+      "round": "Semi-Final",
+      "date": "2015-11-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Roger Federer",
+          "country": "CH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Novak Djokovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:20:34",
+      "round": "Championship",
+      "date": "2015-11-22"
+    }
+  ],
+  "players": [
+    "Novak Djokovic",
+    "Rafael Nadal",
+    "Roger Federer",
+    "Stan Wawrinka"
+  ]
+}

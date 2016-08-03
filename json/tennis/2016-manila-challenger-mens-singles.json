@@ -1,0 +1,848 @@
+{
+  "name": "2016 Manila Challenger (Men's Singles)",
+  "country": "Philippines",
+  "gender": "male",
+  "location": "Manila",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Alberto Lim",
+          "country": "PH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "David Guez",
+          "country": "FR"
+        }
+      ],
+      "duration": "00:57:24",
+      "round": "Round of 32",
+      "date": "2016-01-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "2"
+          ],
+          "name": "Duck-Hee Lee",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Hiroki Moriya",
+          "country": "JP"
+        }
+      ],
+      "duration": "04:37:06",
+      "round": "Round of 32",
+      "date": "2016-01-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "4"
+          ],
+          "name": "Egor Gerasimov",
+          "country": "BY"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Yannick Mertens",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:40:13",
+      "round": "Round of 32",
+      "date": "2016-01-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Roberto Marcora",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:21:29",
+      "round": "Round of 32",
+      "date": "2016-01-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kimmer Coppejans",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Jeson Patrombon",
+          "country": "PH"
+        }
+      ],
+      "duration": "01:11:44",
+      "round": "Round of 32",
+      "date": "2016-01-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "4"
+          ],
+          "name": "Lorenzo Giustino",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Zhe Li",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:59:33",
+      "round": "Round of 32",
+      "date": "2016-01-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Luca Vanni",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Frederico Ferreira Silva",
+          "country": "PT"
+        }
+      ],
+      "duration": "01:12:10",
+      "round": "Round of 32",
+      "date": "2016-01-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Marco Chiudinelli",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "4"
+          ],
+          "name": "N. Vijay Sundar Prashanth",
+          "country": "IN"
+        }
+      ],
+      "duration": "02:12:01",
+      "round": "Round of 32",
+      "date": "2016-01-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "7"
+          ],
+          "name": "Oriol Roca",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "7",
+            "6"
+          ],
+          "name": "Somdev Devvarman",
+          "country": "IN"
+        }
+      ],
+      "duration": "02:59:34",
+      "round": "Round of 32",
+      "date": "2016-01-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "0"
+          ],
+          "name": "Pedja Krstin",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "4"
+          ],
+          "name": "Federico Gaio",
+          "country": "IT"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2016-01-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Amir Weintraub",
+          "country": "IL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Francis Casey Alcantara",
+          "country": "PH"
+        }
+      ],
+      "duration": "01:57:53",
+      "round": "Round of 32",
+      "date": "2016-01-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "David Guez",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "3"
+          ],
+          "name": "Thomas Fabbiano",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:00:45",
+      "round": "Round of 16",
+      "date": "2016-01-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Frederik Loechte Nielsen",
+          "country": "DK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Gianluca Naso",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:29:07",
+      "round": "Round of 32",
+      "date": "2016-01-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Hiroki Moriya",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:38:24",
+      "round": "Round of 16",
+      "date": "2016-01-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Igor Sijsling",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Ruben Gonzales",
+          "country": "PH"
+        }
+      ],
+      "duration": "00:41:02",
+      "round": "Round of 32",
+      "date": "2016-01-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Jason Jung",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:51:05",
+      "round": "Round of 32",
+      "date": "2016-01-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Jimmy Wang",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lukas Lacko",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:09:27",
+      "round": "Round of 32",
+      "date": "2016-01-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "4"
+          ],
+          "name": "Luca Vanni",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Marco Chiudinelli",
+          "country": "CH"
+        }
+      ],
+      "duration": "02:00:54",
+      "round": "Round of 16",
+      "date": "2016-01-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "3"
+          ],
+          "name": "Nikola Mektic",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Thomas Fabbiano",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:02:57",
+      "round": "Round of 32",
+      "date": "2016-01-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "1"
+          ],
+          "name": "Federico Gaio",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Lukas Lacko",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:28:11",
+      "round": "Round of 16",
+      "date": "2016-01-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Igor Sijsling",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Amir Weintraub",
+          "country": "IL"
+        }
+      ],
+      "duration": "00:46:07",
+      "round": "Round of 16",
+      "date": "2016-01-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Zhe Li",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "4"
+          ],
+          "name": "Oriol Roca",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:07:01",
+      "round": "Round of 16",
+      "date": "2016-01-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "4"
+          ],
+          "name": "David Guez",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:17:05",
+      "round": "Quarter-Final",
+      "date": "2016-01-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Kimmer Coppejans",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Gianluca Naso",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:28:08",
+      "round": "Round of 16",
+      "date": "2016-01-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Yannick Mertens",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:07:28",
+      "round": "Round of 16",
+      "date": "2016-01-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Gianluca Naso",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:59:04",
+      "round": "Quarter-Final",
+      "date": "2016-01-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Igor Sijsling",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lukas Lacko",
+          "country": "SK"
+        }
+      ],
+      "duration": "00:58:22",
+      "round": "Quarter-Final",
+      "date": "2016-01-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Marco Chiudinelli",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Zhe Li",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:38:31",
+      "round": "Quarter-Final",
+      "date": "2016-01-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "5"
+          ],
+          "name": "Lukas Lacko",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "7",
+            "7"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        }
+      ],
+      "duration": "02:02:19",
+      "round": "Semi-Final",
+      "date": "2016-01-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "7",
+            "7"
+          ],
+          "name": "Marco Chiudinelli",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:45:30",
+      "round": "Semi-Final",
+      "date": "2016-01-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Marco Chiudinelli",
+          "country": "CH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:42:20",
+      "round": "Championship",
+      "date": "2016-01-24"
+    }
+  ],
+  "players": [
+    "Alberto Lim",
+    "Amir Weintraub",
+    "David Guez",
+    "Duck-Hee Lee",
+    "Egor Gerasimov",
+    "Federico Gaio",
+    "Francis Casey Alcantara",
+    "Frederico Ferreira Silva",
+    "Frederik Loechte Nielsen",
+    "Gianluca Naso",
+    "Go Soeda",
+    "Hiroki Moriya",
+    "Igor Sijsling",
+    "Jason Jung",
+    "Jeson Patrombon",
+    "Jimmy Wang",
+    "Kimmer Coppejans",
+    "Lorenzo Giustino",
+    "Luca Vanni",
+    "Lukas Lacko",
+    "Marco Chiudinelli",
+    "Mikhail Youzhny",
+    "N. Vijay Sundar Prashanth",
+    "Nikola Mektic",
+    "Oriol Roca",
+    "Pedja Krstin",
+    "Roberto Marcora",
+    "Ruben Gonzales",
+    "Somdev Devvarman",
+    "Thomas Fabbiano",
+    "Yannick Mertens",
+    "Zhe Li"
+  ]
+}

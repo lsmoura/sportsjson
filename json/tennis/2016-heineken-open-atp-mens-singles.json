@@ -1,0 +1,730 @@
+{
+  "name": "2016 Heineken Open ATP (Men's Singles)",
+  "country": "New Zealand",
+  "gender": "male",
+  "location": "Auckland",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Donald Young",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Finn Tearney",
+          "country": "NZ"
+        }
+      ],
+      "duration": "01:06:12",
+      "round": "Round of 32",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Pablo Andujar",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:07:53",
+      "round": "Round of 32",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Steve Johnson",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Matthew Barton",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:38:46",
+      "round": "Round of 32",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Thiemo de Bakker",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Albert Ramos",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:06:44",
+      "round": "Round of 32",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "4"
+          ],
+          "name": "Victor Estrella",
+          "country": "DO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jack Sock",
+          "country": "US"
+        }
+      ],
+      "duration": "00:49:43",
+      "round": "Round of 32",
+      "date": "2016-01-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Vasek Pospisil",
+          "country": "CA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Ivo Karlovic",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:35:44",
+      "round": "Round of 32",
+      "date": "2016-01-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "1"
+          ],
+          "name": "Aljaz Bedene",
+          "country": "SI"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "2"
+          ],
+          "name": "Sam Querrey",
+          "country": "US"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "David Ferrer",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Matthew Barton",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:05:27",
+      "round": "Round of 16",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "7"
+          ],
+          "name": "Fabio Fognini",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Joao Sousa",
+          "country": "PT"
+        }
+      ],
+      "duration": "01:56:14",
+      "round": "Round of 32",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Fabio Fognini",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Thiemo de Bakker",
+          "country": "NL"
+        }
+      ],
+      "duration": "00:47:25",
+      "round": "Round of 16",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jack Sock",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Vasek Pospisil",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:14:59",
+      "round": "Round of 16",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Kevin Anderson",
+          "country": "ZA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:46:39",
+      "round": "Round of 16",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Lukas Rosol",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Guillermo Garcia",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:31:38",
+      "round": "Round of 32",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Lukas Rosol",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Benoit Paire",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:19:43",
+      "round": "Round of 16",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Michael Venus",
+          "country": "NZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Benoit Paire",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:26:53",
+      "round": "Round of 32",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Philipp Kohlschreiber",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Benjamin Becker",
+          "country": "DE"
+        }
+      ],
+      "duration": "06:59:58",
+      "round": "Round of 32",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Roberto Bautista",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Jiri Vesely",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:17:03",
+      "round": "Round of 32",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Roberto Bautista",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Donald Young",
+          "country": "US"
+        }
+      ],
+      "duration": "01:26:56",
+      "round": "Round of 16",
+      "date": "2016-01-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "David Ferrer",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Lukas Rosol",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:11:37",
+      "round": "Quarter-Final",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "4"
+          ],
+          "name": "Kevin Anderson",
+          "country": "ZA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "Jack Sock",
+          "country": "US"
+        }
+      ],
+      "duration": "01:38:36",
+      "round": "Quarter-Final",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Philipp Kohlschreiber",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jo-Wilfried Tsonga",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:07:06",
+      "round": "Round of 16",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "2",
+            "6"
+          ],
+          "name": "Roberto Bautista",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "3"
+          ],
+          "name": "John Isner",
+          "country": "US"
+        }
+      ],
+      "duration": "01:42:01",
+      "round": "Quarter-Final",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "4"
+          ],
+          "name": "Sam Querrey",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "John Isner",
+          "country": "US"
+        }
+      ],
+      "duration": "02:13:30",
+      "round": "Round of 16",
+      "date": "2016-01-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "2"
+          ],
+          "name": "David Ferrer",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Jack Sock",
+          "country": "US"
+        }
+      ],
+      "duration": "01:19:04",
+      "round": "Semi-Final",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6"
+          ],
+          "name": "Fabio Fognini",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Jo-Wilfried Tsonga",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:42:33",
+      "round": "Quarter-Final",
+      "date": "2016-01-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Jack Sock",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Roberto Bautista",
+          "country": "ES"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Championship",
+      "date": "2016-01-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Roberto Bautista",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Jo-Wilfried Tsonga",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:17:01",
+      "round": "Semi-Final",
+      "date": "2016-01-15"
+    }
+  ],
+  "players": [
+    "Albert Ramos",
+    "Aljaz Bedene",
+    "Benjamin Becker",
+    "Benoit Paire",
+    "David Ferrer",
+    "Donald Young",
+    "Fabio Fognini",
+    "Finn Tearney",
+    "Guillermo Garcia",
+    "Ivo Karlovic",
+    "Jack Sock",
+    "Jiri Vesely",
+    "Jo-Wilfried Tsonga",
+    "Joao Sousa",
+    "John Isner",
+    "Kevin Anderson",
+    "Lukas Rosol",
+    "Matthew Barton",
+    "Michael Venus",
+    "Pablo Andujar",
+    "Philipp Kohlschreiber",
+    "Roberto Bautista",
+    "Robin Haase",
+    "Sam Querrey",
+    "Steve Johnson",
+    "Thiemo de Bakker",
+    "Vasek Pospisil",
+    "Victor Estrella"
+  ]
+}

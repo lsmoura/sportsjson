@@ -1,0 +1,94 @@
+{
+  "name": "2015 Hua Hin Challenger (Men's Singles)",
+  "country": "Thailand",
+  "gender": "male",
+  "location": "Hua Hin",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "3"
+          ],
+          "name": "Juergen Zopp",
+          "country": "EE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "2",
+            "6"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:01:23",
+      "round": "Semi-Final",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Stephane Robert",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:11:37",
+      "round": "Semi-Final",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "3"
+          ],
+          "name": "Stephane Robert",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:22:27",
+      "round": "Championship",
+      "date": "2015-11-08"
+    }
+  ],
+  "players": [
+    "Juergen Zopp",
+    "Stephane Robert",
+    "Tatsuma Ito",
+    "Yuichi Sugita"
+  ]
+}

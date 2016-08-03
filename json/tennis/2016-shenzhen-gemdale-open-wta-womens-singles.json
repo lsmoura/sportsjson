@@ -1,0 +1,832 @@
+{
+  "name": "2016 Shenzhen Gemdale Open WTA (Women's Singles)",
+  "country": "China",
+  "gender": "female",
+  "location": "Shenzhen",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "2"
+          ],
+          "name": "Annika Beck",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Alison Riske",
+          "country": "US"
+        }
+      ],
+      "duration": "02:10:54",
+      "round": "Round of 32",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Bojana Jovanovski",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Anna-Lena Friedsam",
+          "country": "DE"
+        }
+      ],
+      "duration": "00:54:52",
+      "round": "Round of 32",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Evgeniya Rodina",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Timea Babos",
+          "country": "HU"
+        }
+      ],
+      "duration": "01:07:38",
+      "round": "Round of 32",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Irina Camelia Begu",
+          "country": "RO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Lara Arruabarrena",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:43:57",
+      "round": "Round of 32",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Su-Wei Hsieh",
+          "country": "TW"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Yingying Duan",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:25:54",
+      "round": "Round of 32",
+      "date": "2016-01-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "3"
+          ],
+          "name": "Anastasija Sevastova",
+          "country": "LV"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "Monica Niculescu",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:46:28",
+      "round": "Round of 32",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Andreea Mitu",
+          "country": "RO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Katerina Siniakova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:13:16",
+      "round": "Round of 32",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Kailin Zhang",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Zarina Diyas",
+          "country": "KZ"
+        }
+      ],
+      "duration": "01:26:29",
+      "round": "Round of 32",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nicole Gibbs",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "2"
+          ],
+          "name": "Tereza Smitkova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "00:50:15",
+      "round": "Round of 32",
+      "date": "2016-01-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Agnieszka Radwanska",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Aleksandra Krunic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:04:09",
+      "round": "Round of 32",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Alison Riske",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "1"
+          ],
+          "name": "Su-Wei Hsieh",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:53:33",
+      "round": "Round of 16",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "7"
+          ],
+          "name": "Eugenie Bouchard",
+          "country": "CA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "5"
+          ],
+          "name": "Donna Vekic",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:56:28",
+      "round": "Round of 32",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Irina Camelia Begu",
+          "country": "RO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3"
+          ],
+          "name": "Anna-Lena Friedsam",
+          "country": "DE"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Qiang Wang",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Johanna Konta",
+          "country": "AT"
+        }
+      ],
+      "duration": "03:39:43",
+      "round": "Round of 32",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "0"
+          ],
+          "name": "Saisai Zheng",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Petra Kvitova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Shuai Zhang",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Irina Khromacheva",
+          "country": "RU"
+        }
+      ],
+      "duration": "02:55:45",
+      "round": "Round of 32",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Timea Babos",
+          "country": "HU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Monica Niculescu",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:40:27",
+      "round": "Round of 16",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Vania King",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Stefanie Voegele",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:47:43",
+      "round": "Round of 32",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Yaroslava Shvedova",
+          "country": "KZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Anett Kontaveit",
+          "country": "EE"
+        }
+      ],
+      "duration": "01:26:22",
+      "round": "Round of 32",
+      "date": "2016-01-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Agnieszka Radwanska",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "5"
+          ],
+          "name": "Shuai Zhang",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:09:41",
+      "round": "Round of 16",
+      "date": "2016-01-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Alison Riske",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "3"
+          ],
+          "name": "Anett Kontaveit",
+          "country": "EE"
+        }
+      ],
+      "duration": "01:27:13",
+      "round": "Quarter-Final",
+      "date": "2016-01-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Anett Kontaveit",
+          "country": "EE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Saisai Zheng",
+          "country": "CN"
+        }
+      ],
+      "duration": "00:59:46",
+      "round": "Round of 16",
+      "date": "2016-01-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Eugenie Bouchard",
+          "country": "CA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Nicole Gibbs",
+          "country": "US"
+        }
+      ],
+      "duration": "01:07:33",
+      "round": "Round of 16",
+      "date": "2016-01-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Katerina Siniakova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "4"
+          ],
+          "name": "Zarina Diyas",
+          "country": "KZ"
+        }
+      ],
+      "duration": "01:06:36",
+      "round": "Round of 16",
+      "date": "2016-01-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Vania King",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Qiang Wang",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:44:27",
+      "round": "Round of 16",
+      "date": "2016-01-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Agnieszka Radwanska",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Qiang Wang",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:02:57",
+      "round": "Quarter-Final",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Anna-Lena Friedsam",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "1"
+          ],
+          "name": "Katerina Siniakova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:50:39",
+      "round": "Quarter-Final",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Eugenie Bouchard",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Timea Babos",
+          "country": "HU"
+        }
+      ],
+      "duration": "01:25:56",
+      "round": "Quarter-Final",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Timea Babos",
+          "country": "HU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alison Riske",
+          "country": "US"
+        }
+      ],
+      "duration": "01:18:03",
+      "round": "Semi-Final",
+      "date": "2016-01-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Agnieszka Radwanska",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Anna-Lena Friedsam",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:15:52",
+      "round": "Semi-Final",
+      "date": "2016-01-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Agnieszka Radwanska",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Alison Riske",
+          "country": "US"
+        }
+      ],
+      "duration": "01:16:41",
+      "round": "Championship",
+      "date": "2016-01-09"
+    }
+  ],
+  "players": [
+    "Agnieszka Radwanska",
+    "Aleksandra Krunic",
+    "Alison Riske",
+    "Anastasija Sevastova",
+    "Andreea Mitu",
+    "Anett Kontaveit",
+    "Anna-Lena Friedsam",
+    "Annika Beck",
+    "Bojana Jovanovski",
+    "Donna Vekic",
+    "Eugenie Bouchard",
+    "Evgeniya Rodina",
+    "Irina Camelia Begu",
+    "Irina Khromacheva",
+    "Johanna Konta",
+    "Kailin Zhang",
+    "Katerina Siniakova",
+    "Lara Arruabarrena",
+    "Monica Niculescu",
+    "Nicole Gibbs",
+    "Petra Kvitova",
+    "Qiang Wang",
+    "Saisai Zheng",
+    "Shuai Zhang",
+    "Stefanie Voegele",
+    "Su-Wei Hsieh",
+    "Tereza Smitkova",
+    "Timea Babos",
+    "Vania King",
+    "Yaroslava Shvedova",
+    "Yingying Duan",
+    "Zarina Diyas"
+  ]
+}

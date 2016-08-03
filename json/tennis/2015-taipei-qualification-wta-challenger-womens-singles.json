@@ -1,0 +1,119 @@
+{
+  "name": "2015 Taipei, Qualification WTA Challenger (Women's Singles)",
+  "country": "Taiwan",
+  "gender": "female",
+  "location": "Taipei",
+  "surface": "Carpet",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Hiroko Kuwata",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Pei-Chi Lee",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:07:35",
+      "round": "Quarter-Final",
+      "date": "2015-11-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nicha Lertpitaksinchai",
+          "country": "TH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Yang Lee",
+          "country": "TW"
+        }
+      ],
+      "duration": "00:52:51",
+      "round": "Quarter-Final",
+      "date": "2015-11-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Peangtarn Plipuech",
+          "country": "TH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Kotomi Takahata",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:50:00",
+      "round": "Quarter-Final",
+      "date": "2015-11-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tena Lukas",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Yi Tsen Cho",
+          "country": "TW"
+        }
+      ],
+      "duration": "00:55:55",
+      "round": "Quarter-Final",
+      "date": "2015-11-16"
+    }
+  ],
+  "players": [
+    "Hiroko Kuwata",
+    "Kotomi Takahata",
+    "Nicha Lertpitaksinchai",
+    "Peangtarn Plipuech",
+    "Pei-Chi Lee",
+    "Tena Lukas",
+    "Yang Lee",
+    "Yi Tsen Cho"
+  ]
+}
