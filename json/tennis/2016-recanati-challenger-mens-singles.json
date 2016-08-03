@@ -10,52 +10,29 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "1",
-            "5"
-          ],
-          "name": "Mate Delic",
-          "country": "HR"
-        },
-        {
           "is_winner": true,
           "set_games": [
+            "6",
             "6",
             "7"
           ],
-          "name": "Marton Fucsovics",
-          "country": "HU"
-        }
-      ],
-      "duration": "01:05:00",
-      "round": "Round of 16",
-      "date": "2016-07-21"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Adrian Menendez",
-          "country": "ES"
+          "name": "Dzmitry Zhyrmont",
+          "country": "BY"
         },
         {
           "is_winner": false,
           "set_games": [
-            "1",
-            "2"
+            "7",
+            "3",
+            "6"
           ],
-          "name": "Yannick Mertens",
-          "country": "BE"
+          "name": "Andrea Vavassori",
+          "country": "IT"
         }
       ],
-      "duration": "00:52:49",
+      "duration": "02:26:11",
       "round": "Round of 32",
-      "date": "2016-07-19"
+      "date": "2016-07-18"
     },
     {
       "players": [
@@ -113,26 +90,24 @@
           "is_winner": true,
           "set_games": [
             "6",
-            "6",
-            "7"
+            "6"
           ],
-          "name": "Dzmitry Zhyrmont",
-          "country": "BY"
+          "name": "Adrian Menendez",
+          "country": "ES"
         },
         {
           "is_winner": false,
           "set_games": [
-            "7",
-            "3",
-            "6"
+            "1",
+            "2"
           ],
-          "name": "Andrea Vavassori",
-          "country": "IT"
+          "name": "Yannick Mertens",
+          "country": "BE"
         }
       ],
-      "duration": "02:26:11",
+      "duration": "00:52:49",
       "round": "Round of 32",
-      "date": "2016-07-18"
+      "date": "2016-07-19"
     },
     {
       "players": [
@@ -214,31 +189,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Edoardo Eremin",
-          "country": "IT"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "7"
-          ],
-          "name": "Adrian Menendez",
-          "country": "ES"
-        }
-      ],
-      "duration": "01:58:41",
-      "round": "Round of 16",
-      "date": "2016-07-20"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -291,25 +241,27 @@
         {
           "is_winner": false,
           "set_games": [
-            "4",
-            "5"
+            "2",
+            "7",
+            "3"
           ],
-          "name": "Andrey Rublev",
-          "country": "RU"
+          "name": "Filip Veger",
+          "country": "HR"
         },
         {
           "is_winner": true,
           "set_games": [
             "6",
-            "7"
+            "5",
+            "6"
           ],
-          "name": "Alessandro Bega",
-          "country": "IT"
+          "name": "Marton Fucsovics",
+          "country": "HU"
         }
       ],
-      "duration": "01:24:01",
-      "round": "Round of 16",
-      "date": "2016-07-21"
+      "duration": "02:12:32",
+      "round": "Round of 32",
+      "date": "2016-07-19"
     },
     {
       "players": [
@@ -343,33 +295,6 @@
         {
           "is_winner": false,
           "set_games": [
-            "1",
-            "7",
-            "6"
-          ],
-          "name": "Maxime Janvier",
-          "country": "FR"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6",
-            "7"
-          ],
-          "name": "Illya Marchenko",
-          "country": "UA"
-        }
-      ],
-      "duration": "02:36:08",
-      "round": "Round of 32",
-      "date": "2016-07-20"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
             "3",
             "1"
           ],
@@ -389,29 +314,6 @@
       "duration": "01:02:59",
       "round": "Round of 32",
       "date": "2016-07-19"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "0"
-          ],
-          "name": "Farrukh Dustov",
-          "country": "UZ"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "2"
-          ],
-          "name": "Illya Marchenko",
-          "country": "UA"
-        }
-      ],
-      "duration": "00:08:04",
-      "round": "Round of 16",
-      "date": "2016-07-21"
     },
     {
       "players": [
@@ -445,25 +347,27 @@
         {
           "is_winner": true,
           "set_games": [
-            "6",
-            "6"
+            "7",
+            "2",
+            "7"
           ],
-          "name": "Farrukh Dustov",
-          "country": "UZ"
+          "name": "Ruben Bemelmans",
+          "country": "BE"
         },
         {
           "is_winner": false,
           "set_games": [
-            "3",
-            "3"
+            "5",
+            "6",
+            "6"
           ],
-          "name": "Antonio Massara",
-          "country": "IT"
+          "name": "Remi Boutillier",
+          "country": "FR"
         }
       ],
-      "duration": "01:09:02",
+      "duration": "01:59:38",
       "round": "Round of 32",
-      "date": "2016-07-20"
+      "date": "2016-07-19"
     },
     {
       "players": [
@@ -490,6 +394,83 @@
       ],
       "duration": "02:09:23",
       "round": "Round of 16",
+      "date": "2016-07-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Edoardo Eremin",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Adrian Menendez",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:58:41",
+      "round": "Round of 16",
+      "date": "2016-07-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "7"
+          ],
+          "name": "Evgeny Donskoy",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Albano Olivetti",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:30:59",
+      "round": "Round of 16",
+      "date": "2016-07-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Farrukh Dustov",
+          "country": "UZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Antonio Massara",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:09:02",
+      "round": "Round of 32",
       "date": "2016-07-20"
     },
     {
@@ -524,81 +505,100 @@
         {
           "is_winner": false,
           "set_games": [
-            "2",
+            "1",
             "7",
-            "3"
+            "6"
           ],
-          "name": "Filip Veger",
+          "name": "Maxime Janvier",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Illya Marchenko",
+          "country": "UA"
+        }
+      ],
+      "duration": "02:36:08",
+      "round": "Round of 32",
+      "date": "2016-07-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Andrey Rublev",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Alessandro Bega",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:24:01",
+      "round": "Round of 16",
+      "date": "2016-07-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0"
+          ],
+          "name": "Farrukh Dustov",
+          "country": "UZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2"
+          ],
+          "name": "Illya Marchenko",
+          "country": "UA"
+        }
+      ],
+      "duration": "00:08:04",
+      "round": "Round of 16",
+      "date": "2016-07-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "5"
+          ],
+          "name": "Mate Delic",
           "country": "HR"
         },
         {
           "is_winner": true,
           "set_games": [
             "6",
-            "5",
-            "6"
+            "7"
           ],
           "name": "Marton Fucsovics",
           "country": "HU"
         }
       ],
-      "duration": "02:12:32",
-      "round": "Round of 32",
-      "date": "2016-07-19"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "2",
-            "7"
-          ],
-          "name": "Ruben Bemelmans",
-          "country": "BE"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "6",
-            "6"
-          ],
-          "name": "Remi Boutillier",
-          "country": "FR"
-        }
-      ],
-      "duration": "01:59:38",
-      "round": "Round of 32",
-      "date": "2016-07-19"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7",
-            "7"
-          ],
-          "name": "Evgeny Donskoy",
-          "country": "RU"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "6",
-            "6"
-          ],
-          "name": "Albano Olivetti",
-          "country": "FR"
-        }
-      ],
-      "duration": "02:30:59",
+      "duration": "01:05:00",
       "round": "Round of 16",
-      "date": "2016-07-20"
+      "date": "2016-07-21"
     },
     {
       "players": [

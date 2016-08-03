@@ -8,52 +8,27 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Anna-Lena Friedsam",
-          "country": "DE"
-        },
-        {
           "is_winner": false,
           "set_games": [
-            "3",
-            "4"
-          ],
-          "name": "Johanna Larsson",
-          "country": "SE"
-        }
-      ],
-      "duration": "01:22:05",
-      "round": "Round of 32",
-      "date": "2016-05-16"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Anna-Lena Friedsam",
-          "country": "DE"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
+            "0",
             "3"
           ],
-          "name": "Christina McHale",
+          "name": "Katharina Gerlach",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Irina Falconi",
           "country": "US"
         }
       ],
-      "duration": "01:21:53",
-      "round": "Round of 16",
-      "date": "2016-05-17"
+      "duration": "01:13:44",
+      "round": "Round of 32",
+      "date": "2016-05-15"
     },
     {
       "players": [
@@ -83,31 +58,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "6"
-          ],
-          "name": "Stephanie Vogt",
-          "country": "LI"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "7"
-          ],
-          "name": "Polona Hercog",
-          "country": "SI"
-        }
-      ],
-      "duration": "01:54:52",
-      "round": "Round of 32",
-      "date": "2016-05-16"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "7",
@@ -133,25 +83,25 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "0",
-            "4"
-          ],
-          "name": "Teliana Pereira",
-          "country": "BR"
-        },
-        {
           "is_winner": true,
           "set_games": [
             "6",
             "6"
           ],
-          "name": "Annika Beck",
+          "name": "Anna-Lena Friedsam",
           "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Johanna Larsson",
+          "country": "SE"
         }
       ],
-      "duration": "03:10:49",
+      "duration": "01:22:05",
       "round": "Round of 32",
       "date": "2016-05-16"
     },
@@ -206,31 +156,6 @@
       "duration": "01:04:25",
       "round": "Round of 32",
       "date": "2016-05-16"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "0",
-            "3"
-          ],
-          "name": "Katharina Gerlach",
-          "country": "DE"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Irina Falconi",
-          "country": "US"
-        }
-      ],
-      "duration": "01:13:44",
-      "round": "Round of 32",
-      "date": "2016-05-15"
     },
     {
       "players": [
@@ -310,6 +235,81 @@
       "duration": "02:21:01",
       "round": "Round of 32",
       "date": "2016-05-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6"
+          ],
+          "name": "Stephanie Vogt",
+          "country": "LI"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Polona Hercog",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:54:52",
+      "round": "Round of 32",
+      "date": "2016-05-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "4"
+          ],
+          "name": "Teliana Pereira",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Annika Beck",
+          "country": "DE"
+        }
+      ],
+      "duration": "03:10:49",
+      "round": "Round of 32",
+      "date": "2016-05-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Anna-Lena Friedsam",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Christina McHale",
+          "country": "US"
+        }
+      ],
+      "duration": "01:21:53",
+      "round": "Round of 16",
+      "date": "2016-05-17"
     },
     {
       "players": [
@@ -496,31 +496,6 @@
           "is_winner": true,
           "set_games": [
             "6",
-            "0"
-          ],
-          "name": "Kiki Bertens",
-          "country": "NL"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "1",
-            "1"
-          ],
-          "name": "Irina Falconi",
-          "country": "US"
-        }
-      ],
-      "duration": "00:43:17",
-      "round": "Quarter-Final",
-      "date": "2016-05-19"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
             "5",
             "6"
           ],
@@ -668,6 +643,31 @@
         }
       ],
       "duration": "02:18:11",
+      "round": "Quarter-Final",
+      "date": "2016-05-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "0"
+          ],
+          "name": "Kiki Bertens",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Irina Falconi",
+          "country": "US"
+        }
+      ],
+      "duration": "00:43:17",
       "round": "Quarter-Final",
       "date": "2016-05-19"
     },

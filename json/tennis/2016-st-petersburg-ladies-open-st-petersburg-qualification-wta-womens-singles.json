@@ -1,0 +1,727 @@
+{
+  "name": "2016 St. Petersburg Ladies Open - St. Petersburg, Qualification WTA (Women's Singles)",
+  "country": "Russia",
+  "gender": "female",
+  "location": "St. Petersburg",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alexandra Panova",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Polina Vinogradova",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:00:47",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "1"
+          ],
+          "name": "Anastasia Detiuc",
+          "country": "MD"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Maryna Zanevska",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:34:55",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Andrea Hlavackova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Valentyna Ivakhnenko",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:45:28",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Ekaterina Bychkova",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Patricia Maria Tig",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:02:29",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "4"
+          ],
+          "name": "Irina Khromacheva",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Elise Mertens",
+          "country": "BE"
+        }
+      ],
+      "duration": "02:31:37",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Katarzyna Kawa",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Valeriya Strakhova",
+          "country": "UA"
+        }
+      ],
+      "duration": "00:58:46",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Katerina Siniakova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "Anna Kalinskaya",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:51:00",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "0"
+          ],
+          "name": "Katerina Vankova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "0",
+            "6"
+          ],
+          "name": "Polina Leykina",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:07:16",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Klara Koukalova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "2"
+          ],
+          "name": "Ilona Kremen",
+          "country": "BY"
+        }
+      ],
+      "duration": "01:43:35",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Ksenia Lykina",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Misa Eguchi",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:19:05",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Laura Siegemund",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Anastasiya Komardina",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:18:25",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lesley Kerkhove",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Anastasia Bukhanko",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:54:57",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Natela Dzalamidze",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tamira Paszek",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:03:22",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sesil Karatantcheva",
+          "country": "BG"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "0"
+          ],
+          "name": "Valeriya Pogrebnyak",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:45:03",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Tereza Martincova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "3"
+          ],
+          "name": "Barbora Krejcikova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:48:29",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Vera Dushevina",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kateryna Kozlova",
+          "country": "UA"
+        }
+      ],
+      "duration": "00:55:20",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Alexandra Panova",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Ksenia Lykina",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:21:35",
+      "round": "Round of 16",
+      "date": "2016-02-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "2"
+          ],
+          "name": "Katarzyna Kawa",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "Tamira Paszek",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:46:27",
+      "round": "Round of 16",
+      "date": "2016-02-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Katerina Siniakova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Valentyna Ivakhnenko",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:19:36",
+      "round": "Round of 16",
+      "date": "2016-02-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "0",
+            "7"
+          ],
+          "name": "Kateryna Kozlova",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Maryna Zanevska",
+          "country": "UA"
+        }
+      ],
+      "duration": "02:28:10",
+      "round": "Round of 16",
+      "date": "2016-02-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Klara Koukalova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Elise Mertens",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:21:20",
+      "round": "Round of 16",
+      "date": "2016-02-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Laura Siegemund",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "3"
+          ],
+          "name": "Tereza Martincova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:03:07",
+      "round": "Round of 16",
+      "date": "2016-02-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Lesley Kerkhove",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Patricia Maria Tig",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:24:52",
+      "round": "Round of 16",
+      "date": "2016-02-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Sesil Karatantcheva",
+          "country": "BG"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Polina Leykina",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:49:02",
+      "round": "Round of 16",
+      "date": "2016-02-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Katerina Siniakova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Alexandra Panova",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:23:24",
+      "round": "Quarter-Final",
+      "date": "2016-02-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Klara Koukalova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Patricia Maria Tig",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:36:39",
+      "round": "Quarter-Final",
+      "date": "2016-02-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Laura Siegemund",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kateryna Kozlova",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:23:07",
+      "round": "Quarter-Final",
+      "date": "2016-02-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Sesil Karatantcheva",
+          "country": "BG"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Tamira Paszek",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:31:15",
+      "round": "Quarter-Final",
+      "date": "2016-02-08"
+    }
+  ]
+}

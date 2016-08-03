@@ -1,0 +1,933 @@
+{
+  "name": "2016 BNP Paribas Open, Qualification WTA (Women's Singles)",
+  "country": "United States",
+  "gender": "female",
+  "location": "Indian Wells",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Ana Konjuh",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Aleksandra Wozniak",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:11:09",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Anastasija Sevastova",
+          "country": "LV"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Jessica Pegula",
+          "country": "US"
+        }
+      ],
+      "duration": "00:57:13",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Anett Kontaveit",
+          "country": "EE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Maria Sakkari",
+          "country": "GR"
+        }
+      ],
+      "duration": "01:26:33",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Anna-Lena Friedsam",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "0",
+            "4"
+          ],
+          "name": "Julia Glushko",
+          "country": "IL"
+        }
+      ],
+      "duration": "01:54:41",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Donna Vekic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "1"
+          ],
+          "name": "An-Sophie Mestach",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:54:51",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Elena Vesnina",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Julia Boserup",
+          "country": "US"
+        }
+      ],
+      "duration": "01:29:05",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "7",
+            "6"
+          ],
+          "name": "Jana Cepelova",
+          "country": "SK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "1"
+          ],
+          "name": "Anna Tatishvili",
+          "country": "GE"
+        }
+      ],
+      "duration": "02:00:12",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kateryna Bondarenko",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "4"
+          ],
+          "name": "Paula Kania",
+          "country": "PL"
+        }
+      ],
+      "duration": "01:00:31",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "1"
+          ],
+          "name": "Kateryna Kozlova",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "7",
+            "6"
+          ],
+          "name": "Pauline Parmentier",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:05:33",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Kirsten Flipkens",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Louisa Chirico",
+          "country": "US"
+        }
+      ],
+      "duration": "01:31:53",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kurumi Nara",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Patricia Maria Tig",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:09:18",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Laura Siegemund",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Jarmila Wolfe",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:18:20",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "2"
+          ],
+          "name": "Maria Sanchez",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Lourdes Dominguez",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:14:22",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Raveena Kingsley",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Katerina Siniakova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:09:13",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "7",
+            "6"
+          ],
+          "name": "Risa Ozaki",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Magda Linette",
+          "country": "PL"
+        }
+      ],
+      "duration": "02:36:54",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "6",
+            "3"
+          ],
+          "name": "Sachia Vickery",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Kristyna Pliskova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:41:39",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Saisai Zheng",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Sofia Kenin",
+          "country": "US"
+        }
+      ],
+      "duration": "01:50:58",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Sesil Karatantcheva",
+          "country": "BG"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Aliaksandra Sasnovich",
+          "country": "BY"
+        }
+      ],
+      "duration": "01:30:41",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "1"
+          ],
+          "name": "Su-Wei Hsieh",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Xinyun Han",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:23:09",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "4"
+          ],
+          "name": "Tamira Paszek",
+          "country": "AT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Naomi Osaka",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:30:35",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Taylor Townsend",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Evgeniya Rodina",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:27:21",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Veronica Cepede",
+          "country": "PY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Klara Koukalova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:26:36",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "5"
+          ],
+          "name": "Viktorija Golubic",
+          "country": "CH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Nicole Gibbs",
+          "country": "US"
+        }
+      ],
+      "duration": "01:36:52",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "0"
+          ],
+          "name": "Yingying Duan",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Kiki Bertens",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:35:59",
+      "round": "Round of 64",
+      "date": "2016-03-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Aleksandra Wozniak",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kiki Bertens",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:21:21",
+      "round": "Round of 32",
+      "date": "2016-03-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "2"
+          ],
+          "name": "Anastasija Sevastova",
+          "country": "LV"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Taylor Townsend",
+          "country": "US"
+        }
+      ],
+      "duration": "01:54:39",
+      "round": "Round of 32",
+      "date": "2016-03-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Anett Kontaveit",
+          "country": "EE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Risa Ozaki",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:53:30",
+      "round": "Round of 32",
+      "date": "2016-03-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "5"
+          ],
+          "name": "Anna-Lena Friedsam",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "7"
+          ],
+          "name": "Nicole Gibbs",
+          "country": "US"
+        }
+      ],
+      "duration": "02:30:08",
+      "round": "Round of 32",
+      "date": "2016-03-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Donna Vekic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "2"
+          ],
+          "name": "Jana Cepelova",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:38:59",
+      "round": "Round of 32",
+      "date": "2016-03-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "2"
+          ],
+          "name": "Julia Boserup",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Katerina Siniakova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:00:52",
+      "round": "Round of 32",
+      "date": "2016-03-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kateryna Bondarenko",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Lourdes Dominguez",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:11:22",
+      "round": "Round of 32",
+      "date": "2016-03-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Kirsten Flipkens",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Aliaksandra Sasnovich",
+          "country": "BY"
+        }
+      ],
+      "duration": "01:00:25",
+      "round": "Round of 32",
+      "date": "2016-03-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kurumi Nara",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Veronica Cepede",
+          "country": "PY"
+        }
+      ],
+      "duration": "01:23:57",
+      "round": "Round of 32",
+      "date": "2016-03-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Laura Siegemund",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Naomi Osaka",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:02:00",
+      "round": "Round of 32",
+      "date": "2016-03-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Saisai Zheng",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Pauline Parmentier",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:47:16",
+      "round": "Round of 32",
+      "date": "2016-03-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Xinyun Han",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kristyna Pliskova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:01:55",
+      "round": "Round of 32",
+      "date": "2016-03-08"
+    }
+  ]
+}

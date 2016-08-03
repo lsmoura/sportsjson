@@ -13,31 +13,6 @@
           "is_winner": false,
           "set_games": [
             "6",
-            "4"
-          ],
-          "name": "Ramkumar Ramanathan",
-          "country": "IN"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Marco Cecchinato",
-          "country": "IT"
-        }
-      ],
-      "duration": "01:35:04",
-      "round": "Round of 16",
-      "date": "2016-07-07"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
             "3",
             "2"
           ],
@@ -195,33 +170,6 @@
         {
           "is_winner": false,
           "set_games": [
-            "4",
-            "6",
-            "3"
-          ],
-          "name": "Alessandro Giannessi",
-          "country": "IT"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "2",
-            "6"
-          ],
-          "name": "Marco Cecchinato",
-          "country": "IT"
-        }
-      ],
-      "duration": "02:00:04",
-      "round": "Quarter-Final",
-      "date": "2016-07-08"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
             "6",
             "0",
             "1"
@@ -301,33 +249,6 @@
         {
           "is_winner": false,
           "set_games": [
-            "7",
-            "4",
-            "1"
-          ],
-          "name": "Lorenzo Sonego",
-          "country": "IT"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6",
-            "6"
-          ],
-          "name": "Marton Fucsovics",
-          "country": "HU"
-        }
-      ],
-      "duration": "02:38:27",
-      "round": "Round of 16",
-      "date": "2016-07-07"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
             "6",
             "6",
             "1"
@@ -347,6 +268,160 @@
         }
       ],
       "duration": "02:34:06",
+      "round": "Round of 32",
+      "date": "2016-07-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Enrique Lopez",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ramkumar Ramanathan",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:17:24",
+      "round": "Round of 32",
+      "date": "2016-07-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "4"
+          ],
+          "name": "Gregoire Barrere",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Arthur de Greef",
+          "country": "BE"
+        }
+      ],
+      "duration": "02:17:28",
+      "round": "Round of 32",
+      "date": "2016-07-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "7"
+          ],
+          "name": "Marco Trungelliti",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "5"
+          ],
+          "name": "Tomislav Brkic",
+          "country": "BA"
+        }
+      ],
+      "duration": "02:07:21",
+      "round": "Round of 32",
+      "date": "2016-07-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Mathias Bourgue",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marco Cecchinato",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:17:12",
+      "round": "Round of 32",
+      "date": "2016-07-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Miljan Zekic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "1"
+          ],
+          "name": "Marsel Ilhan",
+          "country": "TR"
+        }
+      ],
+      "duration": "01:21:29",
+      "round": "Round of 32",
+      "date": "2016-07-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Salvatore Caruso",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Blaz Rola",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:27:24",
       "round": "Round of 32",
       "date": "2016-07-06"
     },
@@ -432,6 +507,33 @@
     {
       "players": [
         {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "1"
+          ],
+          "name": "Lorenzo Sonego",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Marton Fucsovics",
+          "country": "HU"
+        }
+      ],
+      "duration": "02:38:27",
+      "round": "Round of 16",
+      "date": "2016-07-07"
+    },
+    {
+      "players": [
+        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -484,156 +586,27 @@
     {
       "players": [
         {
-          "is_winner": true,
+          "is_winner": false,
           "set_games": [
             "6",
-            "2",
-            "7"
-          ],
-          "name": "Marco Trungelliti",
-          "country": "AR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "6",
-            "5"
-          ],
-          "name": "Tomislav Brkic",
-          "country": "BA"
-        }
-      ],
-      "duration": "02:07:21",
-      "round": "Round of 32",
-      "date": "2016-07-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Miljan Zekic",
-          "country": "RS"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "1"
-          ],
-          "name": "Marsel Ilhan",
-          "country": "TR"
-        }
-      ],
-      "duration": "01:21:29",
-      "round": "Round of 32",
-      "date": "2016-07-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
             "4"
-          ],
-          "name": "Enrique Lopez",
-          "country": "ES"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
           ],
           "name": "Ramkumar Ramanathan",
           "country": "IN"
-        }
-      ],
-      "duration": "01:17:24",
-      "round": "Round of 32",
-      "date": "2016-07-06"
-    },
-    {
-      "players": [
+        },
         {
-          "is_winner": false,
+          "is_winner": true,
           "set_games": [
-            "3",
             "7",
-            "4"
-          ],
-          "name": "Gregoire Barrere",
-          "country": "FR"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "5",
-            "6"
-          ],
-          "name": "Arthur de Greef",
-          "country": "BE"
-        }
-      ],
-      "duration": "02:17:28",
-      "round": "Round of 32",
-      "date": "2016-07-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "3"
-          ],
-          "name": "Mathias Bourgue",
-          "country": "FR"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
             "6"
           ],
           "name": "Marco Cecchinato",
           "country": "IT"
         }
       ],
-      "duration": "01:17:12",
-      "round": "Round of 32",
-      "date": "2016-07-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "4"
-          ],
-          "name": "Salvatore Caruso",
-          "country": "IT"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Blaz Rola",
-          "country": "SI"
-        }
-      ],
-      "duration": "01:27:24",
-      "round": "Round of 32",
-      "date": "2016-07-06"
+      "duration": "01:35:04",
+      "round": "Round of 16",
+      "date": "2016-07-07"
     },
     {
       "players": [
@@ -659,6 +632,33 @@
       "duration": "01:17:59",
       "round": "Round of 16",
       "date": "2016-07-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Alessandro Giannessi",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Marco Cecchinato",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:00:04",
+      "round": "Quarter-Final",
+      "date": "2016-07-08"
     },
     {
       "players": [

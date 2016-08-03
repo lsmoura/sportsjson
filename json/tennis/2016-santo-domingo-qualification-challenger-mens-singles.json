@@ -1,0 +1,727 @@
+{
+  "name": "2016 Santo Domingo, Qualification Challenger (Men's Singles)",
+  "country": "Dominican Republic",
+  "gender": "male",
+  "location": "Santo Domingo",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Adrien Puget",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Matias Franco Descotte",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:38:15",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Bastian Malla",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Maciej Rajski",
+          "country": "PL"
+        }
+      ],
+      "duration": "00:57:53",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "5"
+          ],
+          "name": "Daniel Galan",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "7"
+          ],
+          "name": "Juan Ignacio Londero",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:04:25",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Darian King",
+          "country": "BB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Patricio Heras",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:19:17",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Emilio Andrea Segarelli",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marcelo Arevalo",
+          "country": "SV"
+        }
+      ],
+      "duration": "00:49:13",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "3"
+          ],
+          "name": "Gianni Mina",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Gerard Granollers",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:16:08",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gonzalo Escobar",
+          "country": "EC"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Armando Gandini",
+          "country": "DO"
+        }
+      ],
+      "duration": "00:58:01",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gonzalo Lama",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Lucas Gomez",
+          "country": "MX"
+        }
+      ],
+      "duration": "01:06:58",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Jesus Francisco Felix",
+          "country": "DO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Stefan Kozlov",
+          "country": "US"
+        }
+      ],
+      "duration": "00:55:28",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Luis David Martinez",
+          "country": "VE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Raleigh Smith",
+          "country": "US"
+        }
+      ],
+      "duration": "01:40:02",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "0"
+          ],
+          "name": "Omar Ferreras",
+          "country": "DO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Christopher Diaz",
+          "country": "GT"
+        }
+      ],
+      "duration": "00:39:41",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "7"
+          ],
+          "name": "Pere Riba",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "5"
+          ],
+          "name": "Gianluigi Quinzi",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:20:22",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Peter Torebko",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Maximiliano Estevez",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:55:17",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Roberto Quiroz",
+          "country": "EC"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Mohamed Safwat",
+          "country": "EG"
+        }
+      ],
+      "duration": "01:03:10",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Sebastian Serrano",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Ruan Roelofse",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:36:53",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "7"
+          ],
+          "name": "Victor Hanescu",
+          "country": "RO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Kaichi Uchida",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:17:57",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Adrien Puget",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Juan Ignacio Londero",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:30:11",
+      "round": "Round of 16",
+      "date": "2016-02-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "3"
+          ],
+          "name": "Bastian Malla",
+          "country": "CL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Marcelo Arevalo",
+          "country": "SV"
+        }
+      ],
+      "duration": "02:22:06",
+      "round": "Round of 16",
+      "date": "2016-02-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Darian King",
+          "country": "BB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Luis David Martinez",
+          "country": "VE"
+        }
+      ],
+      "duration": "01:16:16",
+      "round": "Round of 16",
+      "date": "2016-02-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "1"
+          ],
+          "name": "Gonzalo Escobar",
+          "country": "EC"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Roberto Quiroz",
+          "country": "EC"
+        }
+      ],
+      "duration": "01:36:40",
+      "round": "Round of 16",
+      "date": "2016-02-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Gonzalo Lama",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "2"
+          ],
+          "name": "Peter Torebko",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:45:18",
+      "round": "Round of 16",
+      "date": "2016-02-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pere Riba",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Stefan Kozlov",
+          "country": "US"
+        }
+      ],
+      "duration": "03:49:43",
+      "round": "Round of 16",
+      "date": "2016-02-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "4"
+          ],
+          "name": "Ruan Roelofse",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Gerard Granollers",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:12:00",
+      "round": "Round of 16",
+      "date": "2016-02-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Victor Hanescu",
+          "country": "RO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Christopher Diaz",
+          "country": "GT"
+        }
+      ],
+      "duration": "01:11:38",
+      "round": "Round of 16",
+      "date": "2016-02-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Darian King",
+          "country": "BB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Marcelo Arevalo",
+          "country": "SV"
+        }
+      ],
+      "duration": "01:47:11",
+      "round": "Quarter-Final",
+      "date": "2016-02-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Gonzalo Lama",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Gerard Granollers",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:21:22",
+      "round": "Quarter-Final",
+      "date": "2016-02-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pere Riba",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Adrien Puget",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:23:12",
+      "round": "Quarter-Final",
+      "date": "2016-02-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "5"
+          ],
+          "name": "Victor Hanescu",
+          "country": "RO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "7"
+          ],
+          "name": "Roberto Quiroz",
+          "country": "EC"
+        }
+      ],
+      "duration": "02:23:24",
+      "round": "Quarter-Final",
+      "date": "2016-02-08"
+    }
+  ]
+}

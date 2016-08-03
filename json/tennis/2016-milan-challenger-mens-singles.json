@@ -9,6 +9,158 @@
     {
       "players": [
         {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Alejandro Gonzalez",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Matteo Viola",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:58:36",
+      "round": "Round of 32",
+      "date": "2016-06-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Edoardo Eremin",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Roberto Carballes",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:16:14",
+      "round": "Round of 32",
+      "date": "2016-06-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Gianluca Mager",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Agustin Velotti",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:36:46",
+      "round": "Round of 32",
+      "date": "2016-06-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Kimmer Coppejans",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Matteo Donati",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:57:16",
+      "round": "Round of 32",
+      "date": "2016-06-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Miljan Zekic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "4"
+          ],
+          "name": "Gonzalo Lama",
+          "country": "CL"
+        }
+      ],
+      "duration": "02:17:37",
+      "round": "Round of 32",
+      "date": "2016-06-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Yannik Reuter",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Robin Stanek",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:27:53",
+      "round": "Round of 32",
+      "date": "2016-06-20"
+    },
+    {
+      "players": [
+        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -236,158 +388,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "3"
-          ],
-          "name": "Alejandro Gonzalez",
-          "country": "CO"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Matteo Viola",
-          "country": "IT"
-        }
-      ],
-      "duration": "01:58:36",
-      "round": "Round of 32",
-      "date": "2016-06-20"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Gianluca Mager",
-          "country": "IT"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "5"
-          ],
-          "name": "Agustin Velotti",
-          "country": "AR"
-        }
-      ],
-      "duration": "01:36:46",
-      "round": "Round of 32",
-      "date": "2016-06-20"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6",
-            "6"
-          ],
-          "name": "Miljan Zekic",
-          "country": "RS"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "7",
-            "4"
-          ],
-          "name": "Gonzalo Lama",
-          "country": "CL"
-        }
-      ],
-      "duration": "02:17:37",
-      "round": "Round of 32",
-      "date": "2016-06-20"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Edoardo Eremin",
-          "country": "IT"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "2"
-          ],
-          "name": "Roberto Carballes",
-          "country": "ES"
-        }
-      ],
-      "duration": "01:16:14",
-      "round": "Round of 32",
-      "date": "2016-06-20"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Yannik Reuter",
-          "country": "BE"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "3"
-          ],
-          "name": "Robin Stanek",
-          "country": "CZ"
-        }
-      ],
-      "duration": "01:27:53",
-      "round": "Round of 32",
-      "date": "2016-06-20"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "1",
-            "2"
-          ],
-          "name": "Kimmer Coppejans",
-          "country": "BE"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Matteo Donati",
-          "country": "IT"
-        }
-      ],
-      "duration": "00:57:16",
-      "round": "Round of 32",
-      "date": "2016-06-20"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -409,6 +409,110 @@
       "duration": "01:10:26",
       "round": "Round of 32",
       "date": "2016-06-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Carlos Berlocq",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Yannik Reuter",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:37:11",
+      "round": "Round of 16",
+      "date": "2016-06-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Gianluca Mager",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Miljan Zekic",
+          "country": "RS"
+        }
+      ],
+      "duration": "02:07:06",
+      "round": "Round of 16",
+      "date": "2016-06-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Matteo Donati",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Edoardo Eremin",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:02:41",
+      "round": "Round of 16",
+      "date": "2016-06-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "1"
+          ],
+          "name": "Matteo Viola",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Laslo Djere",
+          "country": "RS"
+        }
+      ],
+      "duration": "02:09:25",
+      "round": "Round of 16",
+      "date": "2016-06-22"
     },
     {
       "players": [
@@ -492,31 +596,6 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Matteo Donati",
-          "country": "IT"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "2"
-          ],
-          "name": "Edoardo Eremin",
-          "country": "IT"
-        }
-      ],
-      "duration": "01:02:41",
-      "round": "Round of 16",
-      "date": "2016-06-22"
-    },
-    {
-      "players": [
-        {
           "is_winner": false,
           "set_games": [
             "7",
@@ -540,85 +619,6 @@
       "duration": "02:18:52",
       "round": "Round of 16",
       "date": "2016-06-23"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "6",
-            "1"
-          ],
-          "name": "Matteo Viola",
-          "country": "IT"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "3",
-            "6"
-          ],
-          "name": "Laslo Djere",
-          "country": "RS"
-        }
-      ],
-      "duration": "02:09:25",
-      "round": "Round of 16",
-      "date": "2016-06-22"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "3",
-            "4"
-          ],
-          "name": "Gianluca Mager",
-          "country": "IT"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "4",
-            "6",
-            "6"
-          ],
-          "name": "Miljan Zekic",
-          "country": "RS"
-        }
-      ],
-      "duration": "02:07:06",
-      "round": "Round of 16",
-      "date": "2016-06-22"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Carlos Berlocq",
-          "country": "AR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "0"
-          ],
-          "name": "Yannik Reuter",
-          "country": "BE"
-        }
-      ],
-      "duration": "01:37:11",
-      "round": "Round of 16",
-      "date": "2016-06-22"
     },
     {
       "players": [

@@ -1,0 +1,845 @@
+{
+  "name": "2016 Davis Cup 1. round Davis Cup (Men's Singles)",
+  "country": "",
+  "gender": "male",
+  "location": "Unknown",
+  "surface": "Unknown",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Bernard Tomic",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "6",
+            "4"
+          ],
+          "name": "Jack Sock",
+          "country": "US"
+        }
+      ],
+      "duration": "02:24:23",
+      "round": "First Round",
+      "date": "2016-03-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "2"
+          ],
+          "name": "Samuel Groth",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "John Isner",
+          "country": "US"
+        }
+      ],
+      "duration": "01:50:12",
+      "round": "First Round",
+      "date": "2016-03-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Alexander Zverev",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "1",
+            "4",
+            "7",
+            "6"
+          ],
+          "name": "Tomas Berdych",
+          "country": "CZ"
+        }
+      ],
+      "duration": "04:22:03",
+      "round": "First Round",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Andreas Seppi",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "6",
+            "3"
+          ],
+          "name": "Henri Laaksonen",
+          "country": "CH"
+        }
+      ],
+      "duration": "02:58:52",
+      "round": "First Round",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Andy Murray",
+          "country": "01"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3",
+            "1"
+          ],
+          "name": "Taro Daniel",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:30:03",
+      "round": "First Round",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5",
+            "6"
+          ],
+          "name": "Daniel Evans",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "7"
+          ],
+          "name": "Kei Nishikori",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:43:29",
+      "round": "First Round",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "2",
+            "3",
+            "6"
+          ],
+          "name": "David Goffin",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2",
+            "6",
+            "6",
+            "3"
+          ],
+          "name": "Borna Coric",
+          "country": "HR"
+        }
+      ],
+      "duration": "03:03:38",
+      "round": "First Round",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Gael Monfils",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1",
+            "3"
+          ],
+          "name": "Frank Dancevic",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:24:18",
+      "round": "First Round",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Gilles Simon",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3",
+            "3"
+          ],
+          "name": "Vasek Pospisil",
+          "country": "CA"
+        }
+      ],
+      "duration": "02:37:32",
+      "round": "First Round",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "2"
+          ],
+          "name": "Hubert Hurkacz",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Leonardo Mayer",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:03:41",
+      "round": "First Round",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3",
+            "5"
+          ],
+          "name": "Kimmer Coppejans",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "7"
+          ],
+          "name": "Marin Cilic",
+          "country": "HR"
+        }
+      ],
+      "duration": "02:22:42",
+      "round": "First Round",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4",
+            "6"
+          ],
+          "name": "Michal Przysiezny",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Guido Pella",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:05:55",
+      "round": "First Round",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Novak Djokovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2",
+            "3"
+          ],
+          "name": "Aleksandr Nedovyesov",
+          "country": "KZ"
+        }
+      ],
+      "duration": "01:53:44",
+      "round": "First Round",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "4",
+            "5",
+            "7"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "6",
+            "7",
+            "5"
+          ],
+          "name": "Marco Chiudinelli",
+          "country": "CH"
+        }
+      ],
+      "duration": "04:45:06",
+      "round": "First Round",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Philipp Kohlschreiber",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Lukas Rosol",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:58:30",
+      "round": "First Round",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2",
+            "4"
+          ],
+          "name": "Viktor Troicki",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Mikhail Kukushkin",
+          "country": "KZ"
+        }
+      ],
+      "duration": "02:36:07",
+      "round": "First Round",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4",
+            "7",
+            "6"
+          ],
+          "name": "Bernard Tomic",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "5",
+            "7"
+          ],
+          "name": "John Isner",
+          "country": "US"
+        }
+      ],
+      "duration": "02:15:28",
+      "round": "First Round",
+      "date": "2016-03-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3",
+            "1"
+          ],
+          "name": "Alexander Zverev",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Lukas Rosol",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:38:36",
+      "round": "First Round",
+      "date": "2016-03-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7",
+            "3",
+            "4",
+            "6"
+          ],
+          "name": "Andy Murray",
+          "country": "01"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "6",
+            "6",
+            "3"
+          ],
+          "name": "Kei Nishikori",
+          "country": "JP"
+        }
+      ],
+      "duration": "04:54:59",
+      "round": "First Round",
+      "date": "2016-03-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "3",
+            "7"
+          ],
+          "name": "David Goffin",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4",
+            "6",
+            "5"
+          ],
+          "name": "Marin Cilic",
+          "country": "HR"
+        }
+      ],
+      "duration": "03:06:54",
+      "round": "First Round",
+      "date": "2016-03-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "6"
+          ],
+          "name": "Hubert Hurkacz",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Renzo Olivo",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:14:33",
+      "round": "First Round",
+      "date": "2016-03-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "0"
+          ],
+          "name": "Jo-Wilfried Tsonga",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "0"
+          ],
+          "name": "Frank Dancevic",
+          "country": "CA"
+        }
+      ],
+      "duration": "00:58:01",
+      "round": "First Round",
+      "date": "2016-03-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "2"
+          ],
+          "name": "Kimmer Coppejans",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Borna Coric",
+          "country": "HR"
+        }
+      ],
+      "duration": "02:09:08",
+      "round": "First Round",
+      "date": "2016-03-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Marco Cecchinato",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Adrien Bossel",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:08:27",
+      "round": "First Round",
+      "date": "2016-03-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "2",
+            "3"
+          ],
+          "name": "Michal Przysiezny",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Leonardo Mayer",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:34:15",
+      "round": "First Round",
+      "date": "2016-03-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Novak Djokovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "Mikhail Kukushkin",
+          "country": "KZ"
+        }
+      ],
+      "duration": "04:58:18",
+      "round": "First Round",
+      "date": "2016-03-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Antoine Bellier",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:08:45",
+      "round": "First Round",
+      "date": "2016-03-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "0"
+          ],
+          "name": "Philipp Kohlschreiber",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5",
+            "0"
+          ],
+          "name": "Tomas Berdych",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:42:21",
+      "round": "First Round",
+      "date": "2016-03-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Richard Gasquet",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Philip Bester",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:19:15",
+      "round": "First Round",
+      "date": "2016-03-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Viktor Troicki",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3",
+            "4"
+          ],
+          "name": "Aleksandr Nedovyesov",
+          "country": "KZ"
+        }
+      ],
+      "duration": "01:50:50",
+      "round": "First Round",
+      "date": "2016-03-06"
+    }
+  ]
+}

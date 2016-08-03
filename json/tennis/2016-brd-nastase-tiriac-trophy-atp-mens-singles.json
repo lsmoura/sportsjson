@@ -33,6 +33,83 @@
     {
       "players": [
         {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Damir Dzumhur",
+          "country": "BA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "2"
+          ],
+          "name": "Marius Copil",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:39:40",
+      "round": "Round of 32",
+      "date": "2016-04-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Kyle Edmund",
+          "country": "GB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lukas Rosol",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:43:46",
+      "round": "Round of 32",
+      "date": "2016-04-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Michael Linzer",
+          "country": "AT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Taro Daniel",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:04:59",
+      "round": "Round of 32",
+      "date": "2016-04-18"
+    },
+    {
+      "players": [
+        {
           "is_winner": false,
           "set_games": [
             "6",
@@ -189,27 +266,27 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "0"
-          ],
-          "name": "Michael Linzer",
-          "country": "AT"
-        },
-        {
           "is_winner": true,
           "set_games": [
             "6",
             "6"
           ],
-          "name": "Taro Daniel",
-          "country": "JP"
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Diego Schwartzman",
+          "country": "AR"
         }
       ],
-      "duration": "01:04:59",
+      "duration": "01:24:21",
       "round": "Round of 32",
-      "date": "2016-04-18"
+      "date": "2016-04-19"
     },
     {
       "players": [
@@ -217,51 +294,26 @@
           "is_winner": true,
           "set_games": [
             "7",
-            "7"
+            "2",
+            "6"
           ],
-          "name": "Kyle Edmund",
-          "country": "GB"
+          "name": "Radu Albot",
+          "country": "MD"
         },
         {
           "is_winner": false,
           "set_games": [
             "6",
-            "6"
+            "6",
+            "1"
           ],
-          "name": "Lukas Rosol",
-          "country": "CZ"
+          "name": "Paul-Henri Mathieu",
+          "country": "FR"
         }
       ],
-      "duration": "01:43:46",
+      "duration": "02:02:27",
       "round": "Round of 32",
-      "date": "2016-04-18"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "3",
-            "6"
-          ],
-          "name": "Damir Dzumhur",
-          "country": "BA"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "1",
-            "6",
-            "2"
-          ],
-          "name": "Marius Copil",
-          "country": "RO"
-        }
-      ],
-      "duration": "01:39:40",
-      "round": "Round of 32",
-      "date": "2016-04-18"
+      "date": "2016-04-19"
     },
     {
       "players": [
@@ -441,58 +493,6 @@
       "duration": "01:43:44",
       "round": "Round of 16",
       "date": "2016-04-21"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "2",
-            "6"
-          ],
-          "name": "Radu Albot",
-          "country": "MD"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "6",
-            "1"
-          ],
-          "name": "Paul-Henri Mathieu",
-          "country": "FR"
-        }
-      ],
-      "duration": "02:02:27",
-      "round": "Round of 32",
-      "date": "2016-04-19"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Paolo Lorenzi",
-          "country": "IT"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "4"
-          ],
-          "name": "Diego Schwartzman",
-          "country": "AR"
-        }
-      ],
-      "duration": "01:24:21",
-      "round": "Round of 32",
-      "date": "2016-04-19"
     },
     {
       "players": [

@@ -8,6 +8,31 @@
     {
       "players": [
         {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Gonzalo Lama",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Jorge Montero",
+          "country": "CL"
+        }
+      ],
+      "duration": "01:22:15",
+      "round": "Round of 32",
+      "date": "2016-04-04"
+    },
+    {
+      "players": [
+        {
           "is_winner": false,
           "set_games": [
             "5",
@@ -36,24 +61,53 @@
           "is_winner": false,
           "set_games": [
             "4",
+            "7",
             "4"
           ],
-          "name": "Marcelo Arevalo",
-          "country": "SV"
+          "name": "Nikola Milojevic",
+          "country": "RS"
         },
         {
           "is_winner": true,
           "set_games": [
             "6",
+            "6",
             "6"
           ],
-          "name": "Malek Jaziri",
-          "country": "TN"
+          "name": "Hubert Hurkacz",
+          "country": "PL"
         }
       ],
-      "duration": "01:23:33",
-      "round": "Round of 16",
-      "date": "2016-04-07"
+      "duration": "02:26:51",
+      "round": "Round of 32",
+      "date": "2016-04-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "4"
+          ],
+          "name": "Julien Dubail",
+          "country": "BE"
+        }
+      ],
+      "duration": "02:28:37",
+      "round": "Round of 32",
+      "date": "2016-04-04"
     },
     {
       "players": [
@@ -343,79 +397,27 @@
         {
           "is_winner": false,
           "set_games": [
+            "7",
             "4",
-            "7",
-            "4"
-          ],
-          "name": "Nikola Milojevic",
-          "country": "RS"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6",
-            "6"
-          ],
-          "name": "Hubert Hurkacz",
-          "country": "PL"
-        }
-      ],
-      "duration": "02:26:51",
-      "round": "Round of 32",
-      "date": "2016-04-04"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6",
-            "6"
-          ],
-          "name": "Tatsuma Ito",
-          "country": "JP"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "7",
-            "4"
-          ],
-          "name": "Julien Dubail",
-          "country": "BE"
-        }
-      ],
-      "duration": "02:28:37",
-      "round": "Round of 32",
-      "date": "2016-04-04"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
             "6"
           ],
           "name": "Gonzalo Lama",
           "country": "CL"
         },
         {
-          "is_winner": false,
+          "is_winner": true,
           "set_games": [
-            "5",
-            "4"
+            "6",
+            "6",
+            "7"
           ],
-          "name": "Jorge Montero",
-          "country": "CL"
+          "name": "Taylor Fritz",
+          "country": "US"
         }
       ],
-      "duration": "01:22:15",
-      "round": "Round of 32",
-      "date": "2016-04-04"
+      "duration": "03:03:30",
+      "round": "Round of 16",
+      "date": "2016-04-06"
     },
     {
       "players": [
@@ -447,51 +449,24 @@
         {
           "is_winner": false,
           "set_games": [
-            "7",
-            "4",
-            "6"
+            "3",
+            "5"
           ],
-          "name": "Gonzalo Lama",
-          "country": "CL"
+          "name": "Peter Polansky",
+          "country": "CA"
         },
         {
           "is_winner": true,
           "set_games": [
-            "6",
             "6",
             "7"
           ],
-          "name": "Taylor Fritz",
-          "country": "US"
+          "name": "Alejandro Gonzalez",
+          "country": "CO"
         }
       ],
-      "duration": "03:03:30",
-      "round": "Round of 16",
-      "date": "2016-04-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Tatsuma Ito",
-          "country": "JP"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "2"
-          ],
-          "name": "Andre Ghem",
-          "country": "BR"
-        }
-      ],
-      "duration": "01:55:15",
-      "round": "Round of 16",
+      "duration": "01:43:37",
+      "round": "Round of 32",
       "date": "2016-04-06"
     },
     {
@@ -524,27 +499,52 @@
     {
       "players": [
         {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        },
+        {
           "is_winner": false,
           "set_games": [
-            "3",
-            "5"
+            "6",
+            "2"
           ],
-          "name": "Peter Polansky",
-          "country": "CA"
+          "name": "Andre Ghem",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:55:15",
+      "round": "Round of 16",
+      "date": "2016-04-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Marcelo Arevalo",
+          "country": "SV"
         },
         {
           "is_winner": true,
           "set_games": [
             "6",
-            "7"
+            "6"
           ],
-          "name": "Alejandro Gonzalez",
-          "country": "CO"
+          "name": "Malek Jaziri",
+          "country": "TN"
         }
       ],
-      "duration": "01:43:37",
-      "round": "Round of 32",
-      "date": "2016-04-06"
+      "duration": "01:23:33",
+      "round": "Round of 16",
+      "date": "2016-04-07"
     },
     {
       "players": [

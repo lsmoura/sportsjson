@@ -12,56 +12,6 @@
         {
           "is_winner": false,
           "set_games": [
-            "3",
-            "2"
-          ],
-          "name": "Aleksandra Krunic",
-          "country": "RS"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Sara Errani",
-          "country": "IT"
-        }
-      ],
-      "duration": "01:08:05",
-      "round": "Round of 32",
-      "date": "2016-07-12"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "4"
-          ],
-          "name": "Aliaksandra Sasnovich",
-          "country": "BY"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Pauline Parmentier",
-          "country": "FR"
-        }
-      ],
-      "duration": "01:59:57",
-      "round": "Round of 16",
-      "date": "2016-07-13"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
             "4",
             "6",
             "5"
@@ -81,6 +31,31 @@
         }
       ],
       "duration": "02:24:43",
+      "round": "Round of 32",
+      "date": "2016-07-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "5"
+          ],
+          "name": "Kristina Kucova",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Cagla Buyukakcay",
+          "country": "TR"
+        }
+      ],
+      "duration": "01:39:16",
       "round": "Round of 32",
       "date": "2016-07-11"
     },
@@ -114,25 +89,25 @@
         {
           "is_winner": false,
           "set_games": [
-            "0",
-            "5"
+            "3",
+            "2"
           ],
-          "name": "Kristina Kucova",
-          "country": "SK"
+          "name": "Aleksandra Krunic",
+          "country": "RS"
         },
         {
           "is_winner": true,
           "set_games": [
             "6",
-            "7"
+            "6"
           ],
-          "name": "Cagla Buyukakcay",
-          "country": "TR"
+          "name": "Sara Errani",
+          "country": "IT"
         }
       ],
-      "duration": "01:39:16",
+      "duration": "01:08:05",
       "round": "Round of 32",
-      "date": "2016-07-11"
+      "date": "2016-07-12"
     },
     {
       "players": [
@@ -235,31 +210,6 @@
       "duration": "01:02:52",
       "round": "Round of 32",
       "date": "2016-07-12"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "1"
-          ],
-          "name": "Misa Eguchi",
-          "country": "JP"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Laura Siegemund",
-          "country": "DE"
-        }
-      ],
-      "duration": "01:21:48",
-      "round": "Round of 16",
-      "date": "2016-07-13"
     },
     {
       "players": [
@@ -393,31 +343,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "2"
-          ],
-          "name": "Ysaline Bonaventure",
-          "country": "BE"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Pauline Parmentier",
-          "country": "FR"
-        }
-      ],
-      "duration": "01:19:26",
-      "round": "Round of 32",
-      "date": "2016-07-12"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "3",
@@ -470,27 +395,77 @@
     {
       "players": [
         {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Ysaline Bonaventure",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pauline Parmentier",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:19:26",
+      "round": "Round of 32",
+      "date": "2016-07-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Aliaksandra Sasnovich",
+          "country": "BY"
+        },
+        {
           "is_winner": true,
           "set_games": [
             "7",
             "6"
           ],
-          "name": "Anastasija Sevastova",
-          "country": "LV"
-        },
+          "name": "Pauline Parmentier",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:59:57",
+      "round": "Round of 16",
+      "date": "2016-07-13"
+    },
+    {
+      "players": [
         {
           "is_winner": false,
           "set_games": [
-            "6",
-            "3"
+            "4",
+            "1"
           ],
-          "name": "Sara Errani",
-          "country": "IT"
+          "name": "Misa Eguchi",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Laura Siegemund",
+          "country": "DE"
         }
       ],
-      "duration": "01:31:44",
-      "round": "Quarter-Final",
-      "date": "2016-07-15"
+      "duration": "01:21:48",
+      "round": "Round of 16",
+      "date": "2016-07-13"
     },
     {
       "players": [
@@ -514,6 +489,33 @@
         }
       ],
       "duration": "01:24:48",
+      "round": "Round of 16",
+      "date": "2016-07-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Vania King",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "1"
+          ],
+          "name": "Cagla Buyukakcay",
+          "country": "TR"
+        }
+      ],
+      "duration": "02:16:19",
       "round": "Round of 16",
       "date": "2016-07-13"
     },
@@ -575,31 +577,6 @@
           "is_winner": false,
           "set_games": [
             "3",
-            "1"
-          ],
-          "name": "Pauline Parmentier",
-          "country": "FR"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Vania King",
-          "country": "US"
-        }
-      ],
-      "duration": "01:33:47",
-      "round": "Quarter-Final",
-      "date": "2016-07-15"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
             "2"
           ],
           "name": "Polina Leykina",
@@ -618,33 +595,6 @@
       "duration": "01:20:04",
       "round": "Round of 16",
       "date": "2016-07-14"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "4",
-            "6"
-          ],
-          "name": "Vania King",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "6",
-            "1"
-          ],
-          "name": "Cagla Buyukakcay",
-          "country": "TR"
-        }
-      ],
-      "duration": "02:16:19",
-      "round": "Round of 16",
-      "date": "2016-07-13"
     },
     {
       "players": [
@@ -670,6 +620,56 @@
       "duration": "01:10:21",
       "round": "Round of 16",
       "date": "2016-07-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Anastasija Sevastova",
+          "country": "LV"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Sara Errani",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:31:44",
+      "round": "Quarter-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Pauline Parmentier",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Vania King",
+          "country": "US"
+        }
+      ],
+      "duration": "01:33:47",
+      "round": "Quarter-Final",
+      "date": "2016-07-15"
     },
     {
       "players": [

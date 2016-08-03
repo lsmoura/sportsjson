@@ -8,56 +8,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "0",
-            "0"
-          ],
-          "name": "Farrukh Dustov",
-          "country": "UZ"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "0"
-          ],
-          "name": "Alexander Bublik",
-          "country": "RU"
-        }
-      ],
-      "duration": "00:15:41",
-      "round": "Round of 32",
-      "date": "2016-06-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "2"
-          ],
-          "name": "Aleksandre Metreveli",
-          "country": "GE"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Emilio Gomez",
-          "country": "EC"
-        }
-      ],
-      "duration": "01:18:00",
-      "round": "Round of 32",
-      "date": "2016-06-07"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -77,6 +27,31 @@
         }
       ],
       "duration": "01:03:02",
+      "round": "Round of 32",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "0"
+          ],
+          "name": "Farrukh Dustov",
+          "country": "UZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "0"
+          ],
+          "name": "Alexander Bublik",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:15:41",
       "round": "Round of 32",
       "date": "2016-06-06"
     },
@@ -104,6 +79,31 @@
       "duration": "01:14:49",
       "round": "Round of 32",
       "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Aleksandre Metreveli",
+          "country": "GE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Emilio Gomez",
+          "country": "EC"
+        }
+      ],
+      "duration": "01:18:00",
+      "round": "Round of 32",
+      "date": "2016-06-07"
     },
     {
       "players": [
@@ -179,31 +179,6 @@
       "duration": "01:00:48",
       "round": "Round of 32",
       "date": "2016-06-07"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "3"
-          ],
-          "name": "Andrey Rublev",
-          "country": "RU"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Steven Diez",
-          "country": "CA"
-        }
-      ],
-      "duration": "01:47:20",
-      "round": "Round of 16",
-      "date": "2016-06-08"
     },
     {
       "players": [
@@ -335,31 +310,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Alexander Bublik",
-          "country": "RU"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "7"
-          ],
-          "name": "Emilio Gomez",
-          "country": "EC"
-        }
-      ],
-      "duration": "01:50:57",
-      "round": "Quarter-Final",
-      "date": "2016-06-10"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "4",
@@ -437,31 +387,6 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Emilio Gomez",
-          "country": "EC"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "4"
-          ],
-          "name": "Facundo Arguello",
-          "country": "AR"
-        }
-      ],
-      "duration": "01:39:01",
-      "round": "Round of 16",
-      "date": "2016-06-08"
-    },
-    {
-      "players": [
-        {
           "is_winner": false,
           "set_games": [
             "3",
@@ -487,27 +412,27 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "2"
-          ],
-          "name": "Mikhail Kukushkin",
-          "country": "KZ"
-        },
-        {
           "is_winner": false,
           "set_games": [
-            "1",
-            "1"
+            "6",
+            "3"
           ],
-          "name": "Aleksandr Nedovyesov",
-          "country": "KZ"
+          "name": "Andrey Rublev",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Steven Diez",
+          "country": "CA"
         }
       ],
-      "duration": "00:43:21",
-      "round": "Quarter-Final",
-      "date": "2016-06-10"
+      "duration": "01:47:20",
+      "round": "Round of 16",
+      "date": "2016-06-08"
     },
     {
       "players": [
@@ -531,6 +456,31 @@
         }
       ],
       "duration": "00:58:34",
+      "round": "Round of 16",
+      "date": "2016-06-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Emilio Gomez",
+          "country": "EC"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Facundo Arguello",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:39:01",
       "round": "Round of 16",
       "date": "2016-06-08"
     },
@@ -662,6 +612,56 @@
       "duration": "05:16:31",
       "round": "Round of 16",
       "date": "2016-06-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alexander Bublik",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Emilio Gomez",
+          "country": "EC"
+        }
+      ],
+      "duration": "01:50:57",
+      "round": "Quarter-Final",
+      "date": "2016-06-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Mikhail Kukushkin",
+          "country": "KZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Aleksandr Nedovyesov",
+          "country": "KZ"
+        }
+      ],
+      "duration": "00:43:21",
+      "round": "Quarter-Final",
+      "date": "2016-06-10"
     },
     {
       "players": [

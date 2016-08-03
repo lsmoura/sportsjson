@@ -1,0 +1,736 @@
+{
+  "name": "2016 Cherbourg, Qualification Challenger (Men's Singles)",
+  "country": "France",
+  "gender": "male",
+  "location": "Cherbourg",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Edoardo Eremin",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Evgeny Karlovskiy",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:48:24",
+      "round": "Round of 32",
+      "date": "2016-02-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Federico Gaio",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Hugo Nys",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:17:18",
+      "round": "Round of 32",
+      "date": "2016-02-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Gianluca Mager",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "3"
+          ],
+          "name": "Geoffrey Blancaneaux",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:46:54",
+      "round": "Round of 32",
+      "date": "2016-02-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "1",
+            "1"
+          ],
+          "name": "Jan Satral",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Hugo Grenier",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:35:05",
+      "round": "Round of 32",
+      "date": "2016-02-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jeremy Jahn",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Ugo Humbert",
+          "country": "FR"
+        }
+      ],
+      "duration": "00:59:56",
+      "round": "Round of 32",
+      "date": "2016-02-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "1"
+          ],
+          "name": "Joffrey De Schepper",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Sadio Doumbia",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:27:21",
+      "round": "Round of 32",
+      "date": "2016-02-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Lorenzo Giustino",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Corentin Moutet",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:43:18",
+      "round": "Round of 32",
+      "date": "2016-02-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Lorenzo Sonego",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Germain Gigounon",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:31:54",
+      "round": "Round of 32",
+      "date": "2016-02-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "2"
+          ],
+          "name": "Louis Chaix",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yannik Reuter",
+          "country": "BE"
+        }
+      ],
+      "duration": "00:48:44",
+      "round": "Round of 32",
+      "date": "2016-02-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Maxime Authom",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Maxime Tabatruong",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:47:47",
+      "round": "Round of 32",
+      "date": "2016-02-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Maxime Teixeira",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "2"
+          ],
+          "name": "Joshua Milton"
+        }
+      ],
+      "duration": "01:54:42",
+      "round": "Round of 32",
+      "date": "2016-02-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Miliaan Niesten",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "2"
+          ],
+          "name": "Alexandr Igoshin",
+          "country": "RU"
+        }
+      ],
+      "duration": "02:14:42",
+      "round": "Round of 32",
+      "date": "2016-02-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "3"
+          ],
+          "name": "Richard Gabb",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Erik Crepaldi",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:00:55",
+      "round": "Round of 32",
+      "date": "2016-02-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Robin Bailly",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Markus Eriksson",
+          "country": "SE"
+        }
+      ],
+      "duration": "01:01:53",
+      "round": "Round of 32",
+      "date": "2016-02-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Salvatore Caruso",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Matteo Berrettini",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:55:41",
+      "round": "Round of 32",
+      "date": "2016-02-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "4"
+          ],
+          "name": "Viktor Galovic",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Frederik Loechte Nielsen",
+          "country": "DK"
+        }
+      ],
+      "duration": "01:58:56",
+      "round": "Round of 32",
+      "date": "2016-02-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Corentin Moutet",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Maxime Authom",
+          "country": "BE"
+        }
+      ],
+      "duration": "00:58:42",
+      "round": "Round of 16",
+      "date": "2016-02-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Evgeny Karlovskiy",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Yannik Reuter",
+          "country": "BE"
+        }
+      ],
+      "duration": "00:56:08",
+      "round": "Round of 16",
+      "date": "2016-02-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Gianluca Mager",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Erik Crepaldi",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:43:11",
+      "round": "Round of 16",
+      "date": "2016-02-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Hugo Grenier",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Miliaan Niesten",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:15:17",
+      "round": "Round of 16",
+      "date": "2016-02-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Hugo Nys",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Frederik Loechte Nielsen",
+          "country": "DK"
+        }
+      ],
+      "duration": "00:57:21",
+      "round": "Round of 16",
+      "date": "2016-02-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Jeremy Jahn",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Germain Gigounon",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:06:33",
+      "round": "Round of 16",
+      "date": "2016-02-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "1"
+          ],
+          "name": "Markus Eriksson",
+          "country": "SE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Maxime Teixeira",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:35:37",
+      "round": "Round of 16",
+      "date": "2016-02-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "Salvatore Caruso",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "7"
+          ],
+          "name": "Sadio Doumbia",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:07:52",
+      "round": "Round of 16",
+      "date": "2016-02-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "7"
+          ],
+          "name": "Frederik Loechte Nielsen",
+          "country": "DK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "5"
+          ],
+          "name": "Germain Gigounon",
+          "country": "BE"
+        }
+      ],
+      "duration": "02:06:04",
+      "round": "Quarter-Final",
+      "date": "2016-02-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "7"
+          ],
+          "name": "Maxime Authom",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "5"
+          ],
+          "name": "Evgeny Karlovskiy",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:49:39",
+      "round": "Quarter-Final",
+      "date": "2016-02-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "4"
+          ],
+          "name": "Miliaan Niesten",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Maxime Teixeira",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:21:26",
+      "round": "Quarter-Final",
+      "date": "2016-02-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sadio Doumbia",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Erik Crepaldi",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:23:54",
+      "round": "Quarter-Final",
+      "date": "2016-02-22"
+    }
+  ]
+}

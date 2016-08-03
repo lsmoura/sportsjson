@@ -8,6 +8,162 @@
     {
       "players": [
         {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "2",
+            "6"
+          ],
+          "name": "Alexander Sarkissian",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "1"
+          ],
+          "name": "Phassawit Burapharitta",
+          "country": "TH"
+        }
+      ],
+      "duration": "04:36:50",
+      "round": "Round of 32",
+      "date": "2016-05-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Jimmy Wang",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Adrien Bossel",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:03:52",
+      "round": "Round of 32",
+      "date": "2016-05-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "3"
+          ],
+          "name": "Lloyd George Harris",
+          "country": "ZA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Lukas Lacko",
+          "country": "SK"
+        }
+      ],
+      "duration": "02:36:28",
+      "round": "Round of 32",
+      "date": "2016-05-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lloyd Glasspool",
+          "country": "GB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Andrew Whittington",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:05:14",
+      "round": "Round of 32",
+      "date": "2016-05-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Matt Reid",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Yuuya Kibi",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:07:03",
+      "round": "Round of 32",
+      "date": "2016-05-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "1"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Alexander Ward",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:42:09",
+      "round": "Round of 32",
+      "date": "2016-05-16"
+    },
+    {
+      "players": [
+        {
           "is_winner": false,
           "set_games": [
             "4",
@@ -233,214 +389,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "6",
-            "3"
-          ],
-          "name": "Lloyd George Harris",
-          "country": "ZA"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "4",
-            "6"
-          ],
-          "name": "Lukas Lacko",
-          "country": "SK"
-        }
-      ],
-      "duration": "02:36:28",
-      "round": "Round of 32",
-      "date": "2016-05-16"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "6",
-            "1"
-          ],
-          "name": "Yuichi Sugita",
-          "country": "JP"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "3",
-            "6"
-          ],
-          "name": "Alexander Ward",
-          "country": "GB"
-        }
-      ],
-      "duration": "01:42:09",
-      "round": "Round of 32",
-      "date": "2016-05-16"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Lloyd Glasspool",
-          "country": "GB"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "0"
-          ],
-          "name": "Andrew Whittington",
-          "country": "AU"
-        }
-      ],
-      "duration": "01:05:14",
-      "round": "Round of 32",
-      "date": "2016-05-16"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "2",
-            "6"
-          ],
-          "name": "Alexander Sarkissian",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "6",
-            "1"
-          ],
-          "name": "Phassawit Burapharitta",
-          "country": "TH"
-        }
-      ],
-      "duration": "04:36:50",
-      "round": "Round of 32",
-      "date": "2016-05-16"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "2"
-          ],
-          "name": "Jimmy Wang",
-          "country": "TW"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Adrien Bossel",
-          "country": "CH"
-        }
-      ],
-      "duration": "01:03:52",
-      "round": "Round of 32",
-      "date": "2016-05-16"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "6"
-          ],
-          "name": "Matt Reid",
-          "country": "AU"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Yuuya Kibi",
-          "country": "JP"
-        }
-      ],
-      "duration": "01:07:03",
-      "round": "Round of 32",
-      "date": "2016-05-16"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6",
-            "6"
-          ],
-          "name": "James Duckworth",
-          "country": "AU"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "2",
-            "2"
-          ],
-          "name": "Yen-Hsun Lu",
-          "country": "TW"
-        }
-      ],
-      "duration": "01:59:32",
-      "round": "Quarter-Final",
-      "date": "2016-05-19"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "James Duckworth",
-          "country": "AU"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "4"
-          ],
-          "name": "Jason Jung",
-          "country": "TW"
-        }
-      ],
-      "duration": "01:22:26",
-      "round": "Round of 16",
-      "date": "2016-05-18"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -512,6 +460,31 @@
       "duration": "01:44:07",
       "round": "Round of 32",
       "date": "2016-05-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "James Duckworth",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Jason Jung",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:22:26",
+      "round": "Round of 16",
+      "date": "2016-05-18"
     },
     {
       "players": [
@@ -612,6 +585,33 @@
         }
       ],
       "duration": "01:16:14",
+      "round": "Quarter-Final",
+      "date": "2016-05-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "James Duckworth",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "2"
+          ],
+          "name": "Yen-Hsun Lu",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:59:32",
       "round": "Quarter-Final",
       "date": "2016-05-19"
     },

@@ -13,51 +13,24 @@
           "is_winner": true,
           "set_games": [
             "7",
-            "6"
+            "7"
           ],
-          "name": "Bernard Tomic",
-          "country": "AU"
+          "name": "Adrian Mannarino",
+          "country": "FR"
         },
         {
           "is_winner": false,
           "set_games": [
             "6",
-            "3"
+            "5"
           ],
-          "name": "Donald Young",
+          "name": "Frances Tiafoe",
           "country": "US"
         }
       ],
-      "duration": "01:22:36",
-      "round": "Round of 32",
-      "date": "2016-07-20"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "5",
-            "6"
-          ],
-          "name": "Alexander Zverev",
-          "country": "DE"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "7",
-            "2"
-          ],
-          "name": "Malek Jaziri",
-          "country": "TN"
-        }
-      ],
-      "duration": "02:13:44",
-      "round": "Round of 16",
-      "date": "2016-07-21"
+      "duration": "01:37:44",
+      "round": "Round of 64",
+      "date": "2016-07-18"
     },
     {
       "players": [
@@ -85,31 +58,6 @@
       "duration": "02:00:32",
       "round": "Round of 64",
       "date": "2016-07-18"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Samuel Groth",
-          "country": "AU"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "7"
-          ],
-          "name": "Brian Baker",
-          "country": "US"
-        }
-      ],
-      "duration": "01:44:03",
-      "round": "Round of 64",
-      "date": "2016-07-19"
     },
     {
       "players": [
@@ -191,33 +139,6 @@
         {
           "is_winner": true,
           "set_games": [
-            "6",
-            "6",
-            "6"
-          ],
-          "name": "Sam Querrey",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "4",
-            "4"
-          ],
-          "name": "Bjorn Fratangelo",
-          "country": "US"
-        }
-      ],
-      "duration": "02:01:31",
-      "round": "Round of 32",
-      "date": "2016-07-19"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
             "7",
             "6"
           ],
@@ -237,56 +158,6 @@
       "duration": "01:15:53",
       "round": "Round of 64",
       "date": "2016-07-18"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "1",
-            "6"
-          ],
-          "name": "Austin Krajicek",
-          "country": "US"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Yen-Hsun Lu",
-          "country": "TW"
-        }
-      ],
-      "duration": "01:15:47",
-      "round": "Round of 64",
-      "date": "2016-07-19"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "4"
-          ],
-          "name": "Yoshihito Nishioka",
-          "country": "JP"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "2"
-          ],
-          "name": "Ivan Dodig",
-          "country": "HR"
-        }
-      ],
-      "duration": "00:54:24",
-      "round": "Round of 64",
-      "date": "2016-07-19"
     },
     {
       "players": [
@@ -312,33 +183,6 @@
       "duration": "01:02:00",
       "round": "Round of 64",
       "date": "2016-07-18"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "3",
-            "6"
-          ],
-          "name": "Donald Young",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "6",
-            "3"
-          ],
-          "name": "Ernesto Escobedo",
-          "country": "US"
-        }
-      ],
-      "duration": "01:47:34",
-      "round": "Round of 64",
-      "date": "2016-07-19"
     },
     {
       "players": [
@@ -393,6 +237,58 @@
       "duration": "01:44:51",
       "round": "Round of 64",
       "date": "2016-07-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Austin Krajicek",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Yen-Hsun Lu",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:15:47",
+      "round": "Round of 64",
+      "date": "2016-07-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Donald Young",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Ernesto Escobedo",
+          "country": "US"
+        }
+      ],
+      "duration": "01:47:34",
+      "round": "Round of 64",
+      "date": "2016-07-19"
     },
     {
       "players": [
@@ -531,31 +427,6 @@
           "is_winner": true,
           "set_games": [
             "7",
-            "7"
-          ],
-          "name": "Adrian Mannarino",
-          "country": "FR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "5"
-          ],
-          "name": "Frances Tiafoe",
-          "country": "US"
-        }
-      ],
-      "duration": "01:37:44",
-      "round": "Round of 64",
-      "date": "2016-07-18"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
             "6"
           ],
           "name": "Ryan Harrison",
@@ -574,6 +445,108 @@
       "duration": "01:15:32",
       "round": "Round of 64",
       "date": "2016-07-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Sam Querrey",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "4"
+          ],
+          "name": "Bjorn Fratangelo",
+          "country": "US"
+        }
+      ],
+      "duration": "02:01:31",
+      "round": "Round of 32",
+      "date": "2016-07-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Samuel Groth",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Brian Baker",
+          "country": "US"
+        }
+      ],
+      "duration": "01:44:03",
+      "round": "Round of 64",
+      "date": "2016-07-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Yoshihito Nishioka",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Ivan Dodig",
+          "country": "HR"
+        }
+      ],
+      "duration": "00:54:24",
+      "round": "Round of 64",
+      "date": "2016-07-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Adrian Mannarino",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Steve Johnson",
+          "country": "US"
+        }
+      ],
+      "duration": "18:39:10",
+      "round": "Round of 32",
+      "date": "2016-07-20"
     },
     {
       "players": [
@@ -603,25 +576,25 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "4"
-          ],
-          "name": "Adrian Mannarino",
-          "country": "FR"
-        },
-        {
           "is_winner": true,
           "set_games": [
-            "6",
+            "7",
             "6"
           ],
-          "name": "Steve Johnson",
+          "name": "Bernard Tomic",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Donald Young",
           "country": "US"
         }
       ],
-      "duration": "18:39:10",
+      "duration": "01:22:36",
       "round": "Round of 32",
       "date": "2016-07-20"
     },
@@ -678,31 +651,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "2"
-          ],
-          "name": "Yen-Hsun Lu",
-          "country": "TW"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Gael Monfils",
-          "country": "FR"
-        }
-      ],
-      "duration": "01:02:16",
-      "round": "Round of 32",
-      "date": "2016-07-20"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -747,31 +695,6 @@
         }
       ],
       "duration": "01:03:58",
-      "round": "Round of 32",
-      "date": "2016-07-20"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "4"
-          ],
-          "name": "Viktor Troicki",
-          "country": "RS"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Ryan Harrison",
-          "country": "US"
-        }
-      ],
-      "duration": "02:16:07",
       "round": "Round of 32",
       "date": "2016-07-20"
     },
@@ -851,6 +774,83 @@
       "duration": "02:28:20",
       "round": "Round of 32",
       "date": "2016-07-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Viktor Troicki",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Ryan Harrison",
+          "country": "US"
+        }
+      ],
+      "duration": "02:16:07",
+      "round": "Round of 32",
+      "date": "2016-07-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Yen-Hsun Lu",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gael Monfils",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:02:16",
+      "round": "Round of 32",
+      "date": "2016-07-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Alexander Zverev",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "2"
+          ],
+          "name": "Malek Jaziri",
+          "country": "TN"
+        }
+      ],
+      "duration": "02:13:44",
+      "round": "Round of 16",
+      "date": "2016-07-21"
     },
     {
       "players": [

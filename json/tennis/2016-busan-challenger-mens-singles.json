@@ -10,83 +10,6 @@
         {
           "is_winner": false,
           "set_games": [
-            "2",
-            "0"
-          ],
-          "name": "Ricardas Berankis",
-          "country": "LT"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "3"
-          ],
-          "name": "Alexander Sarkissian",
-          "country": "US"
-        }
-      ],
-      "duration": "00:37:13",
-      "round": "Round of 32",
-      "date": "2016-05-03"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7",
-            "0"
-          ],
-          "name": "Konstantin Kravchuk",
-          "country": "RU"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "5",
-            "0"
-          ],
-          "name": "Marinko Matosevic",
-          "country": "AU"
-        }
-      ],
-      "duration": "02:01:33",
-      "round": "Quarter-Final",
-      "date": "2016-05-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "7"
-          ],
-          "name": "Grega Zemlja",
-          "country": "SI"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Soon-Woo Kwon",
-          "country": "KR"
-        }
-      ],
-      "duration": "02:01:56",
-      "round": "Round of 32",
-      "date": "2016-05-02"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
             "1",
             "0"
           ],
@@ -104,6 +27,31 @@
         }
       ],
       "duration": "00:30:00",
+      "round": "Round of 32",
+      "date": "2016-05-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Chan-Yeong Oh",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marco Chiudinelli",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:15:36",
       "round": "Round of 32",
       "date": "2016-05-02"
     },
@@ -129,6 +77,31 @@
         }
       ],
       "duration": "01:34:30",
+      "round": "Round of 32",
+      "date": "2016-05-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Grega Zemlja",
+          "country": "SI"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Soon-Woo Kwon",
+          "country": "KR"
+        }
+      ],
+      "duration": "02:01:56",
       "round": "Round of 32",
       "date": "2016-05-02"
     },
@@ -162,27 +135,27 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "2"
-          ],
-          "name": "Chan-Yeong Oh",
-          "country": "KR"
-        },
-        {
           "is_winner": true,
           "set_games": [
             "6",
             "6"
           ],
-          "name": "Marco Chiudinelli",
-          "country": "CH"
+          "name": "Daniel Evans",
+          "country": "GB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Alexander Kudryavtsev",
+          "country": "RU"
         }
       ],
-      "duration": "01:15:36",
+      "duration": "00:48:11",
       "round": "Round of 32",
-      "date": "2016-05-02"
+      "date": "2016-05-03"
     },
     {
       "players": [
@@ -341,33 +314,6 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "4",
-            "7",
-            "6"
-          ],
-          "name": "Yuichi Sugita",
-          "country": "JP"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "6",
-            "0"
-          ],
-          "name": "Duck-Hee Lee",
-          "country": "KR"
-        }
-      ],
-      "duration": "02:28:30",
-      "round": "Round of 16",
-      "date": "2016-05-05"
-    },
-    {
-      "players": [
-        {
           "is_winner": false,
           "set_games": [
             "1",
@@ -395,54 +341,27 @@
     {
       "players": [
         {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Ricardas Berankis",
+          "country": "LT"
+        },
+        {
           "is_winner": true,
           "set_games": [
             "6",
-            "6"
-          ],
-          "name": "Daniel Evans",
-          "country": "GB"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "1"
-          ],
-          "name": "Alexander Kudryavtsev",
-          "country": "RU"
-        }
-      ],
-      "duration": "00:48:11",
-      "round": "Round of 32",
-      "date": "2016-05-03"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "3",
             "3"
           ],
-          "name": "John-Patrick Smith",
-          "country": "AU"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "3",
-            "6",
-            "6"
-          ],
-          "name": "Marinko Matosevic",
-          "country": "AU"
+          "name": "Alexander Sarkissian",
+          "country": "US"
         }
       ],
-      "duration": "01:52:44",
-      "round": "Round of 16",
-      "date": "2016-05-05"
+      "duration": "00:37:13",
+      "round": "Round of 32",
+      "date": "2016-05-03"
     },
     {
       "players": [
@@ -474,58 +393,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "3",
-            "3"
-          ],
-          "name": "Alexander Sarkissian",
-          "country": "US"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "4",
-            "6",
-            "6"
-          ],
-          "name": "Marco Chiudinelli",
-          "country": "CH"
-        }
-      ],
-      "duration": "02:27:44",
-      "round": "Round of 16",
-      "date": "2016-05-04"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Konstantin Kravchuk",
-          "country": "RU"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "5"
-          ],
-          "name": "Jimmy Wang",
-          "country": "TW"
-        }
-      ],
-      "duration": "01:22:16",
-      "round": "Round of 16",
-      "date": "2016-05-05"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "3",
@@ -549,6 +416,33 @@
       "duration": "02:04:25",
       "round": "Round of 32",
       "date": "2016-05-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "3"
+          ],
+          "name": "Alexander Sarkissian",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Marco Chiudinelli",
+          "country": "CH"
+        }
+      ],
+      "duration": "02:27:44",
+      "round": "Round of 16",
+      "date": "2016-05-04"
     },
     {
       "players": [
@@ -653,6 +547,112 @@
       "duration": "01:03:48",
       "round": "Round of 16",
       "date": "2016-05-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "3"
+          ],
+          "name": "John-Patrick Smith",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Marinko Matosevic",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:52:44",
+      "round": "Round of 16",
+      "date": "2016-05-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Konstantin Kravchuk",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Jimmy Wang",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:22:16",
+      "round": "Round of 16",
+      "date": "2016-05-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "6"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "0"
+          ],
+          "name": "Duck-Hee Lee",
+          "country": "KR"
+        }
+      ],
+      "duration": "02:28:30",
+      "round": "Round of 16",
+      "date": "2016-05-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "0"
+          ],
+          "name": "Konstantin Kravchuk",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "5",
+            "0"
+          ],
+          "name": "Marinko Matosevic",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:01:33",
+      "round": "Quarter-Final",
+      "date": "2016-05-06"
     },
     {
       "players": [

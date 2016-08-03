@@ -35,6 +35,214 @@
     {
       "players": [
         {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Makoto Ochi",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Yuuya Kibi",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:09:46",
+      "round": "Round of 32",
+      "date": "2016-07-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Max Purcell",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Luke Saville",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:28:34",
+      "round": "Round of 32",
+      "date": "2016-07-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "3"
+          ],
+          "name": "Nicolas Barrientos",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Tsung-Hua Yang",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:56:43",
+      "round": "Round of 32",
+      "date": "2016-07-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "1"
+          ],
+          "name": "Cheong-Eui Kim",
+          "country": "KR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "0"
+          ],
+          "name": "San-Hui Sin",
+          "country": "KR"
+        }
+      ],
+      "duration": "01:49:12",
+      "round": "Round of 32",
+      "date": "2016-07-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Daniel Yoo",
+          "country": "KR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "4"
+          ],
+          "name": "Jimmy Wang",
+          "country": "TW"
+        }
+      ],
+      "duration": "02:25:05",
+      "round": "Round of 32",
+      "date": "2016-07-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Duck-Hee Lee",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Edan Leshem",
+          "country": "IL"
+        }
+      ],
+      "duration": "01:34:43",
+      "round": "Round of 32",
+      "date": "2016-07-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Shuichi Sekiguchi",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "2"
+          ],
+          "name": "Sidharth Rawat",
+          "country": "IN"
+        }
+      ],
+      "duration": "02:25:16",
+      "round": "Round of 32",
+      "date": "2016-07-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Takuto Niki",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Hyun-Woo Nam",
+          "country": "KR"
+        }
+      ],
+      "duration": "01:14:46",
+      "round": "Round of 32",
+      "date": "2016-07-18"
+    },
+    {
+      "players": [
+        {
           "is_winner": false,
           "set_games": [
             "2",
@@ -171,108 +379,6 @@
             "6",
             "6"
           ],
-          "name": "Max Purcell",
-          "country": "AU"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "4"
-          ],
-          "name": "Luke Saville",
-          "country": "AU"
-        }
-      ],
-      "duration": "01:28:34",
-      "round": "Round of 32",
-      "date": "2016-07-17"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "3",
-            "3"
-          ],
-          "name": "Nicolas Barrientos",
-          "country": "CO"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "3",
-            "6",
-            "6"
-          ],
-          "name": "Tsung-Hua Yang",
-          "country": "TW"
-        }
-      ],
-      "duration": "01:56:43",
-      "round": "Round of 32",
-      "date": "2016-07-17"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Makoto Ochi",
-          "country": "JP"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "1"
-          ],
-          "name": "Yuuya Kibi",
-          "country": "JP"
-        }
-      ],
-      "duration": "01:09:46",
-      "round": "Round of 32",
-      "date": "2016-07-17"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Takuto Niki",
-          "country": "JP"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "0"
-          ],
-          "name": "Hyun-Woo Nam",
-          "country": "KR"
-        }
-      ],
-      "duration": "01:14:46",
-      "round": "Round of 32",
-      "date": "2016-07-18"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
           "name": "Temur Ismailov",
           "country": "UZ"
         },
@@ -295,156 +401,25 @@
         {
           "is_winner": true,
           "set_games": [
-            "5",
-            "6",
-            "1"
-          ],
-          "name": "Cheong-Eui Kim",
-          "country": "KR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
             "7",
-            "2",
-            "0"
-          ],
-          "name": "San-Hui Sin",
-          "country": "KR"
-        }
-      ],
-      "duration": "01:49:12",
-      "round": "Round of 32",
-      "date": "2016-07-18"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6",
             "6"
-          ],
-          "name": "Daniel Yoo",
-          "country": "KR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "2",
-            "4"
-          ],
-          "name": "Jimmy Wang",
-          "country": "TW"
-        }
-      ],
-      "duration": "02:25:05",
-      "round": "Round of 32",
-      "date": "2016-07-18"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "4"
-          ],
-          "name": "Duck-Hee Lee",
-          "country": "KR"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Edan Leshem",
-          "country": "IL"
-        }
-      ],
-      "duration": "01:34:43",
-      "round": "Round of 32",
-      "date": "2016-07-18"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6",
-            "6"
-          ],
-          "name": "Shuichi Sekiguchi",
-          "country": "JP"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "4",
-            "2"
-          ],
-          "name": "Sidharth Rawat",
-          "country": "IN"
-        }
-      ],
-      "duration": "02:25:16",
-      "round": "Round of 32",
-      "date": "2016-07-18"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "4"
           ],
           "name": "Ti Chen",
           "country": "TW"
         },
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Soon-Woo Kwon",
-          "country": "KR"
-        }
-      ],
-      "duration": "01:34:13",
-      "round": "Round of 16",
-      "date": "2016-07-21"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Cheong-Eui Kim",
-          "country": "KR"
-        },
-        {
           "is_winner": false,
           "set_games": [
-            "4",
-            "6"
+            "6",
+            "4"
           ],
-          "name": "Di Wu",
-          "country": "CN"
+          "name": "Liang-Chi Huang",
+          "country": "TW"
         }
       ],
-      "duration": "01:23:01",
-      "round": "Round of 16",
-      "date": "2016-07-20"
+      "duration": "01:33:30",
+      "round": "Round of 32",
+      "date": "2016-07-19"
     },
     {
       "players": [
@@ -530,25 +505,25 @@
         {
           "is_winner": true,
           "set_games": [
-            "7",
-            "6"
+            "6",
+            "7"
           ],
-          "name": "Ti Chen",
-          "country": "TW"
+          "name": "Cheong-Eui Kim",
+          "country": "KR"
         },
         {
           "is_winner": false,
           "set_games": [
-            "6",
-            "4"
+            "4",
+            "6"
           ],
-          "name": "Liang-Chi Huang",
-          "country": "TW"
+          "name": "Di Wu",
+          "country": "CN"
         }
       ],
-      "duration": "01:33:30",
-      "round": "Round of 32",
-      "date": "2016-07-19"
+      "duration": "01:23:01",
+      "round": "Round of 16",
+      "date": "2016-07-20"
     },
     {
       "players": [
@@ -625,6 +600,31 @@
       ],
       "duration": "01:50:06",
       "round": "Quarter-Final",
+      "date": "2016-07-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Ti Chen",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Soon-Woo Kwon",
+          "country": "KR"
+        }
+      ],
+      "duration": "01:34:13",
+      "round": "Round of 16",
       "date": "2016-07-21"
     },
     {

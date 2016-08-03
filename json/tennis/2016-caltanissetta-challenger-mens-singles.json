@@ -8,6 +8,83 @@
     {
       "players": [
         {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "4"
+          ],
+          "name": "Adrian Ungur",
+          "country": "RO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Enrique Lopez",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:19:19",
+      "round": "Round of 32",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "5"
+          ],
+          "name": "Andrea Arnaboldi",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Facundo Bagnis",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:56:25",
+      "round": "Round of 32",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Guido Andreozzi",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Sumit Nagal",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:17:03",
+      "round": "Round of 32",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -35,52 +112,52 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "4"
-          ],
-          "name": "Elias Ymer",
-          "country": "SE"
-        },
-        {
           "is_winner": true,
           "set_games": [
             "6",
             "6"
           ],
-          "name": "Alessandro Giannessi",
+          "name": "Santiago Giraldo",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Lorenzo Giustino",
           "country": "IT"
         }
       ],
-      "duration": "01:47:53",
-      "round": "Round of 16",
-      "date": "2016-06-09"
+      "duration": "01:32:58",
+      "round": "Round of 32",
+      "date": "2016-06-06"
     },
     {
       "players": [
         {
-          "is_winner": true,
+          "is_winner": false,
           "set_games": [
             "6",
             "6"
           ],
-          "name": "Gonzalo Lama",
-          "country": "CL"
+          "name": "Daniel Gimeno",
+          "country": "ES"
         },
         {
-          "is_winner": false,
+          "is_winner": true,
           "set_games": [
-            "2",
-            "2"
+            "7",
+            "7"
           ],
-          "name": "Salvatore Caruso",
+          "name": "Omar Giacalone",
           "country": "IT"
         }
       ],
-      "duration": "05:59:16",
-      "round": "Round of 16",
-      "date": "2016-06-09"
+      "duration": "02:17:42",
+      "round": "Round of 32",
+      "date": "2016-06-07"
     },
     {
       "players": [
@@ -293,56 +370,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "5"
-          ],
-          "name": "Andrea Arnaboldi",
-          "country": "IT"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "7"
-          ],
-          "name": "Facundo Bagnis",
-          "country": "AR"
-        }
-      ],
-      "duration": "01:56:25",
-      "round": "Round of 32",
-      "date": "2016-06-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Santiago Giraldo",
-          "country": "CO"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "1"
-          ],
-          "name": "Lorenzo Giustino",
-          "country": "IT"
-        }
-      ],
-      "duration": "01:32:58",
-      "round": "Round of 32",
-      "date": "2016-06-06"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "7",
@@ -373,8 +400,8 @@
             "6",
             "6"
           ],
-          "name": "Guido Andreozzi",
-          "country": "AR"
+          "name": "Salvatore Caruso",
+          "country": "IT"
         },
         {
           "is_winner": false,
@@ -382,40 +409,13 @@
             "2",
             "4"
           ],
-          "name": "Sumit Nagal",
-          "country": "IN"
+          "name": "Alejandro Gonzalez",
+          "country": "CO"
         }
       ],
-      "duration": "01:17:03",
+      "duration": "01:20:30",
       "round": "Round of 32",
-      "date": "2016-06-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "7",
-            "4"
-          ],
-          "name": "Adrian Ungur",
-          "country": "RO"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "5",
-            "6"
-          ],
-          "name": "Enrique Lopez",
-          "country": "ES"
-        }
-      ],
-      "duration": "02:19:19",
-      "round": "Round of 32",
-      "date": "2016-06-06"
+      "date": "2016-06-07"
     },
     {
       "players": [
@@ -499,31 +499,6 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Salvatore Caruso",
-          "country": "IT"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "4"
-          ],
-          "name": "Alejandro Gonzalez",
-          "country": "CO"
-        }
-      ],
-      "duration": "01:20:30",
-      "round": "Round of 32",
-      "date": "2016-06-07"
-    },
-    {
-      "players": [
-        {
           "is_winner": false,
           "set_games": [
             "2",
@@ -554,6 +529,56 @@
           "is_winner": false,
           "set_games": [
             "4",
+            "4"
+          ],
+          "name": "Elias Ymer",
+          "country": "SE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alessandro Giannessi",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:47:53",
+      "round": "Round of 16",
+      "date": "2016-06-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gonzalo Lama",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Salvatore Caruso",
+          "country": "IT"
+        }
+      ],
+      "duration": "05:59:16",
+      "round": "Round of 16",
+      "date": "2016-06-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
             "3"
           ],
           "name": "Marko Tepavac",
@@ -572,31 +597,6 @@
       "duration": "01:18:56",
       "round": "Round of 16",
       "date": "2016-06-09"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Daniel Gimeno",
-          "country": "ES"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "7"
-          ],
-          "name": "Omar Giacalone",
-          "country": "IT"
-        }
-      ],
-      "duration": "02:17:42",
-      "round": "Round of 32",
-      "date": "2016-06-07"
     },
     {
       "players": [

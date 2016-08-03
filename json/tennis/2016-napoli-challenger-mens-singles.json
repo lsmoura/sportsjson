@@ -8,54 +8,29 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "4",
-            "6"
-          ],
-          "name": "Marius Copil",
-          "country": "RO"
-        },
-        {
           "is_winner": false,
           "set_games": [
-            "3",
             "6",
-            "2"
+            "6",
+            "4"
           ],
-          "name": "Dimitar Kuzmanov",
-          "country": "BG"
-        }
-      ],
-      "duration": "02:00:35",
-      "round": "Round of 32",
-      "date": "2016-04-05"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "2"
-          ],
-          "name": "Adrian Ungur",
-          "country": "RO"
+          "name": "Jan-Lennard Struff",
+          "country": "DE"
         },
         {
           "is_winner": true,
           "set_games": [
             "7",
+            "4",
             "6"
           ],
-          "name": "Uladzimir Ignatik",
-          "country": "BY"
+          "name": "Gianluca Mager",
+          "country": "IT"
         }
       ],
-      "duration": "01:19:50",
-      "round": "Round of 16",
-      "date": "2016-04-06"
+      "duration": "01:43:32",
+      "round": "Round of 32",
+      "date": "2016-04-04"
     },
     {
       "players": [
@@ -87,29 +62,27 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "6",
-            "4"
-          ],
-          "name": "Jan-Lennard Struff",
-          "country": "DE"
-        },
-        {
           "is_winner": true,
           "set_games": [
-            "7",
+            "6",
+            "7"
+          ],
+          "name": "Adrian Ungur",
+          "country": "RO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
             "4",
             "6"
           ],
-          "name": "Gianluca Mager",
-          "country": "IT"
+          "name": "Alexandre Sidorenko",
+          "country": "FR"
         }
       ],
-      "duration": "01:43:32",
+      "duration": "01:28:57",
       "round": "Round of 32",
-      "date": "2016-04-04"
+      "date": "2016-04-05"
     },
     {
       "players": [
@@ -187,31 +160,6 @@
       "duration": "02:16:05",
       "round": "Round of 32",
       "date": "2016-04-05"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Gastao Elias",
-          "country": "PT"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "2"
-          ],
-          "name": "Stefano Napolitano",
-          "country": "IT"
-        }
-      ],
-      "duration": "01:43:03",
-      "round": "Round of 16",
-      "date": "2016-04-06"
     },
     {
       "players": [
@@ -400,22 +348,24 @@
           "is_winner": true,
           "set_games": [
             "6",
-            "7"
+            "4",
+            "6"
           ],
-          "name": "Adrian Ungur",
+          "name": "Marius Copil",
           "country": "RO"
         },
         {
           "is_winner": false,
           "set_games": [
-            "4",
-            "6"
+            "3",
+            "6",
+            "2"
           ],
-          "name": "Alexandre Sidorenko",
-          "country": "FR"
+          "name": "Dimitar Kuzmanov",
+          "country": "BG"
         }
       ],
-      "duration": "01:28:57",
+      "duration": "02:00:35",
       "round": "Round of 32",
       "date": "2016-04-05"
     },
@@ -470,6 +420,108 @@
       "duration": "02:30:38",
       "round": "Round of 32",
       "date": "2016-04-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Adrian Ungur",
+          "country": "RO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Uladzimir Ignatik",
+          "country": "BY"
+        }
+      ],
+      "duration": "01:19:50",
+      "round": "Round of 16",
+      "date": "2016-04-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Gastao Elias",
+          "country": "PT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Stefano Napolitano",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:43:03",
+      "round": "Round of 16",
+      "date": "2016-04-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Gianluca Mager",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marius Copil",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:04:25",
+      "round": "Round of 16",
+      "date": "2016-04-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Salvatore Caruso",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "2"
+          ],
+          "name": "Mirza Basic",
+          "country": "BA"
+        }
+      ],
+      "duration": "02:28:42",
+      "round": "Round of 16",
+      "date": "2016-04-06"
     },
     {
       "players": [
@@ -555,33 +607,6 @@
         {
           "is_winner": true,
           "set_games": [
-            "6",
-            "6",
-            "6"
-          ],
-          "name": "Salvatore Caruso",
-          "country": "IT"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "7",
-            "2"
-          ],
-          "name": "Mirza Basic",
-          "country": "BA"
-        }
-      ],
-      "duration": "02:28:42",
-      "round": "Round of 16",
-      "date": "2016-04-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
             "7",
             "6"
           ],
@@ -601,31 +626,6 @@
       "duration": "02:01:54",
       "round": "Round of 16",
       "date": "2016-04-07"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "3"
-          ],
-          "name": "Gianluca Mager",
-          "country": "IT"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Marius Copil",
-          "country": "RO"
-        }
-      ],
-      "duration": "01:04:25",
-      "round": "Round of 16",
-      "date": "2016-04-06"
     },
     {
       "players": [

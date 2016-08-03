@@ -11,33 +11,6 @@
           "is_winner": true,
           "set_games": [
             "6",
-            "7",
-            "6"
-          ],
-          "name": "Jan-Lennard Struff",
-          "country": "DE"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "5",
-            "3"
-          ],
-          "name": "Aleksandr Nedovyesov",
-          "country": "KZ"
-        }
-      ],
-      "duration": "02:21:39",
-      "round": "Round of 16",
-      "date": "2016-06-02"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
             "3",
             "6"
           ],
@@ -418,50 +391,27 @@
         {
           "is_winner": false,
           "set_games": [
-            "3",
-            "4"
+            "4",
+            "7",
+            "3"
           ],
-          "name": "Andrea Arnaboldi",
-          "country": "IT"
+          "name": "Henri Laaksonen",
+          "country": "CH"
         },
         {
           "is_winner": true,
           "set_games": [
+            "6",
             "6",
             "6"
           ],
-          "name": "Jozef Kovalik",
-          "country": "SK"
+          "name": "Lorenzo Sonego",
+          "country": "IT"
         }
       ],
-      "duration": "01:12:09",
-      "round": "Round of 16",
-      "date": "2016-06-02"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "5"
-          ],
-          "name": "Gerald Melzer",
-          "country": "AT"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Maximo Gonzalez",
-          "country": "AR"
-        }
-      ],
-      "duration": "01:43:54",
-      "round": "Quarter-Final",
-      "date": "2016-06-03"
+      "duration": "18:09:14",
+      "round": "Round of 32",
+      "date": "2016-06-01"
     },
     {
       "players": [
@@ -487,31 +437,6 @@
       "duration": "00:58:35",
       "round": "Round of 16",
       "date": "2016-06-01"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "4"
-          ],
-          "name": "Luca Vanni",
-          "country": "IT"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Maximo Gonzalez",
-          "country": "AR"
-        }
-      ],
-      "duration": "01:18:40",
-      "round": "Round of 16",
-      "date": "2016-06-02"
     },
     {
       "players": [
@@ -595,27 +520,77 @@
         {
           "is_winner": false,
           "set_games": [
-            "4",
-            "7",
-            "3"
+            "3",
+            "4"
           ],
-          "name": "Henri Laaksonen",
-          "country": "CH"
+          "name": "Andrea Arnaboldi",
+          "country": "IT"
         },
         {
           "is_winner": true,
           "set_games": [
             "6",
+            "6"
+          ],
+          "name": "Jozef Kovalik",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:12:09",
+      "round": "Round of 16",
+      "date": "2016-06-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Jan-Lennard Struff",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "5",
+            "3"
+          ],
+          "name": "Aleksandr Nedovyesov",
+          "country": "KZ"
+        }
+      ],
+      "duration": "02:21:39",
+      "round": "Round of 16",
+      "date": "2016-06-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Luca Vanni",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
             "6",
             "6"
           ],
-          "name": "Lorenzo Sonego",
-          "country": "IT"
+          "name": "Maximo Gonzalez",
+          "country": "AR"
         }
       ],
-      "duration": "18:09:14",
-      "round": "Round of 32",
-      "date": "2016-06-01"
+      "duration": "01:18:40",
+      "round": "Round of 16",
+      "date": "2016-06-02"
     },
     {
       "players": [
@@ -641,6 +616,31 @@
       "duration": "01:05:32",
       "round": "Round of 16",
       "date": "2016-06-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Gerald Melzer",
+          "country": "AT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Maximo Gonzalez",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:43:54",
+      "round": "Quarter-Final",
+      "date": "2016-06-03"
     },
     {
       "players": [

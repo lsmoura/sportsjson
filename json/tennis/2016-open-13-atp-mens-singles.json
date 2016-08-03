@@ -1,0 +1,706 @@
+{
+  "name": "2016 Open 13 ATP (Men's Singles)",
+  "country": "France",
+  "gender": "male",
+  "location": "Marseille",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "David Goffin",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Hyeon Chung",
+          "country": "KR"
+        }
+      ],
+      "duration": "01:01:19",
+      "round": "Round of 32",
+      "date": "2016-02-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Joao Sousa",
+          "country": "PT"
+        }
+      ],
+      "duration": "01:03:30",
+      "round": "Round of 32",
+      "date": "2016-02-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Simone Bolelli",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Benoit Paire",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:30:12",
+      "round": "Round of 32",
+      "date": "2016-02-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Feliciano Lopez",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "7"
+          ],
+          "name": "Sergiy Stakhovsky",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:54:33",
+      "round": "Round of 32",
+      "date": "2016-02-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Gilles Simon",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "7"
+          ],
+          "name": "Teymuraz Gabashvili",
+          "country": "RU"
+        }
+      ],
+      "duration": "02:29:47",
+      "round": "Round of 32",
+      "date": "2016-02-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Julien Benneteau",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Alexander Zverev",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:47:46",
+      "round": "Round of 32",
+      "date": "2016-02-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "6"
+          ],
+          "name": "Kenny De Schepper",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Ernests Gulbis",
+          "country": "LV"
+        }
+      ],
+      "duration": "02:13:05",
+      "round": "Round of 32",
+      "date": "2016-02-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Lucas Pouille",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Andrey Kuznetsov",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:31:42",
+      "round": "Round of 32",
+      "date": "2016-02-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Mischa Zverev",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Ramkumar Ramanathan",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:26:54",
+      "round": "Round of 32",
+      "date": "2016-02-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nick Kyrgios",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Vasek Pospisil",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:10:09",
+      "round": "Round of 32",
+      "date": "2016-02-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "David Goffin",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Mischa Zverev",
+          "country": "DE"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2016-02-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "7"
+          ],
+          "name": "Marin Cilic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "5"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        }
+      ],
+      "duration": "02:02:49",
+      "round": "Round of 16",
+      "date": "2016-02-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "3"
+          ],
+          "name": "Nicolas Mahut",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Vincent Millot",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:11:42",
+      "round": "Round of 32",
+      "date": "2016-02-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Quentin Halys",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "3"
+          ],
+          "name": "David Guez",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:07:22",
+      "round": "Round of 32",
+      "date": "2016-02-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "7"
+          ],
+          "name": "Stan Wawrinka",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Sergiy Stakhovsky",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:57:32",
+      "round": "Round of 16",
+      "date": "2016-02-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "5"
+          ],
+          "name": "Alexander Zverev",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "7"
+          ],
+          "name": "Tomas Berdych",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:07:03",
+      "round": "Round of 16",
+      "date": "2016-02-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andrey Kuznetsov",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "4"
+          ],
+          "name": "Quentin Halys",
+          "country": "FR"
+        }
+      ],
+      "duration": "00:56:07",
+      "round": "Round of 16",
+      "date": "2016-02-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Ernests Gulbis",
+          "country": "LV"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Richard Gasquet",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:46:07",
+      "round": "Round of 16",
+      "date": "2016-02-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Teymuraz Gabashvili",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nick Kyrgios",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:11:33",
+      "round": "Round of 16",
+      "date": "2016-02-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Vincent Millot",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Benoit Paire",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:35:46",
+      "round": "Round of 16",
+      "date": "2016-02-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "David Goffin",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tomas Berdych",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:16:20",
+      "round": "Quarter-Final",
+      "date": "2016-02-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marin Cilic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Andrey Kuznetsov",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:05:56",
+      "round": "Quarter-Final",
+      "date": "2016-02-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nick Kyrgios",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "4"
+          ],
+          "name": "Richard Gasquet",
+          "country": "FR"
+        }
+      ],
+      "duration": "00:59:50",
+      "round": "Quarter-Final",
+      "date": "2016-02-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "5"
+          ],
+          "name": "Stan Wawrinka",
+          "country": "CH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "7"
+          ],
+          "name": "Benoit Paire",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:52:00",
+      "round": "Quarter-Final",
+      "date": "2016-02-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "3"
+          ],
+          "name": "Benoit Paire",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Marin Cilic",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:59:02",
+      "round": "Semi-Final",
+      "date": "2016-02-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nick Kyrgios",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Tomas Berdych",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:09:11",
+      "round": "Semi-Final",
+      "date": "2016-02-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Marin Cilic",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Nick Kyrgios",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:25:15",
+      "round": "Championship",
+      "date": "2016-02-21"
+    }
+  ]
+}

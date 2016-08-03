@@ -8,52 +8,27 @@
     {
       "players": [
         {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Anastasia Detiuc",
+          "country": "MD"
+        },
+        {
           "is_winner": true,
           "set_games": [
             "6",
             "6"
           ],
-          "name": "Dayana Yastremska",
-          "country": "UA"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "0"
-          ],
-          "name": "Karman Thandi",
-          "country": "IN"
+          "name": "Elena Rybakina",
+          "country": "RU"
         }
       ],
-      "duration": "01:08:25",
-      "round": "Round of 32",
-      "date": "2016-06-01"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "5"
-          ],
-          "name": "Dayana Yastremska",
-          "country": "UA"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "7"
-          ],
-          "name": "Emmanuelle Salas",
-          "country": "FR"
-        }
-      ],
-      "duration": "01:35:18",
-      "round": "Round of 16",
-      "date": "2016-06-02"
+      "duration": "01:00:55",
+      "round": "Round of 64",
+      "date": "2016-05-29"
     },
     {
       "players": [
@@ -589,31 +564,6 @@
         {
           "is_winner": true,
           "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Ines Ibbou",
-          "country": "DZ"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "1"
-          ],
-          "name": "Ylena In-Albon",
-          "country": "CH"
-        }
-      ],
-      "duration": "19:54:56",
-      "round": "Round of 64",
-      "date": "2016-06-01"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
             "1",
             "6",
             "6"
@@ -639,33 +589,6 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "4",
-            "6",
-            "6"
-          ],
-          "name": "Tessah Andrianjafitrimo",
-          "country": "FR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "3",
-            "1"
-          ],
-          "name": "Ayano Shimizu",
-          "country": "JP"
-        }
-      ],
-      "duration": "19:56:24",
-      "round": "Round of 64",
-      "date": "2016-06-01"
-    },
-    {
-      "players": [
-        {
           "is_winner": false,
           "set_games": [
             "4",
@@ -687,6 +610,31 @@
       "duration": "01:17:02",
       "round": "Round of 64",
       "date": "2016-05-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Eleni Christofi",
+          "country": "GR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sofia Kenin",
+          "country": "US"
+        }
+      ],
+      "duration": "00:58:59",
+      "round": "Round of 64",
+      "date": "2016-05-31"
     },
     {
       "players": [
@@ -744,74 +692,24 @@
           "is_winner": true,
           "set_games": [
             "6",
-            "7"
-          ],
-          "name": "Iga Swiatek",
-          "country": "PL"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "5"
-          ],
-          "name": "Sofia Kenin",
-          "country": "US"
-        }
-      ],
-      "duration": "01:41:17",
-      "round": "Round of 16",
-      "date": "2016-06-02"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "1",
-            "2"
-          ],
-          "name": "Eleni Christofi",
-          "country": "GR"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
             "6"
           ],
-          "name": "Sofia Kenin",
-          "country": "US"
-        }
-      ],
-      "duration": "00:58:59",
-      "round": "Round of 64",
-      "date": "2016-05-31"
-    },
-    {
-      "players": [
+          "name": "Dayana Yastremska",
+          "country": "UA"
+        },
         {
           "is_winner": false,
           "set_games": [
-            "4",
-            "3"
+            "3",
+            "0"
           ],
-          "name": "Anastasia Detiuc",
-          "country": "MD"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Elena Rybakina",
-          "country": "RU"
+          "name": "Karman Thandi",
+          "country": "IN"
         }
       ],
-      "duration": "01:00:55",
-      "round": "Round of 64",
-      "date": "2016-05-29"
+      "duration": "01:08:25",
+      "round": "Round of 32",
+      "date": "2016-06-01"
     },
     {
       "players": [
@@ -875,31 +773,6 @@
             "6",
             "6"
           ],
-          "name": "Usue Maitane Arconada",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "1",
-            "4"
-          ],
-          "name": "Mira Antonitsch",
-          "country": "AT"
-        }
-      ],
-      "duration": "01:08:23",
-      "round": "Round of 32",
-      "date": "2016-06-01"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
           "name": "Iga Swiatek",
           "country": "PL"
         },
@@ -915,6 +788,31 @@
       ],
       "duration": "01:32:45",
       "round": "Round of 32",
+      "date": "2016-06-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Ines Ibbou",
+          "country": "DZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "1"
+          ],
+          "name": "Ylena In-Albon",
+          "country": "CH"
+        }
+      ],
+      "duration": "19:54:56",
+      "round": "Round of 64",
       "date": "2016-06-01"
     },
     {
@@ -968,31 +866,6 @@
         }
       ],
       "duration": "02:30:15",
-      "round": "Round of 32",
-      "date": "2016-06-01"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Rebeka Masarova",
-          "country": "CH"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "1"
-          ],
-          "name": "Claire Liu",
-          "country": "US"
-        }
-      ],
-      "duration": "01:21:15",
       "round": "Round of 32",
       "date": "2016-06-01"
     },
@@ -1076,31 +949,6 @@
         {
           "is_winner": false,
           "set_games": [
-            "2",
-            "4"
-          ],
-          "name": "Yasmine Mansouri",
-          "country": "FR"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Lucie Kankova",
-          "country": "CZ"
-        }
-      ],
-      "duration": "19:11:29",
-      "round": "Round of 64",
-      "date": "2016-06-01"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
             "4",
             "2"
           ],
@@ -1145,6 +993,158 @@
       "duration": "01:05:09",
       "round": "Round of 32",
       "date": "2016-06-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Rebeka Masarova",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Claire Liu",
+          "country": "US"
+        }
+      ],
+      "duration": "01:21:15",
+      "round": "Round of 32",
+      "date": "2016-06-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Tessah Andrianjafitrimo",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "1"
+          ],
+          "name": "Ayano Shimizu",
+          "country": "JP"
+        }
+      ],
+      "duration": "19:56:24",
+      "round": "Round of 64",
+      "date": "2016-06-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Usue Maitane Arconada",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Mira Antonitsch",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:08:23",
+      "round": "Round of 32",
+      "date": "2016-06-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Yasmine Mansouri",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lucie Kankova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "19:11:29",
+      "round": "Round of 64",
+      "date": "2016-06-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "5"
+          ],
+          "name": "Dayana Yastremska",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Emmanuelle Salas",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:35:18",
+      "round": "Round of 16",
+      "date": "2016-06-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Iga Swiatek",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Sofia Kenin",
+          "country": "US"
+        }
+      ],
+      "duration": "01:41:17",
+      "round": "Round of 16",
+      "date": "2016-06-02"
     },
     {
       "players": [
@@ -1251,31 +1251,6 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Michaela Gordon",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "1",
-            "3"
-          ],
-          "name": "Melany Krywoj",
-          "country": "AR"
-        }
-      ],
-      "duration": "01:00:03",
-      "round": "Round of 32",
-      "date": "2016-06-02"
-    },
-    {
-      "players": [
-        {
           "is_winner": false,
           "set_games": [
             "0",
@@ -1298,6 +1273,31 @@
       ],
       "duration": "01:29:07",
       "round": "Round of 16",
+      "date": "2016-06-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Michaela Gordon",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Melany Krywoj",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:00:03",
+      "round": "Round of 32",
       "date": "2016-06-02"
     },
     {

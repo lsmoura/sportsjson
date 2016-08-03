@@ -8,58 +8,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "1"
-          ],
-          "name": "Guillermo Garcia",
-          "country": "ES"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Gilles Mueller",
-          "country": "LU"
-        }
-      ],
-      "duration": "01:18:19",
-      "round": "Round of 16",
-      "date": "2016-06-09"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "4",
-            "6"
-          ],
-          "name": "David Ferrer",
-          "country": "ES"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "4",
-            "6",
-            "7"
-          ],
-          "name": "Gilles Mueller",
-          "country": "LU"
-        }
-      ],
-      "duration": "02:18:14",
-      "round": "Quarter-Final",
-      "date": "2016-06-10"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "7",
@@ -135,6 +83,31 @@
     {
       "players": [
         {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Sam Querrey",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Benjamin Becker",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:21:29",
+      "round": "Round of 32",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
           "is_winner": false,
           "set_games": [
             "1",
@@ -164,50 +137,25 @@
         {
           "is_winner": true,
           "set_games": [
-            "7",
-            "7"
+            "6",
+            "6"
           ],
-          "name": "Sam Querrey",
-          "country": "US"
+          "name": "Adrian Mannarino",
+          "country": "FR"
         },
         {
           "is_winner": false,
           "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Benjamin Becker",
-          "country": "DE"
-        }
-      ],
-      "duration": "01:21:29",
-      "round": "Round of 32",
-      "date": "2016-06-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Stefan Kozlov",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
+            "4",
             "4"
           ],
-          "name": "Steve Johnson",
-          "country": "US"
+          "name": "Andreas Seppi",
+          "country": "IT"
         }
       ],
-      "duration": "01:25:40",
-      "round": "Round of 16",
-      "date": "2016-06-08"
+      "duration": "01:30:03",
+      "round": "Round of 32",
+      "date": "2016-06-07"
     },
     {
       "players": [
@@ -264,31 +212,6 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "David Ferrer",
-          "country": "ES"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "4"
-          ],
-          "name": "Dudi Sela",
-          "country": "IL"
-        }
-      ],
-      "duration": "01:28:55",
-      "round": "Round of 16",
-      "date": "2016-06-09"
-    },
-    {
-      "players": [
-        {
           "is_winner": false,
           "set_games": [
             "4",
@@ -341,31 +264,6 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Adrian Mannarino",
-          "country": "FR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "4"
-          ],
-          "name": "Andreas Seppi",
-          "country": "IT"
-        }
-      ],
-      "duration": "01:30:03",
-      "round": "Round of 32",
-      "date": "2016-06-07"
-    },
-    {
-      "players": [
-        {
           "is_winner": false,
           "set_games": [
             "6",
@@ -385,6 +283,31 @@
         }
       ],
       "duration": "01:25:44",
+      "round": "Round of 32",
+      "date": "2016-06-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Vasek Pospisil",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Guillermo Garcia",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:22:29",
       "round": "Round of 32",
       "date": "2016-06-07"
     },
@@ -445,31 +368,6 @@
         {
           "is_winner": true,
           "set_games": [
-            "7",
-            "7"
-          ],
-          "name": "Ivo Karlovic",
-          "country": "HR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Igor Sijsling",
-          "country": "NL"
-        }
-      ],
-      "duration": "01:24:47",
-      "round": "Round of 16",
-      "date": "2016-06-09"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
             "6",
             "6"
           ],
@@ -493,27 +391,27 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "2"
-          ],
-          "name": "Vasek Pospisil",
-          "country": "CA"
-        },
-        {
           "is_winner": true,
           "set_games": [
-            "7",
+            "6",
             "6"
           ],
-          "name": "Guillermo Garcia",
-          "country": "ES"
+          "name": "Stefan Kozlov",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Steve Johnson",
+          "country": "US"
         }
       ],
-      "duration": "01:22:29",
-      "round": "Round of 32",
-      "date": "2016-06-07"
+      "duration": "01:25:40",
+      "round": "Round of 16",
+      "date": "2016-06-08"
     },
     {
       "players": [
@@ -539,6 +437,108 @@
       "duration": "00:58:21",
       "round": "Round of 16",
       "date": "2016-06-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "David Ferrer",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Dudi Sela",
+          "country": "IL"
+        }
+      ],
+      "duration": "01:28:55",
+      "round": "Round of 16",
+      "date": "2016-06-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "1"
+          ],
+          "name": "Guillermo Garcia",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Gilles Mueller",
+          "country": "LU"
+        }
+      ],
+      "duration": "01:18:19",
+      "round": "Round of 16",
+      "date": "2016-06-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Ivo Karlovic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Igor Sijsling",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:24:47",
+      "round": "Round of 16",
+      "date": "2016-06-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "David Ferrer",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "7"
+          ],
+          "name": "Gilles Mueller",
+          "country": "LU"
+        }
+      ],
+      "duration": "02:18:14",
+      "round": "Quarter-Final",
+      "date": "2016-06-10"
     },
     {
       "players": [

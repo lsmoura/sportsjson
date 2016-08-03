@@ -10,31 +10,6 @@
         {
           "is_winner": true,
           "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Louisa Chirico",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "1"
-          ],
-          "name": "Monica Niculescu",
-          "country": "RO"
-        }
-      ],
-      "duration": "01:35:44",
-      "round": "Round of 64",
-      "date": "2016-05-01"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
             "2",
             "6",
             "2"
@@ -81,31 +56,6 @@
       "duration": "00:59:15",
       "round": "Round of 64",
       "date": "2016-04-30"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Sabine Lisicki",
-          "country": "DE"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "1",
-            "3"
-          ],
-          "name": "Monica Puig",
-          "country": "PR"
-        }
-      ],
-      "duration": "00:58:27",
-      "round": "Round of 64",
-      "date": "2016-05-01"
     },
     {
       "players": [
@@ -183,31 +133,6 @@
       "duration": "01:49:13",
       "round": "Round of 64",
       "date": "2016-04-30"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Simona Halep",
-          "country": "RO"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "0",
-            "3"
-          ],
-          "name": "Misaki Doi",
-          "country": "JP"
-        }
-      ],
-      "duration": "00:57:39",
-      "round": "Round of 64",
-      "date": "2016-05-01"
     },
     {
       "players": [
@@ -296,33 +221,6 @@
           "is_winner": false,
           "set_games": [
             "4",
-            "7",
-            "4"
-          ],
-          "name": "Ekaterina Makarova",
-          "country": "RU"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "5",
-            "6"
-          ],
-          "name": "Timea Bacsinszky",
-          "country": "CH"
-        }
-      ],
-      "duration": "02:19:36",
-      "round": "Round of 32",
-      "date": "2016-05-03"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
             "6",
             "3"
           ],
@@ -393,31 +291,6 @@
       "duration": "01:09:19",
       "round": "Round of 64",
       "date": "2016-05-01"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "4"
-          ],
-          "name": "Karolina Pliskova",
-          "country": "CZ"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Christina McHale",
-          "country": "US"
-        }
-      ],
-      "duration": "01:37:28",
-      "round": "Round of 32",
-      "date": "2016-05-02"
     },
     {
       "players": [
@@ -495,31 +368,6 @@
       "duration": "01:20:02",
       "round": "Round of 64",
       "date": "2016-05-01"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Madison Keys",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "3"
-          ],
-          "name": "Barbora Zahlavova Strycova",
-          "country": "CZ"
-        }
-      ],
-      "duration": "01:19:32",
-      "round": "Round of 32",
-      "date": "2016-05-02"
     },
     {
       "players": [
@@ -629,31 +477,6 @@
           "is_winner": true,
           "set_games": [
             "6",
-            "6"
-          ],
-          "name": "Victoria Azarenka",
-          "country": "BY"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "2"
-          ],
-          "name": "Alize Cornet",
-          "country": "FR"
-        }
-      ],
-      "duration": "01:23:20",
-      "round": "Round of 32",
-      "date": "2016-05-02"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
             "3",
             "6"
           ],
@@ -755,31 +578,6 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Patricia Maria Tig",
-          "country": "RO"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "4"
-          ],
-          "name": "Madison Keys",
-          "country": "US"
-        }
-      ],
-      "duration": "01:16:04",
-      "round": "Round of 16",
-      "date": "2016-05-04"
-    },
-    {
-      "players": [
-        {
           "is_winner": false,
           "set_games": [
             "3",
@@ -801,6 +599,233 @@
         }
       ],
       "duration": "02:01:25",
+      "round": "Round of 64",
+      "date": "2016-05-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Kristina Mladenovic",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mirjana Lucic-Baroni",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:11:20",
+      "round": "Round of 64",
+      "date": "2016-05-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Lara Arruabarrena",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Petra Kvitova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:14:30",
+      "round": "Round of 64",
+      "date": "2016-05-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Lesia Tsurenko",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Anastasia Pavlyuchenkova",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:08:04",
+      "round": "Round of 64",
+      "date": "2016-05-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Louisa Chirico",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "1"
+          ],
+          "name": "Monica Niculescu",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:35:44",
+      "round": "Round of 64",
+      "date": "2016-05-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sabine Lisicki",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Monica Puig",
+          "country": "PR"
+        }
+      ],
+      "duration": "00:58:27",
+      "round": "Round of 64",
+      "date": "2016-05-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Sara Sorribes",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Samantha Stosur",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:07:15",
+      "round": "Round of 64",
+      "date": "2016-05-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Simona Halep",
+          "country": "RO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Misaki Doi",
+          "country": "JP"
+        }
+      ],
+      "duration": "00:57:39",
+      "round": "Round of 64",
+      "date": "2016-05-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "6",
+            "3"
+          ],
+          "name": "Svetlana Kuznetsova",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Laura Siegemund",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:45:33",
+      "round": "Round of 64",
+      "date": "2016-05-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Victoria Azarenka",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Laura Robson",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:24:38",
       "round": "Round of 64",
       "date": "2016-05-01"
     },
@@ -857,33 +882,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "4",
-            "4"
-          ],
-          "name": "Christina McHale",
-          "country": "US"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6",
-            "6"
-          ],
-          "name": "Irina Camelia Begu",
-          "country": "RO"
-        }
-      ],
-      "duration": "02:36:39",
-      "round": "Round of 16",
-      "date": "2016-05-04"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "5",
@@ -913,27 +911,77 @@
         {
           "is_winner": false,
           "set_games": [
-            "0",
             "6",
-            "3"
+            "4"
           ],
-          "name": "Svetlana Kuznetsova",
-          "country": "RU"
+          "name": "Karolina Pliskova",
+          "country": "CZ"
         },
         {
           "is_winner": true,
           "set_games": [
-            "6",
-            "3",
+            "7",
             "6"
           ],
-          "name": "Laura Siegemund",
-          "country": "DE"
+          "name": "Christina McHale",
+          "country": "US"
         }
       ],
-      "duration": "01:45:33",
-      "round": "Round of 64",
-      "date": "2016-05-01"
+      "duration": "01:37:28",
+      "round": "Round of 32",
+      "date": "2016-05-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Louisa Chirico",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "1",
+            "3"
+          ],
+          "name": "Ana Ivanovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "02:04:24",
+      "round": "Round of 32",
+      "date": "2016-05-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Madison Keys",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Barbora Zahlavova Strycova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:19:32",
+      "round": "Round of 32",
+      "date": "2016-05-02"
     },
     {
       "players": [
@@ -941,10 +989,10 @@
           "is_winner": false,
           "set_games": [
             "2",
-            "1"
+            "3"
           ],
-          "name": "Lesia Tsurenko",
-          "country": "UA"
+          "name": "Sloane Stephens",
+          "country": "US"
         },
         {
           "is_winner": true,
@@ -952,13 +1000,13 @@
             "6",
             "6"
           ],
-          "name": "Anastasia Pavlyuchenkova",
-          "country": "RU"
+          "name": "Patricia Maria Tig",
+          "country": "RO"
         }
       ],
-      "duration": "01:08:04",
-      "round": "Round of 64",
-      "date": "2016-05-01"
+      "duration": "01:16:33",
+      "round": "Round of 32",
+      "date": "2016-05-02"
     },
     {
       "players": [
@@ -974,91 +1022,16 @@
         {
           "is_winner": false,
           "set_games": [
-            "4",
-            "2"
-          ],
-          "name": "Laura Robson",
-          "country": "GB"
-        }
-      ],
-      "duration": "01:24:38",
-      "round": "Round of 64",
-      "date": "2016-05-01"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "1",
-            "3"
-          ],
-          "name": "Sara Sorribes",
-          "country": "ES"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Samantha Stosur",
-          "country": "AU"
-        }
-      ],
-      "duration": "01:07:15",
-      "round": "Round of 64",
-      "date": "2016-05-01"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "3"
-          ],
-          "name": "Kristina Mladenovic",
-          "country": "FR"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Mirjana Lucic-Baroni",
-          "country": "HR"
-        }
-      ],
-      "duration": "01:11:20",
-      "round": "Round of 64",
-      "date": "2016-05-01"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
             "3",
             "2"
           ],
-          "name": "Lara Arruabarrena",
-          "country": "ES"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Petra Kvitova",
-          "country": "CZ"
+          "name": "Alize Cornet",
+          "country": "FR"
         }
       ],
-      "duration": "01:14:30",
-      "round": "Round of 64",
-      "date": "2016-05-01"
+      "duration": "01:23:20",
+      "round": "Round of 32",
+      "date": "2016-05-02"
     },
     {
       "players": [
@@ -1128,6 +1101,33 @@
         }
       ],
       "duration": "01:50:10",
+      "round": "Round of 32",
+      "date": "2016-05-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "4"
+          ],
+          "name": "Ekaterina Makarova",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Timea Bacsinszky",
+          "country": "CH"
+        }
+      ],
+      "duration": "02:19:36",
       "round": "Round of 32",
       "date": "2016-05-03"
     },
@@ -1205,31 +1205,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "3"
-          ],
-          "name": "Sloane Stephens",
-          "country": "US"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Patricia Maria Tig",
-          "country": "RO"
-        }
-      ],
-      "duration": "01:16:33",
-      "round": "Round of 32",
-      "date": "2016-05-02"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -1255,33 +1230,6 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "5",
-            "6",
-            "6"
-          ],
-          "name": "Louisa Chirico",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "1",
-            "3"
-          ],
-          "name": "Ana Ivanovic",
-          "country": "RS"
-        }
-      ],
-      "duration": "02:04:24",
-      "round": "Round of 32",
-      "date": "2016-05-02"
-    },
-    {
-      "players": [
-        {
           "is_winner": false,
           "set_games": [
             "6",
@@ -1303,6 +1251,33 @@
         }
       ],
       "duration": "01:57:09",
+      "round": "Round of 16",
+      "date": "2016-05-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "4"
+          ],
+          "name": "Christina McHale",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Irina Camelia Begu",
+          "country": "RO"
+        }
+      ],
+      "duration": "02:36:39",
       "round": "Round of 16",
       "date": "2016-05-04"
     },
@@ -1361,33 +1336,6 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "4",
-            "6",
-            "6"
-          ],
-          "name": "Dominika Cibulkova",
-          "country": "SK"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "3",
-            "3"
-          ],
-          "name": "Sorana Cirstea",
-          "country": "RO"
-        }
-      ],
-      "duration": "02:06:05",
-      "round": "Quarter-Final",
-      "date": "2016-05-05"
-    },
-    {
-      "players": [
-        {
           "is_winner": false,
           "set_games": [
             "4",
@@ -1407,6 +1355,31 @@
         }
       ],
       "duration": "02:06:36",
+      "round": "Round of 16",
+      "date": "2016-05-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Patricia Maria Tig",
+          "country": "RO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Madison Keys",
+          "country": "US"
+        }
+      ],
+      "duration": "01:16:04",
       "round": "Round of 16",
       "date": "2016-05-04"
     },
@@ -1453,6 +1426,33 @@
       "duration": "N/A",
       "round": "Round of 16",
       "date": "2016-05-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Dominika Cibulkova",
+          "country": "SK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "3"
+          ],
+          "name": "Sorana Cirstea",
+          "country": "RO"
+        }
+      ],
+      "duration": "02:06:05",
+      "round": "Quarter-Final",
+      "date": "2016-05-05"
     },
     {
       "players": [

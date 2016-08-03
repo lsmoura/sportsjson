@@ -8,75 +8,27 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Dudi Sela",
-          "country": "IL"
-        },
-        {
           "is_winner": false,
           "set_games": [
-            "1",
-            "2"
+            "4",
+            "6",
+            "3"
           ],
-          "name": "Nikola Milojevic",
-          "country": "RS"
-        }
-      ],
-      "duration": "00:59:10",
-      "round": "Round of 16",
-      "date": "2016-05-04"
-    },
-    {
-      "players": [
+          "name": "Adrien Bossel",
+          "country": "CH"
+        },
         {
           "is_winner": true,
           "set_games": [
             "6",
+            "4",
             "6"
           ],
-          "name": "Agustin Velotti",
-          "country": "AR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "1",
-            "4"
-          ],
-          "name": "Denis Matsukevich",
+          "name": "Aslan Karatsev",
           "country": "RU"
         }
       ],
-      "duration": "01:18:51",
-      "round": "Round of 32",
-      "date": "2016-05-03"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "4"
-          ],
-          "name": "Temur Ismailov",
-          "country": "UZ"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Ilya Ivashka",
-          "country": "BY"
-        }
-      ],
-      "duration": "01:47:34",
+      "duration": "01:47:56",
       "round": "Round of 32",
       "date": "2016-05-02"
     },
@@ -135,27 +87,50 @@
         {
           "is_winner": false,
           "set_games": [
-            "4",
-            "6",
-            "3"
+            "5",
+            "4"
           ],
-          "name": "Adrien Bossel",
-          "country": "CH"
+          "name": "Temur Ismailov",
+          "country": "UZ"
         },
         {
           "is_winner": true,
           "set_games": [
-            "6",
-            "4",
+            "7",
             "6"
           ],
-          "name": "Aslan Karatsev",
+          "name": "Ilya Ivashka",
+          "country": "BY"
+        }
+      ],
+      "duration": "01:47:34",
+      "round": "Round of 32",
+      "date": "2016-05-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Agustin Velotti",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Denis Matsukevich",
           "country": "RU"
         }
       ],
-      "duration": "01:47:56",
+      "duration": "01:18:51",
       "round": "Round of 32",
-      "date": "2016-05-02"
+      "date": "2016-05-03"
     },
     {
       "players": [
@@ -393,6 +368,56 @@
     {
       "players": [
         {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Steven Diez",
+          "country": "CA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Scott Griekspoor",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:33:05",
+      "round": "Round of 32",
+      "date": "2016-05-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Tsung-Hua Yang",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marko Tepavac",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:01:54",
+      "round": "Round of 32",
+      "date": "2016-05-03"
+    },
+    {
+      "players": [
+        {
           "is_winner": false,
           "set_games": [
             "6",
@@ -439,6 +464,31 @@
         }
       ],
       "duration": "01:18:03",
+      "round": "Round of 16",
+      "date": "2016-05-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Dudi Sela",
+          "country": "IL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Nikola Milojevic",
+          "country": "RS"
+        }
+      ],
+      "duration": "00:59:10",
       "round": "Round of 16",
       "date": "2016-05-04"
     },
@@ -547,31 +597,6 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Steven Diez",
-          "country": "CA"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "6"
-          ],
-          "name": "Scott Griekspoor",
-          "country": "NL"
-        }
-      ],
-      "duration": "01:33:05",
-      "round": "Round of 32",
-      "date": "2016-05-03"
-    },
-    {
-      "players": [
-        {
           "is_winner": false,
           "set_games": [
             "1",
@@ -593,31 +618,6 @@
       "duration": "01:15:17",
       "round": "Round of 16",
       "date": "2016-05-04"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "1"
-          ],
-          "name": "Tsung-Hua Yang",
-          "country": "TW"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Marko Tepavac",
-          "country": "RS"
-        }
-      ],
-      "duration": "01:01:54",
-      "round": "Round of 32",
-      "date": "2016-05-03"
     },
     {
       "players": [

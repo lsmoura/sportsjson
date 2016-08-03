@@ -8,54 +8,29 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "4"
-          ],
-          "name": "Daniel Yoo",
-          "country": "KR"
-        },
-        {
           "is_winner": true,
           "set_games": [
+            "5",
             "6",
             "6"
           ],
-          "name": "Tatsuma Ito",
-          "country": "JP"
+          "name": "Jeremy Jahn",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "1",
+            "1"
+          ],
+          "name": "Riccardo Ghedin",
+          "country": "IT"
         }
       ],
-      "duration": "01:20:22",
+      "duration": "01:31:23",
       "round": "Round of 32",
-      "date": "2016-04-12"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "6",
-            "2"
-          ],
-          "name": "Daniel Nguyen",
-          "country": "US"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "4",
-            "6"
-          ],
-          "name": "Duck-Hee Lee",
-          "country": "KR"
-        }
-      ],
-      "duration": "02:12:21",
-      "round": "Round of 16",
-      "date": "2016-04-13"
+      "date": "2016-04-10"
     },
     {
       "players": [
@@ -87,50 +62,25 @@
         {
           "is_winner": false,
           "set_games": [
-            "5",
-            "2"
-          ],
-          "name": "Vaclav Safranek",
-          "country": "CZ"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Daniel Nguyen",
-          "country": "US"
-        }
-      ],
-      "duration": "01:22:00",
-      "round": "Round of 32",
-      "date": "2016-04-12"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
             "6",
-            "2"
+            "2",
+            "4"
           ],
-          "name": "Young-Seok Kim",
-          "country": "KR"
+          "name": "Alexander Sarkissian",
+          "country": "US"
         },
         {
           "is_winner": true,
           "set_games": [
-            "7",
-            "3",
+            "4",
+            "6",
             "6"
           ],
-          "name": "Gavin Van Peperzeel",
+          "name": "Marinko Matosevic",
           "country": "AU"
         }
       ],
-      "duration": "02:06:00",
+      "duration": "02:13:00",
       "round": "Round of 32",
       "date": "2016-04-11"
     },
@@ -158,31 +108,6 @@
         }
       ],
       "duration": "02:20:24",
-      "round": "Round of 32",
-      "date": "2016-04-11"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Soon-Woo Kwon",
-          "country": "KR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "4"
-          ],
-          "name": "Frederik Loechte Nielsen",
-          "country": "DK"
-        }
-      ],
-      "duration": "01:26:00",
       "round": "Round of 32",
       "date": "2016-04-11"
     },
@@ -271,33 +196,6 @@
           "is_winner": false,
           "set_games": [
             "6",
-            "2",
-            "4"
-          ],
-          "name": "Alexander Sarkissian",
-          "country": "US"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "4",
-            "6",
-            "6"
-          ],
-          "name": "Marinko Matosevic",
-          "country": "AU"
-        }
-      ],
-      "duration": "02:13:00",
-      "round": "Round of 32",
-      "date": "2016-04-11"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
             "3",
             "6"
           ],
@@ -318,6 +216,83 @@
       "duration": "02:04:24",
       "round": "Round of 32",
       "date": "2016-04-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Soon-Woo Kwon",
+          "country": "KR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Frederik Loechte Nielsen",
+          "country": "DK"
+        }
+      ],
+      "duration": "01:26:00",
+      "round": "Round of 32",
+      "date": "2016-04-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "2"
+          ],
+          "name": "Young-Seok Kim",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Gavin Van Peperzeel",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:06:00",
+      "round": "Round of 32",
+      "date": "2016-04-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Daniel Yoo",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:20:22",
+      "round": "Round of 32",
+      "date": "2016-04-12"
     },
     {
       "players": [
@@ -403,33 +378,6 @@
         {
           "is_winner": true,
           "set_games": [
-            "5",
-            "6",
-            "6"
-          ],
-          "name": "Jeremy Jahn",
-          "country": "DE"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "1",
-            "1"
-          ],
-          "name": "Riccardo Ghedin",
-          "country": "IT"
-        }
-      ],
-      "duration": "01:31:23",
-      "round": "Round of 32",
-      "date": "2016-04-10"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
             "6",
             "6"
           ],
@@ -449,6 +397,58 @@
       "duration": "01:12:31",
       "round": "Round of 32",
       "date": "2016-04-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Vaclav Safranek",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Daniel Nguyen",
+          "country": "US"
+        }
+      ],
+      "duration": "01:22:00",
+      "round": "Round of 32",
+      "date": "2016-04-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "2"
+          ],
+          "name": "Daniel Nguyen",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Duck-Hee Lee",
+          "country": "KR"
+        }
+      ],
+      "duration": "02:12:21",
+      "round": "Round of 16",
+      "date": "2016-04-13"
     },
     {
       "players": [
@@ -562,31 +562,6 @@
             "6",
             "6"
           ],
-          "name": "Grega Zemlja",
-          "country": "SI"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "1",
-            "2"
-          ],
-          "name": "Matt Reid",
-          "country": "AU"
-        }
-      ],
-      "duration": "00:47:14",
-      "round": "Quarter-Final",
-      "date": "2016-04-14"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
           "name": "Ricardas Berankis",
           "country": "LT"
         },
@@ -679,6 +654,31 @@
       ],
       "duration": "01:41:17",
       "round": "Round of 16",
+      "date": "2016-04-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Grega Zemlja",
+          "country": "SI"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Matt Reid",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:47:14",
+      "round": "Quarter-Final",
       "date": "2016-04-14"
     },
     {

@@ -8,6 +8,56 @@
     {
       "players": [
         {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Anna-Lena Friedsam",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Johanna Konta",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:17:07",
+      "round": "Round of 32",
+      "date": "2016-04-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Sabine Lisicki",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Timea Babos",
+          "country": "HU"
+        }
+      ],
+      "duration": "01:31:12",
+      "round": "Round of 32",
+      "date": "2016-04-18"
+    },
+    {
+      "players": [
+        {
           "is_winner": false,
           "set_games": [
             "4",
@@ -138,56 +188,6 @@
             "6",
             "6"
           ],
-          "name": "Anna-Lena Friedsam",
-          "country": "DE"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "3"
-          ],
-          "name": "Johanna Konta",
-          "country": "GB"
-        }
-      ],
-      "duration": "01:17:07",
-      "round": "Round of 32",
-      "date": "2016-04-18"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "3"
-          ],
-          "name": "Sabine Lisicki",
-          "country": "DE"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Timea Babos",
-          "country": "HU"
-        }
-      ],
-      "duration": "01:31:12",
-      "round": "Round of 32",
-      "date": "2016-04-18"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
           "name": "Andrea Petkovic",
           "country": "DE"
         },
@@ -262,31 +262,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "2"
-          ],
-          "name": "Ana Ivanovic",
-          "country": "RS"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Karolina Pliskova",
-          "country": "CZ"
-        }
-      ],
-      "duration": "01:06:25",
-      "round": "Round of 16",
-      "date": "2016-04-21"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -306,6 +281,33 @@
         }
       ],
       "duration": "01:16:31",
+      "round": "Round of 32",
+      "date": "2016-04-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "7"
+          ],
+          "name": "Karolina Pliskova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "5"
+          ],
+          "name": "Lucie Safarova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:30:58",
       "round": "Round of 32",
       "date": "2016-04-20"
     },
@@ -337,6 +339,31 @@
     {
       "players": [
         {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Timea Babos",
+          "country": "HU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Garbine Muguruza",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:16:44",
+      "round": "Round of 16",
+      "date": "2016-04-20"
+    },
+    {
+      "players": [
+        {
           "is_winner": true,
           "set_games": [
             "1",
@@ -358,6 +385,31 @@
         }
       ],
       "duration": "01:54:57",
+      "round": "Round of 16",
+      "date": "2016-04-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Ana Ivanovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Karolina Pliskova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:06:25",
       "round": "Round of 16",
       "date": "2016-04-21"
     },
@@ -437,58 +489,6 @@
       "duration": "02:42:43",
       "round": "Round of 16",
       "date": "2016-04-21"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "4",
-            "7"
-          ],
-          "name": "Karolina Pliskova",
-          "country": "CZ"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "6",
-            "5"
-          ],
-          "name": "Lucie Safarova",
-          "country": "CZ"
-        }
-      ],
-      "duration": "02:30:58",
-      "round": "Round of 32",
-      "date": "2016-04-20"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "2"
-          ],
-          "name": "Timea Babos",
-          "country": "HU"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Garbine Muguruza",
-          "country": "ES"
-        }
-      ],
-      "duration": "01:16:44",
-      "round": "Round of 16",
-      "date": "2016-04-20"
     },
     {
       "players": [

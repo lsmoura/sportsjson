@@ -10,125 +10,52 @@
         {
           "is_winner": true,
           "set_games": [
-            "6",
+            "7",
+            "5",
             "6"
           ],
-          "name": "Bjorn Fratangelo",
+          "name": "Daniel Nguyen",
           "country": "US"
         },
         {
           "is_winner": false,
           "set_games": [
-            "3",
-            "2"
+            "5",
+            "7",
+            "1"
           ],
-          "name": "Jonny O'Mara",
-          "country": "01"
+          "name": "Bradley Mousley",
+          "country": "AU"
         }
       ],
-      "duration": "21:02:54",
-      "round": "Round of 16",
-      "date": "2016-06-09"
+      "duration": "01:58:08",
+      "round": "Round of 32",
+      "date": "2016-06-06"
     },
     {
       "players": [
         {
           "is_winner": false,
-          "set_games": [
-            "4",
-            "2"
-          ],
-          "name": "Daniel Evans",
-          "country": "GB"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Marius Copil",
-          "country": "RO"
-        }
-      ],
-      "duration": "01:12:43",
-      "round": "Round of 16",
-      "date": "2016-06-09"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Dustin Brown",
-          "country": "DE"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "3"
-          ],
-          "name": "Edward Corrie",
-          "country": "GB"
-        }
-      ],
-      "duration": "00:55:51",
-      "round": "Round of 16",
-      "date": "2016-06-09"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
           "set_games": [
             "4",
             "7",
-            "6"
+            "5"
           ],
-          "name": "Frances Tiafoe",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "6",
-            "4"
-          ],
-          "name": "Di Wu",
-          "country": "CN"
-        }
-      ],
-      "duration": "02:39:50",
-      "round": "Round of 16",
-      "date": "2016-06-09"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "4"
-          ],
-          "name": "Zhe Li",
-          "country": "CN"
+          "name": "Grega Zemlja",
+          "country": "SI"
         },
         {
           "is_winner": true,
           "set_games": [
             "6",
-            "6"
+            "6",
+            "7"
           ],
-          "name": "Jonny O'Mara",
-          "country": "01"
+          "name": "Frances Tiafoe",
+          "country": "US"
         }
       ],
-      "duration": "01:05:20",
+      "duration": "02:12:14",
       "round": "Round of 32",
       "date": "2016-06-06"
     },
@@ -160,29 +87,79 @@
     {
       "players": [
         {
-          "is_winner": true,
+          "is_winner": false,
           "set_games": [
-            "7",
-            "5",
+            "6",
+            "2",
             "6"
           ],
-          "name": "Daniel Nguyen",
+          "name": "Tim Smyczek",
           "country": "US"
         },
         {
-          "is_winner": false,
+          "is_winner": true,
           "set_games": [
-            "5",
-            "7",
-            "1"
+            "3",
+            "6",
+            "7"
           ],
-          "name": "Bradley Mousley",
-          "country": "AU"
+          "name": "Liam Broady",
+          "country": "GB"
         }
       ],
-      "duration": "01:58:08",
+      "duration": "01:44:50",
       "round": "Round of 32",
       "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Zhe Li",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jonny O'Mara",
+          "country": "01"
+        }
+      ],
+      "duration": "01:05:20",
+      "round": "Round of 32",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Aldin Setkic",
+          "country": "BA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Edward Corrie",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:12:08",
+      "round": "Round of 32",
+      "date": "2016-06-07"
     },
     {
       "players": [
@@ -339,33 +316,6 @@
         {
           "is_winner": false,
           "set_games": [
-            "6",
-            "6",
-            "3"
-          ],
-          "name": "John-Patrick Smith",
-          "country": "AU"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "2",
-            "7",
-            "6"
-          ],
-          "name": "Jordan Thompson",
-          "country": "AU"
-        }
-      ],
-      "duration": "02:10:02",
-      "round": "Round of 16",
-      "date": "2016-06-09"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
             "4",
             "6",
             "3"
@@ -391,52 +341,26 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "4"
-          ],
-          "name": "Aldin Setkic",
-          "country": "BA"
-        },
-        {
           "is_winner": true,
           "set_games": [
             "6",
             "6"
           ],
-          "name": "Edward Corrie",
-          "country": "GB"
+          "name": "Marius Copil",
+          "country": "RO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Joshua Milton"
         }
       ],
-      "duration": "01:12:08",
+      "duration": "00:50:14",
       "round": "Round of 32",
       "date": "2016-06-07"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "4"
-          ],
-          "name": "Daniel Nguyen",
-          "country": "US"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Yen-Hsun Lu",
-          "country": "TW"
-        }
-      ],
-      "duration": "01:17:22",
-      "round": "Round of 16",
-      "date": "2016-06-08"
     },
     {
       "players": [
@@ -491,53 +415,27 @@
     {
       "players": [
         {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Daniel Nguyen",
+          "country": "US"
+        },
+        {
           "is_winner": true,
           "set_games": [
             "6",
             "6"
           ],
-          "name": "Marius Copil",
-          "country": "RO"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "2"
-          ],
-          "name": "Joshua Milton"
+          "name": "Yen-Hsun Lu",
+          "country": "TW"
         }
       ],
-      "duration": "00:50:14",
-      "round": "Round of 32",
-      "date": "2016-06-07"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "7",
-            "5"
-          ],
-          "name": "Grega Zemlja",
-          "country": "SI"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6",
-            "7"
-          ],
-          "name": "Frances Tiafoe",
-          "country": "US"
-        }
-      ],
-      "duration": "02:12:14",
-      "round": "Round of 32",
-      "date": "2016-06-06"
+      "duration": "01:17:22",
+      "round": "Round of 16",
+      "date": "2016-06-08"
     },
     {
       "players": [
@@ -569,29 +467,131 @@
     {
       "players": [
         {
-          "is_winner": false,
+          "is_winner": true,
           "set_games": [
             "6",
-            "2",
             "6"
           ],
-          "name": "Tim Smyczek",
+          "name": "Bjorn Fratangelo",
           "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Jonny O'Mara",
+          "country": "01"
+        }
+      ],
+      "duration": "21:02:54",
+      "round": "Round of 16",
+      "date": "2016-06-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Daniel Evans",
+          "country": "GB"
         },
         {
           "is_winner": true,
           "set_games": [
-            "3",
             "6",
-            "7"
+            "6"
           ],
-          "name": "Liam Broady",
+          "name": "Marius Copil",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:12:43",
+      "round": "Round of 16",
+      "date": "2016-06-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Dustin Brown",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Edward Corrie",
           "country": "GB"
         }
       ],
-      "duration": "01:44:50",
-      "round": "Round of 32",
-      "date": "2016-06-06"
+      "duration": "00:55:51",
+      "round": "Round of 16",
+      "date": "2016-06-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "6"
+          ],
+          "name": "Frances Tiafoe",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Di Wu",
+          "country": "CN"
+        }
+      ],
+      "duration": "02:39:50",
+      "round": "Round of 16",
+      "date": "2016-06-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "3"
+          ],
+          "name": "John-Patrick Smith",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "7",
+            "6"
+          ],
+          "name": "Jordan Thompson",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:10:02",
+      "round": "Round of 16",
+      "date": "2016-06-09"
     },
     {
       "players": [

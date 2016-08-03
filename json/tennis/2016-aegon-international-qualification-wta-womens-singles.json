@@ -337,31 +337,6 @@
         {
           "is_winner": true,
           "set_games": [
-            "6",
-            "1"
-          ],
-          "name": "Madison Brengle",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "0"
-          ],
-          "name": "Laura Robson",
-          "country": "GB"
-        }
-      ],
-      "duration": "00:54:01",
-      "round": "Round of 16",
-      "date": "2016-06-19"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
             "3",
             "6",
             "6"
@@ -481,6 +456,31 @@
         }
       ],
       "duration": "01:39:06",
+      "round": "Round of 16",
+      "date": "2016-06-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Madison Brengle",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Laura Robson",
+          "country": "GB"
+        }
+      ],
+      "duration": "00:54:01",
       "round": "Round of 16",
       "date": "2016-06-19"
     },

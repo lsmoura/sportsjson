@@ -11,58 +11,6 @@
           "is_winner": true,
           "set_games": [
             "6",
-            "3",
-            "6"
-          ],
-          "name": "Jordi Samper",
-          "country": "ES"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "6",
-            "2"
-          ],
-          "name": "Kimmer Coppejans",
-          "country": "BE"
-        }
-      ],
-      "duration": "02:15:31",
-      "round": "Round of 16",
-      "date": "2016-04-28"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "6"
-          ],
-          "name": "Adam Pavlasek",
-          "country": "CZ"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Yasutaka Uchiyama",
-          "country": "JP"
-        }
-      ],
-      "duration": "01:32:23",
-      "round": "Round of 32",
-      "date": "2016-04-26"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
             "6"
           ],
           "name": "Pedja Krstin",
@@ -112,6 +60,33 @@
         {
           "is_winner": true,
           "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Uladzimir Ignatik",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "4"
+          ],
+          "name": "Lorenzo Giustino",
+          "country": "IT"
+        }
+      ],
+      "duration": "03:59:21",
+      "round": "Round of 32",
+      "date": "2016-04-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
             "7",
             "6"
           ],
@@ -135,29 +110,27 @@
     {
       "players": [
         {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Adam Pavlasek",
+          "country": "CZ"
+        },
+        {
           "is_winner": true,
           "set_games": [
             "6",
-            "2",
-            "6"
+            "7"
           ],
-          "name": "Uladzimir Ignatik",
-          "country": "BY"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "6",
-            "4"
-          ],
-          "name": "Lorenzo Giustino",
-          "country": "IT"
+          "name": "Yasutaka Uchiyama",
+          "country": "JP"
         }
       ],
-      "duration": "03:59:21",
+      "duration": "01:32:23",
       "round": "Round of 32",
-      "date": "2016-04-25"
+      "date": "2016-04-26"
     },
     {
       "players": [
@@ -289,33 +262,6 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6",
-            "7"
-          ],
-          "name": "Gregoire Barrere",
-          "country": "FR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "7",
-            "5"
-          ],
-          "name": "Pedro Cachin",
-          "country": "AR"
-        }
-      ],
-      "duration": "02:54:29",
-      "round": "Round of 16",
-      "date": "2016-04-27"
-    },
-    {
-      "players": [
-        {
           "is_winner": false,
           "set_games": [
             "1",
@@ -399,33 +345,6 @@
             "2",
             "4"
           ],
-          "name": "David Guez",
-          "country": "FR"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "1",
-            "6",
-            "6"
-          ],
-          "name": "Constant Lestienne",
-          "country": "FR"
-        }
-      ],
-      "duration": "01:52:19",
-      "round": "Round of 16",
-      "date": "2016-04-28"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "2",
-            "4"
-          ],
           "name": "Maxime Chazal",
           "country": "FR"
         },
@@ -443,6 +362,83 @@
       "duration": "01:48:04",
       "round": "Round of 32",
       "date": "2016-04-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Stefano Napolitano",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Oriol Roca",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:27:39",
+      "round": "Round of 32",
+      "date": "2016-04-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Yannick Mertens",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Juergen Zopp",
+          "country": "EE"
+        }
+      ],
+      "duration": "01:18:21",
+      "round": "Round of 32",
+      "date": "2016-04-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "7"
+          ],
+          "name": "Gregoire Barrere",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "5"
+          ],
+          "name": "Pedro Cachin",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:54:29",
+      "round": "Round of 16",
+      "date": "2016-04-27"
     },
     {
       "players": [
@@ -475,6 +471,33 @@
           "is_winner": false,
           "set_games": [
             "6",
+            "2",
+            "4"
+          ],
+          "name": "David Guez",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "Constant Lestienne",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:52:19",
+      "round": "Round of 16",
+      "date": "2016-04-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
             "1",
             "2"
           ],
@@ -493,6 +516,33 @@
         }
       ],
       "duration": "01:39:17",
+      "round": "Round of 16",
+      "date": "2016-04-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Jordi Samper",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "2"
+          ],
+          "name": "Kimmer Coppejans",
+          "country": "BE"
+        }
+      ],
+      "duration": "02:15:31",
       "round": "Round of 16",
       "date": "2016-04-28"
     },
@@ -576,56 +626,6 @@
       "duration": "02:04:47",
       "round": "Round of 16",
       "date": "2016-04-28"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Stefano Napolitano",
-          "country": "IT"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "4"
-          ],
-          "name": "Oriol Roca",
-          "country": "ES"
-        }
-      ],
-      "duration": "01:27:39",
-      "round": "Round of 32",
-      "date": "2016-04-26"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "1"
-          ],
-          "name": "Yannick Mertens",
-          "country": "BE"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Juergen Zopp",
-          "country": "EE"
-        }
-      ],
-      "duration": "01:18:21",
-      "round": "Round of 32",
-      "date": "2016-04-26"
     },
     {
       "players": [

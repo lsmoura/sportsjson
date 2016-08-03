@@ -11,31 +11,6 @@
           "is_winner": false,
           "set_games": [
             "4",
-            "3"
-          ],
-          "name": "Sara Sorribes",
-          "country": "ES"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Kiki Bertens",
-          "country": "NL"
-        }
-      ],
-      "duration": "01:42:41",
-      "round": "Round of 16",
-      "date": "2016-04-27"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
             "2"
           ],
           "name": "Alexandra Dulgheru",
@@ -52,6 +27,133 @@
         }
       ],
       "duration": "01:36:27",
+      "round": "Round of 32",
+      "date": "2016-04-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Johanna Larsson",
+          "country": "SE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Donna Vekic",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:20:01",
+      "round": "Round of 32",
+      "date": "2016-04-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kiki Bertens",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "1"
+          ],
+          "name": "Anna Schmiedlova",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:02:46",
+      "round": "Round of 32",
+      "date": "2016-04-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Pauline Parmentier",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "5"
+          ],
+          "name": "Kirsten Flipkens",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:27:32",
+      "round": "Round of 32",
+      "date": "2016-04-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "1"
+          ],
+          "name": "Polona Hercog",
+          "country": "SI"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Timea Babos",
+          "country": "HU"
+        }
+      ],
+      "duration": "02:22:26",
+      "round": "Round of 32",
+      "date": "2016-04-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Teliana Pereira",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Annika Beck",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:09:59",
       "round": "Round of 32",
       "date": "2016-04-25"
     },
@@ -286,83 +388,6 @@
           "is_winner": true,
           "set_games": [
             "6",
-            "6"
-          ],
-          "name": "Johanna Larsson",
-          "country": "SE"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "2"
-          ],
-          "name": "Donna Vekic",
-          "country": "HR"
-        }
-      ],
-      "duration": "01:20:01",
-      "round": "Round of 32",
-      "date": "2016-04-25"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Teliana Pereira",
-          "country": "BR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "1"
-          ],
-          "name": "Annika Beck",
-          "country": "DE"
-        }
-      ],
-      "duration": "01:09:59",
-      "round": "Round of 32",
-      "date": "2016-04-25"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "7",
-            "1"
-          ],
-          "name": "Polona Hercog",
-          "country": "SI"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6",
-            "6"
-          ],
-          "name": "Timea Babos",
-          "country": "HU"
-        }
-      ],
-      "duration": "02:22:26",
-      "round": "Round of 32",
-      "date": "2016-04-25"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
             "7"
           ],
           "name": "Yulia Putintseva",
@@ -381,81 +406,6 @@
       "duration": "01:50:24",
       "round": "Round of 32",
       "date": "2016-04-26"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Kiki Bertens",
-          "country": "NL"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "0",
-            "1"
-          ],
-          "name": "Anna Schmiedlova",
-          "country": "SK"
-        }
-      ],
-      "duration": "01:02:46",
-      "round": "Round of 32",
-      "date": "2016-04-25"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "7"
-          ],
-          "name": "Pauline Parmentier",
-          "country": "FR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "5"
-          ],
-          "name": "Kirsten Flipkens",
-          "country": "BE"
-        }
-      ],
-      "duration": "01:27:32",
-      "round": "Round of 32",
-      "date": "2016-04-25"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Marina Erakovic",
-          "country": "NZ"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "4"
-          ],
-          "name": "Aleksandra Krunic",
-          "country": "RS"
-        }
-      ],
-      "duration": "01:28:44",
-      "round": "Quarter-Final",
-      "date": "2016-04-28"
     },
     {
       "players": [
@@ -506,31 +456,6 @@
       "duration": "01:52:29",
       "round": "Round of 16",
       "date": "2016-04-27"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "3"
-          ],
-          "name": "Pauline Parmentier",
-          "country": "FR"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Timea Babos",
-          "country": "HU"
-        }
-      ],
-      "duration": "01:08:25",
-      "round": "Quarter-Final",
-      "date": "2016-04-28"
     },
     {
       "players": [
@@ -612,6 +537,31 @@
     {
       "players": [
         {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Sara Sorribes",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kiki Bertens",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:42:41",
+      "round": "Round of 16",
+      "date": "2016-04-27"
+    },
+    {
+      "players": [
+        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -660,6 +610,56 @@
       "duration": "01:12:52",
       "round": "Round of 16",
       "date": "2016-04-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marina Erakovic",
+          "country": "NZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Aleksandra Krunic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:28:44",
+      "round": "Quarter-Final",
+      "date": "2016-04-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Pauline Parmentier",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Timea Babos",
+          "country": "HU"
+        }
+      ],
+      "duration": "01:08:25",
+      "round": "Quarter-Final",
+      "date": "2016-04-28"
     },
     {
       "players": [

@@ -112,31 +112,6 @@
         {
           "is_winner": false,
           "set_games": [
-            "4",
-            "0"
-          ],
-          "name": "Calvin Hemery",
-          "country": "FR"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "James Ward",
-          "country": "GB"
-        }
-      ],
-      "duration": "01:02:51",
-      "round": "Round of 16",
-      "date": "2016-04-27"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
             "5",
             "2"
           ],
@@ -289,31 +264,6 @@
         {
           "is_winner": false,
           "set_games": [
-            "3",
-            "0"
-          ],
-          "name": "Nikoloz Basilashvili",
-          "country": "GE"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "James McGee",
-          "country": "IE"
-        }
-      ],
-      "duration": "01:06:29",
-      "round": "Round of 16",
-      "date": "2016-04-27"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
             "7",
             "6",
             "4"
@@ -419,33 +369,6 @@
           "is_winner": true,
           "set_games": [
             "6",
-            "3",
-            "6"
-          ],
-          "name": "Stefan Kozlov",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "6",
-            "2"
-          ],
-          "name": "Gerald Melzer",
-          "country": "AT"
-        }
-      ],
-      "duration": "02:10:55",
-      "round": "Round of 16",
-      "date": "2016-04-27"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
             "6"
           ],
           "name": "Sekou Bangoura",
@@ -464,6 +387,56 @@
       "duration": "01:27:59",
       "round": "Round of 32",
       "date": "2016-04-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Tim Smyczek",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Brian Baker",
+          "country": "US"
+        }
+      ],
+      "duration": "01:36:44",
+      "round": "Round of 32",
+      "date": "2016-04-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Calvin Hemery",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "James Ward",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:02:51",
+      "round": "Round of 16",
+      "date": "2016-04-27"
     },
     {
       "players": [
@@ -489,33 +462,6 @@
       "duration": "01:58:34",
       "round": "Round of 16",
       "date": "2016-04-27"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "4",
-            "3"
-          ],
-          "name": "Donald Young",
-          "country": "US"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "2",
-            "6",
-            "6"
-          ],
-          "name": "Francis Tiafoe",
-          "country": "US"
-        }
-      ],
-      "duration": "01:50:25",
-      "round": "Quarter-Final",
-      "date": "2016-04-28"
     },
     {
       "players": [
@@ -549,25 +495,25 @@
         {
           "is_winner": false,
           "set_games": [
-            "4",
-            "5"
+            "3",
+            "0"
           ],
-          "name": "Tim Smyczek",
-          "country": "US"
+          "name": "Nikoloz Basilashvili",
+          "country": "GE"
         },
         {
           "is_winner": true,
           "set_games": [
             "6",
-            "7"
+            "6"
           ],
-          "name": "Brian Baker",
-          "country": "US"
+          "name": "James McGee",
+          "country": "IE"
         }
       ],
-      "duration": "01:36:44",
-      "round": "Round of 32",
-      "date": "2016-04-26"
+      "duration": "01:06:29",
+      "round": "Round of 16",
+      "date": "2016-04-27"
     },
     {
       "players": [
@@ -622,6 +568,33 @@
     {
       "players": [
         {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Stefan Kozlov",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "2"
+          ],
+          "name": "Gerald Melzer",
+          "country": "AT"
+        }
+      ],
+      "duration": "02:10:55",
+      "round": "Round of 16",
+      "date": "2016-04-27"
+    },
+    {
+      "players": [
+        {
           "is_winner": false,
           "set_games": [
             "5",
@@ -644,6 +617,33 @@
       ],
       "duration": "17:37:50",
       "round": "Round of 16",
+      "date": "2016-04-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "3"
+          ],
+          "name": "Donald Young",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Francis Tiafoe",
+          "country": "US"
+        }
+      ],
+      "duration": "01:50:25",
+      "round": "Quarter-Final",
       "date": "2016-04-28"
     },
     {

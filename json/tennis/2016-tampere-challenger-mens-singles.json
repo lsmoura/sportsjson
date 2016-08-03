@@ -15,6 +15,56 @@
             "6",
             "6"
           ],
+          "name": "Gleb Sakharov",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Ristomatti Lanne",
+          "country": "FI"
+        }
+      ],
+      "duration": "01:12:20",
+      "round": "Round of 32",
+      "date": "2016-07-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Vladimir Ivanov",
+          "country": "EE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Joris de Loore",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:44:21",
+      "round": "Round of 32",
+      "date": "2016-07-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
           "name": "Aleksandr Nedovyesov",
           "country": "KZ"
         },
@@ -318,31 +368,6 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Gleb Sakharov",
-          "country": "FR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "1",
-            "3"
-          ],
-          "name": "Ristomatti Lanne",
-          "country": "FI"
-        }
-      ],
-      "duration": "01:12:20",
-      "round": "Round of 32",
-      "date": "2016-07-18"
-    },
-    {
-      "players": [
-        {
           "is_winner": false,
           "set_games": [
             "3",
@@ -370,52 +395,27 @@
     {
       "players": [
         {
-          "is_winner": false,
+          "is_winner": true,
           "set_games": [
-            "2",
-            "2"
+            "7",
+            "7"
           ],
-          "name": "Vladimir Ivanov",
-          "country": "EE"
+          "name": "Ruben Ramirez",
+          "country": "ES"
         },
         {
-          "is_winner": true,
+          "is_winner": false,
           "set_games": [
             "6",
             "6"
           ],
-          "name": "Joris de Loore",
+          "name": "Yannik Reuter",
           "country": "BE"
         }
       ],
-      "duration": "01:44:21",
+      "duration": "02:03:55",
       "round": "Round of 32",
-      "date": "2016-07-18"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "1",
-            "2"
-          ],
-          "name": "Patrik Niklas-Salminen",
-          "country": "FI"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Gleb Sakharov",
-          "country": "FR"
-        }
-      ],
-      "duration": "00:58:10",
-      "round": "Round of 16",
-      "date": "2016-07-21"
+      "date": "2016-07-19"
     },
     {
       "players": [
@@ -447,25 +447,77 @@
         {
           "is_winner": true,
           "set_games": [
-            "7",
-            "7"
+            "6",
+            "6",
+            "6"
           ],
-          "name": "Ruben Ramirez",
-          "country": "ES"
+          "name": "Aslan Karatsev",
+          "country": "RU"
         },
         {
           "is_winner": false,
           "set_games": [
+            "3",
+            "7",
+            "2"
+          ],
+          "name": "Frederico Ferreira Silva",
+          "country": "PT"
+        }
+      ],
+      "duration": "02:48:11",
+      "round": "Round of 16",
+      "date": "2016-07-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Germain Gigounon",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
             "6",
             "6"
           ],
-          "name": "Yannik Reuter",
-          "country": "BE"
+          "name": "Joao Souza",
+          "country": "BR"
         }
       ],
-      "duration": "02:03:55",
-      "round": "Round of 32",
-      "date": "2016-07-19"
+      "duration": "01:24:32",
+      "round": "Round of 16",
+      "date": "2016-07-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Scott Griekspoor",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Markus Eriksson",
+          "country": "SE"
+        }
+      ],
+      "duration": "01:28:27",
+      "round": "Round of 16",
+      "date": "2016-07-20"
     },
     {
       "players": [
@@ -522,11 +574,11 @@
         {
           "is_winner": false,
           "set_games": [
-            "2",
+            "1",
             "2"
           ],
-          "name": "Germain Gigounon",
-          "country": "BE"
+          "name": "Patrik Niklas-Salminen",
+          "country": "FI"
         },
         {
           "is_winner": true,
@@ -534,38 +586,13 @@
             "6",
             "6"
           ],
-          "name": "Joao Souza",
-          "country": "BR"
+          "name": "Gleb Sakharov",
+          "country": "FR"
         }
       ],
-      "duration": "01:24:32",
+      "duration": "00:58:10",
       "round": "Round of 16",
-      "date": "2016-07-20"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "3"
-          ],
-          "name": "Scott Griekspoor",
-          "country": "NL"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Markus Eriksson",
-          "country": "SE"
-        }
-      ],
-      "duration": "01:28:27",
-      "round": "Round of 16",
-      "date": "2016-07-20"
+      "date": "2016-07-21"
     },
     {
       "players": [
@@ -591,33 +618,6 @@
       "duration": "01:57:13",
       "round": "Round of 16",
       "date": "2016-07-21"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6",
-            "6"
-          ],
-          "name": "Aslan Karatsev",
-          "country": "RU"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "7",
-            "2"
-          ],
-          "name": "Frederico Ferreira Silva",
-          "country": "PT"
-        }
-      ],
-      "duration": "02:48:11",
-      "round": "Round of 16",
-      "date": "2016-07-20"
     },
     {
       "players": [

@@ -12,77 +12,25 @@
         {
           "is_winner": true,
           "set_games": [
-            "3",
-            "6",
-            "7"
-          ],
-          "name": "Annika Beck",
-          "country": "DE"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
             "2",
-            "5"
-          ],
-          "name": "Marina Erakovic",
-          "country": "NZ"
-        }
-      ],
-      "duration": "18:10:32",
-      "round": "Round of 32",
-      "date": "2016-07-15"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
             "6",
-            "4",
             "6"
           ],
-          "name": "Carina Witthoeft",
-          "country": "DE"
+          "name": "Claire Feuerstein",
+          "country": "FR"
         },
         {
           "is_winner": false,
           "set_games": [
-            "4",
             "6",
-            "1"
-          ],
-          "name": "Stefanie Voegele",
-          "country": "CH"
-        }
-      ],
-      "duration": "02:02:36",
-      "round": "Round of 32",
-      "date": "2016-07-14"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
             "2",
-            "5"
+            "0"
           ],
-          "name": "Lucie Hradecka",
-          "country": "CZ"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Irina Khromacheva",
-          "country": "RU"
+          "name": "Silvia Soler",
+          "country": "ES"
         }
       ],
-      "duration": "01:34:03",
+      "duration": "01:31:18",
       "round": "Round of 32",
       "date": "2016-07-11"
     },
@@ -116,50 +64,23 @@
         {
           "is_winner": false,
           "set_games": [
-            "5",
-            "2"
+            "2",
+            "5"
           ],
-          "name": "Bethanie Mattek-Sands",
-          "country": "US"
+          "name": "Lucie Hradecka",
+          "country": "CZ"
         },
         {
           "is_winner": true,
           "set_games": [
-            "7",
-            "6"
+            "6",
+            "7"
           ],
-          "name": "Johanna Larsson",
-          "country": "SE"
+          "name": "Irina Khromacheva",
+          "country": "RU"
         }
       ],
-      "duration": "01:20:28",
-      "round": "Round of 32",
-      "date": "2016-07-12"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "2",
-            "6",
-            "6"
-          ],
-          "name": "Claire Feuerstein",
-          "country": "FR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "2",
-            "0"
-          ],
-          "name": "Silvia Soler",
-          "country": "ES"
-        }
-      ],
-      "duration": "01:31:18",
+      "duration": "01:34:03",
       "round": "Round of 32",
       "date": "2016-07-11"
     },
@@ -168,25 +89,27 @@
         {
           "is_winner": true,
           "set_games": [
-            "6",
+            "4",
+            "7",
             "6"
           ],
-          "name": "Timea Bacsinszky",
-          "country": "CH"
+          "name": "Mandy Minella",
+          "country": "LU"
         },
         {
           "is_winner": false,
           "set_games": [
-            "3",
-            "2"
+            "6",
+            "6",
+            "4"
           ],
-          "name": "Sara Sorribes",
-          "country": "ES"
+          "name": "Ons Jabeur",
+          "country": "TN"
         }
       ],
-      "duration": "01:29:45",
+      "duration": "02:03:00",
       "round": "Round of 32",
-      "date": "2016-07-12"
+      "date": "2016-07-11"
     },
     {
       "players": [
@@ -243,56 +166,79 @@
     {
       "players": [
         {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Bethanie Mattek-Sands",
+          "country": "US"
+        },
+        {
           "is_winner": true,
           "set_games": [
-            "4",
             "7",
             "6"
           ],
-          "name": "Mandy Minella",
-          "country": "LU"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "6",
-            "4"
-          ],
-          "name": "Ons Jabeur",
-          "country": "TN"
+          "name": "Johanna Larsson",
+          "country": "SE"
         }
       ],
-      "duration": "02:03:00",
+      "duration": "01:20:28",
       "round": "Round of 32",
-      "date": "2016-07-11"
+      "date": "2016-07-12"
     },
     {
       "players": [
         {
           "is_winner": true,
           "set_games": [
-            "5",
             "6",
             "6"
           ],
-          "name": "Kiki Bertens",
-          "country": "NL"
+          "name": "Timea Bacsinszky",
+          "country": "CH"
         },
         {
           "is_winner": false,
           "set_games": [
-            "7",
-            "2",
-            "4"
+            "3",
+            "2"
           ],
-          "name": "Tamira Paszek",
-          "country": "AT"
+          "name": "Sara Sorribes",
+          "country": "ES"
         }
       ],
-      "duration": "17:27:02",
+      "duration": "01:29:45",
       "round": "Round of 32",
-      "date": "2016-07-15"
+      "date": "2016-07-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Carina Witthoeft",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "1"
+          ],
+          "name": "Stefanie Voegele",
+          "country": "CH"
+        }
+      ],
+      "duration": "02:02:36",
+      "round": "Round of 32",
+      "date": "2016-07-14"
     },
     {
       "players": [
@@ -347,33 +293,6 @@
       "duration": "04:56:52",
       "round": "Round of 32",
       "date": "2016-07-14"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6",
-            "6"
-          ],
-          "name": "Lara Arruabarrena",
-          "country": "ES"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "1",
-            "4"
-          ],
-          "name": "Caroline Garcia",
-          "country": "FR"
-        }
-      ],
-      "duration": "02:09:45",
-      "round": "Round of 32",
-      "date": "2016-07-15"
     },
     {
       "players": [
@@ -452,6 +371,33 @@
       ],
       "duration": "01:58:53",
       "round": "Round of 16",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "7"
+          ],
+          "name": "Annika Beck",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "5"
+          ],
+          "name": "Marina Erakovic",
+          "country": "NZ"
+        }
+      ],
+      "duration": "18:10:32",
+      "round": "Round of 32",
       "date": "2016-07-15"
     },
     {
@@ -559,6 +505,33 @@
         {
           "is_winner": true,
           "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Kiki Bertens",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "4"
+          ],
+          "name": "Tamira Paszek",
+          "country": "AT"
+        }
+      ],
+      "duration": "17:27:02",
+      "round": "Round of 32",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
             "7",
             "6"
           ],
@@ -577,6 +550,33 @@
       ],
       "duration": "01:24:51",
       "round": "Round of 16",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Lara Arruabarrena",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "1",
+            "4"
+          ],
+          "name": "Caroline Garcia",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:09:45",
+      "round": "Round of 32",
       "date": "2016-07-15"
     },
     {

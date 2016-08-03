@@ -39,6 +39,112 @@
         {
           "is_winner": true,
           "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Ana Bogdan",
+          "country": "RO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "3"
+          ],
+          "name": "Asia Muhammed",
+          "country": "US"
+        }
+      ],
+      "duration": "02:17:40",
+      "round": "Round of 32",
+      "date": "2016-07-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Nicole Gibbs",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "3"
+          ],
+          "name": "Carol Zhao",
+          "country": "CA"
+        }
+      ],
+      "duration": "02:03:44",
+      "round": "Round of 32",
+      "date": "2016-07-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Saisai Zheng",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "1"
+          ],
+          "name": "Maria Mateas",
+          "country": "US"
+        }
+      ],
+      "duration": "01:24:52",
+      "round": "Round of 32",
+      "date": "2016-07-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "4"
+          ],
+          "name": "Veronica Cepede",
+          "country": "PY"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Nao Hibino",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:27:32",
+      "round": "Round of 32",
+      "date": "2016-07-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
             "2",
             "6",
             "7"
@@ -220,112 +326,6 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "5",
-            "6"
-          ],
-          "name": "Ana Bogdan",
-          "country": "RO"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "7",
-            "3"
-          ],
-          "name": "Asia Muhammed",
-          "country": "US"
-        }
-      ],
-      "duration": "02:17:40",
-      "round": "Round of 32",
-      "date": "2016-07-18"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "4",
-            "6"
-          ],
-          "name": "Nicole Gibbs",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "6",
-            "3"
-          ],
-          "name": "Carol Zhao",
-          "country": "CA"
-        }
-      ],
-      "duration": "02:03:44",
-      "round": "Round of 32",
-      "date": "2016-07-18"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Saisai Zheng",
-          "country": "CN"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "1"
-          ],
-          "name": "Maria Mateas",
-          "country": "US"
-        }
-      ],
-      "duration": "01:24:52",
-      "round": "Round of 32",
-      "date": "2016-07-18"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "6",
-            "4"
-          ],
-          "name": "Veronica Cepede",
-          "country": "PY"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "4",
-            "6"
-          ],
-          "name": "Nao Hibino",
-          "country": "JP"
-        }
-      ],
-      "duration": "02:27:32",
-      "round": "Round of 32",
-      "date": "2016-07-18"
-    },
-    {
-      "players": [
-        {
           "is_winner": false,
           "set_games": [
             "4",
@@ -353,31 +353,6 @@
         {
           "is_winner": false,
           "set_games": [
-            "6",
-            "3"
-          ],
-          "name": "Urszula Radwanska",
-          "country": "PL"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Dominika Cibulkova",
-          "country": "SK"
-        }
-      ],
-      "duration": "01:53:44",
-      "round": "Round of 16",
-      "date": "2016-07-21"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
             "3",
             "1"
           ],
@@ -397,31 +372,6 @@
       "duration": "01:02:18",
       "round": "Round of 16",
       "date": "2016-07-20"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "0"
-          ],
-          "name": "Misaki Doi",
-          "country": "JP"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Dominika Cibulkova",
-          "country": "SK"
-        }
-      ],
-      "duration": "01:19:41",
-      "round": "Quarter-Final",
-      "date": "2016-07-22"
     },
     {
       "players": [
@@ -561,6 +511,31 @@
         {
           "is_winner": false,
           "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Urszula Radwanska",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Dominika Cibulkova",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:53:44",
+      "round": "Round of 16",
+      "date": "2016-07-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
             "3",
             "1"
           ],
@@ -578,6 +553,31 @@
         }
       ],
       "duration": "00:56:33",
+      "round": "Quarter-Final",
+      "date": "2016-07-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "0"
+          ],
+          "name": "Misaki Doi",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Dominika Cibulkova",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:19:41",
       "round": "Quarter-Final",
       "date": "2016-07-22"
     },

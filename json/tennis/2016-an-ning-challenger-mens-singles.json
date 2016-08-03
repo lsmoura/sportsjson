@@ -10,6 +10,58 @@
         {
           "is_winner": false,
           "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Daniel Masur",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "7"
+          ],
+          "name": "Bowen Ouyang",
+          "country": "CN"
+        }
+      ],
+      "duration": "02:31:20",
+      "round": "Round of 32",
+      "date": "2016-04-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nikola Milojevic",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Arthur de Greef",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:59:03",
+      "round": "Round of 32",
+      "date": "2016-04-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
             "4",
             "5"
           ],
@@ -60,54 +112,77 @@
     {
       "players": [
         {
-          "is_winner": false,
+          "is_winner": true,
           "set_games": [
             "6",
             "6"
           ],
-          "name": "Nikola Milojevic",
-          "country": "RS"
+          "name": "Maverick Banes",
+          "country": "AU"
         },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "1"
+          ],
+          "name": "Gavin Van Peperzeel",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:42:10",
+      "round": "Round of 32",
+      "date": "2016-04-25"
+    },
+    {
+      "players": [
         {
           "is_winner": true,
           "set_games": [
-            "7",
+            "6",
             "7"
           ],
-          "name": "Arthur de Greef",
-          "country": "BE"
+          "name": "Nicolas Barrientos",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Danilo Petrovic",
+          "country": "RS"
         }
       ],
-      "duration": "01:59:03",
+      "duration": "01:29:02",
       "round": "Round of 32",
-      "date": "2016-04-24"
+      "date": "2016-04-25"
     },
     {
       "players": [
         {
           "is_winner": false,
           "set_games": [
-            "6",
-            "5",
-            "6"
+            "2",
+            "2"
           ],
-          "name": "Daniel Masur",
-          "country": "DE"
+          "name": "Zihao Xia",
+          "country": "CN"
         },
         {
           "is_winner": true,
           "set_games": [
-            "3",
-            "7",
-            "7"
+            "6",
+            "6"
           ],
-          "name": "Bowen Ouyang",
+          "name": "Yecong He",
           "country": "CN"
         }
       ],
-      "duration": "02:31:20",
+      "duration": "01:06:08",
       "round": "Round of 32",
-      "date": "2016-04-24"
+      "date": "2016-04-25"
     },
     {
       "players": [
@@ -189,106 +264,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "4"
-          ],
-          "name": "Bowen Ouyang",
-          "country": "CN"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Jordan Thompson",
-          "country": "AU"
-        }
-      ],
-      "duration": "01:19:33",
-      "round": "Round of 16",
-      "date": "2016-04-27"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Nicolas Barrientos",
-          "country": "CO"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "6"
-          ],
-          "name": "Danilo Petrovic",
-          "country": "RS"
-        }
-      ],
-      "duration": "01:29:02",
-      "round": "Round of 32",
-      "date": "2016-04-25"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "2"
-          ],
-          "name": "Zihao Xia",
-          "country": "CN"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Yecong He",
-          "country": "CN"
-        }
-      ],
-      "duration": "01:06:08",
-      "round": "Round of 32",
-      "date": "2016-04-25"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Maverick Banes",
-          "country": "AU"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "0",
-            "1"
-          ],
-          "name": "Gavin Van Peperzeel",
-          "country": "AU"
-        }
-      ],
-      "duration": "00:42:10",
-      "round": "Round of 32",
-      "date": "2016-04-25"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "7",
@@ -317,31 +292,6 @@
           "is_winner": true,
           "set_games": [
             "6",
-            "7"
-          ],
-          "name": "Saketh Myneni",
-          "country": "IN"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "6"
-          ],
-          "name": "Nicolas Barrientos",
-          "country": "CO"
-        }
-      ],
-      "duration": "01:18:17",
-      "round": "Round of 16",
-      "date": "2016-04-26"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
             "6"
           ],
           "name": "Saketh Myneni",
@@ -359,6 +309,31 @@
       ],
       "duration": "01:22:16",
       "round": "Round of 32",
+      "date": "2016-04-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Saketh Myneni",
+          "country": "IN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Nicolas Barrientos",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:18:17",
+      "round": "Round of 16",
       "date": "2016-04-26"
     },
     {
@@ -441,6 +416,106 @@
         {
           "is_winner": false,
           "set_games": [
+            "0",
+            "4"
+          ],
+          "name": "Zhe Li",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jordan Thompson",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:54:19",
+      "round": "Round of 32",
+      "date": "2016-04-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Andrew Whittington",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Yannick Hanfmann",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:04:52",
+      "round": "Round of 16",
+      "date": "2016-04-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Bowen Ouyang",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jordan Thompson",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:19:33",
+      "round": "Round of 16",
+      "date": "2016-04-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Enrique Lopez",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Matt Reid",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:13:55",
+      "round": "Round of 32",
+      "date": "2016-04-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
             "6",
             "3"
           ],
@@ -466,25 +541,25 @@
         {
           "is_winner": false,
           "set_games": [
-            "0",
-            "4"
+            "6",
+            "6"
           ],
-          "name": "Zhe Li",
+          "name": "Ze Zhang",
           "country": "CN"
         },
         {
           "is_winner": true,
           "set_games": [
-            "6",
-            "6"
+            "7",
+            "7"
           ],
-          "name": "Jordan Thompson",
-          "country": "AU"
+          "name": "Aleksandr Nedovyesov",
+          "country": "KZ"
         }
       ],
-      "duration": "00:54:19",
-      "round": "Round of 32",
-      "date": "2016-04-26"
+      "duration": "01:53:14",
+      "round": "Round of 16",
+      "date": "2016-04-27"
     },
     {
       "players": [
@@ -558,81 +633,6 @@
       "duration": "00:20:54",
       "round": "Round of 16",
       "date": "2016-04-28"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Ze Zhang",
-          "country": "CN"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "7"
-          ],
-          "name": "Aleksandr Nedovyesov",
-          "country": "KZ"
-        }
-      ],
-      "duration": "01:53:14",
-      "round": "Round of 16",
-      "date": "2016-04-27"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Enrique Lopez",
-          "country": "ES"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "3"
-          ],
-          "name": "Matt Reid",
-          "country": "AU"
-        }
-      ],
-      "duration": "01:13:55",
-      "round": "Round of 32",
-      "date": "2016-04-27"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Andrew Whittington",
-          "country": "AU"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "2"
-          ],
-          "name": "Yannick Hanfmann",
-          "country": "DE"
-        }
-      ],
-      "duration": "01:04:52",
-      "round": "Round of 16",
-      "date": "2016-04-27"
     },
     {
       "players": [

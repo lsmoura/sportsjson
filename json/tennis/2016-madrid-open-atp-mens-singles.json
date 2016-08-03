@@ -10,58 +10,6 @@
         {
           "is_winner": true,
           "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Denis Istomin",
-          "country": "UZ"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "1",
-            "4"
-          ],
-          "name": "Teymuraz Gabashvili",
-          "country": "RU"
-        }
-      ],
-      "duration": "01:00:25",
-      "round": "Round of 64",
-      "date": "2016-05-02"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "7",
-            "4"
-          ],
-          "name": "Albert Ramos",
-          "country": "ES"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "5",
-            "6"
-          ],
-          "name": "Jo-Wilfried Tsonga",
-          "country": "FR"
-        }
-      ],
-      "duration": "02:41:57",
-      "round": "Round of 32",
-      "date": "2016-05-04"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
             "3",
             "6",
             "7"
@@ -108,6 +56,31 @@
       "duration": "01:52:24",
       "round": "Round of 64",
       "date": "2016-05-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Denis Istomin",
+          "country": "UZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Teymuraz Gabashvili",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:00:25",
+      "round": "Round of 64",
+      "date": "2016-05-02"
     },
     {
       "players": [
@@ -297,33 +270,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "7",
-            "5"
-          ],
-          "name": "Feliciano Lopez",
-          "country": "ES"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "5",
-            "7"
-          ],
-          "name": "Roberto Bautista",
-          "country": "ES"
-        }
-      ],
-      "duration": "02:28:04",
-      "round": "Round of 32",
-      "date": "2016-05-04"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -354,33 +300,6 @@
           "is_winner": true,
           "set_games": [
             "6",
-            "6",
-            "7"
-          ],
-          "name": "Pablo Cuevas",
-          "country": "UY"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "3",
-            "6"
-          ],
-          "name": "Gael Monfils",
-          "country": "FR"
-        }
-      ],
-      "duration": "02:49:53",
-      "round": "Round of 32",
-      "date": "2016-05-04"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
             "7"
           ],
           "name": "Richard Gasquet",
@@ -397,6 +316,31 @@
         }
       ],
       "duration": "01:47:22",
+      "round": "Round of 64",
+      "date": "2016-05-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Viktor Troicki",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andrey Kuznetsov",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:20:42",
       "round": "Round of 64",
       "date": "2016-05-02"
     },
@@ -451,58 +395,6 @@
       "duration": "02:33:30",
       "round": "Round of 64",
       "date": "2016-05-03"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6",
-            "6"
-          ],
-          "name": "Sam Querrey",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "3",
-            "4"
-          ],
-          "name": "Lucas Pouille",
-          "country": "FR"
-        }
-      ],
-      "duration": "01:49:00",
-      "round": "Round of 32",
-      "date": "2016-05-04"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "4"
-          ],
-          "name": "Viktor Troicki",
-          "country": "RS"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Andrey Kuznetsov",
-          "country": "RU"
-        }
-      ],
-      "duration": "01:20:42",
-      "round": "Round of 64",
-      "date": "2016-05-02"
     },
     {
       "players": [
@@ -819,6 +711,58 @@
         {
           "is_winner": false,
           "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Santiago Giraldo",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Roberto Bautista",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:43:34",
+      "round": "Round of 64",
+      "date": "2016-05-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "4"
+          ],
+          "name": "Albert Ramos",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "5",
+            "6"
+          ],
+          "name": "Jo-Wilfried Tsonga",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:41:57",
+      "round": "Round of 32",
+      "date": "2016-05-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
             "4",
             "6",
             "4"
@@ -871,6 +815,33 @@
     {
       "players": [
         {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "5"
+          ],
+          "name": "Feliciano Lopez",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "7"
+          ],
+          "name": "Roberto Bautista",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:28:04",
+      "round": "Round of 32",
+      "date": "2016-05-04"
+    },
+    {
+      "players": [
+        {
           "is_winner": true,
           "set_games": [
             "2",
@@ -903,31 +874,6 @@
             "6",
             "6"
           ],
-          "name": "Novak Djokovic",
-          "country": "RS"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "1"
-          ],
-          "name": "Roberto Bautista",
-          "country": "ES"
-        }
-      ],
-      "duration": "01:08:12",
-      "round": "Round of 16",
-      "date": "2016-05-05"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
           "name": "Joao Sousa",
           "country": "PT"
         },
@@ -944,31 +890,6 @@
       "duration": "01:12:28",
       "round": "Round of 32",
       "date": "2016-05-04"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "5"
-          ],
-          "name": "Santiago Giraldo",
-          "country": "CO"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Roberto Bautista",
-          "country": "ES"
-        }
-      ],
-      "duration": "01:43:34",
-      "round": "Round of 64",
-      "date": "2016-05-03"
     },
     {
       "players": [
@@ -998,31 +919,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "5"
-          ],
-          "name": "Richard Gasquet",
-          "country": "FR"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Kei Nishikori",
-          "country": "JP"
-        }
-      ],
-      "duration": "01:39:58",
-      "round": "Round of 16",
-      "date": "2016-05-05"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -1042,6 +938,110 @@
         }
       ],
       "duration": "01:18:30",
+      "round": "Round of 32",
+      "date": "2016-05-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Pablo Cuevas",
+          "country": "UY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Gael Monfils",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:49:53",
+      "round": "Round of 32",
+      "date": "2016-05-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Sam Querrey",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "4"
+          ],
+          "name": "Lucas Pouille",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:49:00",
+      "round": "Round of 32",
+      "date": "2016-05-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Stan Wawrinka",
+          "country": "CH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Nick Kyrgios",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:45:49",
+      "round": "Round of 32",
+      "date": "2016-05-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tomas Berdych",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Denis Istomin",
+          "country": "UZ"
+        }
+      ],
+      "duration": "01:09:07",
       "round": "Round of 32",
       "date": "2016-05-04"
     },
@@ -1157,6 +1157,31 @@
             "6",
             "6"
           ],
+          "name": "Novak Djokovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Roberto Bautista",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:08:12",
+      "round": "Round of 16",
+      "date": "2016-05-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
           "name": "Rafael Nadal",
           "country": "ES"
         },
@@ -1177,52 +1202,27 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Tomas Berdych",
-          "country": "CZ"
-        },
-        {
           "is_winner": false,
           "set_games": [
-            "3",
-            "3"
+            "4",
+            "5"
           ],
-          "name": "Denis Istomin",
-          "country": "UZ"
-        }
-      ],
-      "duration": "01:09:07",
-      "round": "Round of 32",
-      "date": "2016-05-04"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Stan Wawrinka",
-          "country": "CH"
+          "name": "Richard Gasquet",
+          "country": "FR"
         },
         {
           "is_winner": true,
           "set_games": [
-            "7",
+            "6",
             "7"
           ],
-          "name": "Nick Kyrgios",
-          "country": "AU"
+          "name": "Kei Nishikori",
+          "country": "JP"
         }
       ],
-      "duration": "01:45:49",
-      "round": "Round of 32",
-      "date": "2016-05-04"
+      "duration": "01:39:58",
+      "round": "Round of 16",
+      "date": "2016-05-05"
     },
     {
       "players": [

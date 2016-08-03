@@ -10,83 +10,6 @@
         {
           "is_winner": false,
           "set_games": [
-            "1",
-            "0"
-          ],
-          "name": "Anne Schaefer",
-          "country": "DE"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Lara Arruabarrena",
-          "country": "ES"
-        }
-      ],
-      "duration": "00:55:32",
-      "round": "Round of 16",
-      "date": "2016-04-13"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "6",
-            "6"
-          ],
-          "name": "Elina Svitolina",
-          "country": "UA"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "1",
-            "7"
-          ],
-          "name": "Alexandra Panova",
-          "country": "RU"
-        }
-      ],
-      "duration": "02:09:00",
-      "round": "Round of 32",
-      "date": "2016-04-13"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "7"
-          ],
-          "name": "Alexandra Panova",
-          "country": "RU"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Conny Perrin",
-          "country": "CH"
-        }
-      ],
-      "duration": "02:21:27",
-      "round": "Round of 16",
-      "date": "2016-04-14"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
             "3",
             "6",
             "2"
@@ -106,6 +29,56 @@
         }
       ],
       "duration": "03:47:36",
+      "round": "Round of 32",
+      "date": "2016-04-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Conny Perrin",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Romina Oprandi",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:41:40",
+      "round": "Round of 32",
+      "date": "2016-04-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "2"
+          ],
+          "name": "Nadia Echeverria Alam",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lara Arruabarrena",
+          "country": "ES"
+        }
+      ],
+      "duration": "00:56:00",
       "round": "Round of 32",
       "date": "2016-04-11"
     },
@@ -141,23 +114,23 @@
         {
           "is_winner": false,
           "set_games": [
-            "0",
-            "2"
+            "6",
+            "1"
           ],
-          "name": "Nadia Echeverria Alam",
-          "country": "US"
+          "name": "Yuliana Lizarazo",
+          "country": "CO"
         },
         {
           "is_winner": true,
           "set_games": [
-            "6",
+            "7",
             "6"
           ],
-          "name": "Lara Arruabarrena",
-          "country": "ES"
+          "name": "Sachia Vickery",
+          "country": "US"
         }
       ],
-      "duration": "00:56:00",
+      "duration": "01:46:27",
       "round": "Round of 32",
       "date": "2016-04-11"
     },
@@ -166,25 +139,27 @@
         {
           "is_winner": true,
           "set_games": [
+            "3",
             "6",
             "7"
           ],
-          "name": "Conny Perrin",
-          "country": "CH"
+          "name": "Catalina Pella",
+          "country": "AR"
         },
         {
           "is_winner": false,
           "set_games": [
-            "4",
+            "6",
+            "3",
             "6"
           ],
-          "name": "Romina Oprandi",
-          "country": "CH"
+          "name": "Teliana Pereira",
+          "country": "BR"
         }
       ],
-      "duration": "01:41:40",
+      "duration": "06:09:06",
       "round": "Round of 32",
-      "date": "2016-04-11"
+      "date": "2016-04-12"
     },
     {
       "players": [
@@ -341,31 +316,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "2"
-          ],
-          "name": "Elitsa Kostova",
-          "country": "BG"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Catalina Pella",
-          "country": "AR"
-        }
-      ],
-      "duration": "01:08:29",
-      "round": "Round of 16",
-      "date": "2016-04-13"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -391,154 +341,77 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "3",
-            "6",
-            "7"
-          ],
-          "name": "Catalina Pella",
-          "country": "AR"
-        },
-        {
           "is_winner": false,
           "set_games": [
-            "6",
-            "3",
-            "6"
+            "1",
+            "0"
           ],
-          "name": "Teliana Pereira",
-          "country": "BR"
-        }
-      ],
-      "duration": "06:09:06",
-      "round": "Round of 32",
-      "date": "2016-04-12"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "1"
-          ],
-          "name": "Yuliana Lizarazo",
-          "country": "CO"
+          "name": "Anne Schaefer",
+          "country": "DE"
         },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Sachia Vickery",
-          "country": "US"
-        }
-      ],
-      "duration": "01:46:27",
-      "round": "Round of 32",
-      "date": "2016-04-11"
-    },
-    {
-      "players": [
         {
           "is_winner": true,
           "set_games": [
             "6",
             "6"
           ],
-          "name": "Amra Sadikovic",
-          "country": "CH"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "4"
-          ],
-          "name": "Rebecca Peterson",
-          "country": "SE"
+          "name": "Lara Arruabarrena",
+          "country": "ES"
         }
       ],
-      "duration": "01:21:28",
+      "duration": "00:55:32",
       "round": "Round of 16",
-      "date": "2016-04-14"
+      "date": "2016-04-13"
     },
     {
       "players": [
         {
           "is_winner": false,
-          "set_games": [
-            "4",
-            "3"
-          ],
-          "name": "Alexandra Panova",
-          "country": "RU"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Paula Cristina Goncalves",
-          "country": "BR"
-        }
-      ],
-      "duration": "01:33:09",
-      "round": "Quarter-Final",
-      "date": "2016-04-15"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
           "set_games": [
             "5",
             "6",
             "6"
           ],
-          "name": "Lourdes Dominguez",
-          "country": "ES"
+          "name": "Elina Svitolina",
+          "country": "UA"
         },
         {
-          "is_winner": false,
+          "is_winner": true,
           "set_games": [
             "7",
-            "4",
-            "4"
+            "1",
+            "7"
           ],
-          "name": "Patricia Maria Tig",
-          "country": "RO"
+          "name": "Alexandra Panova",
+          "country": "RU"
         }
       ],
-      "duration": "20:28:10",
+      "duration": "02:09:00",
       "round": "Round of 32",
       "date": "2016-04-13"
     },
     {
       "players": [
         {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Elitsa Kostova",
+          "country": "BG"
+        },
+        {
           "is_winner": true,
           "set_games": [
             "6",
             "6"
           ],
-          "name": "Paula Cristina Goncalves",
-          "country": "BR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "3"
-          ],
-          "name": "Tatjana Maria",
-          "country": "DE"
+          "name": "Catalina Pella",
+          "country": "AR"
         }
       ],
-      "duration": "01:18:56",
+      "duration": "01:08:29",
       "round": "Round of 16",
       "date": "2016-04-13"
     },
@@ -570,29 +443,29 @@
     {
       "players": [
         {
-          "is_winner": false,
+          "is_winner": true,
           "set_games": [
-            "0",
+            "5",
             "6",
-            "3"
+            "6"
           ],
           "name": "Lourdes Dominguez",
           "country": "ES"
         },
         {
-          "is_winner": true,
+          "is_winner": false,
           "set_games": [
-            "6",
-            "2",
-            "6"
+            "7",
+            "4",
+            "4"
           ],
-          "name": "Sachia Vickery",
-          "country": "US"
+          "name": "Patricia Maria Tig",
+          "country": "RO"
         }
       ],
-      "duration": "01:46:26",
-      "round": "Round of 16",
-      "date": "2016-04-14"
+      "duration": "20:28:10",
+      "round": "Round of 32",
+      "date": "2016-04-13"
     },
     {
       "players": [
@@ -627,6 +500,108 @@
           "is_winner": true,
           "set_games": [
             "6",
+            "6"
+          ],
+          "name": "Paula Cristina Goncalves",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Tatjana Maria",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:18:56",
+      "round": "Round of 16",
+      "date": "2016-04-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Alexandra Panova",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Conny Perrin",
+          "country": "CH"
+        }
+      ],
+      "duration": "02:21:27",
+      "round": "Round of 16",
+      "date": "2016-04-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Amra Sadikovic",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Rebecca Peterson",
+          "country": "SE"
+        }
+      ],
+      "duration": "01:21:28",
+      "round": "Round of 16",
+      "date": "2016-04-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "6",
+            "3"
+          ],
+          "name": "Lourdes Dominguez",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Sachia Vickery",
+          "country": "US"
+        }
+      ],
+      "duration": "01:46:26",
+      "round": "Round of 16",
+      "date": "2016-04-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
             "6",
             "6"
           ],
@@ -647,6 +622,31 @@
       "duration": "02:06:18",
       "round": "Round of 16",
       "date": "2016-04-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Alexandra Panova",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Paula Cristina Goncalves",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:33:09",
+      "round": "Quarter-Final",
+      "date": "2016-04-15"
     },
     {
       "players": [

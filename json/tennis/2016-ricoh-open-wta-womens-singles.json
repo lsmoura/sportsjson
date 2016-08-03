@@ -10,6 +10,108 @@
         {
           "is_winner": true,
           "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Coco Vandeweghe",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Indy de Vroome",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:15:49",
+      "round": "Round of 32",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Elise Mertens",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Eugenie Bouchard",
+          "country": "CA"
+        }
+      ],
+      "duration": "00:52:18",
+      "round": "Round of 32",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "2"
+          ],
+          "name": "Laura Siegemund",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Madison Brengle",
+          "country": "US"
+        }
+      ],
+      "duration": "02:07:26",
+      "round": "Round of 32",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Natalia Vikhlyantseva",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Denisa Allertova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "00:51:08",
+      "round": "Round of 32",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
             "7",
             "6"
           ],
@@ -265,31 +367,6 @@
             "6",
             "6"
           ],
-          "name": "Natalia Vikhlyantseva",
-          "country": "RU"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "1"
-          ],
-          "name": "Denisa Allertova",
-          "country": "CZ"
-        }
-      ],
-      "duration": "00:51:08",
-      "round": "Round of 32",
-      "date": "2016-06-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
           "name": "Risa Ozaki",
           "country": "JP"
         },
@@ -313,101 +390,24 @@
           "is_winner": true,
           "set_games": [
             "6",
-            "6"
-          ],
-          "name": "Coco Vandeweghe",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "4"
-          ],
-          "name": "Indy de Vroome",
-          "country": "NL"
-        }
-      ],
-      "duration": "01:15:49",
-      "round": "Round of 32",
-      "date": "2016-06-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "6",
-            "2"
-          ],
-          "name": "Laura Siegemund",
-          "country": "DE"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "3",
-            "6"
-          ],
-          "name": "Madison Brengle",
-          "country": "US"
-        }
-      ],
-      "duration": "02:07:26",
-      "round": "Round of 32",
-      "date": "2016-06-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Elise Mertens",
-          "country": "BE"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "0"
-          ],
-          "name": "Eugenie Bouchard",
-          "country": "CA"
-        }
-      ],
-      "duration": "00:52:18",
-      "round": "Round of 32",
-      "date": "2016-06-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "2"
-          ],
-          "name": "Risa Ozaki",
-          "country": "JP"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
+            "7"
           ],
           "name": "Viktorija Golubic",
           "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Anna-Lena Friedsam",
+          "country": "DE"
         }
       ],
-      "duration": "01:11:59",
-      "round": "Round of 16",
-      "date": "2016-06-09"
+      "duration": "01:24:53",
+      "round": "Round of 32",
+      "date": "2016-06-07"
     },
     {
       "players": [
@@ -440,56 +440,6 @@
           "is_winner": true,
           "set_games": [
             "6",
-            "7"
-          ],
-          "name": "Viktorija Golubic",
-          "country": "CH"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "5"
-          ],
-          "name": "Anna-Lena Friedsam",
-          "country": "DE"
-        }
-      ],
-      "duration": "01:24:53",
-      "round": "Round of 32",
-      "date": "2016-06-07"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "7"
-          ],
-          "name": "Belinda Bencic",
-          "country": "CH"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Viktorija Golubic",
-          "country": "CH"
-        }
-      ],
-      "duration": "02:14:25",
-      "round": "Quarter-Final",
-      "date": "2016-06-10"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
             "6"
           ],
           "name": "Coco Vandeweghe",
@@ -508,31 +458,6 @@
       "duration": "01:06:54",
       "round": "Round of 16",
       "date": "2016-06-08"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Coco Vandeweghe",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "2"
-          ],
-          "name": "Evgeniya Rodina",
-          "country": "RU"
-        }
-      ],
-      "duration": "00:58:52",
-      "round": "Quarter-Final",
-      "date": "2016-06-10"
     },
     {
       "players": [
@@ -666,6 +591,81 @@
       "duration": "01:26:18",
       "round": "Round of 16",
       "date": "2016-06-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Risa Ozaki",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Viktorija Golubic",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:11:59",
+      "round": "Round of 16",
+      "date": "2016-06-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Belinda Bencic",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Viktorija Golubic",
+          "country": "CH"
+        }
+      ],
+      "duration": "02:14:25",
+      "round": "Quarter-Final",
+      "date": "2016-06-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Coco Vandeweghe",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Evgeniya Rodina",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:58:52",
+      "round": "Quarter-Final",
+      "date": "2016-06-10"
     },
     {
       "players": [

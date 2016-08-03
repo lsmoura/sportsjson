@@ -1102,33 +1102,6 @@
         {
           "is_winner": true,
           "set_games": [
-            "6",
-            "7",
-            "7"
-          ],
-          "name": "Risa Ozaki",
-          "country": "JP"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "6",
-            "5"
-          ],
-          "name": "Freya Christie",
-          "country": "GB"
-        }
-      ],
-      "duration": "19:08:24",
-      "round": "Round of 128",
-      "date": "2016-06-22"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
             "7",
             "3",
             "6"
@@ -1181,31 +1154,6 @@
         {
           "is_winner": false,
           "set_games": [
-            "4",
-            "3"
-          ],
-          "name": "Risa Ozaki",
-          "country": "JP"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Harriet Dart",
-          "country": "GB"
-        }
-      ],
-      "duration": "01:08:49",
-      "round": "Round of 64",
-      "date": "2016-06-22"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
             "1",
             "6"
           ],
@@ -1223,6 +1171,33 @@
         }
       ],
       "duration": "01:10:30",
+      "round": "Round of 128",
+      "date": "2016-06-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Yafan Wang",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "0"
+          ],
+          "name": "Richel Hogenkamp",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:51:11",
       "round": "Round of 128",
       "date": "2016-06-21"
     },
@@ -1622,6 +1597,58 @@
         {
           "is_winner": false,
           "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Risa Ozaki",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Harriet Dart",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:08:49",
+      "round": "Round of 64",
+      "date": "2016-06-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "7"
+          ],
+          "name": "Risa Ozaki",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "5"
+          ],
+          "name": "Freya Christie",
+          "country": "GB"
+        }
+      ],
+      "duration": "19:08:24",
+      "round": "Round of 128",
+      "date": "2016-06-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
             "5",
             "6",
             "2"
@@ -1647,33 +1674,6 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "4",
-            "6"
-          ],
-          "name": "Yafan Wang",
-          "country": "CN"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "6",
-            "0"
-          ],
-          "name": "Richel Hogenkamp",
-          "country": "NL"
-        }
-      ],
-      "duration": "01:51:11",
-      "round": "Round of 128",
-      "date": "2016-06-21"
-    },
-    {
-      "players": [
-        {
           "is_winner": false,
           "set_games": [
             "4",
@@ -1693,6 +1693,133 @@
         }
       ],
       "duration": "01:34:44",
+      "round": "Round of 64",
+      "date": "2016-06-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Tamira Paszek",
+          "country": "AT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Lisa Whybourn",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:36:41",
+      "round": "Round of 64",
+      "date": "2016-06-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tatjana Maria",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "An-Sophie Mestach",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:17:47",
+      "round": "Round of 64",
+      "date": "2016-06-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "2"
+          ],
+          "name": "Taylor Townsend",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Yingying Duan",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:54:34",
+      "round": "Round of 64",
+      "date": "2016-06-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Urszula Radwanska",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marina Erakovic",
+          "country": "NZ"
+        }
+      ],
+      "duration": "01:08:49",
+      "round": "Round of 64",
+      "date": "2016-06-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Viktorija Golubic",
+          "country": "CH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Amra Sadikovic",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:31:00",
       "round": "Round of 64",
       "date": "2016-06-22"
     },
@@ -1795,133 +1922,6 @@
       "duration": "00:54:01",
       "round": "Round of 32",
       "date": "2016-06-24"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Tatjana Maria",
-          "country": "DE"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "3"
-          ],
-          "name": "An-Sophie Mestach",
-          "country": "BE"
-        }
-      ],
-      "duration": "01:17:47",
-      "round": "Round of 64",
-      "date": "2016-06-22"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "7",
-            "2"
-          ],
-          "name": "Taylor Townsend",
-          "country": "US"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "5",
-            "6"
-          ],
-          "name": "Yingying Duan",
-          "country": "CN"
-        }
-      ],
-      "duration": "01:54:34",
-      "round": "Round of 64",
-      "date": "2016-06-22"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "2"
-          ],
-          "name": "Urszula Radwanska",
-          "country": "PL"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Marina Erakovic",
-          "country": "NZ"
-        }
-      ],
-      "duration": "01:08:49",
-      "round": "Round of 64",
-      "date": "2016-06-22"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Tamira Paszek",
-          "country": "AT"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "6"
-          ],
-          "name": "Lisa Whybourn",
-          "country": "GB"
-        }
-      ],
-      "duration": "01:36:41",
-      "round": "Round of 64",
-      "date": "2016-06-22"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "4"
-          ],
-          "name": "Viktorija Golubic",
-          "country": "CH"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Amra Sadikovic",
-          "country": "CH"
-        }
-      ],
-      "duration": "01:31:00",
-      "round": "Round of 64",
-      "date": "2016-06-22"
     },
     {
       "players": [

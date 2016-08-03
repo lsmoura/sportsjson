@@ -1,0 +1,288 @@
+{
+  "name": "2016 Santiago, Qualification Challenger (Men's Singles)",
+  "country": "Chile",
+  "gender": "male",
+  "location": "Santiago",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Alan Sanson",
+          "country": "CL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Michel Vernier",
+          "country": "CL"
+        }
+      ],
+      "duration": "00:40:59",
+      "round": "Round of 16",
+      "date": "2016-03-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Federico Coria",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "1"
+          ],
+          "name": "Simon Navarro",
+          "country": "CL"
+        }
+      ],
+      "duration": "01:31:37",
+      "round": "Round of 16",
+      "date": "2016-03-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Geronimo Barrios",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "2"
+          ],
+          "name": "Ricardo Urzua",
+          "country": "CL"
+        }
+      ],
+      "duration": "02:20:24",
+      "round": "Round of 16",
+      "date": "2016-03-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Maximiliano Estevez",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Franco Moral",
+          "country": "CL"
+        }
+      ],
+      "duration": "00:53:19",
+      "round": "Round of 16",
+      "date": "2016-03-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pedro Sakamoto",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Cristobal Grandon",
+          "country": "CL"
+        }
+      ],
+      "duration": "01:01:13",
+      "round": "Round of 16",
+      "date": "2016-03-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "0"
+          ],
+          "name": "Rodrigo Castro",
+          "country": "CL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jorge Montero",
+          "country": "CL"
+        }
+      ],
+      "duration": "00:40:11",
+      "round": "Round of 16",
+      "date": "2016-03-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Victor Nunez",
+          "country": "CL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Guillermo Rivera",
+          "country": "CL"
+        }
+      ],
+      "duration": "01:11:35",
+      "round": "Round of 16",
+      "date": "2016-03-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Adrien Puget",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Jorge Montero",
+          "country": "CL"
+        }
+      ],
+      "duration": "00:57:24",
+      "round": "Quarter-Final",
+      "date": "2016-03-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Federico Coria",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Michel Vernier",
+          "country": "CL"
+        }
+      ],
+      "duration": "01:28:56",
+      "round": "Quarter-Final",
+      "date": "2016-03-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Maximiliano Estevez",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Geronimo Barrios",
+          "country": "CL"
+        }
+      ],
+      "duration": "01:00:15",
+      "round": "Quarter-Final",
+      "date": "2016-03-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pedro Sakamoto",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Guillermo Rivera",
+          "country": "CL"
+        }
+      ],
+      "duration": "01:08:18",
+      "round": "Quarter-Final",
+      "date": "2016-03-06"
+    }
+  ]
+}

@@ -10,33 +10,6 @@
         {
           "is_winner": true,
           "set_games": [
-            "2",
-            "7",
-            "6"
-          ],
-          "name": "Denis Kudla",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "6",
-            "2"
-          ],
-          "name": "Benjamin Becker",
-          "country": "DE"
-        }
-      ],
-      "duration": "02:09:35",
-      "round": "Round of 16",
-      "date": "2016-05-01"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
             "6",
             "3",
             "6"
@@ -83,31 +56,6 @@
       "duration": "01:27:04",
       "round": "Round of 32",
       "date": "2016-04-30"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "3"
-          ],
-          "name": "Dusan Lajovic",
-          "country": "RS"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Santiago Giraldo",
-          "country": "CO"
-        }
-      ],
-      "duration": "01:23:50",
-      "round": "Round of 16",
-      "date": "2016-05-01"
     },
     {
       "players": [
@@ -185,31 +133,6 @@
       "duration": "01:13:16",
       "round": "Round of 32",
       "date": "2016-04-30"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "4"
-          ],
-          "name": "Marcel Granollers",
-          "country": "ES"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Radek Stepanek",
-          "country": "CZ"
-        }
-      ],
-      "duration": "01:49:53",
-      "round": "Round of 16",
-      "date": "2016-05-01"
     },
     {
       "players": [
@@ -447,6 +370,58 @@
         {
           "is_winner": true,
           "set_games": [
+            "2",
+            "7",
+            "6"
+          ],
+          "name": "Denis Kudla",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "2"
+          ],
+          "name": "Benjamin Becker",
+          "country": "DE"
+        }
+      ],
+      "duration": "02:09:35",
+      "round": "Round of 16",
+      "date": "2016-05-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Dusan Lajovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Santiago Giraldo",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:23:50",
+      "round": "Round of 16",
+      "date": "2016-05-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
             "6",
             "6",
             "6"
@@ -466,6 +441,31 @@
         }
       ],
       "duration": "01:54:36",
+      "round": "Round of 16",
+      "date": "2016-05-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Marcel Granollers",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Radek Stepanek",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:49:53",
       "round": "Round of 16",
       "date": "2016-05-01"
     },

@@ -1,0 +1,594 @@
+{
+  "name": "2016 Zhuhai, Qualification Challenger (Men's Singles)",
+  "country": "China",
+  "gender": "male",
+  "location": "Zhuhai",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Dino Marcan",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lorenzo Sonego",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:14:05",
+      "round": "Round of 32",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Fajing Sun",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Ruikai Wang",
+          "country": "CN"
+        }
+      ],
+      "duration": "00:48:51",
+      "round": "Round of 32",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Haitong Xia",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Roman Jebavy",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:17:05",
+      "round": "Round of 32",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Hao Wu",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "3"
+          ],
+          "name": "Cheng-Peng Hsieh",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:25:46",
+      "round": "Round of 32",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Hsien-Yin Peng",
+          "country": "TW"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Alexandr Kushakov",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:25:35",
+      "round": "Round of 32",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "2"
+          ],
+          "name": "Junnan Tao",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Kevin Krawietz",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:20:42",
+      "round": "Round of 32",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Mark Vervoort",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jeevan Nedunchezhiyan",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:08:58",
+      "round": "Round of 32",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Ruixuan Wang",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yuanfeng Li",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:04:13",
+      "round": "Round of 32",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Xi Qi",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Zhicheng Zhu",
+          "country": "CN"
+        }
+      ],
+      "duration": "00:49:44",
+      "round": "Round of 32",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Xiao Gong",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "N. Vijay Sundar Prashanth",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:28:58",
+      "round": "Round of 32",
+      "date": "2016-03-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Cheong-Eui Kim",
+          "country": "KR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Hao Wu",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:09:11",
+      "round": "Round of 16",
+      "date": "2016-03-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Edoardo Eremin",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Hsien-Yin Peng",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:19:08",
+      "round": "Round of 16",
+      "date": "2016-03-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Fajing Sun",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lorenzo Sonego",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:05:57",
+      "round": "Round of 16",
+      "date": "2016-03-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "1"
+          ],
+          "name": "Long Chen",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Riccardo Ghedin",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:05:04",
+      "round": "Round of 32",
+      "date": "2016-03-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Riccardo Ghedin",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "4"
+          ],
+          "name": "N. Vijay Sundar Prashanth",
+          "country": "IN"
+        }
+      ],
+      "duration": "02:06:28",
+      "round": "Round of 16",
+      "date": "2016-03-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Xi Qi",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jeevan Nedunchezhiyan",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:06:15",
+      "round": "Round of 16",
+      "date": "2016-03-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Yuanfeng Li",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Maximilian Neuchrist",
+          "country": "AT"
+        }
+      ],
+      "duration": "00:57:20",
+      "round": "Round of 16",
+      "date": "2016-03-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Cheong-Eui Kim",
+          "country": "KR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Jeevan Nedunchezhiyan",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:18:02",
+      "round": "Quarter-Final",
+      "date": "2016-03-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Edoardo Eremin",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "2",
+            "7"
+          ],
+          "name": "Maximilian Neuchrist",
+          "country": "AT"
+        }
+      ],
+      "duration": "02:35:39",
+      "round": "Quarter-Final",
+      "date": "2016-03-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Joshua Milton"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Haitong Xia",
+          "country": "CN"
+        }
+      ],
+      "duration": "00:50:15",
+      "round": "Round of 16",
+      "date": "2016-03-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kevin Krawietz",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Riccardo Ghedin",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:54:38",
+      "round": "Quarter-Final",
+      "date": "2016-03-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Sanam Singh",
+          "country": "IN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kevin Krawietz",
+          "country": "DE"
+        }
+      ],
+      "duration": "00:54:57",
+      "round": "Round of 16",
+      "date": "2016-03-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Joshua Milton"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lorenzo Sonego",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:40:01",
+      "round": "Quarter-Final",
+      "date": "2016-03-07"
+    }
+  ]
+}

@@ -37,54 +37,29 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "4"
-          ],
-          "name": "Alexander Sarkissian",
-          "country": "US"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Go Soeda",
-          "country": "JP"
-        }
-      ],
-      "duration": "01:22:37",
-      "round": "Round of 16",
-      "date": "2016-07-14"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "4",
             "6",
-            "7"
+            "6"
           ],
-          "name": "Blaz Kavcic",
-          "country": "SI"
+          "name": "Alexander Sarkissian",
+          "country": "US"
         },
         {
           "is_winner": false,
           "set_games": [
             "6",
             "2",
-            "6"
+            "4"
           ],
-          "name": "Felix Auger Aliassime",
-          "country": "CA"
+          "name": "Cameron Norrie",
+          "country": "NZ"
         }
       ],
-      "duration": "05:12:08",
+      "duration": "01:56:47",
       "round": "Round of 32",
-      "date": "2016-07-13"
+      "date": "2016-07-11"
     },
     {
       "players": [
@@ -92,24 +67,24 @@
           "is_winner": true,
           "set_games": [
             "6",
-            "6"
+            "7"
           ],
-          "name": "Mitchell Krueger",
+          "name": "Bjorn Fratangelo",
           "country": "US"
         },
         {
           "is_winner": false,
           "set_games": [
-            "0",
-            "4"
+            "2",
+            "6"
           ],
-          "name": "Benjamin Sigouin",
-          "country": "CA"
+          "name": "Lloyd Glasspool",
+          "country": "GB"
         }
       ],
-      "duration": "01:49:46",
+      "duration": "01:10:45",
       "round": "Round of 32",
-      "date": "2016-07-13"
+      "date": "2016-07-11"
     },
     {
       "players": [
@@ -168,52 +143,27 @@
         {
           "is_winner": true,
           "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Bjorn Fratangelo",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
+            "1",
+            "7",
             "6"
           ],
-          "name": "Lloyd Glasspool",
-          "country": "GB"
-        }
-      ],
-      "duration": "01:10:45",
-      "round": "Round of 32",
-      "date": "2016-07-11"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "4",
-            "6",
-            "6"
-          ],
-          "name": "Alexander Sarkissian",
-          "country": "US"
+          "name": "Benjamin Mitchell",
+          "country": "AU"
         },
         {
           "is_winner": false,
           "set_games": [
             "6",
-            "2",
+            "6",
             "4"
           ],
-          "name": "Cameron Norrie",
-          "country": "NZ"
+          "name": "Vincent Millot",
+          "country": "FR"
         }
       ],
-      "duration": "01:56:47",
+      "duration": "02:06:05",
       "round": "Round of 32",
-      "date": "2016-07-11"
+      "date": "2016-07-12"
     },
     {
       "players": [
@@ -320,33 +270,6 @@
         {
           "is_winner": false,
           "set_games": [
-            "7",
-            "6",
-            "3"
-          ],
-          "name": "Marinko Matosevic",
-          "country": "AU"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7",
-            "6"
-          ],
-          "name": "Dayne Kelly",
-          "country": "AU"
-        }
-      ],
-      "duration": "02:40:53",
-      "round": "Round of 32",
-      "date": "2016-07-13"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
             "5",
             "6"
           ],
@@ -372,27 +295,104 @@
         {
           "is_winner": true,
           "set_games": [
-            "1",
-            "7",
-            "6"
+            "4",
+            "6",
+            "7"
           ],
-          "name": "Benjamin Mitchell",
-          "country": "AU"
+          "name": "Blaz Kavcic",
+          "country": "SI"
         },
         {
           "is_winner": false,
           "set_games": [
             "6",
-            "6",
-            "4"
+            "2",
+            "6"
           ],
-          "name": "Vincent Millot",
-          "country": "FR"
+          "name": "Felix Auger Aliassime",
+          "country": "CA"
         }
       ],
-      "duration": "02:06:05",
+      "duration": "05:12:08",
       "round": "Round of 32",
-      "date": "2016-07-12"
+      "date": "2016-07-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "3"
+          ],
+          "name": "Marinko Matosevic",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Dayne Kelly",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:40:53",
+      "round": "Round of 32",
+      "date": "2016-07-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mitchell Krueger",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "4"
+          ],
+          "name": "Benjamin Sigouin",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:49:46",
+      "round": "Round of 32",
+      "date": "2016-07-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Alexander Sarkissian",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:22:37",
+      "round": "Round of 16",
+      "date": "2016-07-14"
     },
     {
       "players": [

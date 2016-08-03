@@ -112,6 +112,31 @@
     {
       "players": [
         {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Margarita Gasparyan",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Jana Cepelova",
+          "country": "SK"
+        }
+      ],
+      "duration": "02:12:57",
+      "round": "Round of 32",
+      "date": "2016-04-25"
+    },
+    {
+      "players": [
+        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -393,31 +418,6 @@
       "duration": "01:28:28",
       "round": "Round of 32",
       "date": "2016-04-26"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "5"
-          ],
-          "name": "Margarita Gasparyan",
-          "country": "RU"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "7"
-          ],
-          "name": "Jana Cepelova",
-          "country": "SK"
-        }
-      ],
-      "duration": "02:12:57",
-      "round": "Round of 32",
-      "date": "2016-04-25"
     },
     {
       "players": [

@@ -1,0 +1,371 @@
+{
+  "name": "2016 Taiwan Open - Kaohsiung, Taiwan, Qualification WTA (Women's Singles)",
+  "country": "Taiwan",
+  "gender": "female",
+  "location": "Kaohsiung",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Chang Liu",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Hsin-Yuan Shih",
+          "country": "TW"
+        }
+      ],
+      "duration": "00:51:18",
+      "round": "Round of 32",
+      "date": "2016-02-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "5"
+          ],
+          "name": "Emily Webley-Smith",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Sherazad Benamar",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:48:02",
+      "round": "Round of 32",
+      "date": "2016-02-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "I-Hsuan Cho",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yifan Xu",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:02:50",
+      "round": "Round of 32",
+      "date": "2016-02-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marina Melnikova",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Wei Tang",
+          "country": "TW"
+        }
+      ],
+      "duration": "00:55:01",
+      "round": "Round of 32",
+      "date": "2016-02-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Michaela Honcova",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Junri Namigata",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:58:48",
+      "round": "Round of 32",
+      "date": "2016-02-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Pei-Ju Chien",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Aleksandrina Naydenova",
+          "country": "BG"
+        }
+      ],
+      "duration": "00:59:45",
+      "round": "Round of 32",
+      "date": "2016-02-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "2"
+          ],
+          "name": "Tori Kinard",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Lyudmyla Kichenok",
+          "country": "UA"
+        }
+      ],
+      "duration": "02:05:56",
+      "round": "Round of 32",
+      "date": "2016-02-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "2"
+          ],
+          "name": "Chang Liu",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Lyudmyla Kichenok",
+          "country": "UA"
+        }
+      ],
+      "duration": "02:12:42",
+      "round": "Round of 16",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Hiroko Kuwata",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Sherazad Benamar",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:47:39",
+      "round": "Round of 16",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Laura Pous",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "3"
+          ],
+          "name": "Aleksandrina Naydenova",
+          "country": "BG"
+        }
+      ],
+      "duration": "02:38:08",
+      "round": "Round of 16",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Miyu Kato",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "2"
+          ],
+          "name": "Junri Namigata",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:13:13",
+      "round": "Round of 16",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Mizuno Kijima",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ayaka Okuno",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:25:38",
+      "round": "Round of 32",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Yuxuan Zhang",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "2"
+          ],
+          "name": "Yifan Xu",
+          "country": "CN"
+        }
+      ],
+      "duration": "02:24:53",
+      "round": "Round of 16",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "3"
+          ],
+          "name": "Marina Melnikova",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Ayaka Okuno",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:25:57",
+      "round": "Round of 16",
+      "date": "2016-02-07"
+    }
+  ]
+}

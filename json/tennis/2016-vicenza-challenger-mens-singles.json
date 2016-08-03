@@ -8,54 +8,29 @@
     {
       "players": [
         {
-          "is_winner": false,
+          "is_winner": true,
           "set_games": [
             "2",
-            "1"
-          ],
-          "name": "Alejandro Gonzalez",
-          "country": "CO"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Guido Andreozzi",
-          "country": "AR"
-        }
-      ],
-      "duration": "01:11:32",
-      "round": "Round of 16",
-      "date": "2016-05-26"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
             "7",
-            "4",
-            "6"
+            "7"
           ],
-          "name": "Alejandro Gonzalez",
-          "country": "CO"
+          "name": "Edoardo Eremin",
+          "country": "IT"
         },
         {
           "is_winner": false,
           "set_games": [
             "6",
             "6",
-            "4"
+            "6"
           ],
-          "name": "Francisco Bahamonde",
-          "country": "AR"
+          "name": "Thiago Monteiro",
+          "country": "BR"
         }
       ],
-      "duration": "02:49:30",
+      "duration": "05:48:05",
       "round": "Round of 32",
-      "date": "2016-05-24"
+      "date": "2016-05-23"
     },
     {
       "players": [
@@ -87,27 +62,27 @@
         {
           "is_winner": true,
           "set_games": [
-            "2",
             "7",
-            "7"
+            "4",
+            "6"
           ],
-          "name": "Edoardo Eremin",
-          "country": "IT"
+          "name": "Alejandro Gonzalez",
+          "country": "CO"
         },
         {
           "is_winner": false,
           "set_games": [
             "6",
             "6",
-            "6"
+            "4"
           ],
-          "name": "Thiago Monteiro",
-          "country": "BR"
+          "name": "Francisco Bahamonde",
+          "country": "AR"
         }
       ],
-      "duration": "05:48:05",
+      "duration": "02:49:30",
       "round": "Round of 32",
-      "date": "2016-05-23"
+      "date": "2016-05-24"
     },
     {
       "players": [
@@ -187,31 +162,6 @@
       "duration": "02:12:05",
       "round": "Round of 32",
       "date": "2016-05-24"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Filippo Volandri",
-          "country": "IT"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "2"
-          ],
-          "name": "Marton Fucsovics",
-          "country": "HU"
-        }
-      ],
-      "duration": "18:46:22",
-      "round": "Round of 32",
-      "date": "2016-05-25"
     },
     {
       "players": [
@@ -349,33 +299,6 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7",
-            "6"
-          ],
-          "name": "Pere Riba",
-          "country": "ES"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "5",
-            "1"
-          ],
-          "name": "Daniel Brands",
-          "country": "DE"
-        }
-      ],
-      "duration": "01:58:06",
-      "round": "Round of 16",
-      "date": "2016-05-25"
-    },
-    {
-      "players": [
-        {
           "is_winner": false,
           "set_games": [
             "6",
@@ -403,6 +326,58 @@
     {
       "players": [
         {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tomislav Brkic",
+          "country": "BA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Stefano Napolitano",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:04:52",
+      "round": "Round of 32",
+      "date": "2016-05-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Viktor Galovic",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "2"
+          ],
+          "name": "Andrey Rublev",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:45:46",
+      "round": "Round of 32",
+      "date": "2016-05-24"
+    },
+    {
+      "players": [
+        {
           "is_winner": false,
           "set_games": [
             "4",
@@ -422,6 +397,31 @@
         }
       ],
       "duration": "19:06:27",
+      "round": "Round of 32",
+      "date": "2016-05-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Filippo Volandri",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Marton Fucsovics",
+          "country": "HU"
+        }
+      ],
+      "duration": "18:46:22",
       "round": "Round of 32",
       "date": "2016-05-25"
     },
@@ -480,81 +480,29 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "5",
-            "3"
-          ],
-          "name": "Tomislav Brkic",
-          "country": "BA"
-        },
-        {
           "is_winner": true,
           "set_games": [
-            "4",
+            "6",
             "7",
             "6"
           ],
-          "name": "Daniel Gimeno",
+          "name": "Pere Riba",
           "country": "ES"
-        }
-      ],
-      "duration": "02:06:03",
-      "round": "Round of 16",
-      "date": "2016-05-26"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "4",
-            "6",
-            "6"
-          ],
-          "name": "Viktor Galovic",
-          "country": "IT"
         },
         {
           "is_winner": false,
           "set_games": [
-            "6",
-            "2",
-            "2"
-          ],
-          "name": "Andrey Rublev",
-          "country": "RU"
-        }
-      ],
-      "duration": "01:45:46",
-      "round": "Round of 32",
-      "date": "2016-05-24"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Tomislav Brkic",
-          "country": "BA"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
+            "7",
+            "5",
             "1"
           ],
-          "name": "Stefano Napolitano",
-          "country": "IT"
+          "name": "Daniel Brands",
+          "country": "DE"
         }
       ],
-      "duration": "01:04:52",
-      "round": "Round of 32",
-      "date": "2016-05-24"
+      "duration": "01:58:06",
+      "round": "Round of 16",
+      "date": "2016-05-25"
     },
     {
       "players": [
@@ -580,6 +528,31 @@
       "duration": "01:39:08",
       "round": "Round of 16",
       "date": "2016-05-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Alejandro Gonzalez",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Guido Andreozzi",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:11:32",
+      "round": "Round of 16",
+      "date": "2016-05-26"
     },
     {
       "players": [
@@ -628,6 +601,33 @@
         }
       ],
       "duration": "01:06:21",
+      "round": "Round of 16",
+      "date": "2016-05-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "3"
+          ],
+          "name": "Tomislav Brkic",
+          "country": "BA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "6"
+          ],
+          "name": "Daniel Gimeno",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:06:03",
       "round": "Round of 16",
       "date": "2016-05-26"
     },

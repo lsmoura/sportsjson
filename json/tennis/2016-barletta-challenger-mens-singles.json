@@ -8,81 +8,25 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6",
-            "6"
-          ],
-          "name": "Gastao Elias",
-          "country": "PT"
-        },
-        {
           "is_winner": false,
           "set_games": [
-            "2",
+            "5",
+            "0"
+          ],
+          "name": "Andrea Arnaboldi",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
             "7",
             "3"
           ],
-          "name": "Julian Reister",
-          "country": "DE"
+          "name": "Adam Pavlasek",
+          "country": "CZ"
         }
       ],
-      "duration": "02:39:44",
-      "round": "Round of 16",
-      "date": "2016-04-14"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "4",
-            "7"
-          ],
-          "name": "Alexey Vatutin",
-          "country": "RU"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "6",
-            "5"
-          ],
-          "name": "Julien Benneteau",
-          "country": "FR"
-        }
-      ],
-      "duration": "02:10:51",
-      "round": "Round of 32",
-      "date": "2016-04-12"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "4",
-            "4"
-          ],
-          "name": "Igor Sijsling",
-          "country": "NL"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6",
-            "6"
-          ],
-          "name": "Edoardo Eremin",
-          "country": "IT"
-        }
-      ],
-      "duration": "02:04:03",
+      "duration": "01:03:42",
       "round": "Round of 32",
       "date": "2016-04-11"
     },
@@ -141,25 +85,54 @@
         {
           "is_winner": false,
           "set_games": [
-            "5",
-            "0"
+            "7",
+            "4",
+            "4"
           ],
-          "name": "Andrea Arnaboldi",
-          "country": "IT"
+          "name": "Igor Sijsling",
+          "country": "NL"
         },
         {
           "is_winner": true,
           "set_games": [
-            "7",
-            "3"
+            "6",
+            "6",
+            "6"
           ],
-          "name": "Adam Pavlasek",
-          "country": "CZ"
+          "name": "Edoardo Eremin",
+          "country": "IT"
         }
       ],
-      "duration": "01:03:42",
+      "duration": "02:04:03",
       "round": "Round of 32",
       "date": "2016-04-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "7"
+          ],
+          "name": "Alexey Vatutin",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "5"
+          ],
+          "name": "Julien Benneteau",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:10:51",
+      "round": "Round of 32",
+      "date": "2016-04-12"
     },
     {
       "players": [
@@ -293,31 +266,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "4"
-          ],
-          "name": "Andrej Martin",
-          "country": "SK"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Lorenzo Sonego",
-          "country": "IT"
-        }
-      ],
-      "duration": "01:40:12",
-      "round": "Round of 16",
-      "date": "2016-04-13"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -397,31 +345,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "3"
-          ],
-          "name": "Gianluca Naso",
-          "country": "IT"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Elias Ymer",
-          "country": "SE"
-        }
-      ],
-      "duration": "01:54:58",
-      "round": "Round of 16",
-      "date": "2016-04-14"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -468,31 +391,6 @@
       "duration": "01:14:41",
       "round": "Round of 32",
       "date": "2016-04-12"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Enrique Lopez",
-          "country": "ES"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "3"
-          ],
-          "name": "Alessandro Giannessi",
-          "country": "IT"
-        }
-      ],
-      "duration": "01:37:05",
-      "round": "Quarter-Final",
-      "date": "2016-04-15"
     },
     {
       "players": [
@@ -553,27 +451,25 @@
         {
           "is_winner": false,
           "set_games": [
-            "6",
-            "3",
+            "2",
             "4"
           ],
-          "name": "Gastao Elias",
-          "country": "PT"
+          "name": "Andrej Martin",
+          "country": "SK"
         },
         {
           "is_winner": true,
           "set_games": [
-            "4",
             "6",
             "6"
           ],
-          "name": "Elias Ymer",
-          "country": "SE"
+          "name": "Lorenzo Sonego",
+          "country": "IT"
         }
       ],
-      "duration": "02:13:42",
-      "round": "Quarter-Final",
-      "date": "2016-04-15"
+      "duration": "01:40:12",
+      "round": "Round of 16",
+      "date": "2016-04-13"
     },
     {
       "players": [
@@ -660,6 +556,58 @@
           "is_winner": true,
           "set_games": [
             "6",
+            "6",
+            "6"
+          ],
+          "name": "Gastao Elias",
+          "country": "PT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "3"
+          ],
+          "name": "Julian Reister",
+          "country": "DE"
+        }
+      ],
+      "duration": "02:39:44",
+      "round": "Round of 16",
+      "date": "2016-04-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Gianluca Naso",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Elias Ymer",
+          "country": "SE"
+        }
+      ],
+      "duration": "01:54:58",
+      "round": "Round of 16",
+      "date": "2016-04-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
             "6"
           ],
           "name": "Rogerio Dutra Silva",
@@ -678,6 +626,58 @@
       "duration": "01:28:27",
       "round": "Round of 16",
       "date": "2016-04-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Enrique Lopez",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Alessandro Giannessi",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:37:05",
+      "round": "Quarter-Final",
+      "date": "2016-04-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Gastao Elias",
+          "country": "PT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Elias Ymer",
+          "country": "SE"
+        }
+      ],
+      "duration": "02:13:42",
+      "round": "Quarter-Final",
+      "date": "2016-04-15"
     },
     {
       "players": [

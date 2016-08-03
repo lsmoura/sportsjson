@@ -10,54 +10,27 @@
         {
           "is_winner": false,
           "set_games": [
-            "6",
-            "6",
-            "3"
-          ],
-          "name": "Jiri Vesely",
-          "country": "CZ"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
             "7",
             "3",
-            "6"
+            "4"
           ],
-          "name": "Leonardo Mayer",
-          "country": "AR"
-        }
-      ],
-      "duration": "02:29:51",
-      "round": "Round of 32",
-      "date": "2016-05-17"
-    },
-    {
-      "players": [
+          "name": "Robin Haase",
+          "country": "NL"
+        },
         {
           "is_winner": true,
           "set_games": [
-            "5",
-            "7",
-            "0"
+            "6",
+            "6",
+            "6"
           ],
-          "name": "Alexander Zverev",
-          "country": "DE"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "5",
-            "0"
-          ],
-          "name": "Kyle Edmund",
-          "country": "GB"
+          "name": "Adrian Mannarino",
+          "country": "FR"
         }
       ],
-      "duration": "01:51:40",
+      "duration": "02:27:21",
       "round": "Round of 32",
-      "date": "2016-05-16"
+      "date": "2016-05-15"
     },
     {
       "players": [
@@ -87,29 +60,29 @@
     {
       "players": [
         {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "7",
+            "0"
+          ],
+          "name": "Alexander Zverev",
+          "country": "DE"
+        },
+        {
           "is_winner": false,
           "set_games": [
             "7",
-            "3",
-            "4"
+            "5",
+            "0"
           ],
-          "name": "Robin Haase",
-          "country": "NL"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6",
-            "6"
-          ],
-          "name": "Adrian Mannarino",
-          "country": "FR"
+          "name": "Kyle Edmund",
+          "country": "GB"
         }
       ],
-      "duration": "02:27:21",
+      "duration": "01:51:40",
       "round": "Round of 32",
-      "date": "2016-05-15"
+      "date": "2016-05-16"
     },
     {
       "players": [
@@ -168,33 +141,6 @@
         {
           "is_winner": true,
           "set_games": [
-            "3",
-            "6",
-            "6"
-          ],
-          "name": "Joao Sousa",
-          "country": "PT"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "4",
-            "4"
-          ],
-          "name": "Victor Estrella",
-          "country": "DO"
-        }
-      ],
-      "duration": "01:56:34",
-      "round": "Round of 16",
-      "date": "2016-05-17"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
             "4",
             "6",
             "6"
@@ -214,6 +160,58 @@
         }
       ],
       "duration": "01:39:23",
+      "round": "Round of 32",
+      "date": "2016-05-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Joao Sousa",
+          "country": "PT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "4"
+          ],
+          "name": "Quentin Halys",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:22:05",
+      "round": "Round of 32",
+      "date": "2016-05-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Taylor Fritz",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Illya Marchenko",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:30:49",
       "round": "Round of 32",
       "date": "2016-05-16"
     },
@@ -347,6 +345,60 @@
     {
       "players": [
         {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "3"
+          ],
+          "name": "Jiri Vesely",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Leonardo Mayer",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:29:51",
+      "round": "Round of 32",
+      "date": "2016-05-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Joao Sousa",
+          "country": "PT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "4"
+          ],
+          "name": "Victor Estrella",
+          "country": "DO"
+        }
+      ],
+      "duration": "01:56:34",
+      "round": "Round of 16",
+      "date": "2016-05-17"
+    },
+    {
+      "players": [
+        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -368,112 +420,6 @@
       "duration": "01:08:21",
       "round": "Round of 32",
       "date": "2016-05-17"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Taylor Fritz",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "4"
-          ],
-          "name": "Illya Marchenko",
-          "country": "UA"
-        }
-      ],
-      "duration": "01:30:49",
-      "round": "Round of 32",
-      "date": "2016-05-16"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "5",
-            "6",
-            "6"
-          ],
-          "name": "Joao Sousa",
-          "country": "PT"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "4",
-            "4"
-          ],
-          "name": "Quentin Halys",
-          "country": "FR"
-        }
-      ],
-      "duration": "02:22:05",
-      "round": "Round of 32",
-      "date": "2016-05-16"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "5",
-            "7",
-            "6"
-          ],
-          "name": "Adrian Mannarino",
-          "country": "FR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "6",
-            "1"
-          ],
-          "name": "Guido Pella",
-          "country": "AR"
-        }
-      ],
-      "duration": "02:17:02",
-      "round": "Quarter-Final",
-      "date": "2016-05-19"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6",
-            "7"
-          ],
-          "name": "Alexander Zverev",
-          "country": "DE"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "7",
-            "6"
-          ],
-          "name": "Gilles Simon",
-          "country": "FR"
-        }
-      ],
-      "duration": "02:59:48",
-      "round": "Quarter-Final",
-      "date": "2016-05-19"
     },
     {
       "players": [
@@ -532,6 +478,33 @@
         {
           "is_winner": false,
           "set_games": [
+            "6",
+            "2",
+            "4"
+          ],
+          "name": "Paul-Henri Mathieu",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Andreas Seppi",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:08:04",
+      "round": "Round of 16",
+      "date": "2016-05-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
             "4",
             "4"
           ],
@@ -555,29 +528,56 @@
     {
       "players": [
         {
-          "is_winner": false,
+          "is_winner": true,
           "set_games": [
-            "6",
-            "2",
-            "4"
+            "5",
+            "7",
+            "6"
           ],
-          "name": "Paul-Henri Mathieu",
+          "name": "Adrian Mannarino",
           "country": "FR"
         },
         {
-          "is_winner": true,
+          "is_winner": false,
           "set_games": [
-            "4",
+            "7",
             "6",
-            "6"
+            "1"
           ],
-          "name": "Andreas Seppi",
-          "country": "IT"
+          "name": "Guido Pella",
+          "country": "AR"
         }
       ],
-      "duration": "02:08:04",
-      "round": "Round of 16",
-      "date": "2016-05-18"
+      "duration": "02:17:02",
+      "round": "Quarter-Final",
+      "date": "2016-05-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Alexander Zverev",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Gilles Simon",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:59:48",
+      "round": "Quarter-Final",
+      "date": "2016-05-19"
     },
     {
       "players": [

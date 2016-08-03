@@ -12,108 +12,6 @@
         {
           "is_winner": false,
           "set_games": [
-            "6",
-            "6",
-            "6"
-          ],
-          "name": "Andre Ghem",
-          "country": "BR"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "3",
-            "7",
-            "7"
-          ],
-          "name": "Renzo Olivo",
-          "country": "AR"
-        }
-      ],
-      "duration": "02:45:16",
-      "round": "Round of 32",
-      "date": "2016-07-19"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Fabio Fognini",
-          "country": "IT"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "1"
-          ],
-          "name": "Renzo Olivo",
-          "country": "AR"
-        }
-      ],
-      "duration": "01:17:21",
-      "round": "Round of 16",
-      "date": "2016-07-20"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Martin Klizan",
-          "country": "SK"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "5"
-          ],
-          "name": "Enrique Lopez",
-          "country": "ES"
-        }
-      ],
-      "duration": "01:20:01",
-      "round": "Round of 32",
-      "date": "2016-07-19"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "2"
-          ],
-          "name": "Nino Serdarusic",
-          "country": "HR"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Teymuraz Gabashvili",
-          "country": "RU"
-        }
-      ],
-      "duration": "01:25:55",
-      "round": "Round of 32",
-      "date": "2016-07-19"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
             "7",
             "4",
             "4"
@@ -135,6 +33,58 @@
       "duration": "02:27:13",
       "round": "Round of 32",
       "date": "2016-07-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Nikola Mektic",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Leonardo Mayer",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:27:12",
+      "round": "Round of 32",
+      "date": "2016-07-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Andre Ghem",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "7"
+          ],
+          "name": "Renzo Olivo",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:45:16",
+      "round": "Round of 32",
+      "date": "2016-07-19"
     },
     {
       "players": [
@@ -185,31 +135,6 @@
       "duration": "02:05:00",
       "round": "Round of 32",
       "date": "2016-07-19"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "2"
-          ],
-          "name": "Nikola Mektic",
-          "country": "HR"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Leonardo Mayer",
-          "country": "AR"
-        }
-      ],
-      "duration": "01:27:12",
-      "round": "Round of 32",
-      "date": "2016-07-18"
     },
     {
       "players": [
@@ -296,6 +221,31 @@
             "6",
             "6"
           ],
+          "name": "Gastao Elias",
+          "country": "PT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Guillermo Garcia",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:32:05",
+      "round": "Round of 32",
+      "date": "2016-07-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
           "name": "Jiri Vesely",
           "country": "CZ"
         },
@@ -319,22 +269,22 @@
           "is_winner": true,
           "set_games": [
             "6",
-            "6"
+            "7"
           ],
-          "name": "Gastao Elias",
-          "country": "PT"
+          "name": "Martin Klizan",
+          "country": "SK"
         },
         {
           "is_winner": false,
           "set_games": [
-            "1",
-            "2"
+            "2",
+            "5"
           ],
-          "name": "Guillermo Garcia",
+          "name": "Enrique Lopez",
           "country": "ES"
         }
       ],
-      "duration": "01:32:05",
+      "duration": "01:20:01",
       "round": "Round of 32",
       "date": "2016-07-19"
     },
@@ -346,8 +296,8 @@
             "4",
             "2"
           ],
-          "name": "Teymuraz Gabashvili",
-          "country": "RU"
+          "name": "Nino Serdarusic",
+          "country": "HR"
         },
         {
           "is_winner": true,
@@ -355,13 +305,38 @@
             "6",
             "6"
           ],
-          "name": "Pablo Carreno",
-          "country": "ES"
+          "name": "Teymuraz Gabashvili",
+          "country": "RU"
         }
       ],
-      "duration": "01:05:39",
+      "duration": "01:25:55",
+      "round": "Round of 32",
+      "date": "2016-07-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Fabio Fognini",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Renzo Olivo",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:17:21",
       "round": "Round of 16",
-      "date": "2016-07-21"
+      "date": "2016-07-20"
     },
     {
       "players": [
@@ -391,54 +366,54 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "4",
-            "6"
-          ],
-          "name": "Andrej Martin",
-          "country": "SK"
-        },
-        {
           "is_winner": false,
           "set_games": [
-            "3",
-            "6",
-            "2"
+            "2",
+            "0"
           ],
-          "name": "Joao Sousa",
-          "country": "PT"
-        }
-      ],
-      "duration": "02:10:54",
-      "round": "Quarter-Final",
-      "date": "2016-07-22"
-    },
-    {
-      "players": [
+          "name": "Nikola Cacic",
+          "country": "RS"
+        },
         {
           "is_winner": true,
           "set_games": [
             "6",
             "6"
-          ],
-          "name": "Carlos Berlocq",
-          "country": "AR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "2"
           ],
           "name": "Jeremy Chardy",
           "country": "FR"
         }
       ],
-      "duration": "01:22:15",
-      "round": "Quarter-Final",
-      "date": "2016-07-22"
+      "duration": "00:43:37",
+      "round": "Round of 16",
+      "date": "2016-07-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "2"
+          ],
+          "name": "Thomas Fabbiano",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Damir Dzumhur",
+          "country": "BA"
+        }
+      ],
+      "duration": "01:39:03",
+      "round": "Round of 16",
+      "date": "2016-07-20"
     },
     {
       "players": [
@@ -524,52 +499,77 @@
         {
           "is_winner": false,
           "set_games": [
-            "6",
-            "1",
+            "4",
             "2"
           ],
-          "name": "Thomas Fabbiano",
-          "country": "IT"
+          "name": "Teymuraz Gabashvili",
+          "country": "RU"
         },
         {
           "is_winner": true,
           "set_games": [
-            "4",
             "6",
             "6"
           ],
-          "name": "Damir Dzumhur",
-          "country": "BA"
+          "name": "Pablo Carreno",
+          "country": "ES"
         }
       ],
-      "duration": "01:39:03",
+      "duration": "01:05:39",
       "round": "Round of 16",
-      "date": "2016-07-20"
+      "date": "2016-07-21"
     },
     {
       "players": [
         {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Andrej Martin",
+          "country": "SK"
+        },
+        {
           "is_winner": false,
           "set_games": [
-            "2",
-            "0"
+            "3",
+            "6",
+            "2"
           ],
-          "name": "Nikola Cacic",
-          "country": "RS"
-        },
+          "name": "Joao Sousa",
+          "country": "PT"
+        }
+      ],
+      "duration": "02:10:54",
+      "round": "Quarter-Final",
+      "date": "2016-07-22"
+    },
+    {
+      "players": [
         {
           "is_winner": true,
           "set_games": [
             "6",
             "6"
+          ],
+          "name": "Carlos Berlocq",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
           ],
           "name": "Jeremy Chardy",
           "country": "FR"
         }
       ],
-      "duration": "00:43:37",
-      "round": "Round of 16",
-      "date": "2016-07-20"
+      "duration": "01:22:15",
+      "round": "Quarter-Final",
+      "date": "2016-07-22"
     },
     {
       "players": [

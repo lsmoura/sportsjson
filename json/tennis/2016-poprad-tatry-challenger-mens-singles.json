@@ -8,108 +8,6 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Andre Ghem",
-          "country": "BR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "3"
-          ],
-          "name": "Hans Podlipnik",
-          "country": "CL"
-        }
-      ],
-      "duration": "01:18:20",
-      "round": "Round of 32",
-      "date": "2016-06-14"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "3"
-          ],
-          "name": "Andrey Golubev",
-          "country": "KZ"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Adam Pavlasek",
-          "country": "CZ"
-        }
-      ],
-      "duration": "01:23:10",
-      "round": "Round of 32",
-      "date": "2016-06-14"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "1",
-            "1"
-          ],
-          "name": "Andre Ghem",
-          "country": "BR"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "4",
-            "6",
-            "6"
-          ],
-          "name": "Ruben Ramirez",
-          "country": "ES"
-        }
-      ],
-      "duration": "01:51:02",
-      "round": "Round of 16",
-      "date": "2016-06-15"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "2"
-          ],
-          "name": "Emilio Gomez",
-          "country": "EC"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Mohamed Safwat",
-          "country": "EG"
-        }
-      ],
-      "duration": "01:07:12",
-      "round": "Round of 32",
-      "date": "2016-06-14"
-    },
-    {
-      "players": [
-        {
           "is_winner": false,
           "set_games": [
             "2",
@@ -208,6 +106,81 @@
       "duration": "02:10:44",
       "round": "Round of 32",
       "date": "2016-06-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andre Ghem",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Hans Podlipnik",
+          "country": "CL"
+        }
+      ],
+      "duration": "01:18:20",
+      "round": "Round of 32",
+      "date": "2016-06-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Andrey Golubev",
+          "country": "KZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Adam Pavlasek",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:23:10",
+      "round": "Round of 32",
+      "date": "2016-06-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Emilio Gomez",
+          "country": "EC"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mohamed Safwat",
+          "country": "EG"
+        }
+      ],
+      "duration": "01:07:12",
+      "round": "Round of 32",
+      "date": "2016-06-14"
     },
     {
       "players": [
@@ -321,31 +294,6 @@
             "6",
             "6"
           ],
-          "name": "Martin Klizan",
-          "country": "SK"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "1",
-            "0"
-          ],
-          "name": "Oriol Roca",
-          "country": "ES"
-        }
-      ],
-      "duration": "00:56:41",
-      "round": "Round of 16",
-      "date": "2016-06-15"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
           "name": "Marek Michalicka",
           "country": "CZ"
         },
@@ -420,31 +368,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "4"
-          ],
-          "name": "Uladzimir Ignatik",
-          "country": "BY"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Horacio Zeballos",
-          "country": "AR"
-        }
-      ],
-      "duration": "01:16:10",
-      "round": "Round of 16",
-      "date": "2016-06-15"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -466,6 +389,58 @@
       "duration": "01:07:30",
       "round": "Round of 32",
       "date": "2016-06-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Uladzimir Ignatik",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Dominik Sproch",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:27:02",
+      "round": "Round of 32",
+      "date": "2016-06-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "1"
+          ],
+          "name": "Andre Ghem",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Ruben Ramirez",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:51:02",
+      "round": "Round of 16",
+      "date": "2016-06-15"
     },
     {
       "players": [
@@ -520,56 +495,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Jozef Kovalik",
-          "country": "SK"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "7"
-          ],
-          "name": "Horacio Zeballos",
-          "country": "AR"
-        }
-      ],
-      "duration": "01:56:25",
-      "round": "Quarter-Final",
-      "date": "2016-06-16"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Uladzimir Ignatik",
-          "country": "BY"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "2"
-          ],
-          "name": "Dominik Sproch",
-          "country": "SK"
-        }
-      ],
-      "duration": "01:27:02",
-      "round": "Round of 32",
-      "date": "2016-06-14"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -589,6 +514,31 @@
         }
       ],
       "duration": "01:25:07",
+      "round": "Round of 16",
+      "date": "2016-06-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Martin Klizan",
+          "country": "SK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Oriol Roca",
+          "country": "ES"
+        }
+      ],
+      "duration": "00:56:41",
       "round": "Round of 16",
       "date": "2016-06-15"
     },
@@ -641,6 +591,56 @@
       "duration": "01:11:43",
       "round": "Round of 16",
       "date": "2016-06-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Uladzimir Ignatik",
+          "country": "BY"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Horacio Zeballos",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:16:10",
+      "round": "Round of 16",
+      "date": "2016-06-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jozef Kovalik",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Horacio Zeballos",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:56:25",
+      "round": "Quarter-Final",
+      "date": "2016-06-16"
     },
     {
       "players": [

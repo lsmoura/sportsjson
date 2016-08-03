@@ -12,6 +12,110 @@
         {
           "is_winner": true,
           "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Gianluca Mager",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "1"
+          ],
+          "name": "Mathias Bourgue",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:07:25",
+      "round": "Round of 32",
+      "date": "2016-07-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Matteo Donati",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Constant Lestienne",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:19:24",
+      "round": "Round of 32",
+      "date": "2016-07-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Miki Jankovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Federico Gaio",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:29:23",
+      "round": "Round of 32",
+      "date": "2016-07-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "2"
+          ],
+          "name": "Nils Langer",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Ivan Nedelko",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:52:11",
+      "round": "Round of 32",
+      "date": "2016-07-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
             "7",
             "2",
             "6"
@@ -295,110 +399,6 @@
         {
           "is_winner": false,
           "set_games": [
-            "4",
-            "3"
-          ],
-          "name": "Matteo Donati",
-          "country": "IT"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Constant Lestienne",
-          "country": "FR"
-        }
-      ],
-      "duration": "01:19:24",
-      "round": "Round of 32",
-      "date": "2016-07-11"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "6",
-            "2"
-          ],
-          "name": "Nils Langer",
-          "country": "DE"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "1",
-            "6"
-          ],
-          "name": "Ivan Nedelko",
-          "country": "RU"
-        }
-      ],
-      "duration": "01:52:11",
-      "round": "Round of 32",
-      "date": "2016-07-11"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "6"
-          ],
-          "name": "Miki Jankovic",
-          "country": "RS"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Federico Gaio",
-          "country": "IT"
-        }
-      ],
-      "duration": "01:29:23",
-      "round": "Round of 32",
-      "date": "2016-07-11"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "5",
-            "6"
-          ],
-          "name": "Gianluca Mager",
-          "country": "IT"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "7",
-            "1"
-          ],
-          "name": "Mathias Bourgue",
-          "country": "FR"
-        }
-      ],
-      "duration": "02:07:25",
-      "round": "Round of 32",
-      "date": "2016-07-11"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
             "6",
             "5",
             "0"
@@ -443,56 +443,6 @@
         }
       ],
       "duration": "01:23:13",
-      "round": "Round of 16",
-      "date": "2016-07-13"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "3"
-          ],
-          "name": "Blaz Rola",
-          "country": "SI"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Stefano Napolitano",
-          "country": "IT"
-        }
-      ],
-      "duration": "01:27:53",
-      "round": "Round of 16",
-      "date": "2016-07-14"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Gianluigi Quinzi",
-          "country": "IT"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "2"
-          ],
-          "name": "Salvatore Caruso",
-          "country": "IT"
-        }
-      ],
-      "duration": "01:22:40",
       "round": "Round of 16",
       "date": "2016-07-13"
     },
@@ -549,6 +499,56 @@
       "duration": "02:57:55",
       "round": "Round of 16",
       "date": "2016-07-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gianluigi Quinzi",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Salvatore Caruso",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:22:40",
+      "round": "Round of 16",
+      "date": "2016-07-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Blaz Rola",
+          "country": "SI"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Stefano Napolitano",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:27:53",
+      "round": "Round of 16",
+      "date": "2016-07-14"
     },
     {
       "players": [

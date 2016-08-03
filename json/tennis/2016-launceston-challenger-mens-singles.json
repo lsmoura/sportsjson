@@ -1,0 +1,136 @@
+{
+  "name": "2016 Launceston Challenger (Men's Singles)",
+  "country": "Australia",
+  "gender": "male",
+  "location": "Launceston",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Blake Mott",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Saketh Myneni",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:04:20",
+      "round": "Semi-Final",
+      "date": "2016-02-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Saketh Myneni",
+          "country": "IN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Benjamin Mitchell",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:07:05",
+      "round": "Quarter-Final",
+      "date": "2016-02-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Stephane Robert",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Blake Mott",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:39:18",
+      "round": "Quarter-Final",
+      "date": "2016-02-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Blake Mott",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "1",
+            "2"
+          ],
+          "name": "Andrey Golubev",
+          "country": "KZ"
+        }
+      ],
+      "duration": "02:07:24",
+      "round": "Championship",
+      "date": "2016-02-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Luke Saville",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Andrey Golubev",
+          "country": "KZ"
+        }
+      ],
+      "duration": "01:19:28",
+      "round": "Semi-Final",
+      "date": "2016-02-06"
+    }
+  ]
+}

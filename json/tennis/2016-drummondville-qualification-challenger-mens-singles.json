@@ -1,0 +1,523 @@
+{
+  "name": "2016 Drummondville, Qualification Challenger (Men's Singles)",
+  "country": "Canada",
+  "gender": "male",
+  "location": "Drummondville",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "0"
+          ],
+          "name": "Antoine Leduc",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Winston Lin",
+          "country": "US"
+        }
+      ],
+      "duration": "00:48:13",
+      "round": "Round of 32",
+      "date": "2016-03-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Damon Gooch",
+          "country": "ZA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Matt Seeburger",
+          "country": "US"
+        }
+      ],
+      "duration": "00:54:13",
+      "round": "Round of 32",
+      "date": "2016-03-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Edward Corrie",
+          "country": "GB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Alexis Galarneau",
+          "country": "CA"
+        }
+      ],
+      "duration": "00:53:11",
+      "round": "Round of 32",
+      "date": "2016-03-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "6",
+            "3"
+          ],
+          "name": "Iancu-Iustinian Ghinda",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Keith Patrick Crowley",
+          "country": "ZA"
+        }
+      ],
+      "duration": "01:22:51",
+      "round": "Round of 32",
+      "date": "2016-03-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "7",
+            "6"
+          ],
+          "name": "Jarryd Chaplin",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "4"
+          ],
+          "name": "Nicaise Muamba",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:51:10",
+      "round": "Round of 32",
+      "date": "2016-03-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Justin S. Shane",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Jack Mingji Lin",
+          "country": "CA"
+        }
+      ],
+      "duration": "02:01:02",
+      "round": "Round of 32",
+      "date": "2016-03-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Pavel Krainik",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Tim van Rijthoven",
+          "country": "NL"
+        }
+      ],
+      "duration": "00:59:07",
+      "round": "Round of 32",
+      "date": "2016-03-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Victor Krustev",
+          "country": "CA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Joshua Peck",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:36:47",
+      "round": "Round of 32",
+      "date": "2016-03-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "2"
+          ],
+          "name": "Adrian Sikora",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Winston Lin",
+          "country": "US"
+        }
+      ],
+      "duration": "02:12:26",
+      "round": "Round of 16",
+      "date": "2016-03-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Alex Kuznetsov",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Tim van Rijthoven",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:23:31",
+      "round": "Round of 16",
+      "date": "2016-03-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Damon Gooch",
+          "country": "ZA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "2"
+          ],
+          "name": "Kaichi Uchida",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:53:21",
+      "round": "Round of 16",
+      "date": "2016-03-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Hugo Nys",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Jarryd Chaplin",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:53:38",
+      "round": "Round of 16",
+      "date": "2016-03-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Justin S. Shane",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Luke Bambridge",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:04:14",
+      "round": "Round of 16",
+      "date": "2016-03-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Keith Patrick Crowley",
+          "country": "ZA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniel Smethurst",
+          "country": "GB"
+        }
+      ],
+      "duration": "00:49:24",
+      "round": "Round of 16",
+      "date": "2016-03-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Lloyd Glasspool",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Edward Corrie",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:30:25",
+      "round": "Round of 16",
+      "date": "2016-03-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Victor Krustev",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nicolas Jarry",
+          "country": "CL"
+        }
+      ],
+      "duration": "00:52:22",
+      "round": "Round of 16",
+      "date": "2016-03-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Edward Corrie",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Nicolas Jarry",
+          "country": "CL"
+        }
+      ],
+      "duration": "01:20:32",
+      "round": "Quarter-Final",
+      "date": "2016-03-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Hugo Nys",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Justin S. Shane",
+          "country": "US"
+        }
+      ],
+      "duration": "01:03:08",
+      "round": "Quarter-Final",
+      "date": "2016-03-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tim van Rijthoven",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Damon Gooch",
+          "country": "ZA"
+        }
+      ],
+      "duration": "00:53:32",
+      "round": "Quarter-Final",
+      "date": "2016-03-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Winston Lin",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "1"
+          ],
+          "name": "Daniel Smethurst",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:37:28",
+      "round": "Quarter-Final",
+      "date": "2016-03-14"
+    }
+  ]
+}

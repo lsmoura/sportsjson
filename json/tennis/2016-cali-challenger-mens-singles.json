@@ -13,31 +13,6 @@
           "is_winner": true,
           "set_games": [
             "6",
-            "7"
-          ],
-          "name": "Akira Santillan",
-          "country": "AU"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "5"
-          ],
-          "name": "Alejandro Gonzalez",
-          "country": "CO"
-        }
-      ],
-      "duration": "01:22:45",
-      "round": "Round of 32",
-      "date": "2016-07-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
             "6"
           ],
           "name": "Cristian Rodriguez",
@@ -49,13 +24,13 @@
             "4",
             "3"
           ],
-          "name": "Akira Santillan",
-          "country": "AU"
+          "name": "Nicolas Mejia",
+          "country": "CO"
         }
       ],
-      "duration": "01:12:24",
-      "round": "Round of 16",
-      "date": "2016-07-07"
+      "duration": "01:26:25",
+      "round": "Round of 32",
+      "date": "2016-07-05"
     },
     {
       "players": [
@@ -81,56 +56,6 @@
       "duration": "01:00:46",
       "round": "Round of 32",
       "date": "2016-07-05"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Victor Estrella",
-          "country": "DO"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "2"
-          ],
-          "name": "Felipe Mantilla",
-          "country": "CO"
-        }
-      ],
-      "duration": "01:10:37",
-      "round": "Round of 32",
-      "date": "2016-07-05"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Roberto Quiroz",
-          "country": "EC"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "4"
-          ],
-          "name": "Gonzalo Lama",
-          "country": "CL"
-        }
-      ],
-      "duration": "01:20:14",
-      "round": "Round of 32",
-      "date": "2016-07-06"
     },
     {
       "players": [
@@ -185,6 +110,31 @@
     {
       "players": [
         {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jose Hernandez",
+          "country": "DO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "2"
+          ],
+          "name": "Maximiliano Estevez",
+          "country": "AR"
+        }
+      ],
+      "duration": "00:55:47",
+      "round": "Round of 32",
+      "date": "2016-07-05"
+    },
+    {
+      "players": [
+        {
           "is_winner": false,
           "set_games": [
             "6",
@@ -217,22 +167,47 @@
             "6",
             "6"
           ],
-          "name": "Cristian Rodriguez",
-          "country": "CO"
+          "name": "Victor Estrella",
+          "country": "DO"
         },
         {
           "is_winner": false,
           "set_games": [
-            "4",
-            "3"
+            "3",
+            "2"
           ],
-          "name": "Nicolas Mejia",
+          "name": "Felipe Mantilla",
           "country": "CO"
         }
       ],
-      "duration": "01:26:25",
+      "duration": "01:10:37",
       "round": "Round of 32",
       "date": "2016-07-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Akira Santillan",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Alejandro Gonzalez",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:22:45",
+      "round": "Round of 32",
+      "date": "2016-07-06"
     },
     {
       "players": [
@@ -391,31 +366,6 @@
         {
           "is_winner": true,
           "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Jose Hernandez",
-          "country": "DO"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "0",
-            "2"
-          ],
-          "name": "Maximiliano Estevez",
-          "country": "AR"
-        }
-      ],
-      "duration": "00:55:47",
-      "round": "Round of 32",
-      "date": "2016-07-05"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
             "1",
             "6",
             "6"
@@ -437,6 +387,56 @@
       "duration": "01:34:38",
       "round": "Round of 32",
       "date": "2016-07-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Roberto Quiroz",
+          "country": "EC"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Gonzalo Lama",
+          "country": "CL"
+        }
+      ],
+      "duration": "01:20:14",
+      "round": "Round of 32",
+      "date": "2016-07-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Cristian Rodriguez",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Akira Santillan",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:12:24",
+      "round": "Round of 16",
+      "date": "2016-07-07"
     },
     {
       "players": [
@@ -546,33 +546,6 @@
           "is_winner": true,
           "set_games": [
             "6",
-            "5",
-            "6"
-          ],
-          "name": "Darian King",
-          "country": "BB"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "7",
-            "1"
-          ],
-          "name": "Cristian Rodriguez",
-          "country": "CO"
-        }
-      ],
-      "duration": "01:59:32",
-      "round": "Quarter-Final",
-      "date": "2016-07-08"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
             "6"
           ],
           "name": "Joao Souza",
@@ -641,6 +614,33 @@
       "duration": "01:14:11",
       "round": "Round of 16",
       "date": "2016-07-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Darian King",
+          "country": "BB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "1"
+          ],
+          "name": "Cristian Rodriguez",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:59:32",
+      "round": "Quarter-Final",
+      "date": "2016-07-08"
     },
     {
       "players": [

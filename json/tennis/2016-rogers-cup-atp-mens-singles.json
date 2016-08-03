@@ -12,11 +12,11 @@
         {
           "is_winner": false,
           "set_games": [
-            "3",
-            "5"
+            "4",
+            "6"
           ],
-          "name": "Ivo Karlovic",
-          "country": "HR"
+          "name": "Alejandro Gonzalez",
+          "country": "CO"
         },
         {
           "is_winner": true,
@@ -24,65 +24,11 @@
             "6",
             "7"
           ],
-          "name": "Grigor Dimitrov",
-          "country": "BG"
+          "name": "Bernard Tomic",
+          "country": "AU"
         }
       ],
-      "duration": "01:24:53",
-      "round": "Round of 16",
-      "date": "2016-07-28"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "1",
-            "4"
-          ],
-          "name": "Borna Coric",
-          "country": "HR"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "4",
-            "6",
-            "6"
-          ],
-          "name": "Tomas Berdych",
-          "country": "CZ"
-        }
-      ],
-      "duration": "01:54:51",
-      "round": "Round of 32",
-      "date": "2016-07-26"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "4",
-            "6",
-            "6"
-          ],
-          "name": "John Isner",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "3",
-            "2"
-          ],
-          "name": "Dudi Sela",
-          "country": "IL"
-        }
-      ],
-      "duration": "01:28:56",
+      "duration": "01:30:58",
       "round": "Round of 64",
       "date": "2016-07-25"
     },
@@ -108,6 +54,33 @@
         }
       ],
       "duration": "00:50:02",
+      "round": "Round of 64",
+      "date": "2016-07-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Borna Coric",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "2"
+          ],
+          "name": "Ivan Dodig",
+          "country": "HR"
+        }
+      ],
+      "duration": "02:23:11",
       "round": "Round of 64",
       "date": "2016-07-25"
     },
@@ -144,10 +117,10 @@
           "is_winner": false,
           "set_games": [
             "6",
-            "3"
+            "1"
           ],
-          "name": "Viktor Troicki",
-          "country": "RS"
+          "name": "Dmitry Tursunov",
+          "country": "RU"
         },
         {
           "is_winner": true,
@@ -155,11 +128,36 @@
             "7",
             "6"
           ],
-          "name": "Kevin Anderson",
-          "country": "ZA"
+          "name": "Gilles Mueller",
+          "country": "LU"
         }
       ],
-      "duration": "01:28:29",
+      "duration": "01:16:58",
+      "round": "Round of 64",
+      "date": "2016-07-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Frank Dancevic",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Sam Querrey",
+          "country": "US"
+        }
+      ],
+      "duration": "01:26:53",
       "round": "Round of 64",
       "date": "2016-07-25"
     },
@@ -191,25 +189,27 @@
     {
       "players": [
         {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "John Isner",
+          "country": "US"
+        },
+        {
           "is_winner": false,
           "set_games": [
             "6",
-            "4"
+            "3",
+            "2"
           ],
-          "name": "Frank Dancevic",
-          "country": "CA"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Sam Querrey",
-          "country": "US"
+          "name": "Dudi Sela",
+          "country": "IL"
         }
       ],
-      "duration": "01:26:53",
+      "duration": "01:28:56",
       "round": "Round of 64",
       "date": "2016-07-25"
     },
@@ -268,33 +268,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "6",
-            "4"
-          ],
-          "name": "Yuichi Sugita",
-          "country": "JP"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "5",
-            "7",
-            "6"
-          ],
-          "name": "Grigor Dimitrov",
-          "country": "BG"
-        }
-      ],
-      "duration": "02:27:52",
-      "round": "Round of 64",
-      "date": "2016-07-25"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "3",
@@ -325,10 +298,10 @@
           "is_winner": false,
           "set_games": [
             "6",
-            "1"
+            "3"
           ],
-          "name": "Dmitry Tursunov",
-          "country": "RU"
+          "name": "Viktor Troicki",
+          "country": "RS"
         },
         {
           "is_winner": true,
@@ -336,65 +309,67 @@
             "7",
             "6"
           ],
-          "name": "Gilles Mueller",
-          "country": "LU"
+          "name": "Kevin Anderson",
+          "country": "ZA"
         }
       ],
-      "duration": "01:16:58",
+      "duration": "01:28:29",
       "round": "Round of 64",
       "date": "2016-07-25"
     },
     {
       "players": [
         {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "4"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        },
+        {
           "is_winner": true,
           "set_games": [
             "5",
-            "6",
+            "7",
             "6"
+          ],
+          "name": "Grigor Dimitrov",
+          "country": "BG"
+        }
+      ],
+      "duration": "02:27:52",
+      "round": "Round of 64",
+      "date": "2016-07-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "4"
           ],
           "name": "Borna Coric",
           "country": "HR"
         },
         {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "4",
-            "2"
-          ],
-          "name": "Ivan Dodig",
-          "country": "HR"
-        }
-      ],
-      "duration": "02:23:11",
-      "round": "Round of 64",
-      "date": "2016-07-25"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "6"
-          ],
-          "name": "Alejandro Gonzalez",
-          "country": "CO"
-        },
-        {
           "is_winner": true,
           "set_games": [
+            "4",
             "6",
-            "7"
+            "6"
           ],
-          "name": "Bernard Tomic",
-          "country": "AU"
+          "name": "Tomas Berdych",
+          "country": "CZ"
         }
       ],
-      "duration": "01:30:58",
-      "round": "Round of 64",
-      "date": "2016-07-25"
+      "duration": "01:54:51",
+      "round": "Round of 32",
+      "date": "2016-07-26"
     },
     {
       "players": [
@@ -628,31 +603,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "6"
-          ],
-          "name": "Marin Cilic",
-          "country": "HR"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Ivo Karlovic",
-          "country": "HR"
-        }
-      ],
-      "duration": "01:22:46",
-      "round": "Round of 32",
-      "date": "2016-07-27"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -699,31 +649,6 @@
       "duration": "00:51:25",
       "round": "Round of 64",
       "date": "2016-07-26"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "1"
-          ],
-          "name": "Sam Querrey",
-          "country": "US"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "2"
-          ],
-          "name": "David Goffin",
-          "country": "BE"
-        }
-      ],
-      "duration": "00:55:26",
-      "round": "Round of 32",
-      "date": "2016-07-27"
     },
     {
       "players": [
@@ -955,6 +880,31 @@
     {
       "players": [
         {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Marin Cilic",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Ivo Karlovic",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:22:46",
+      "round": "Round of 32",
+      "date": "2016-07-27"
+    },
+    {
+      "players": [
+        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -1032,6 +982,31 @@
         {
           "is_winner": false,
           "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Sam Querrey",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "David Goffin",
+          "country": "BE"
+        }
+      ],
+      "duration": "00:55:26",
+      "round": "Round of 32",
+      "date": "2016-07-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
             "3",
             "6"
           ],
@@ -1051,58 +1026,6 @@
       "duration": "01:33:17",
       "round": "Round of 32",
       "date": "2016-07-27"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "4"
-          ],
-          "name": "Rajeev Ram",
-          "country": "US"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Kei Nishikori",
-          "country": "JP"
-        }
-      ],
-      "duration": "01:08:35",
-      "round": "Round of 16",
-      "date": "2016-07-28"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "6",
-            "2"
-          ],
-          "name": "Grigor Dimitrov",
-          "country": "BG"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "3",
-            "6"
-          ],
-          "name": "Kei Nishikori",
-          "country": "JP"
-        }
-      ],
-      "duration": "02:09:06",
-      "round": "Quarter-Final",
-      "date": "2016-07-29"
     },
     {
       "players": [
@@ -1136,25 +1059,48 @@
         {
           "is_winner": false,
           "set_games": [
-            "4",
-            "7",
-            "4"
+            "3",
+            "5"
           ],
-          "name": "Ryan Harrison",
-          "country": "US"
+          "name": "Ivo Karlovic",
+          "country": "HR"
         },
         {
           "is_winner": true,
           "set_games": [
             "6",
-            "6",
-            "6"
+            "7"
           ],
-          "name": "Tomas Berdych",
-          "country": "CZ"
+          "name": "Grigor Dimitrov",
+          "country": "BG"
         }
       ],
-      "duration": "02:06:52",
+      "duration": "01:24:53",
+      "round": "Round of 16",
+      "date": "2016-07-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Jack Sock",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Stan Wawrinka",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:24:03",
       "round": "Round of 16",
       "date": "2016-07-28"
     },
@@ -1240,25 +1186,79 @@
         {
           "is_winner": false,
           "set_games": [
-            "6",
-            "2"
+            "3",
+            "4"
           ],
-          "name": "Jack Sock",
+          "name": "Rajeev Ram",
           "country": "US"
         },
         {
           "is_winner": true,
           "set_games": [
-            "7",
+            "6",
             "6"
           ],
-          "name": "Stan Wawrinka",
-          "country": "CH"
+          "name": "Kei Nishikori",
+          "country": "JP"
         }
       ],
-      "duration": "01:24:03",
+      "duration": "01:08:35",
       "round": "Round of 16",
       "date": "2016-07-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "4"
+          ],
+          "name": "Ryan Harrison",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Tomas Berdych",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:06:52",
+      "round": "Round of 16",
+      "date": "2016-07-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "2"
+          ],
+          "name": "Grigor Dimitrov",
+          "country": "BG"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Kei Nishikori",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:09:06",
+      "round": "Quarter-Final",
+      "date": "2016-07-29"
     },
     {
       "players": [

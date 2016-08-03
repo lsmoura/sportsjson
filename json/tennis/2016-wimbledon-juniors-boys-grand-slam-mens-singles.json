@@ -10,37 +10,12 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Alex De Minaur",
-          "country": "AU"
-        },
-        {
           "is_winner": false,
           "set_games": [
             "3",
-            "6"
+            "5"
           ],
-          "name": "Enrico Dalla Valle",
-          "country": "IT"
-        }
-      ],
-      "duration": "01:10:38",
-      "round": "Round of 32",
-      "date": "2016-07-05"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "6"
-          ],
-          "name": "Ben Draper",
+          "name": "Aidan McHugh",
           "country": "GB"
         },
         {
@@ -49,41 +24,26 @@
             "6",
             "7"
           ],
-          "name": "Evan Furness",
-          "country": "FR"
+          "name": "Felipe Meligeni Rodrigues Alves",
+          "country": "BR"
         }
       ],
-      "duration": "01:11:35",
-      "round": "Round of 32",
-      "date": "2016-07-05"
+      "duration": "01:25:57",
+      "round": "Round of 64",
+      "date": "2016-07-02"
     },
     {
       "players": [
         {
           "is_winner": false,
           "set_games": [
-            "4",
-            "6"
+            "2",
+            "7",
+            "4"
           ],
-          "name": "Blake Ellis",
-          "country": "AU"
+          "name": "Jurij Rodionov",
+          "country": "AT"
         },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "John McNally",
-          "country": "US"
-        }
-      ],
-      "duration": "01:13:25",
-      "round": "Round of 32",
-      "date": "2016-07-05"
-    },
-    {
-      "players": [
         {
           "is_winner": true,
           "set_games": [
@@ -91,48 +51,40 @@
             "5",
             "6"
           ],
-          "name": "Daniel Altmaier",
-          "country": "DE"
-        },
+          "name": "Piotr Matuszewski",
+          "country": "PL"
+        }
+      ],
+      "duration": "01:30:26",
+      "round": "Round of 64",
+      "date": "2016-07-02"
+    },
+    {
+      "players": [
         {
           "is_winner": false,
           "set_games": [
-            "2",
             "7",
-            "4"
+            "4",
+            "3"
+          ],
+          "name": "Louis Tessa",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
           ],
           "name": "Genaro Alberto Olivieri",
           "country": "AR"
         }
       ],
-      "duration": "01:53:24",
-      "round": "Round of 32",
-      "date": "2016-07-05"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Djurabek Karimov",
-          "country": "UZ"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "4"
-          ],
-          "name": "Jay Clarke",
-          "country": "GB"
-        }
-      ],
-      "duration": "01:38:11",
-      "round": "Round of 32",
-      "date": "2016-07-05"
+      "duration": "02:19:01",
+      "round": "Round of 64",
+      "date": "2016-07-02"
     },
     {
       "players": [
@@ -140,149 +92,22 @@
           "is_winner": false,
           "set_games": [
             "2",
-            "6"
-          ],
-          "name": "Ewan Moore",
-          "country": "01"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Ulises Blanch",
-          "country": "US"
-        }
-      ],
-      "duration": "01:08:36",
-      "round": "Round of 32",
-      "date": "2016-07-05"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "1",
-            "5"
-          ],
-          "name": "Finn Bass",
-          "country": "GB"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Denis Shapovalov",
-          "country": "CA"
-        }
-      ],
-      "duration": "01:00:07",
-      "round": "Round of 32",
-      "date": "2016-07-05"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "5"
-          ],
-          "name": "Geoffrey Blancaneaux",
-          "country": "FR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
             "3"
           ],
-          "name": "James Ryan Storrie",
+          "name": "Alastair Gray",
           "country": "GB"
-        }
-      ],
-      "duration": "00:38:34",
-      "round": "Round of 32",
-      "date": "2016-07-05"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "1",
-            "4"
-          ],
-          "name": "Lev Kazakov",
-          "country": "RU"
         },
         {
           "is_winner": true,
           "set_games": [
-            "3",
             "6",
             "6"
           ],
-          "name": "Yusuke Watanuki",
-          "country": "JP"
-        }
-      ],
-      "duration": "01:35:41",
-      "round": "Round of 32",
-      "date": "2016-07-05"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "7"
-          ],
-          "name": "Tung-Lin Wu",
-          "country": "TW"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "6"
-          ],
-          "name": "Alexei Popyrin",
-          "country": "AU"
-        }
-      ],
-      "duration": "01:19:32",
-      "round": "Round of 64",
-      "date": "2016-07-03"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "2",
-            "6"
-          ],
-          "name": "Evan Furness",
-          "country": "FR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "6",
-            "4"
-          ],
-          "name": "Benjamin Sigouin",
+          "name": "Felix Auger Aliassime",
           "country": "CA"
         }
       ],
-      "duration": "01:49:08",
+      "duration": "01:01:13",
       "round": "Round of 64",
       "date": "2016-07-03"
     },
@@ -319,47 +144,49 @@
           "is_winner": true,
           "set_games": [
             "7",
-            "7"
+            "2",
+            "6"
           ],
-          "name": "Luke Hammond",
-          "country": "GB"
+          "name": "Evan Furness",
+          "country": "FR"
         },
         {
           "is_winner": false,
           "set_games": [
             "6",
-            "6"
+            "6",
+            "4"
           ],
-          "name": "Dan Added",
-          "country": "FR"
+          "name": "Benjamin Sigouin",
+          "country": "CA"
         }
       ],
-      "duration": "01:29:14",
+      "duration": "01:49:08",
       "round": "Round of 64",
       "date": "2016-07-03"
     },
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "5"
-          ],
-          "name": "Youssef Hossam",
-          "country": "EG"
-        },
-        {
           "is_winner": true,
           "set_games": [
             "6",
-            "7"
+            "6"
           ],
-          "name": "Eduard Guell",
-          "country": "ES"
+          "name": "Geoffrey Blancaneaux",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Yuta Shimizu",
+          "country": "JP"
         }
       ],
-      "duration": "01:14:08",
+      "duration": "00:56:50",
       "round": "Round of 64",
       "date": "2016-07-03"
     },
@@ -398,20 +225,170 @@
             "6",
             "6"
           ],
-          "name": "Geoffrey Blancaneaux",
-          "country": "FR"
+          "name": "Jay Clarke",
+          "country": "GB"
         },
         {
           "is_winner": false,
           "set_games": [
-            "4",
-            "1"
+            "1",
+            "4"
           ],
-          "name": "Yuta Shimizu",
-          "country": "JP"
+          "name": "Tomas Etcheverry",
+          "country": "AR"
         }
       ],
-      "duration": "00:56:50",
+      "duration": "01:02:02",
+      "round": "Round of 64",
+      "date": "2016-07-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Luke Hammond",
+          "country": "GB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Dan Added",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:29:14",
+      "round": "Round of 64",
+      "date": "2016-07-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Marvin Moeller",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Finn Bass",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:35:22",
+      "round": "Round of 64",
+      "date": "2016-07-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Max Stewart",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniel Altmaier",
+          "country": "DE"
+        }
+      ],
+      "duration": "00:54:23",
+      "round": "Round of 64",
+      "date": "2016-07-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Sam Riffice",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Nicola Kuhn",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:40:35",
+      "round": "Round of 64",
+      "date": "2016-07-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Tung-Lin Wu",
+          "country": "TW"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6"
+          ],
+          "name": "Alexei Popyrin",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:19:32",
+      "round": "Round of 64",
+      "date": "2016-07-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Youssef Hossam",
+          "country": "EG"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Eduard Guell",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:14:08",
       "round": "Round of 64",
       "date": "2016-07-03"
     },
@@ -448,24 +425,24 @@
           "is_winner": true,
           "set_games": [
             "6",
-            "6"
+            "7"
           ],
-          "name": "Jay Clarke",
-          "country": "GB"
+          "name": "Alex De Minaur",
+          "country": "AU"
         },
         {
           "is_winner": false,
           "set_games": [
-            "1",
-            "4"
+            "4",
+            "5"
           ],
-          "name": "Tomas Etcheverry",
-          "country": "AR"
+          "name": "Kenneth Raisma",
+          "country": "EE"
         }
       ],
-      "duration": "01:02:02",
+      "duration": "01:18:03",
       "round": "Round of 64",
-      "date": "2016-07-03"
+      "date": "2016-07-04"
     },
     {
       "players": [
@@ -801,31 +778,6 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Alex De Minaur",
-          "country": "AU"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "5"
-          ],
-          "name": "Kenneth Raisma",
-          "country": "EE"
-        }
-      ],
-      "duration": "01:18:03",
-      "round": "Round of 64",
-      "date": "2016-07-04"
-    },
-    {
-      "players": [
-        {
           "is_winner": false,
           "set_games": [
             "3",
@@ -847,56 +799,6 @@
       "duration": "00:55:56",
       "round": "Round of 64",
       "date": "2016-07-04"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Mate Valkusz",
-          "country": "HU"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "1"
-          ],
-          "name": "Luke Hammond",
-          "country": "GB"
-        }
-      ],
-      "duration": "01:13:27",
-      "round": "Round of 32",
-      "date": "2016-07-05"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "3"
-          ],
-          "name": "Alastair Gray",
-          "country": "GB"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Felix Auger Aliassime",
-          "country": "CA"
-        }
-      ],
-      "duration": "01:01:13",
-      "round": "Round of 64",
-      "date": "2016-07-03"
     },
     {
       "players": [
@@ -928,77 +830,27 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "3"
-          ],
-          "name": "Sam Riffice",
-          "country": "US"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Nicola Kuhn",
-          "country": "DE"
-        }
-      ],
-      "duration": "01:40:35",
-      "round": "Round of 64",
-      "date": "2016-07-03"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "5"
-          ],
-          "name": "Marvin Moeller",
-          "country": "DE"
-        },
-        {
           "is_winner": true,
           "set_games": [
             "6",
             "7"
           ],
-          "name": "Finn Bass",
-          "country": "GB"
-        }
-      ],
-      "duration": "01:35:22",
-      "round": "Round of 64",
-      "date": "2016-07-03"
-    },
-    {
-      "players": [
+          "name": "Alex De Minaur",
+          "country": "AU"
+        },
         {
           "is_winner": false,
           "set_games": [
-            "2",
-            "0"
-          ],
-          "name": "Max Stewart",
-          "country": "GB"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
+            "3",
             "6"
           ],
-          "name": "Daniel Altmaier",
-          "country": "DE"
+          "name": "Enrico Dalla Valle",
+          "country": "IT"
         }
       ],
-      "duration": "00:54:23",
-      "round": "Round of 64",
-      "date": "2016-07-03"
+      "duration": "01:10:38",
+      "round": "Round of 32",
+      "date": "2016-07-05"
     },
     {
       "players": [
@@ -1006,9 +858,9 @@
           "is_winner": false,
           "set_games": [
             "3",
-            "5"
+            "6"
           ],
-          "name": "Aidan McHugh",
+          "name": "Ben Draper",
           "country": "GB"
         },
         {
@@ -1017,53 +869,41 @@
             "6",
             "7"
           ],
-          "name": "Felipe Meligeni Rodrigues Alves",
-          "country": "BR"
+          "name": "Evan Furness",
+          "country": "FR"
         }
       ],
-      "duration": "01:25:57",
-      "round": "Round of 64",
-      "date": "2016-07-02"
+      "duration": "01:11:35",
+      "round": "Round of 32",
+      "date": "2016-07-05"
     },
     {
       "players": [
         {
           "is_winner": false,
           "set_games": [
-            "7",
             "4",
-            "3"
+            "6"
           ],
-          "name": "Louis Tessa",
-          "country": "FR"
+          "name": "Blake Ellis",
+          "country": "AU"
         },
         {
           "is_winner": true,
           "set_games": [
             "6",
-            "6",
-            "6"
+            "7"
           ],
-          "name": "Genaro Alberto Olivieri",
-          "country": "AR"
+          "name": "John McNally",
+          "country": "US"
         }
       ],
-      "duration": "02:19:01",
-      "round": "Round of 64",
-      "date": "2016-07-02"
+      "duration": "01:13:25",
+      "round": "Round of 32",
+      "date": "2016-07-05"
     },
     {
       "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "7",
-            "4"
-          ],
-          "name": "Jurij Rodionov",
-          "country": "AT"
-        },
         {
           "is_winner": true,
           "set_games": [
@@ -1071,13 +911,327 @@
             "5",
             "6"
           ],
-          "name": "Piotr Matuszewski",
-          "country": "PL"
+          "name": "Daniel Altmaier",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "4"
+          ],
+          "name": "Genaro Alberto Olivieri",
+          "country": "AR"
         }
       ],
-      "duration": "01:30:26",
-      "round": "Round of 64",
-      "date": "2016-07-02"
+      "duration": "01:53:24",
+      "round": "Round of 32",
+      "date": "2016-07-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Djurabek Karimov",
+          "country": "UZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Jay Clarke",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:38:11",
+      "round": "Round of 32",
+      "date": "2016-07-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Ewan Moore",
+          "country": "01"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Ulises Blanch",
+          "country": "US"
+        }
+      ],
+      "duration": "01:08:36",
+      "round": "Round of 32",
+      "date": "2016-07-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "5"
+          ],
+          "name": "Finn Bass",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Denis Shapovalov",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:00:07",
+      "round": "Round of 32",
+      "date": "2016-07-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5"
+          ],
+          "name": "Geoffrey Blancaneaux",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3"
+          ],
+          "name": "James Ryan Storrie",
+          "country": "GB"
+        }
+      ],
+      "duration": "00:38:34",
+      "round": "Round of 32",
+      "date": "2016-07-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "4"
+          ],
+          "name": "Lev Kazakov",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Yusuke Watanuki",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:35:41",
+      "round": "Round of 32",
+      "date": "2016-07-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Mate Valkusz",
+          "country": "HU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "1"
+          ],
+          "name": "Luke Hammond",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:13:27",
+      "round": "Round of 32",
+      "date": "2016-07-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Nicola Kuhn",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Felix Auger Aliassime",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:11:56",
+      "round": "Round of 32",
+      "date": "2016-07-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "Piotr Matuszewski",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "4"
+          ],
+          "name": "Felipe Meligeni Rodrigues Alves",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:21:36",
+      "round": "Round of 32",
+      "date": "2016-07-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Stefanos Tsitsipas",
+          "country": "GR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "1"
+          ],
+          "name": "Vasil Kirkov",
+          "country": "US"
+        }
+      ],
+      "duration": "01:28:01",
+      "round": "Round of 32",
+      "date": "2016-07-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Tung-Lin Wu",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Miomir Kecmanovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:23:07",
+      "round": "Round of 32",
+      "date": "2016-07-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Yibing Wu",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Khumoyun Sultonov",
+          "country": "UZ"
+        }
+      ],
+      "duration": "01:12:26",
+      "round": "Round of 32",
+      "date": "2016-07-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yun-Seong Chung",
+          "country": "KR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Eduard Guell",
+          "country": "ES"
+        }
+      ],
+      "duration": "00:46:07",
+      "round": "Round of 32",
+      "date": "2016-07-05"
     },
     {
       "players": [
@@ -1211,81 +1365,6 @@
         {
           "is_winner": false,
           "set_games": [
-            "6",
-            "1"
-          ],
-          "name": "Tung-Lin Wu",
-          "country": "TW"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Miomir Kecmanovic",
-          "country": "RS"
-        }
-      ],
-      "duration": "01:23:07",
-      "round": "Round of 32",
-      "date": "2016-07-05"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "5"
-          ],
-          "name": "Yibing Wu",
-          "country": "CN"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Khumoyun Sultonov",
-          "country": "UZ"
-        }
-      ],
-      "duration": "01:12:26",
-      "round": "Round of 32",
-      "date": "2016-07-05"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Yun-Seong Chung",
-          "country": "KR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "2"
-          ],
-          "name": "Eduard Guell",
-          "country": "ES"
-        }
-      ],
-      "duration": "00:46:07",
-      "round": "Round of 32",
-      "date": "2016-07-05"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
             "0",
             "5"
           ],
@@ -1305,85 +1384,6 @@
       "duration": "01:03:09",
       "round": "Round of 16",
       "date": "2016-07-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "3"
-          ],
-          "name": "Nicola Kuhn",
-          "country": "DE"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Felix Auger Aliassime",
-          "country": "CA"
-        }
-      ],
-      "duration": "01:11:56",
-      "round": "Round of 32",
-      "date": "2016-07-05"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "1",
-            "6",
-            "6"
-          ],
-          "name": "Piotr Matuszewski",
-          "country": "PL"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "4",
-            "4"
-          ],
-          "name": "Felipe Meligeni Rodrigues Alves",
-          "country": "BR"
-        }
-      ],
-      "duration": "01:21:36",
-      "round": "Round of 32",
-      "date": "2016-07-05"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "3",
-            "6"
-          ],
-          "name": "Stefanos Tsitsipas",
-          "country": "GR"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "1",
-            "6",
-            "1"
-          ],
-          "name": "Vasil Kirkov",
-          "country": "US"
-        }
-      ],
-      "duration": "01:28:01",
-      "round": "Round of 32",
-      "date": "2016-07-05"
     },
     {
       "players": [

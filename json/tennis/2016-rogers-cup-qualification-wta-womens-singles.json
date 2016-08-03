@@ -467,31 +467,6 @@
       "players": [
         {
           "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Jennifer Brady",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "4"
-          ],
-          "name": "Julia Boserup",
-          "country": "US"
-        }
-      ],
-      "duration": "01:24:25",
-      "round": "Round of 32",
-      "date": "2016-07-24"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
           "set_games": [],
           "name": "Sabine Lisicki",
           "country": "DE"
@@ -506,31 +481,6 @@
       "duration": "N/A",
       "round": "Round of 64",
       "date": "2016-07-23"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Kateryna Bondarenko",
-          "country": "UA"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "1"
-          ],
-          "name": "Bianca Andreescu",
-          "country": "CA"
-        }
-      ],
-      "duration": "00:50:58",
-      "round": "Round of 32",
-      "date": "2016-07-24"
     },
     {
       "players": [
@@ -581,33 +531,6 @@
       "duration": "04:35:20",
       "round": "Round of 64",
       "date": "2016-07-23"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "4",
-            "7",
-            "6"
-          ],
-          "name": "Mariana Duque",
-          "country": "CO"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "6",
-            "1"
-          ],
-          "name": "Olga Govortsova",
-          "country": "BY"
-        }
-      ],
-      "duration": "02:28:29",
-      "round": "Round of 32",
-      "date": "2016-07-24"
     },
     {
       "players": [
@@ -733,6 +656,83 @@
         }
       ],
       "duration": "00:50:54",
+      "round": "Round of 32",
+      "date": "2016-07-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jennifer Brady",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Julia Boserup",
+          "country": "US"
+        }
+      ],
+      "duration": "01:24:25",
+      "round": "Round of 32",
+      "date": "2016-07-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kateryna Bondarenko",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Bianca Andreescu",
+          "country": "CA"
+        }
+      ],
+      "duration": "00:50:58",
+      "round": "Round of 32",
+      "date": "2016-07-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "6"
+          ],
+          "name": "Mariana Duque",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "1"
+          ],
+          "name": "Olga Govortsova",
+          "country": "BY"
+        }
+      ],
+      "duration": "02:28:29",
       "round": "Round of 32",
       "date": "2016-07-24"
     },

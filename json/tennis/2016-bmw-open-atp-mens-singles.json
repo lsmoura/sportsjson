@@ -8,31 +8,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "4"
-          ],
-          "name": "Igor Sijsling",
-          "country": "NL"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Jozef Kovalik",
-          "country": "SK"
-        }
-      ],
-      "duration": "01:09:35",
-      "round": "Round of 16",
-      "date": "2016-04-28"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "7",
@@ -54,6 +29,133 @@
       "duration": "01:33:19",
       "round": "Round of 32",
       "date": "2016-04-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Lukas Rosol",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Denis Istomin",
+          "country": "UZ"
+        }
+      ],
+      "duration": "02:03:54",
+      "round": "Round of 32",
+      "date": "2016-04-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "0"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Thomaz Bellucci",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:10:57",
+      "round": "Round of 32",
+      "date": "2016-04-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6"
+          ],
+          "name": "Mischa Zverev",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Santiago Giraldo",
+          "country": "CO"
+        }
+      ],
+      "duration": "03:14:35",
+      "round": "Round of 32",
+      "date": "2016-04-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Matthias Bachinger",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Florian Mayer",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:13:49",
+      "round": "Round of 32",
+      "date": "2016-04-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Mikhail Kukushkin",
+          "country": "KZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Evgeny Donskoy",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:33:35",
+      "round": "Round of 32",
+      "date": "2016-04-26"
     },
     {
       "players": [
@@ -160,108 +262,6 @@
         {
           "is_winner": true,
           "set_games": [
-            "6",
-            "6",
-            "7"
-          ],
-          "name": "Lukas Rosol",
-          "country": "CZ"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "4",
-            "6"
-          ],
-          "name": "Denis Istomin",
-          "country": "UZ"
-        }
-      ],
-      "duration": "02:03:54",
-      "round": "Round of 32",
-      "date": "2016-04-25"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "3"
-          ],
-          "name": "Mikhail Kukushkin",
-          "country": "KZ"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "0"
-          ],
-          "name": "Evgeny Donskoy",
-          "country": "RU"
-        }
-      ],
-      "duration": "00:33:35",
-      "round": "Round of 32",
-      "date": "2016-04-26"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "4"
-          ],
-          "name": "Matthias Bachinger",
-          "country": "DE"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Florian Mayer",
-          "country": "DE"
-        }
-      ],
-      "duration": "01:13:49",
-      "round": "Round of 32",
-      "date": "2016-04-26"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "0"
-          ],
-          "name": "Mikhail Youzhny",
-          "country": "RU"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "1"
-          ],
-          "name": "Thomaz Bellucci",
-          "country": "BR"
-        }
-      ],
-      "duration": "01:10:57",
-      "round": "Round of 32",
-      "date": "2016-04-25"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
             "7",
             "6"
           ],
@@ -287,25 +287,79 @@
         {
           "is_winner": false,
           "set_games": [
-            "5",
-            "6"
+            "6",
+            "3",
+            "2"
           ],
-          "name": "Mischa Zverev",
-          "country": "DE"
+          "name": "Malek Jaziri",
+          "country": "TN"
         },
         {
           "is_winner": true,
           "set_games": [
-            "7",
-            "7"
+            "4",
+            "6",
+            "6"
           ],
-          "name": "Santiago Giraldo",
-          "country": "CO"
+          "name": "Alexander Zverev",
+          "country": "DE"
         }
       ],
-      "duration": "03:14:35",
+      "duration": "20:59:17",
       "round": "Round of 32",
-      "date": "2016-04-25"
+      "date": "2016-04-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Marco Cecchinato",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Igor Sijsling",
+          "country": "NL"
+        }
+      ],
+      "duration": "20:26:22",
+      "round": "Round of 32",
+      "date": "2016-04-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "2"
+          ],
+          "name": "Vasek Pospisil",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Jan-Lennard Struff",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:51:15",
+      "round": "Round of 32",
+      "date": "2016-04-27"
     },
     {
       "players": [
@@ -389,6 +443,31 @@
         {
           "is_winner": false,
           "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Igor Sijsling",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jozef Kovalik",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:09:35",
+      "round": "Round of 16",
+      "date": "2016-04-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
             "2",
             "6",
             "3"
@@ -416,58 +495,6 @@
         {
           "is_winner": false,
           "set_games": [
-            "2",
-            "4"
-          ],
-          "name": "Marco Cecchinato",
-          "country": "IT"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Igor Sijsling",
-          "country": "NL"
-        }
-      ],
-      "duration": "20:26:22",
-      "round": "Round of 32",
-      "date": "2016-04-27"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "3",
-            "2"
-          ],
-          "name": "Vasek Pospisil",
-          "country": "CA"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6",
-            "6"
-          ],
-          "name": "Jan-Lennard Struff",
-          "country": "DE"
-        }
-      ],
-      "duration": "01:51:15",
-      "round": "Round of 32",
-      "date": "2016-04-27"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
             "3",
             "4"
           ],
@@ -487,33 +514,6 @@
       "duration": "01:08:30",
       "round": "Round of 16",
       "date": "2016-04-28"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "3",
-            "2"
-          ],
-          "name": "Malek Jaziri",
-          "country": "TN"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "4",
-            "6",
-            "6"
-          ],
-          "name": "Alexander Zverev",
-          "country": "DE"
-        }
-      ],
-      "duration": "20:59:17",
-      "round": "Round of 32",
-      "date": "2016-04-27"
     },
     {
       "players": [

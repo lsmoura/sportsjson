@@ -10,6 +10,158 @@
         {
           "is_winner": false,
           "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Artem Smirnov",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Rogerio Dutra Silva",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:07:37",
+      "round": "Round of 32",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Gerald Melzer",
+          "country": "AT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "1"
+          ],
+          "name": "Blaz Rola",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:56:45",
+      "round": "Round of 32",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jozef Kovalik",
+          "country": "SK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Robin Stanek",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:09:07",
+      "round": "Round of 32",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Matej Vocel",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Gleb Sakharov",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:40:27",
+      "round": "Round of 32",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Nils Langer",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Jan Satral",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:40:11",
+      "round": "Round of 32",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Norbert Gombos",
+          "country": "SK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Mohamed Safwat",
+          "country": "EG"
+        }
+      ],
+      "duration": "01:25:42",
+      "round": "Round of 32",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
             "6",
             "4"
           ],
@@ -135,31 +287,6 @@
         {
           "is_winner": false,
           "set_games": [
-            "4",
-            "2"
-          ],
-          "name": "Gerald Melzer",
-          "country": "AT"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Dennis Novak",
-          "country": "AT"
-        }
-      ],
-      "duration": "01:21:20",
-      "round": "Round of 16",
-      "date": "2016-06-08"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
             "5",
             "2"
           ],
@@ -179,158 +306,6 @@
       "duration": "01:22:38",
       "round": "Round of 32",
       "date": "2016-06-07"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "2",
-            "2"
-          ],
-          "name": "Artem Smirnov",
-          "country": "UA"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Rogerio Dutra Silva",
-          "country": "BR"
-        }
-      ],
-      "duration": "01:07:37",
-      "round": "Round of 32",
-      "date": "2016-06-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Jozef Kovalik",
-          "country": "SK"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "2"
-          ],
-          "name": "Robin Stanek",
-          "country": "CZ"
-        }
-      ],
-      "duration": "01:09:07",
-      "round": "Round of 32",
-      "date": "2016-06-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "3",
-            "7",
-            "6"
-          ],
-          "name": "Gerald Melzer",
-          "country": "AT"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "5",
-            "1"
-          ],
-          "name": "Blaz Rola",
-          "country": "SI"
-        }
-      ],
-      "duration": "01:56:45",
-      "round": "Round of 32",
-      "date": "2016-06-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Norbert Gombos",
-          "country": "SK"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "3"
-          ],
-          "name": "Mohamed Safwat",
-          "country": "EG"
-        }
-      ],
-      "duration": "01:25:42",
-      "round": "Round of 32",
-      "date": "2016-06-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "2"
-          ],
-          "name": "Matej Vocel",
-          "country": "CZ"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Gleb Sakharov",
-          "country": "FR"
-        }
-      ],
-      "duration": "01:40:27",
-      "round": "Round of 32",
-      "date": "2016-06-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "7"
-          ],
-          "name": "Nils Langer",
-          "country": "DE"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "5"
-          ],
-          "name": "Jan Satral",
-          "country": "CZ"
-        }
-      ],
-      "duration": "01:40:11",
-      "round": "Round of 32",
-      "date": "2016-06-06"
     },
     {
       "players": [
@@ -389,33 +364,6 @@
         {
           "is_winner": true,
           "set_games": [
-            "7",
-            "4",
-            "6"
-          ],
-          "name": "Juergen Zopp",
-          "country": "EE"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "6",
-            "1"
-          ],
-          "name": "Gleb Sakharov",
-          "country": "FR"
-        }
-      ],
-      "duration": "01:59:34",
-      "round": "Round of 16",
-      "date": "2016-06-08"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
             "6",
             "6"
           ],
@@ -433,6 +381,33 @@
         }
       ],
       "duration": "00:53:43",
+      "round": "Round of 32",
+      "date": "2016-06-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "3"
+          ],
+          "name": "Zdenek Kolar",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Adam Pavlasek",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:56:56",
       "round": "Round of 32",
       "date": "2016-06-07"
     },
@@ -493,6 +468,31 @@
         {
           "is_winner": false,
           "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Gerald Melzer",
+          "country": "AT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Dennis Novak",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:21:20",
+      "round": "Round of 16",
+      "date": "2016-06-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
             "0",
             "3"
           ],
@@ -535,6 +535,33 @@
         }
       ],
       "duration": "01:13:42",
+      "round": "Round of 16",
+      "date": "2016-06-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Juergen Zopp",
+          "country": "EE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "1"
+          ],
+          "name": "Gleb Sakharov",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:59:34",
       "round": "Round of 16",
       "date": "2016-06-08"
     },
@@ -587,33 +614,6 @@
       "duration": "01:13:52",
       "round": "Round of 16",
       "date": "2016-06-08"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "6",
-            "3"
-          ],
-          "name": "Zdenek Kolar",
-          "country": "CZ"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "3",
-            "7",
-            "6"
-          ],
-          "name": "Adam Pavlasek",
-          "country": "CZ"
-        }
-      ],
-      "duration": "01:56:56",
-      "round": "Round of 32",
-      "date": "2016-06-07"
     },
     {
       "players": [

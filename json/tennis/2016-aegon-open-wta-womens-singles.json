@@ -10,6 +10,158 @@
         {
           "is_winner": true,
           "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Anett Kontaveit",
+          "country": "EE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Lauren Davis",
+          "country": "US"
+        }
+      ],
+      "duration": "00:58:44",
+      "round": "Round of 32",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Anna Tatishvili",
+          "country": "GE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Kristyna Pliskova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:26:31",
+      "round": "Round of 32",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Christina McHale",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Magda Linette",
+          "country": "PL"
+        }
+      ],
+      "duration": "01:20:01",
+      "round": "Round of 32",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Freya Christie",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Saisai Zheng",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:27:10",
+      "round": "Round of 32",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Karolina Pliskova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "0",
+            "2"
+          ],
+          "name": "Anastasija Sevastova",
+          "country": "LV"
+        }
+      ],
+      "duration": "01:34:17",
+      "round": "Round of 32",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "0"
+          ],
+          "name": "Victoria Duval",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Johanna Konta",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:08:53",
+      "round": "Round of 32",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
             "7",
             "7"
           ],
@@ -240,158 +392,6 @@
             "6",
             "7"
           ],
-          "name": "Anna Tatishvili",
-          "country": "GE"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "6"
-          ],
-          "name": "Kristyna Pliskova",
-          "country": "CZ"
-        }
-      ],
-      "duration": "01:26:31",
-      "round": "Round of 32",
-      "date": "2016-06-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "0"
-          ],
-          "name": "Victoria Duval",
-          "country": "US"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Johanna Konta",
-          "country": "GB"
-        }
-      ],
-      "duration": "01:08:53",
-      "round": "Round of 32",
-      "date": "2016-06-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": false,
-          "set_games": [
-            "4",
-            "2"
-          ],
-          "name": "Freya Christie",
-          "country": "GB"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Saisai Zheng",
-          "country": "CN"
-        }
-      ],
-      "duration": "01:27:10",
-      "round": "Round of 32",
-      "date": "2016-06-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6",
-            "6"
-          ],
-          "name": "Karolina Pliskova",
-          "country": "CZ"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "7",
-            "0",
-            "2"
-          ],
-          "name": "Anastasija Sevastova",
-          "country": "LV"
-        }
-      ],
-      "duration": "01:34:17",
-      "round": "Round of 32",
-      "date": "2016-06-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Anett Kontaveit",
-          "country": "EE"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "1"
-          ],
-          "name": "Lauren Davis",
-          "country": "US"
-        }
-      ],
-      "duration": "00:58:44",
-      "round": "Round of 32",
-      "date": "2016-06-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Christina McHale",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "1",
-            "4"
-          ],
-          "name": "Magda Linette",
-          "country": "PL"
-        }
-      ],
-      "duration": "01:20:01",
-      "round": "Round of 32",
-      "date": "2016-06-06"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
           "name": "Tara Moore",
           "country": "GB"
         },
@@ -408,31 +408,6 @@
       "duration": "01:19:04",
       "round": "Round of 32",
       "date": "2016-06-07"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "3"
-          ],
-          "name": "Tamira Paszek",
-          "country": "AT"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "1"
-          ],
-          "name": "Magdalena Rybarikova",
-          "country": "SK"
-        }
-      ],
-      "duration": "01:01:13",
-      "round": "Round of 16",
-      "date": "2016-06-09"
     },
     {
       "players": [
@@ -458,31 +433,6 @@
       "duration": "01:16:57",
       "round": "Round of 16",
       "date": "2016-06-08"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "6"
-          ],
-          "name": "Alison Riske",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "3",
-            "3"
-          ],
-          "name": "Anett Kontaveit",
-          "country": "EE"
-        }
-      ],
-      "duration": "01:27:05",
-      "round": "Quarter-Final",
-      "date": "2016-06-11"
     },
     {
       "players": [
@@ -535,31 +485,6 @@
       "duration": "00:57:37",
       "round": "Round of 16",
       "date": "2016-06-08"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
-            "7"
-          ],
-          "name": "Alison Riske",
-          "country": "US"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "1",
-            "5"
-          ],
-          "name": "Saisai Zheng",
-          "country": "CN"
-        }
-      ],
-      "duration": "01:26:02",
-      "round": "Semi-Final",
-      "date": "2016-06-11"
     },
     {
       "players": [
@@ -662,6 +587,81 @@
       "duration": "02:00:16",
       "round": "Round of 16",
       "date": "2016-06-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Tamira Paszek",
+          "country": "AT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Magdalena Rybarikova",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:01:13",
+      "round": "Round of 16",
+      "date": "2016-06-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alison Riske",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Anett Kontaveit",
+          "country": "EE"
+        }
+      ],
+      "duration": "01:27:05",
+      "round": "Quarter-Final",
+      "date": "2016-06-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Alison Riske",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "5"
+          ],
+          "name": "Saisai Zheng",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:26:02",
+      "round": "Semi-Final",
+      "date": "2016-06-11"
     },
     {
       "players": [
