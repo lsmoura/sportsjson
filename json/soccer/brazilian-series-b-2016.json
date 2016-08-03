@@ -5983,6 +5983,218 @@
           "reserve": []
         }
       }
+    },
+    {
+      "date": "2016-08-03 02:30",
+      "home": "Luverdense",
+      "away": "CRB",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-08-03 02:30",
+      "home": "Tupi",
+      "away": "Parana Clube",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-08-03 02:30",
+      "home": "Oeste FC",
+      "away": "Nautico",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-08-03 02:30",
+      "home": "Ceara",
+      "away": "Vasco da Gama",
+      "score": "0-0",
+      "events": [],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-08-03 00:15",
+      "home": "Criciuma",
+      "away": "Paysandu",
+      "score": "0-3",
+      "events": [
+        {
+          "team": "away",
+          "time": "28'",
+          "player": "Lucas Siqueira",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "61'",
+          "player": "Tiago Luis",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "90'",
+          "player": "Leandro Cearense",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-08-03 00:15",
+      "home": "Londrina EC",
+      "away": "Bragantino",
+      "score": "2-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "8'",
+          "player": "Keirrison",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "27'",
+          "player": "Luizão",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-08-03 00:15",
+      "home": "Brasil de Pelotas",
+      "away": "Avai FC",
+      "score": "3-0",
+      "events": [
+        {
+          "team": "home",
+          "time": "5'",
+          "player": "Leandro Camilo",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "16'",
+          "player": "Ramon",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "20'",
+          "player": "Leandro Camilo",
+          "type": "goal"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
+    },
+    {
+      "date": "2016-08-03 00:15",
+      "home": "Vila Nova",
+      "away": "Joinville",
+      "score": "2-1",
+      "events": [
+        {
+          "team": "home",
+          "time": "2'",
+          "player": "Joãozinho",
+          "type": "goal"
+        },
+        {
+          "team": "home",
+          "time": "88'",
+          "player": "Moises",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "15'",
+          "player": "Danrlei",
+          "type": "goal"
+        },
+        {
+          "team": "away",
+          "time": "58'",
+          "player": "Thomas",
+          "type": "card"
+        }
+      ],
+      "lineup": {
+        "home": {
+          "squad": [],
+          "reserve": []
+        },
+        "away": {
+          "squad": [],
+          "reserve": []
+        }
+      }
     }
   ]
 }
