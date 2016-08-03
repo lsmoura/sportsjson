@@ -1,0 +1,812 @@
+{
+  "surface": "Hard",
+  "startdate": "2016-07-18",
+  "enddate": "2016-07-24",
+  "name": "2016 Binghamton Challenger (Men's Singles)",
+  "country": "United States",
+  "location": "Binghamton",
+  "gender": "male",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Jose Statham",
+          "country": "NZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "5",
+            "4"
+          ],
+          "name": "Guilherme Clezar",
+          "country": "BR"
+        }
+      ],
+      "duration": "19:19:27",
+      "round": "Round of 32",
+      "date": "2016-07-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Benjamin Mitchell",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Nicolas Meister",
+          "country": "US"
+        }
+      ],
+      "duration": "01:47:33",
+      "round": "Round of 32",
+      "date": "2016-07-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Darian King",
+          "country": "BB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "0"
+          ],
+          "name": "Finn Tearney",
+          "country": "NZ"
+        }
+      ],
+      "duration": "01:48:07",
+      "round": "Round of 32",
+      "date": "2016-07-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Lloyd Glasspool",
+          "country": "GB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Nicolas Meister",
+          "country": "US"
+        }
+      ],
+      "duration": "01:30:29",
+      "round": "Round of 16",
+      "date": "2016-07-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "0"
+          ],
+          "name": "Dennis Nevolo",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Stefan Kozlov",
+          "country": "US"
+        }
+      ],
+      "duration": "02:16:35",
+      "round": "Round of 32",
+      "date": "2016-07-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "7"
+          ],
+          "name": "Erik Crepaldi",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Sam Barry",
+          "country": "IE"
+        }
+      ],
+      "duration": "03:04:32",
+      "round": "Round of 32",
+      "date": "2016-07-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "2"
+          ],
+          "name": "Evan King",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "2",
+            "6"
+          ],
+          "name": "Andrey Golubev",
+          "country": "KZ"
+        }
+      ],
+      "duration": "02:00:31",
+      "round": "Round of 32",
+      "date": "2016-07-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Hiroki Moriya",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "1"
+          ],
+          "name": "Peter Kobelt",
+          "country": "US"
+        }
+      ],
+      "duration": "06:56:13",
+      "round": "Round of 32",
+      "date": "2016-07-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Jared Hiltzik",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mitchell Krueger",
+          "country": "US"
+        }
+      ],
+      "duration": "01:09:07",
+      "round": "Round of 32",
+      "date": "2016-07-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "John-Patrick Smith",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "5"
+          ],
+          "name": "Liam Broady",
+          "country": "GB"
+        }
+      ],
+      "duration": "02:46:10",
+      "round": "Round of 32",
+      "date": "2016-07-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Matt Reid",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Thai-Son Kwiatkowski",
+          "country": "US"
+        }
+      ],
+      "duration": "01:13:12",
+      "round": "Round of 32",
+      "date": "2016-07-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Michael Mmoh",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniel Nguyen",
+          "country": "US"
+        }
+      ],
+      "duration": "00:51:49",
+      "round": "Round of 32",
+      "date": "2016-07-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Noah Rubin",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lloyd Glasspool",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:02:22",
+      "round": "Round of 32",
+      "date": "2016-07-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "3"
+          ],
+          "name": "Quentin Halys",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Brydan Klein",
+          "country": "GB"
+        }
+      ],
+      "duration": "02:17:34",
+      "round": "Round of 32",
+      "date": "2016-07-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Sekou Bangoura",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "1"
+          ],
+          "name": "Tommy Paul",
+          "country": "US"
+        }
+      ],
+      "duration": "01:40:37",
+      "round": "Round of 32",
+      "date": "2016-07-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Daniel Nguyen",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Stefan Kozlov",
+          "country": "US"
+        }
+      ],
+      "duration": "01:50:28",
+      "round": "Round of 16",
+      "date": "2016-07-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Darian King",
+          "country": "BB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Thai-Son Kwiatkowski",
+          "country": "US"
+        }
+      ],
+      "duration": "01:29:43",
+      "round": "Round of 16",
+      "date": "2016-07-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Emilio Gomez",
+          "country": "EC"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Aleksandar Vukic",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:10:48",
+      "round": "Round of 32",
+      "date": "2016-07-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "7"
+          ],
+          "name": "Ramkumar Ramanathan",
+          "country": "IN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Jose Statham",
+          "country": "NZ"
+        }
+      ],
+      "duration": "02:23:34",
+      "round": "Round of 16",
+      "date": "2016-07-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Erik Crepaldi",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andrey Golubev",
+          "country": "KZ"
+        }
+      ],
+      "duration": "00:58:20",
+      "round": "Round of 16",
+      "date": "2016-07-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Darian King",
+          "country": "BB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Stefan Kozlov",
+          "country": "US"
+        }
+      ],
+      "duration": "01:25:54",
+      "round": "Quarter-Final",
+      "date": "2016-07-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Yasutaka Uchiyama",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ramkumar Ramanathan",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:07:31",
+      "round": "Round of 32",
+      "date": "2016-07-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Brydan Klein",
+          "country": "GB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "1"
+          ],
+          "name": "Aleksandar Vukic",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:07:39",
+      "round": "Round of 16",
+      "date": "2016-07-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Hiroki Moriya",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Sekou Bangoura",
+          "country": "US"
+        }
+      ],
+      "duration": "01:22:00",
+      "round": "Round of 16",
+      "date": "2016-07-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6"
+          ],
+          "name": "John-Patrick Smith",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Mitchell Krueger",
+          "country": "US"
+        }
+      ],
+      "duration": "01:41:54",
+      "round": "Round of 16",
+      "date": "2016-07-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "2"
+          ],
+          "name": "Brydan Klein",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Ramkumar Ramanathan",
+          "country": "IN"
+        }
+      ],
+      "duration": "02:36:26",
+      "round": "Quarter-Final",
+      "date": "2016-07-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "4"
+          ],
+          "name": "Lloyd Glasspool",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Andrey Golubev",
+          "country": "KZ"
+        }
+      ],
+      "duration": "01:46:58",
+      "round": "Quarter-Final",
+      "date": "2016-07-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Mitchell Krueger",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Hiroki Moriya",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:50:01",
+      "round": "Quarter-Final",
+      "date": "2016-07-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "Darian King",
+          "country": "BB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "3"
+          ],
+          "name": "Andrey Golubev",
+          "country": "KZ"
+        }
+      ],
+      "duration": "01:32:24",
+      "round": "Semi-Final",
+      "date": "2016-07-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Ramkumar Ramanathan",
+          "country": "IN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mitchell Krueger",
+          "country": "US"
+        }
+      ],
+      "duration": "01:15:35",
+      "round": "Semi-Final",
+      "date": "2016-07-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Mitchell Krueger",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Darian King",
+          "country": "BB"
+        }
+      ],
+      "duration": "01:12:06",
+      "round": "Championship",
+      "date": "2016-07-24"
+    }
+  ]
+}

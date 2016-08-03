@@ -1,0 +1,271 @@
+{
+  "surface": "Hard",
+  "startdate": "2016-08-01",
+  "enddate": "2016-08-07",
+  "name": "2016 Chengdu Challenger (Men's Singles)",
+  "country": "China",
+  "location": "Chengdu",
+  "gender": "male",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "4"
+          ],
+          "name": "Soon-Woo Kwon",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Ti Chen",
+          "country": "TW"
+        }
+      ],
+      "duration": "02:05:34",
+      "round": "Round of 32",
+      "date": "2016-07-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Yecong He",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nicolas Barrientos",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:27:12",
+      "round": "Round of 32",
+      "date": "2016-07-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Alessandro Bega",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "4"
+          ],
+          "name": "Evgeny Karlovskiy",
+          "country": "RU"
+        }
+      ],
+      "duration": "02:46:17",
+      "round": "Round of 32",
+      "date": "2016-08-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Ante Pavic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:03:20",
+      "round": "Round of 32",
+      "date": "2016-08-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "1"
+          ],
+          "name": "Di Wu",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1"
+          ],
+          "name": "Tsung-Hua Yang",
+          "country": "TW"
+        }
+      ],
+      "duration": "00:12:12",
+      "round": "Round of 32",
+      "date": "2016-08-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Jimmy Wang",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Enrique Lopez",
+          "country": "ES"
+        }
+      ],
+      "duration": "00:59:13",
+      "round": "Round of 32",
+      "date": "2016-08-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Kaichi Uchida",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jason Jung",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:06:19",
+      "round": "Round of 32",
+      "date": "2016-08-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Pere Riba",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "7"
+          ],
+          "name": "Yuuya Kibi",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:23:16",
+      "round": "Round of 32",
+      "date": "2016-08-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Takuto Niki",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "Prajnesh Gunneswaran",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:17:43",
+      "round": "Round of 32",
+      "date": "2016-08-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Zhe Li",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "1"
+          ],
+          "name": "Alexander Kudryavtsev",
+          "country": "RU"
+        }
+      ],
+      "duration": "02:28:59",
+      "round": "Round of 32",
+      "date": "2016-08-01"
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "name": "2016 Gerry Weber Open, Qualification ATP (Men's Singles)",
+  "country": "Germany",
+  "gender": "male",
+  "location": "Halle",
+  "surface": "Grass",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Denis Istomin",
+          "country": "UZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Benjamin Becker",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:36:11",
+      "round": "Round of 16",
+      "date": "2016-06-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ernests Gulbis",
+          "country": "LV"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Michael Berrer",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:03:52",
+      "round": "Round of 16",
+      "date": "2016-06-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Johannes Haerteis",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        }
+      ],
+      "duration": "00:56:59",
+      "round": "Round of 16",
+      "date": "2016-06-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Lukas Rosol",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:18:18",
+      "round": "Round of 16",
+      "date": "2016-06-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Illya Marchenko",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:22:53",
+      "round": "Round of 16",
+      "date": "2016-06-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Rajeev Ram",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andrey Rublev",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:36:20",
+      "round": "Round of 16",
+      "date": "2016-06-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Yoshihito Nishioka",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sergiy Stakhovsky",
+          "country": "UA"
+        }
+      ],
+      "duration": "00:52:35",
+      "round": "Round of 16",
+      "date": "2016-06-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Nikoloz Basilashvili",
+          "country": "GE"
+        }
+      ],
+      "duration": "00:44:35",
+      "round": "Round of 16",
+      "date": "2016-06-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Benjamin Becker",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        }
+      ],
+      "duration": "00:57:38",
+      "round": "Quarter-Final",
+      "date": "2016-06-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Ernests Gulbis",
+          "country": "LV"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:37:16",
+      "round": "Quarter-Final",
+      "date": "2016-06-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "2"
+          ],
+          "name": "Rajeev Ram",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Sergiy Stakhovsky",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:54:42",
+      "round": "Quarter-Final",
+      "date": "2016-06-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:01:57",
+      "round": "Quarter-Final",
+      "date": "2016-06-12"
+    }
+  ]
+}

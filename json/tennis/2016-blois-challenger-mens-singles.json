@@ -1,0 +1,796 @@
+{
+  "name": "2016 Blois Challenger (Men's Singles)",
+  "country": "France",
+  "gender": "male",
+  "location": "Blois",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Albert Montanes",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "6"
+          ],
+          "name": "Guilherme Clezar",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:14:45",
+      "round": "Round of 32",
+      "date": "2016-06-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "4"
+          ],
+          "name": "Alejandro Gonzalez",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Steven Diez",
+          "country": "CA"
+        }
+      ],
+      "duration": "02:28:30",
+      "round": "Round of 32",
+      "date": "2016-06-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Calvin Hemery",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Thiago Monteiro",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:19:05",
+      "round": "Round of 32",
+      "date": "2016-06-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Guilherme Clezar",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Antal van der Duim",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:12:56",
+      "round": "Round of 16",
+      "date": "2016-06-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Jonathan Eysseric",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Tristan Lamasine",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:29:12",
+      "round": "Round of 32",
+      "date": "2016-06-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Jose Hernandez",
+          "country": "DO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Carlos Berlocq",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:22:24",
+      "round": "Round of 32",
+      "date": "2016-06-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Ivan Nedelko",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Steve Darcis",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:12:58",
+      "round": "Round of 32",
+      "date": "2016-06-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "3"
+          ],
+          "name": "Johan Sebastien Tatlot",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "7",
+            "6"
+          ],
+          "name": "Jordi Samper",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:58:40",
+      "round": "Round of 32",
+      "date": "2016-06-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2"
+          ],
+          "name": "Christian Lindell",
+          "country": "SE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5"
+          ],
+          "name": "Maxime Teixeira",
+          "country": "FR"
+        }
+      ],
+      "duration": "00:33:25",
+      "round": "Round of 32",
+      "date": "2016-06-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Yasutaka Uchiyama",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ze Zhang",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:32:37",
+      "round": "Round of 32",
+      "date": "2016-06-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "Antal van der Duim",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "2"
+          ],
+          "name": "Yannik Reuter",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:22:59",
+      "round": "Round of 32",
+      "date": "2016-06-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Juan Pablo Paz",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "7",
+            "4"
+          ],
+          "name": "Hugo Grenier",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:58:06",
+      "round": "Round of 32",
+      "date": "2016-06-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gregoire Barrere",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Tommy Paul",
+          "country": "US"
+        }
+      ],
+      "duration": "01:06:08",
+      "round": "Round of 32",
+      "date": "2016-06-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "3"
+          ],
+          "name": "Mathias Bourgue",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Scott Griekspoor",
+          "country": "NL"
+        }
+      ],
+      "duration": "02:07:06",
+      "round": "Round of 32",
+      "date": "2016-06-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Tristan Lamasine",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Carlos Berlocq",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:24:06",
+      "round": "Round of 16",
+      "date": "2016-06-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Maxime Chazal",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Henri Laaksonen",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:12:26",
+      "round": "Round of 32",
+      "date": "2016-06-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andreas Beck",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Henri Laaksonen",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:22:56",
+      "round": "Round of 16",
+      "date": "2016-06-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Jordi Samper",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Steve Darcis",
+          "country": "BE"
+        }
+      ],
+      "duration": "00:59:47",
+      "round": "Round of 16",
+      "date": "2016-06-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Andreas Beck",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Steve Darcis",
+          "country": "BE"
+        }
+      ],
+      "duration": "02:48:45",
+      "round": "Quarter-Final",
+      "date": "2016-06-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "3"
+          ],
+          "name": "Thiemo de Bakker",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Andreas Beck",
+          "country": "DE"
+        }
+      ],
+      "duration": "02:03:37",
+      "round": "Round of 32",
+      "date": "2016-06-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "4"
+          ],
+          "name": "Maxime Teixeira",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Ze Zhang",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:55:37",
+      "round": "Round of 16",
+      "date": "2016-06-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [],
+          "name": "Miljan Zekic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [],
+          "name": "Thiago Monteiro",
+          "country": "BR"
+        }
+      ],
+      "duration": "03:29:33",
+      "round": "Round of 16",
+      "date": "2016-06-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Miljan Zekic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "1"
+          ],
+          "name": "Gleb Sakharov",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:57:56",
+      "round": "Round of 32",
+      "date": "2016-06-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "1"
+          ],
+          "name": "Steven Diez",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Gregoire Barrere",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:39:21",
+      "round": "Round of 16",
+      "date": "2016-06-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Antal van der Duim",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Ze Zhang",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:01:07",
+      "round": "Quarter-Final",
+      "date": "2016-06-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Gregoire Barrere",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Miljan Zekic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:29:14",
+      "round": "Quarter-Final",
+      "date": "2016-06-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Scott Griekspoor",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Carlos Berlocq",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:13:51",
+      "round": "Quarter-Final",
+      "date": "2016-06-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Scott Griekspoor",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Juan Pablo Paz",
+          "country": "AR"
+        }
+      ],
+      "duration": "00:23:46",
+      "round": "Round of 16",
+      "date": "2016-06-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6"
+          ],
+          "name": "Antal van der Duim",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Steve Darcis",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:44:22",
+      "round": "Semi-Final",
+      "date": "2016-06-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Gregoire Barrere",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Carlos Berlocq",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:20:25",
+      "round": "Semi-Final",
+      "date": "2016-06-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Steve Darcis",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Carlos Berlocq",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:03:23",
+      "round": "Championship",
+      "date": "2016-06-19"
+    }
+  ]
+}

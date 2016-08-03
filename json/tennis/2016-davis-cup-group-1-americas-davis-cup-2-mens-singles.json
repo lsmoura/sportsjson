@@ -1,0 +1,177 @@
+{
+  "surface": "Unknown",
+  "startdate": "2016-03-04",
+  "enddate": "2016-07-17",
+  "name": "2016 Davis Cup Group 1 - Americas Davis Cup 2 (Men's Singles)",
+  "country": "",
+  "location": "Unknown",
+  "gender": "male",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "0",
+            "4"
+          ],
+          "name": "Rogerio Dutra Silva",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Emilio Gomez",
+          "country": "EC"
+        }
+      ],
+      "duration": "02:43:58",
+      "round": "Semi-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Thomaz Bellucci",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "6",
+            "3"
+          ],
+          "name": "Roberto Quiroz",
+          "country": "EC"
+        }
+      ],
+      "duration": "02:58:23",
+      "round": "Semi-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Gonzalo Lama",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5",
+            "0"
+          ],
+          "name": "Alejandro Gonzalez",
+          "country": "CO"
+        }
+      ],
+      "duration": "02:19:25",
+      "round": "Semi-Final",
+      "date": "2016-07-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4",
+            "3"
+          ],
+          "name": "Nicolas Jarry",
+          "country": "CL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Santiago Giraldo",
+          "country": "CO"
+        }
+      ],
+      "duration": "02:24:24",
+      "round": "Semi-Final",
+      "date": "2016-07-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Gonzalo Lama",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Santiago Giraldo",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:06:39",
+      "round": "Semi-Final",
+      "date": "2016-07-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Thomaz Bellucci",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "2",
+            "5"
+          ],
+          "name": "Emilio Gomez",
+          "country": "EC"
+        }
+      ],
+      "duration": "03:23:17",
+      "round": "Semi-Final",
+      "date": "2016-07-17"
+    }
+  ]
+}

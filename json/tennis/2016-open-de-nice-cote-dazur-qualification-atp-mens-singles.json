@@ -1,0 +1,315 @@
+{
+  "name": "2016 Open de Nice Côte d’Azur, Qualification ATP (Men's Singles)",
+  "country": "France",
+  "gender": "male",
+  "location": "Nice",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Ante Pavic",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Marco Cecchinato",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:23:35",
+      "round": "Round of 16",
+      "date": "2016-05-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Damir Dzumhur",
+          "country": "BA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Zhizhen Zhang",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:06:23",
+      "round": "Round of 16",
+      "date": "2016-05-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Diego Schwartzman",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Maxime Teixeira",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:19:24",
+      "round": "Round of 16",
+      "date": "2016-05-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Donald Young",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Miki Jankovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:09:48",
+      "round": "Round of 16",
+      "date": "2016-05-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Dzmitry Zhyrmont",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Miljan Zekic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:12:33",
+      "round": "Round of 16",
+      "date": "2016-05-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Gavin Van Peperzeel",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Mathias Bourgue",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:26:48",
+      "round": "Round of 16",
+      "date": "2016-05-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Kyle Edmund",
+          "country": "GB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "4"
+          ],
+          "name": "Elliot Benchetrit",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:26:32",
+      "round": "Round of 16",
+      "date": "2016-05-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Diego Schwartzman",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Dzmitry Zhyrmont",
+          "country": "BY"
+        }
+      ],
+      "duration": "01:08:01",
+      "round": "Quarter-Final",
+      "date": "2016-05-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Donald Young",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Mathias Bourgue",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:30:18",
+      "round": "Quarter-Final",
+      "date": "2016-05-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Giovanni Lapentti",
+          "country": "EC"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Daniil Medvedev",
+          "country": "RU"
+        }
+      ],
+      "duration": "20:49:06",
+      "round": "Round of 16",
+      "date": "2016-05-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kyle Edmund",
+          "country": "GB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Marco Cecchinato",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:12:29",
+      "round": "Quarter-Final",
+      "date": "2016-05-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Zhizhen Zhang",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "7"
+          ],
+          "name": "Daniil Medvedev",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:54:41",
+      "round": "Quarter-Final",
+      "date": "2016-05-15"
+    }
+  ]
+}

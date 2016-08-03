@@ -1,0 +1,548 @@
+{
+  "surface": "Hard",
+  "startdate": "2016-07-23",
+  "enddate": "2016-07-24",
+  "name": "2016 Rogers Cup, Qualification ATP (Men's Singles)",
+  "country": "Canada",
+  "location": "Toronto",
+  "gender": "male",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Austin Krajicek",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Michael Mmoh",
+          "country": "US"
+        }
+      ],
+      "duration": "01:33:57",
+      "round": "Round of 32",
+      "date": "2016-07-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Benjamin Sigouin",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Alejandro Gonzalez",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:20:04",
+      "round": "Round of 32",
+      "date": "2016-07-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Christian Lakoseljac",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jared Donaldson",
+          "country": "US"
+        }
+      ],
+      "duration": "00:49:29",
+      "round": "Round of 32",
+      "date": "2016-07-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Dennis Novikov",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "3"
+          ],
+          "name": "Alejandro Falla",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:35:45",
+      "round": "Round of 32",
+      "date": "2016-07-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Emilio Gomez",
+          "country": "EC"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Matthew Barton",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:22:55",
+      "round": "Round of 32",
+      "date": "2016-07-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Fabrice Martin",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Saketh Myneni",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:10:52",
+      "round": "Round of 32",
+      "date": "2016-07-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6"
+          ],
+          "name": "Felix Auger Aliassime",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "James Duckworth",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:41:09",
+      "round": "Round of 32",
+      "date": "2016-07-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "James McGee",
+          "country": "IE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Samuel Groth",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:47:10",
+      "round": "Round of 32",
+      "date": "2016-07-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Kelsey Stevenson",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Philip Bester",
+          "country": "CA"
+        }
+      ],
+      "duration": "00:50:45",
+      "round": "Round of 32",
+      "date": "2016-07-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mischa Zverev",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Pavel Krainik",
+          "country": "CA"
+        }
+      ],
+      "duration": "00:47:04",
+      "round": "Round of 32",
+      "date": "2016-07-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Radek Stepanek",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Brayden Schnur",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:41:11",
+      "round": "Round of 32",
+      "date": "2016-07-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Sam Barry",
+          "country": "IE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Ryan Harrison",
+          "country": "US"
+        }
+      ],
+      "duration": "01:51:29",
+      "round": "Round of 32",
+      "date": "2016-07-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tim Smyczek",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Jack Mingjie Lin",
+          "country": "CA"
+        }
+      ],
+      "duration": "00:54:47",
+      "round": "Round of 32",
+      "date": "2016-07-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Vincent Millot",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Amir Weintraub",
+          "country": "IL"
+        }
+      ],
+      "duration": "01:19:16",
+      "round": "Round of 32",
+      "date": "2016-07-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Amir Weintraub",
+          "country": "IL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jared Donaldson",
+          "country": "US"
+        }
+      ],
+      "duration": "01:01:25",
+      "round": "Round of 16",
+      "date": "2016-07-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Austin Krajicek",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Emilio Gomez",
+          "country": "EC"
+        }
+      ],
+      "duration": "01:31:46",
+      "round": "Round of 16",
+      "date": "2016-07-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "0",
+            "7"
+          ],
+          "name": "Dennis Novikov",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "James Duckworth",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:34:12",
+      "round": "Round of 16",
+      "date": "2016-07-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "3"
+          ],
+          "name": "Mischa Zverev",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Ryan Harrison",
+          "country": "US"
+        }
+      ],
+      "duration": "02:10:29",
+      "round": "Round of 16",
+      "date": "2016-07-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Philip Bester",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Alejandro Gonzalez",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:28:30",
+      "round": "Round of 16",
+      "date": "2016-07-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Radek Stepanek",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "4"
+          ],
+          "name": "Saketh Myneni",
+          "country": "IN"
+        }
+      ],
+      "duration": "02:30:54",
+      "round": "Round of 16",
+      "date": "2016-07-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "7"
+          ],
+          "name": "Tim Smyczek",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "5"
+          ],
+          "name": "James McGee",
+          "country": "IE"
+        }
+      ],
+      "duration": "02:29:02",
+      "round": "Round of 16",
+      "date": "2016-07-24"
+    }
+  ]
+}

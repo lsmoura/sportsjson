@@ -1,0 +1,808 @@
+{
+  "surface": "Hard",
+  "startdate": "2016-07-11",
+  "enddate": "2016-07-17",
+  "name": "2016 Winnipeg Challenger (Men's Singles)",
+  "country": "Canada",
+  "location": "Winnipeg",
+  "gender": "male",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "2"
+          ],
+          "name": "Aleksandar Vukic",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Daniel Nguyen",
+          "country": "US"
+        }
+      ],
+      "duration": "01:47:00",
+      "round": "Round of 32",
+      "date": "2016-07-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Alexander Sarkissian",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:22:37",
+      "round": "Round of 16",
+      "date": "2016-07-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "7"
+          ],
+          "name": "Blaz Kavcic",
+          "country": "SI"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Felix Auger Aliassime",
+          "country": "CA"
+        }
+      ],
+      "duration": "05:12:08",
+      "round": "Round of 32",
+      "date": "2016-07-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mitchell Krueger",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "4"
+          ],
+          "name": "Benjamin Sigouin",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:49:46",
+      "round": "Round of 32",
+      "date": "2016-07-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Tennys Sandgren",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "7"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:44:53",
+      "round": "Round of 32",
+      "date": "2016-07-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tim Smyczek",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Kevin Kylar",
+          "country": "CA"
+        }
+      ],
+      "duration": "00:55:19",
+      "round": "Round of 32",
+      "date": "2016-07-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Bjorn Fratangelo",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Lloyd Glasspool",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:10:45",
+      "round": "Round of 32",
+      "date": "2016-07-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Alexander Sarkissian",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "4"
+          ],
+          "name": "Cameron Norrie",
+          "country": "NZ"
+        }
+      ],
+      "duration": "01:56:47",
+      "round": "Round of 32",
+      "date": "2016-07-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Brayden Schnur",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Philip Bester",
+          "country": "CA"
+        }
+      ],
+      "duration": "02:47:26",
+      "round": "Round of 32",
+      "date": "2016-07-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Hiroki Moriya",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Sam Barry",
+          "country": "IE"
+        }
+      ],
+      "duration": "02:12:49",
+      "round": "Round of 32",
+      "date": "2016-07-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Matt Reid",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Yoshihito Nishioka",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:19:32",
+      "round": "Round of 32",
+      "date": "2016-07-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Nicolas Meister",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "James McGee",
+          "country": "IE"
+        }
+      ],
+      "duration": "03:41:45",
+      "round": "Round of 32",
+      "date": "2016-07-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "3"
+          ],
+          "name": "Marinko Matosevic",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Dayne Kelly",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:40:53",
+      "round": "Round of 32",
+      "date": "2016-07-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6"
+          ],
+          "name": "Sekou Bangoura",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:45:20",
+      "round": "Round of 32",
+      "date": "2016-07-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "7",
+            "6"
+          ],
+          "name": "Benjamin Mitchell",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Vincent Millot",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:06:05",
+      "round": "Round of 32",
+      "date": "2016-07-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Andrey Golubev",
+          "country": "KZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Peter Polansky",
+          "country": "CA"
+        }
+      ],
+      "duration": "00:59:05",
+      "round": "Round of 32",
+      "date": "2016-07-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "1"
+          ],
+          "name": "Bjorn Fratangelo",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "6"
+          ],
+          "name": "Philip Bester",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:54:11",
+      "round": "Round of 16",
+      "date": "2016-07-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Blaz Kavcic",
+          "country": "SI"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Benjamin Mitchell",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:00:19",
+      "round": "Round of 16",
+      "date": "2016-07-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Dayne Kelly",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yoshihito Nishioka",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:25:26",
+      "round": "Round of 16",
+      "date": "2016-07-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Frances Tiafoe",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Yasutaka Uchiyama",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:53:27",
+      "round": "Round of 32",
+      "date": "2016-07-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "4"
+          ],
+          "name": "Mitchell Krueger",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:58:14",
+      "round": "Round of 16",
+      "date": "2016-07-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Peter Polansky",
+          "country": "CA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "James McGee",
+          "country": "IE"
+        }
+      ],
+      "duration": "00:57:35",
+      "round": "Round of 16",
+      "date": "2016-07-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Tim Smyczek",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniel Nguyen",
+          "country": "US"
+        }
+      ],
+      "duration": "00:54:59",
+      "round": "Round of 16",
+      "date": "2016-07-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Yasutaka Uchiyama",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Hiroki Moriya",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:30:14",
+      "round": "Round of 16",
+      "date": "2016-07-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Daniel Nguyen",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:28:17",
+      "round": "Quarter-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Hiroki Moriya",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Blaz Kavcic",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:24:48",
+      "round": "Quarter-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Peter Polansky",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Yoshihito Nishioka",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:33:04",
+      "round": "Quarter-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Philip Bester",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:20:09",
+      "round": "Quarter-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Blaz Kavcic",
+          "country": "SI"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Yoshihito Nishioka",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:03:10",
+      "round": "Semi-Final",
+      "date": "2016-07-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "0"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:31:49",
+      "round": "Semi-Final",
+      "date": "2016-07-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "2"
+          ],
+          "name": "Blaz Kavcic",
+          "country": "SI"
+        }
+      ],
+      "duration": "03:27:29",
+      "round": "Championship",
+      "date": "2016-07-17"
+    }
+  ]
+}

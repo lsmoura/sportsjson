@@ -1,0 +1,265 @@
+{
+  "surface": "Hard",
+  "startdate": "2016-07-16",
+  "enddate": "2016-07-18",
+  "name": "2016 Bank of the West Classic, Qualification WTA (Women's Singles)",
+  "country": "United States",
+  "location": "Stanford",
+  "gender": "female",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ana Bogdan",
+          "country": "RO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Maria Sanchez",
+          "country": "US"
+        }
+      ],
+      "duration": "01:01:23",
+      "round": "Round of 16",
+      "date": "2016-07-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Caroline Lampl",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Asia Muhammed",
+          "country": "US"
+        }
+      ],
+      "duration": "00:40:44",
+      "round": "Round of 16",
+      "date": "2016-07-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Melissa Lord",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Olga Govortsova",
+          "country": "BY"
+        }
+      ],
+      "duration": "01:08:58",
+      "round": "Round of 16",
+      "date": "2016-07-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Taylor Townsend",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "4"
+          ],
+          "name": "Arina Rodionova",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:15:58",
+      "round": "Round of 16",
+      "date": "2016-07-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Yifan Xu",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sachia Vickery",
+          "country": "US"
+        }
+      ],
+      "duration": "01:05:22",
+      "round": "Round of 16",
+      "date": "2016-07-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yuliya Beygelzimer",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Olga Savchuk",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:19:10",
+      "round": "Round of 16",
+      "date": "2016-07-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Ana Bogdan",
+          "country": "RO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "2"
+          ],
+          "name": "Yuliya Beygelzimer",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:51:44",
+      "round": "Quarter-Final",
+      "date": "2016-07-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Elitsa Kostova",
+          "country": "BG"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Olga Govortsova",
+          "country": "BY"
+        }
+      ],
+      "duration": "01:12:33",
+      "round": "Quarter-Final",
+      "date": "2016-07-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Julia Glushko",
+          "country": "IL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Asia Muhammed",
+          "country": "US"
+        }
+      ],
+      "duration": "01:05:36",
+      "round": "Quarter-Final",
+      "date": "2016-07-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Taylor Townsend",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sachia Vickery",
+          "country": "US"
+        }
+      ],
+      "duration": "01:05:50",
+      "round": "Quarter-Final",
+      "date": "2016-07-17"
+    }
+  ]
+}

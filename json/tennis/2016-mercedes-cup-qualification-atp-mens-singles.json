@@ -1,0 +1,317 @@
+{
+  "name": "2016 Mercedes Cup, Qualification ATP (Men's Singles)",
+  "country": "Germany",
+  "gender": "male",
+  "location": "Stuttgart",
+  "surface": "Grass",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Fabrice Martin",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6"
+          ],
+          "name": "Mirza Basic",
+          "country": "BA"
+        }
+      ],
+      "duration": "01:13:47",
+      "round": "Round of 16",
+      "date": "2016-06-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Florian Mayer",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Daniel Brands",
+          "country": "DE"
+        }
+      ],
+      "duration": "03:14:15",
+      "round": "Round of 16",
+      "date": "2016-06-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Frank Moser",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "3"
+          ],
+          "name": "Axel Michon",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:58:14",
+      "round": "Round of 16",
+      "date": "2016-06-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Jan Hernych",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "James Ward",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:24:54",
+      "round": "Round of 16",
+      "date": "2016-06-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Nikoloz Basilashvili",
+          "country": "GE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "7",
+            "7"
+          ],
+          "name": "Matthias Bachinger",
+          "country": "DE"
+        }
+      ],
+      "duration": "05:46:05",
+      "round": "Round of 16",
+      "date": "2016-06-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Radek Stepanek",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Nikola Mektic",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:00:45",
+      "round": "Round of 16",
+      "date": "2016-06-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Sergiy Stakhovsky",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "1"
+          ],
+          "name": "Jan Mertl",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:22:46",
+      "round": "Round of 16",
+      "date": "2016-06-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Giovanni Lapentti",
+          "country": "EC"
+        }
+      ],
+      "duration": "00:46:24",
+      "round": "Round of 16",
+      "date": "2016-06-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Matthias Bachinger",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Florian Mayer",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:25:59",
+      "round": "Quarter-Final",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Radek Stepanek",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "James Ward",
+          "country": "GB"
+        }
+      ],
+      "duration": "22:46:33",
+      "round": "Quarter-Final",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sergiy Stakhovsky",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Frank Moser",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:17:57",
+      "round": "Quarter-Final",
+      "date": "2016-06-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "7"
+          ],
+          "name": "Fabrice Martin",
+          "country": "FR"
+        }
+      ],
+      "duration": "23:59:32",
+      "round": "Quarter-Final",
+      "date": "2016-06-06"
+    }
+  ]
+}

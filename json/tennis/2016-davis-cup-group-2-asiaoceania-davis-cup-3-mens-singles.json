@@ -1,0 +1,210 @@
+{
+  "surface": "Unknown",
+  "startdate": "2016-03-04",
+  "enddate": "2016-09-18",
+  "name": "2016 Davis Cup Group 2 - Asia/Oceania Davis Cup 3 (Men's Singles)",
+  "country": "",
+  "location": "Unknown",
+  "gender": "male",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6",
+            "0"
+          ],
+          "name": "Kittipong Wachiramanowong",
+          "country": "TH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "0",
+            "0"
+          ],
+          "name": "Nam Hoang Ly",
+          "country": "VN"
+        }
+      ],
+      "duration": "01:47:28",
+      "round": "Semi-Final",
+      "date": "2016-07-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "7",
+            "1",
+            "0"
+          ],
+          "name": "Francis Casey Alcantara",
+          "country": "PH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6",
+            "6",
+            "1"
+          ],
+          "name": "Liang-Chi Huang",
+          "country": "TW"
+        }
+      ],
+      "duration": "02:34:17",
+      "round": "Semi-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Pruchya Isarow",
+          "country": "TH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "4",
+            "2"
+          ],
+          "name": "Thien Nguyen Hoang",
+          "country": "VN"
+        }
+      ],
+      "duration": "03:01:04",
+      "round": "Semi-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "2",
+            "2"
+          ],
+          "name": "Ruben Gonzales",
+          "country": "PH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Ti Chen",
+          "country": "TW"
+        }
+      ],
+      "duration": "02:26:20",
+      "round": "Semi-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "7"
+          ],
+          "name": "Pruchya Isarow",
+          "country": "TH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Minhtuan Pham",
+          "country": "VN"
+        }
+      ],
+      "duration": "02:08:15",
+      "round": "Semi-Final",
+      "date": "2016-07-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "0",
+            "1"
+          ],
+          "name": "Jeson Patrombon",
+          "country": "PH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Ti Chen",
+          "country": "TW"
+        }
+      ],
+      "duration": "02:52:01",
+      "round": "Semi-Final",
+      "date": "2016-07-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kittipong Wachiramanowong",
+          "country": "TH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Dac Tien Nguyen",
+          "country": "VN"
+        }
+      ],
+      "duration": "00:56:49",
+      "round": "Semi-Final",
+      "date": "2016-07-17"
+    }
+  ]
+}

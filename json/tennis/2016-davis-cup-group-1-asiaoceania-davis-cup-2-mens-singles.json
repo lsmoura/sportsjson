@@ -1,0 +1,239 @@
+{
+  "surface": "Unknown",
+  "startdate": "2016-03-04",
+  "enddate": "2016-07-17",
+  "name": "2016 Davis Cup Group 1 - Asia/Oceania Davis Cup 2 (Men's Singles)",
+  "country": "",
+  "location": "Unknown",
+  "gender": "male",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Denis Istomin",
+          "country": "UZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4",
+            "2"
+          ],
+          "name": "Di Wu",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:39:38",
+      "round": "Semi-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "4",
+            "2"
+          ],
+          "name": "Farrukh Dustov",
+          "country": "UZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Ze Zhang",
+          "country": "CN"
+        }
+      ],
+      "duration": "02:50:14",
+      "round": "Semi-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Ramkumar Ramanathan",
+          "country": "IN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3",
+            "5"
+          ],
+          "name": "Seong-Chan Hong",
+          "country": "KR"
+        }
+      ],
+      "duration": "02:35:06",
+      "round": "Semi-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6",
+            "3",
+            "5"
+          ],
+          "name": "Saketh Myneni",
+          "country": "IN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "4",
+            "6",
+            "2"
+          ],
+          "name": "Yong-Kyu Lim",
+          "country": "KR"
+        }
+      ],
+      "duration": "03:10:46",
+      "round": "Semi-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "6",
+            "1",
+            "4"
+          ],
+          "name": "Denis Istomin",
+          "country": "UZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Ze Zhang",
+          "country": "CN"
+        }
+      ],
+      "duration": "03:03:07",
+      "round": "Semi-Final",
+      "date": "2016-07-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "7"
+          ],
+          "name": "Farrukh Dustov",
+          "country": "UZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Di Wu",
+          "country": "CN"
+        }
+      ],
+      "duration": "03:03:47",
+      "round": "Semi-Final",
+      "date": "2016-07-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Ramkumar Ramanathan",
+          "country": "IN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "7"
+          ],
+          "name": "Yong-Kyu Lim",
+          "country": "KR"
+        }
+      ],
+      "duration": "02:08:39",
+      "round": "Semi-Final",
+      "date": "2016-07-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Rohan Bopanna",
+          "country": "IN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "4"
+          ],
+          "name": "Hong Chung",
+          "country": "KR"
+        }
+      ],
+      "duration": "01:23:28",
+      "round": "Semi-Final",
+      "date": "2016-07-17"
+    }
+  ]
+}

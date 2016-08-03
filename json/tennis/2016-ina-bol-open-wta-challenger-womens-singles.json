@@ -1,0 +1,796 @@
+{
+  "name": "2016 Ina Bol Open WTA Challenger (Women's Singles)",
+  "country": "Croatia",
+  "gender": "female",
+  "location": "Bol",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ana Konjuh",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Ipek Soylu",
+          "country": "TR"
+        }
+      ],
+      "duration": "01:07:31",
+      "round": "Round of 16",
+      "date": "2016-06-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ana Konjuh",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Grace Min",
+          "country": "US"
+        }
+      ],
+      "duration": "00:51:05",
+      "round": "Round of 32",
+      "date": "2016-06-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "0",
+            "6"
+          ],
+          "name": "Ipek Soylu",
+          "country": "TR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "1"
+          ],
+          "name": "Julia Glushko",
+          "country": "IL"
+        }
+      ],
+      "duration": "01:45:43",
+      "round": "Round of 32",
+      "date": "2016-05-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Stefanie Voegele",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Andreea Mitu",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:11:09",
+      "round": "Round of 32",
+      "date": "2016-05-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Elitsa Kostova",
+          "country": "BG"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Ekaterina Alexandrova",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:54:24",
+      "round": "Round of 32",
+      "date": "2016-05-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "5"
+          ],
+          "name": "Ana Vrljic",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Varvara Lepchenko",
+          "country": "US"
+        }
+      ],
+      "duration": "01:15:13",
+      "round": "Round of 32",
+      "date": "2016-05-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Isabella Shinikova",
+          "country": "BG"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Ivana Jorovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:27:13",
+      "round": "Round of 32",
+      "date": "2016-05-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Tena Lukas",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Sachia Vickery",
+          "country": "US"
+        }
+      ],
+      "duration": "01:56:43",
+      "round": "Round of 32",
+      "date": "2016-05-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jennifer Brady",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Patricia Maria Tig",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:11:32",
+      "round": "Round of 32",
+      "date": "2016-05-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Anna Tatishvili",
+          "country": "GE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "5"
+          ],
+          "name": "Paula Kania",
+          "country": "PL"
+        }
+      ],
+      "duration": "02:38:30",
+      "round": "Round of 32",
+      "date": "2016-05-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Ani Mijacika",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tereza Mrdeza",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:14:22",
+      "round": "Round of 32",
+      "date": "2016-06-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Anna Schmiedlova",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kristina Kucova",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:23:03",
+      "round": "Round of 32",
+      "date": "2016-06-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3"
+          ],
+          "name": "Kurumi Nara",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3"
+          ],
+          "name": "Marina Erakovic",
+          "country": "NZ"
+        }
+      ],
+      "duration": "00:46:37",
+      "round": "Round of 32",
+      "date": "2016-06-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nao Hibino",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Marine Partaud",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:05:48",
+      "round": "Round of 32",
+      "date": "2016-06-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "1"
+          ],
+          "name": "Petra Martic",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Polona Hercog",
+          "country": "SI"
+        }
+      ],
+      "duration": "06:16:49",
+      "round": "Round of 32",
+      "date": "2016-06-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marina Erakovic",
+          "country": "NZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Sachia Vickery",
+          "country": "US"
+        }
+      ],
+      "duration": "01:36:32",
+      "round": "Round of 16",
+      "date": "2016-06-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Ysaline Bonaventure",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Shuai Zhang",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:19:46",
+      "round": "Round of 32",
+      "date": "2016-06-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Elitsa Kostova",
+          "country": "BG"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Polona Hercog",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:09:27",
+      "round": "Round of 16",
+      "date": "2016-06-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Ana Konjuh",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Tereza Mrdeza",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:29:13",
+      "round": "Quarter-Final",
+      "date": "2016-06-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "5"
+          ],
+          "name": "Evgeniya Rodina",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "7"
+          ],
+          "name": "Mandy Minella",
+          "country": "LU"
+        }
+      ],
+      "duration": "21:56:09",
+      "round": "Round of 32",
+      "date": "2016-06-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Kristina Kucova",
+          "country": "SK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "4"
+          ],
+          "name": "Anna Tatishvili",
+          "country": "GE"
+        }
+      ],
+      "duration": "02:23:49",
+      "round": "Round of 16",
+      "date": "2016-06-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Kristina Kucova",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Polona Hercog",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:05:58",
+      "round": "Quarter-Final",
+      "date": "2016-06-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Mandy Minella",
+          "country": "LU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "7",
+            "4"
+          ],
+          "name": "Varvara Lepchenko",
+          "country": "US"
+        }
+      ],
+      "duration": "02:23:54",
+      "round": "Round of 16",
+      "date": "2016-06-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Nao Hibino",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Ivana Jorovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:27:02",
+      "round": "Round of 16",
+      "date": "2016-06-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "7"
+          ],
+          "name": "Stefanie Voegele",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "5"
+          ],
+          "name": "Jennifer Brady",
+          "country": "US"
+        }
+      ],
+      "duration": "03:05:08",
+      "round": "Round of 16",
+      "date": "2016-06-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tereza Mrdeza",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Ysaline Bonaventure",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:20:36",
+      "round": "Round of 16",
+      "date": "2016-06-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Marina Erakovic",
+          "country": "NZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Mandy Minella",
+          "country": "LU"
+        }
+      ],
+      "duration": "01:38:36",
+      "round": "Quarter-Final",
+      "date": "2016-06-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nao Hibino",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Stefanie Voegele",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:08:32",
+      "round": "Quarter-Final",
+      "date": "2016-06-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Ana Konjuh",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Mandy Minella",
+          "country": "LU"
+        }
+      ],
+      "duration": "00:53:28",
+      "round": "Semi-Final",
+      "date": "2016-06-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Polona Hercog",
+          "country": "SI"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "2"
+          ],
+          "name": "Nao Hibino",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:01:36",
+      "round": "Semi-Final",
+      "date": "2016-06-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Polona Hercog",
+          "country": "SI"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mandy Minella",
+          "country": "LU"
+        }
+      ],
+      "duration": "01:22:59",
+      "round": "Championship",
+      "date": "2016-06-05"
+    }
+  ]
+}

@@ -1,0 +1,467 @@
+{
+  "name": "2016 Internationaux de Strasbourg, Qualification WTA (Women's Singles)",
+  "country": "France",
+  "gender": "female",
+  "location": "Strasbourg",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "4"
+          ],
+          "name": "Chloe Paquet",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Alize Lim",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:21:21",
+      "round": "Round of 32",
+      "date": "2016-05-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Harmony Tan",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alla Kudryavtseva",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:15:26",
+      "round": "Round of 32",
+      "date": "2016-05-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Jil Belen Teichmann",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Mandy Minella",
+          "country": "LU"
+        }
+      ],
+      "duration": "01:21:26",
+      "round": "Round of 32",
+      "date": "2016-05-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kailin Zhang",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Sandra Bozinovic",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:08:01",
+      "round": "Round of 32",
+      "date": "2016-05-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lauren Davis",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Maria Irigoyen",
+          "country": "AR"
+        }
+      ],
+      "duration": "00:10:32",
+      "round": "Round of 32",
+      "date": "2016-05-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Mirjana Lucic-Baroni",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "4"
+          ],
+          "name": "Lyudmyla Kichenok",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:53:14",
+      "round": "Round of 32",
+      "date": "2016-05-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Nadiya Kichenok",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Amandine Hesse",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:12:28",
+      "round": "Round of 32",
+      "date": "2016-05-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "5"
+          ],
+          "name": "Oceane Dodin",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "7"
+          ],
+          "name": "Irina Ramialison",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:56:07",
+      "round": "Round of 32",
+      "date": "2016-05-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Olga Savchuk",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Virginie Razzano",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:38:10",
+      "round": "Round of 32",
+      "date": "2016-05-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Shelby Rogers",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Lou Brouleau",
+          "country": "FR"
+        }
+      ],
+      "duration": "00:58:08",
+      "round": "Round of 32",
+      "date": "2016-05-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yafan Wang",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Tessah Andrianjafitrimo",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:26:35",
+      "round": "Round of 32",
+      "date": "2016-05-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Yifan Xu",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Yuxuan Zhang",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:14:33",
+      "round": "Round of 32",
+      "date": "2016-05-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "0"
+          ],
+          "name": "Irina Ramialison",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jil Belen Teichmann",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:23:43",
+      "round": "Round of 16",
+      "date": "2016-05-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Kailin Zhang",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alize Lim",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:24:21",
+      "round": "Round of 16",
+      "date": "2016-05-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Lauren Davis",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Amandine Hesse",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:52:46",
+      "round": "Round of 16",
+      "date": "2016-05-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mirjana Lucic-Baroni",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Virginie Razzano",
+          "country": "FR"
+        }
+      ],
+      "duration": "00:51:06",
+      "round": "Round of 16",
+      "date": "2016-05-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Shelby Rogers",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Alla Kudryavtseva",
+          "country": "RU"
+        }
+      ],
+      "duration": "02:04:43",
+      "round": "Round of 16",
+      "date": "2016-05-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Yafan Wang",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yifan Xu",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:00:20",
+      "round": "Round of 16",
+      "date": "2016-05-14"
+    }
+  ]
+}

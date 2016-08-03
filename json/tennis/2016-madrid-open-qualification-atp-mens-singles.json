@@ -1,0 +1,550 @@
+{
+  "name": "2016 Madrid Open, Qualification ATP (Men's Singles)",
+  "country": "Spain",
+  "gender": "male",
+  "location": "Madrid",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "7",
+            "6"
+          ],
+          "name": "Denis Kudla",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "2"
+          ],
+          "name": "Benjamin Becker",
+          "country": "DE"
+        }
+      ],
+      "duration": "02:09:35",
+      "round": "Round of 16",
+      "date": "2016-05-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Adrian Menendez",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "2"
+          ],
+          "name": "Adrian Mannarino",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:07:49",
+      "round": "Round of 32",
+      "date": "2016-04-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Akira Santillan",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:27:04",
+      "round": "Round of 32",
+      "date": "2016-04-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Dusan Lajovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Santiago Giraldo",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:23:50",
+      "round": "Round of 16",
+      "date": "2016-05-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Albert Montanes",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Denis Istomin",
+          "country": "UZ"
+        }
+      ],
+      "duration": "01:09:30",
+      "round": "Round of 32",
+      "date": "2016-04-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Benjamin Becker",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "0",
+            "3"
+          ],
+          "name": "Ivan Dodig",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:49:45",
+      "round": "Round of 32",
+      "date": "2016-04-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Denis Kudla",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Matthias Bachinger",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:13:16",
+      "round": "Round of 32",
+      "date": "2016-04-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Marcel Granollers",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Radek Stepanek",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:49:53",
+      "round": "Round of 16",
+      "date": "2016-05-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Dusan Lajovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Jaume Antoni Munar",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:22:24",
+      "round": "Round of 32",
+      "date": "2016-04-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Georgi Rumenov",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pierre-Hugues Herbert",
+          "country": "FR"
+        }
+      ],
+      "duration": "00:51:24",
+      "round": "Round of 32",
+      "date": "2016-04-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "5"
+          ],
+          "name": "Inigo Cervantes",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Mikhail Kukushkin",
+          "country": "KZ"
+        }
+      ],
+      "duration": "02:20:21",
+      "round": "Round of 32",
+      "date": "2016-04-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Lucas Pouille",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ernests Gulbis",
+          "country": "LV"
+        }
+      ],
+      "duration": "01:48:35",
+      "round": "Round of 32",
+      "date": "2016-04-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Marcel Granollers",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Roberto Ortega",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:32:39",
+      "round": "Round of 32",
+      "date": "2016-04-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Radek Stepanek",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Taylor Fritz",
+          "country": "US"
+        }
+      ],
+      "duration": "01:53:00",
+      "round": "Round of 32",
+      "date": "2016-04-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "7",
+            "6"
+          ],
+          "name": "Roberto Carballes",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "1"
+          ],
+          "name": "Victor Estrella",
+          "country": "DO"
+        }
+      ],
+      "duration": "02:21:41",
+      "round": "Round of 32",
+      "date": "2016-04-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Alvaro Lopez",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:21:47",
+      "round": "Round of 32",
+      "date": "2016-04-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Santiago Giraldo",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Rajeev Ram",
+          "country": "US"
+        }
+      ],
+      "duration": "01:27:09",
+      "round": "Round of 32",
+      "date": "2016-04-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Lucas Pouille",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "1"
+          ],
+          "name": "Adrian Menendez",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:54:36",
+      "round": "Round of 16",
+      "date": "2016-05-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "3"
+          ],
+          "name": "Mikhail Kukushkin",
+          "country": "KZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Denis Istomin",
+          "country": "UZ"
+        }
+      ],
+      "duration": "01:56:04",
+      "round": "Round of 16",
+      "date": "2016-05-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Pierre-Hugues Herbert",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "1"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:10:38",
+      "round": "Round of 16",
+      "date": "2016-05-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Roberto Carballes",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:38:46",
+      "round": "Round of 16",
+      "date": "2016-05-01"
+    }
+  ]
+}

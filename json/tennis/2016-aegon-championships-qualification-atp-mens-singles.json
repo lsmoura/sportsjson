@@ -1,0 +1,315 @@
+{
+  "name": "2016 AEGON Championships, Qualification ATP (Men's Singles)",
+  "country": "United Kingdom",
+  "gender": "male",
+  "location": "London",
+  "surface": "Grass",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Adrian Mannarino",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Kenny De Schepper",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:05:43",
+      "round": "Round of 16",
+      "date": "2016-06-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Alexander Ward",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Donald Young",
+          "country": "US"
+        }
+      ],
+      "duration": "01:14:31",
+      "round": "Round of 16",
+      "date": "2016-06-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Amir Weintraub",
+          "country": "IL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "7",
+            "6"
+          ],
+          "name": "Jiri Vesely",
+          "country": "CZ"
+        }
+      ],
+      "duration": "03:23:14",
+      "round": "Round of 16",
+      "date": "2016-06-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "James Duckworth",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Samuel Groth",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:08:23",
+      "round": "Round of 16",
+      "date": "2016-06-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "John Millman",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Frances Tiafoe",
+          "country": "US"
+        }
+      ],
+      "duration": "00:58:07",
+      "round": "Round of 16",
+      "date": "2016-06-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kevin Anderson",
+          "country": "ZA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Edward Corrie",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:03:25",
+      "round": "Round of 16",
+      "date": "2016-06-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tobias Kamke",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Dusan Lajovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "00:54:30",
+      "round": "Round of 16",
+      "date": "2016-06-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Vasek Pospisil",
+          "country": "CA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Stefan Kozlov",
+          "country": "US"
+        }
+      ],
+      "duration": "03:30:51",
+      "round": "Round of 16",
+      "date": "2016-06-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Adrian Mannarino",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Samuel Groth",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:53:06",
+      "round": "Quarter-Final",
+      "date": "2016-06-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Frances Tiafoe",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Donald Young",
+          "country": "US"
+        }
+      ],
+      "duration": "01:10:38",
+      "round": "Quarter-Final",
+      "date": "2016-06-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Kevin Anderson",
+          "country": "ZA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jiri Vesely",
+          "country": "CZ"
+        }
+      ],
+      "duration": "03:56:31",
+      "round": "Quarter-Final",
+      "date": "2016-06-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Vasek Pospisil",
+          "country": "CA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "3"
+          ],
+          "name": "Tobias Kamke",
+          "country": "DE"
+        }
+      ],
+      "duration": "04:09:43",
+      "round": "Quarter-Final",
+      "date": "2016-06-13"
+    }
+  ]
+}

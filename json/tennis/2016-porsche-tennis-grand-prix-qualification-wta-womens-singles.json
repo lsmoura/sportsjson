@@ -1,0 +1,721 @@
+{
+  "name": "2016 Porsche Tennis Grand Prix, Qualification WTA (Women's Singles)",
+  "country": "Germany",
+  "gender": "female",
+  "location": "Stuttgart",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Ana Konjuh",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "2"
+          ],
+          "name": "Patricia Maria Tig",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:58:48",
+      "round": "Round of 16",
+      "date": "2016-04-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Aleksandrina Naydenova",
+          "country": "BG"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sesil Karatantcheva",
+          "country": "BG"
+        }
+      ],
+      "duration": "00:56:50",
+      "round": "Round of 32",
+      "date": "2016-04-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "7"
+          ],
+          "name": "Ana Konjuh",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Georgina Garcia",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:08:20",
+      "round": "Round of 32",
+      "date": "2016-04-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Ankita Raina",
+          "country": "IN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kristyna Pliskova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "00:54:36",
+      "round": "Round of 16",
+      "date": "2016-04-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Antonia Lottner",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Lena Rueffer",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:00:06",
+      "round": "Round of 32",
+      "date": "2016-04-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Barbora Krejcikova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Louisa Chirico",
+          "country": "US"
+        }
+      ],
+      "duration": "01:25:00",
+      "round": "Round of 32",
+      "date": "2016-04-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Camila Giorgi",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Katharina Hobgarski",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:08:28",
+      "round": "Round of 32",
+      "date": "2016-04-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "1"
+          ],
+          "name": "Antonia Lottner",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Polona Hercog",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:48:30",
+      "round": "Round of 16",
+      "date": "2016-04-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Daniela Hantuchova",
+          "country": "SK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Naomi Osaka",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:16:56",
+      "round": "Round of 32",
+      "date": "2016-04-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Evgeniya Rodina",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Carina Witthoeft",
+          "country": "DE"
+        }
+      ],
+      "duration": "00:56:10",
+      "round": "Round of 32",
+      "date": "2016-04-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Isabella Shinikova",
+          "country": "BG"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kristyna Pliskova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "00:57:48",
+      "round": "Round of 32",
+      "date": "2016-04-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kaia Kanepi",
+          "country": "EE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Virginie Razzano",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:21:52",
+      "round": "Round of 32",
+      "date": "2016-04-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "2"
+          ],
+          "name": "Katerina Siniakova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Polona Hercog",
+          "country": "SI"
+        }
+      ],
+      "duration": "02:09:03",
+      "round": "Round of 32",
+      "date": "2016-04-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Katharina Gerlach",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Amandine Hesse",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:20:31",
+      "round": "Round of 32",
+      "date": "2016-04-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Laura Robson",
+          "country": "GB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Klara Koukalova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "00:57:37",
+      "round": "Round of 32",
+      "date": "2016-04-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Laura Siegemund",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Tereza Smitkova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:11:19",
+      "round": "Round of 32",
+      "date": "2016-04-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "0"
+          ],
+          "name": "Lesley Kerkhove",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Patricia Maria Tig",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:40:41",
+      "round": "Round of 32",
+      "date": "2016-04-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Madison Brengle",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Oceane Dodin",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:01:44",
+      "round": "Round of 32",
+      "date": "2016-04-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "5"
+          ],
+          "name": "Tena Lukas",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "7"
+          ],
+          "name": "Ankita Raina",
+          "country": "IN"
+        }
+      ],
+      "duration": "02:51:31",
+      "round": "Round of 32",
+      "date": "2016-04-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Camila Giorgi",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Kaia Kanepi",
+          "country": "EE"
+        }
+      ],
+      "duration": "01:13:49",
+      "round": "Round of 16",
+      "date": "2016-04-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "5"
+          ],
+          "name": "Katharina Gerlach",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Carina Witthoeft",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:18:14",
+      "round": "Round of 16",
+      "date": "2016-04-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Laura Siegemund",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Sesil Karatantcheva",
+          "country": "BG"
+        }
+      ],
+      "duration": "01:39:13",
+      "round": "Round of 16",
+      "date": "2016-04-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Louisa Chirico",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Daniela Hantuchova",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:12:22",
+      "round": "Round of 16",
+      "date": "2016-04-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Oceane Dodin",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Laura Robson",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:06:28",
+      "round": "Round of 16",
+      "date": "2016-04-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Ana Konjuh",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Carina Witthoeft",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:14:55",
+      "round": "Quarter-Final",
+      "date": "2016-04-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Camila Giorgi",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Louisa Chirico",
+          "country": "US"
+        }
+      ],
+      "duration": "01:20:57",
+      "round": "Quarter-Final",
+      "date": "2016-04-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Laura Siegemund",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Polona Hercog",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:41:23",
+      "round": "Quarter-Final",
+      "date": "2016-04-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Oceane Dodin",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Kristyna Pliskova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:19:27",
+      "round": "Quarter-Final",
+      "date": "2016-04-18"
+    }
+  ]
+}

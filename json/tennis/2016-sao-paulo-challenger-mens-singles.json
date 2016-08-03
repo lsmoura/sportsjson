@@ -1,0 +1,804 @@
+{
+  "name": "2016 Sao Paulo Challenger (Men's Singles)",
+  "country": "Brazil",
+  "gender": "male",
+  "location": "Sao Paulo",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marcelo Arevalo",
+          "country": "SV"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Ricardo Hocevar",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:04:16",
+      "round": "Round of 32",
+      "date": "2016-04-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Alexandre Tsuchiya",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Joao Souza",
+          "country": "BR"
+        }
+      ],
+      "duration": "00:57:33",
+      "round": "Round of 32",
+      "date": "2016-04-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "5"
+          ],
+          "name": "Andre Ghem",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "7"
+          ],
+          "name": "Juan Ignacio Londero",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:16:09",
+      "round": "Round of 32",
+      "date": "2016-04-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Marco Bortolotti",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "3"
+          ],
+          "name": "Juan Carlos Saez",
+          "country": "CL"
+        }
+      ],
+      "duration": "02:04:03",
+      "round": "Round of 32",
+      "date": "2016-04-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Rafael Camilo",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Emilio Gomez",
+          "country": "EC"
+        }
+      ],
+      "duration": "01:22:03",
+      "round": "Round of 32",
+      "date": "2016-04-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Carlos Eduardo Severino",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Gabriel Decamps",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:22:15",
+      "round": "Round of 32",
+      "date": "2016-04-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Gonzalo Escobar",
+          "country": "EC"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "4"
+          ],
+          "name": "Andrea Collarini",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:26:26",
+      "round": "Round of 32",
+      "date": "2016-04-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Daniel Galan",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gonzalo Lama",
+          "country": "CL"
+        }
+      ],
+      "duration": "01:05:44",
+      "round": "Round of 32",
+      "date": "2016-04-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Christian Lindell",
+          "country": "SE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Jose Pereira",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:39:22",
+      "round": "Quarter-Final",
+      "date": "2016-04-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Caio Zampieri",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "2"
+          ],
+          "name": "Andre Miele",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:49:05",
+      "round": "Round of 32",
+      "date": "2016-04-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Christian Lindell",
+          "country": "SE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Joao Pedro Sorgi",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:09:41",
+      "round": "Round of 32",
+      "date": "2016-04-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Thiago Monteiro",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Emilio Gomez",
+          "country": "EC"
+        }
+      ],
+      "duration": "01:21:26",
+      "round": "Round of 16",
+      "date": "2016-04-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Facundo Mena",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ernesto Escobedo",
+          "country": "US"
+        }
+      ],
+      "duration": "00:48:48",
+      "round": "Round of 32",
+      "date": "2016-04-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "0"
+          ],
+          "name": "Federico Coria",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "0"
+          ],
+          "name": "Guilherme Clezar",
+          "country": "BR"
+        }
+      ],
+      "duration": "00:34:31",
+      "round": "Round of 32",
+      "date": "2016-04-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Felipe Alves",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jose Pereira",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:10:08",
+      "round": "Round of 32",
+      "date": "2016-04-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "7"
+          ],
+          "name": "Ernesto Escobedo",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "5"
+          ],
+          "name": "Joao Souza",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:10:12",
+      "round": "Round of 16",
+      "date": "2016-04-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Juan Ignacio Galarza",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Maximiliano Estevez",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:39:23",
+      "round": "Round of 32",
+      "date": "2016-04-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Carlos Eduardo Severino",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gonzalo Lama",
+          "country": "CL"
+        }
+      ],
+      "duration": "01:04:15",
+      "round": "Round of 16",
+      "date": "2016-04-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Marcelo Arevalo",
+          "country": "SV"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Caio Zampieri",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:00:05",
+      "round": "Round of 16",
+      "date": "2016-04-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Wilson Leite",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marcelo Zormann Da Silva",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:26:38",
+      "round": "Round of 32",
+      "date": "2016-04-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Juan Ignacio Londero",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Gonzalo Escobar",
+          "country": "EC"
+        }
+      ],
+      "duration": "01:13:50",
+      "round": "Round of 16",
+      "date": "2016-04-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Thiago Monteiro",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Agustin Velotti",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:35:07",
+      "round": "Round of 32",
+      "date": "2016-04-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "5"
+          ],
+          "name": "Marco Bortolotti",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "6",
+            "2"
+          ],
+          "name": "Maximiliano Estevez",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:13:29",
+      "round": "Round of 16",
+      "date": "2016-04-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Christian Lindell",
+          "country": "SE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Marcelo Zormann Da Silva",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:38:30",
+      "round": "Round of 16",
+      "date": "2016-04-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jose Pereira",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Federico Coria",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:15:57",
+      "round": "Round of 16",
+      "date": "2016-04-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "5"
+          ],
+          "name": "Juan Ignacio Londero",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "7",
+            "7"
+          ],
+          "name": "Gonzalo Lama",
+          "country": "CL"
+        }
+      ],
+      "duration": "02:16:23",
+      "round": "Quarter-Final",
+      "date": "2016-04-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Marcelo Arevalo",
+          "country": "SV"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Ernesto Escobedo",
+          "country": "US"
+        }
+      ],
+      "duration": "01:20:50",
+      "round": "Quarter-Final",
+      "date": "2016-04-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Thiago Monteiro",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "1"
+          ],
+          "name": "Marco Bortolotti",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:40:54",
+      "round": "Quarter-Final",
+      "date": "2016-04-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "3"
+          ],
+          "name": "Christian Lindell",
+          "country": "SE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Ernesto Escobedo",
+          "country": "US"
+        }
+      ],
+      "duration": "01:55:44",
+      "round": "Semi-Final",
+      "date": "2016-04-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Gonzalo Lama",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "2"
+          ],
+          "name": "Thiago Monteiro",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:08:30",
+      "round": "Semi-Final",
+      "date": "2016-04-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gonzalo Lama",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Ernesto Escobedo",
+          "country": "US"
+        }
+      ],
+      "duration": "00:48:48",
+      "round": "Championship",
+      "date": "2016-04-24"
+    }
+  ]
+}

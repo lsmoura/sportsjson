@@ -1,0 +1,806 @@
+{
+  "name": "2016 Rome Challenger (Men's Singles)",
+  "country": "Italy",
+  "gender": "male",
+  "location": "Rome",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Andrea Pellegrino",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Frederico Ferreira Silva",
+          "country": "PT"
+        }
+      ],
+      "duration": "01:41:32",
+      "round": "Round of 16",
+      "date": "2016-05-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "1"
+          ],
+          "name": "Axel Michon",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Kevin Krawietz",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:56:26",
+      "round": "Round of 32",
+      "date": "2016-05-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Frederico Ferreira Silva",
+          "country": "PT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Ivan Nedelko",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:01:48",
+      "round": "Round of 32",
+      "date": "2016-05-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "0",
+            "3"
+          ],
+          "name": "Adrian Ungur",
+          "country": "RO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Filip Krajinovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:32:01",
+      "round": "Round of 32",
+      "date": "2016-05-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Zhe Li",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Filippo Volandri",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:03:07",
+      "round": "Round of 32",
+      "date": "2016-05-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Juergen Zopp",
+          "country": "EE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kyle Edmund",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:24:54",
+      "round": "Round of 32",
+      "date": "2016-05-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "1"
+          ],
+          "name": "Hiroki Moriya",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Sumit Nagal",
+          "country": "IN"
+        }
+      ],
+      "duration": "20:33:54",
+      "round": "Round of 32",
+      "date": "2016-05-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "4"
+          ],
+          "name": "Horacio Zeballos",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Andrea Pellegrino",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:17:49",
+      "round": "Round of 32",
+      "date": "2016-05-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Jiri Vesely",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Marsel Ilhan",
+          "country": "TR"
+        }
+      ],
+      "duration": "01:11:28",
+      "round": "Round of 32",
+      "date": "2016-05-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Jordan Thompson",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marco Trungelliti",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:35:43",
+      "round": "Round of 32",
+      "date": "2016-05-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Kenny De Schepper",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Gianluca Naso",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:19:15",
+      "round": "Round of 32",
+      "date": "2016-05-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Kenny De Schepper",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Blaz Rola",
+          "country": "SI"
+        }
+      ],
+      "duration": "00:49:22",
+      "round": "Round of 16",
+      "date": "2016-05-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Luke Saville",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Blaz Rola",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:06:28",
+      "round": "Round of 32",
+      "date": "2016-05-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tobias Kamke",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Yan Bai",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:10:56",
+      "round": "Round of 32",
+      "date": "2016-05-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Filippo Volandri",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Marius Copil",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:22:32",
+      "round": "Round of 16",
+      "date": "2016-05-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Jiri Vesely",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Stefano Napolitano",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:29:38",
+      "round": "Round of 16",
+      "date": "2016-05-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Kevin Krawietz",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kyle Edmund",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:19:06",
+      "round": "Round of 16",
+      "date": "2016-05-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marco Trungelliti",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Tommy Paul",
+          "country": "US"
+        }
+      ],
+      "duration": "01:11:43",
+      "round": "Round of 16",
+      "date": "2016-05-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "6"
+          ],
+          "name": "Marius Copil",
+          "country": "RO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "4"
+          ],
+          "name": "Adam Pavlasek",
+          "country": "CZ"
+        }
+      ],
+      "duration": "20:24:27",
+      "round": "Round of 32",
+      "date": "2016-05-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "2"
+          ],
+          "name": "Sumit Nagal",
+          "country": "IN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Filip Krajinovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "02:01:28",
+      "round": "Round of 16",
+      "date": "2016-05-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "7",
+            "4"
+          ],
+          "name": "Marton Fucsovics",
+          "country": "HU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Tommy Paul",
+          "country": "US"
+        }
+      ],
+      "duration": "19:52:00",
+      "round": "Round of 32",
+      "date": "2016-05-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Yasutaka Uchiyama",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Vincent Millot",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:11:28",
+      "round": "Round of 32",
+      "date": "2016-05-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Stefano Napolitano",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "2"
+          ],
+          "name": "Federico Bonacia",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:06:27",
+      "round": "Round of 32",
+      "date": "2016-05-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Tobias Kamke",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "1",
+            "4"
+          ],
+          "name": "Vincent Millot",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:55:37",
+      "round": "Round of 16",
+      "date": "2016-05-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "0"
+          ],
+          "name": "Blaz Rola",
+          "country": "SI"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Kyle Edmund",
+          "country": "GB"
+        }
+      ],
+      "duration": "05:42:32",
+      "round": "Quarter-Final",
+      "date": "2016-05-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Jiri Vesely",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "0"
+          ],
+          "name": "Tobias Kamke",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:15:00",
+      "round": "Quarter-Final",
+      "date": "2016-05-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Marco Trungelliti",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Filippo Volandri",
+          "country": "IT"
+        }
+      ],
+      "duration": "05:37:08",
+      "round": "Quarter-Final",
+      "date": "2016-05-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "4"
+          ],
+          "name": "Andrea Pellegrino",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Filip Krajinovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:41:41",
+      "round": "Quarter-Final",
+      "date": "2016-05-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Filippo Volandri",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kyle Edmund",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:10:51",
+      "round": "Semi-Final",
+      "date": "2016-05-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Jiri Vesely",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Filip Krajinovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:36:28",
+      "round": "Semi-Final",
+      "date": "2016-05-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "0"
+          ],
+          "name": "Filip Krajinovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Kyle Edmund",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:26:36",
+      "round": "Championship",
+      "date": "2016-05-07"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "surface": "Hard",
+  "startdate": "2016-08-01",
+  "enddate": "2016-08-07",
+  "name": "2016 NanChang Open WTA (Women's Singles)",
+  "country": "China",
+  "location": "NanChang",
+  "gender": "female",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Elitsa Kostova",
+          "country": "BG"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Misa Eguchi",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:06:16",
+      "round": "Round of 32",
+      "date": "2016-08-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Kai-Chen Chang",
+          "country": "TW"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "3"
+          ],
+          "name": "Yuxuan Zhang",
+          "country": "CN"
+        }
+      ],
+      "duration": "02:43:10",
+      "round": "Round of 32",
+      "date": "2016-08-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Kailin Zhang",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "3"
+          ],
+          "name": "Ivana Jorovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "02:08:22",
+      "round": "Round of 32",
+      "date": "2016-08-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Marina Melnikova",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yingying Duan",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:14:10",
+      "round": "Round of 32",
+      "date": "2016-08-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Na-Lae Han",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Risa Ozaki",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:19:06",
+      "round": "Round of 32",
+      "date": "2016-08-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Peangtarn Plipuech",
+          "country": "TH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nicha Lertpitaksinchai",
+          "country": "TH"
+        }
+      ],
+      "duration": "01:11:43",
+      "round": "Round of 32",
+      "date": "2016-08-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Su-Jeong Jang",
+          "country": "KR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Wushuang Zheng",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:29:41",
+      "round": "Round of 32",
+      "date": "2016-08-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "7"
+          ],
+          "name": "Xinyun Han",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "5"
+          ],
+          "name": "Junri Namigata",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:36:10",
+      "round": "Round of 32",
+      "date": "2016-08-01"
+    }
+  ]
+}

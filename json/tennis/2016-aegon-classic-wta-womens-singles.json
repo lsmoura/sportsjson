@@ -1,0 +1,810 @@
+{
+  "name": "2016 Aegon Classic WTA (Women's Singles)",
+  "country": "United Kingdom",
+  "gender": "female",
+  "location": "Birmingham",
+  "surface": "Grass",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Tamira Paszek",
+          "country": "AT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "4"
+          ],
+          "name": "Tara Moore",
+          "country": "GB"
+        }
+      ],
+      "duration": "02:29:34",
+      "round": "Round of 32",
+      "date": "2016-06-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "7"
+          ],
+          "name": "Carla Suarez Navarro",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Andrea Petkovic",
+          "country": "DE"
+        }
+      ],
+      "duration": "21:11:43",
+      "round": "Round of 16",
+      "date": "2016-06-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Madison Keys",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Timea Babos",
+          "country": "HU"
+        }
+      ],
+      "duration": "01:25:58",
+      "round": "Round of 32",
+      "date": "2016-06-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andrea Petkovic",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Magda Linette",
+          "country": "PL"
+        }
+      ],
+      "duration": "05:15:29",
+      "round": "Round of 32",
+      "date": "2016-06-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tsvetana Pironkova",
+          "country": "BG"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Lesia Tsurenko",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:04:50",
+      "round": "Round of 32",
+      "date": "2016-06-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Camila Giorgi",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Heather Watson",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:25:54",
+      "round": "Round of 32",
+      "date": "2016-06-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Anastasia Pavlyuchenkova",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Jelena Ostapenko",
+          "country": "LV"
+        }
+      ],
+      "duration": "01:24:00",
+      "round": "Round of 32",
+      "date": "2016-06-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Lucie Safarova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Petra Kvitova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:08:51",
+      "round": "Round of 32",
+      "date": "2016-06-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Shuai Peng",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Angelique Kerber",
+          "country": "DE"
+        }
+      ],
+      "duration": "05:00:18",
+      "round": "Round of 32",
+      "date": "2016-06-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Barbora Strycova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Karolina Pliskova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "05:49:21",
+      "round": "Round of 32",
+      "date": "2016-06-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Belinda Bencic",
+          "country": "CH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Irina Camelia Begu",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:19:37",
+      "round": "Round of 32",
+      "date": "2016-06-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "7"
+          ],
+          "name": "Carla Suarez Navarro",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "5"
+          ],
+          "name": "Elina Svitolina",
+          "country": "UA"
+        }
+      ],
+      "duration": "22:36:49",
+      "round": "Round of 32",
+      "date": "2016-06-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Christina McHale",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "3"
+          ],
+          "name": "Katerina Siniakova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "22:34:31",
+      "round": "Round of 32",
+      "date": "2016-06-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Daria Gavrilova",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "3"
+          ],
+          "name": "Naomi Broady",
+          "country": "GB"
+        }
+      ],
+      "duration": "20:41:46",
+      "round": "Round of 32",
+      "date": "2016-06-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Misaki Doi",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Johanna Konta",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:24:26",
+      "round": "Round of 32",
+      "date": "2016-06-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "3"
+          ],
+          "name": "Agnieszka Radwanska",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Coco Vandeweghe",
+          "country": "US"
+        }
+      ],
+      "duration": "00:48:14",
+      "round": "Round of 32",
+      "date": "2016-06-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "7"
+          ],
+          "name": "Carla Suarez Navarro",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "5"
+          ],
+          "name": "Angelique Kerber",
+          "country": "DE"
+        }
+      ],
+      "duration": "02:00:01",
+      "round": "Quarter-Final",
+      "date": "2016-06-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "2"
+          ],
+          "name": "Caroline Wozniacki",
+          "country": "DK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Yanina Wickmayer",
+          "country": "BE"
+        }
+      ],
+      "duration": "21:01:49",
+      "round": "Round of 32",
+      "date": "2016-06-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Irina Camelia Begu",
+          "country": "RO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tsvetana Pironkova",
+          "country": "BG"
+        }
+      ],
+      "duration": "01:09:19",
+      "round": "Round of 16",
+      "date": "2016-06-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Madison Keys",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Tamira Paszek",
+          "country": "AT"
+        }
+      ],
+      "duration": "00:57:14",
+      "round": "Round of 16",
+      "date": "2016-06-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Jelena Ostapenko",
+          "country": "LV"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Petra Kvitova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:51:53",
+      "round": "Round of 16",
+      "date": "2016-06-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Coco Vandeweghe",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Yanina Wickmayer",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:00:36",
+      "round": "Quarter-Final",
+      "date": "2016-06-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Coco Vandeweghe",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Christina McHale",
+          "country": "US"
+        }
+      ],
+      "duration": "01:27:36",
+      "round": "Round of 16",
+      "date": "2016-06-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "2"
+          ],
+          "name": "Daria Gavrilova",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Angelique Kerber",
+          "country": "DE"
+        }
+      ],
+      "duration": "20:10:45",
+      "round": "Round of 16",
+      "date": "2016-06-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Heather Watson",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Barbora Strycova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:39:24",
+      "round": "Round of 16",
+      "date": "2016-06-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Madison Keys",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "2"
+          ],
+          "name": "Jelena Ostapenko",
+          "country": "LV"
+        }
+      ],
+      "duration": "01:59:11",
+      "round": "Quarter-Final",
+      "date": "2016-06-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Tsvetana Pironkova",
+          "country": "BG"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Barbora Strycova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:33:14",
+      "round": "Quarter-Final",
+      "date": "2016-06-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yanina Wickmayer",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Johanna Konta",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:17:14",
+      "round": "Round of 16",
+      "date": "2016-06-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "3"
+          ],
+          "name": "Coco Vandeweghe",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Barbora Strycova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:09:50",
+      "round": "Semi-Final",
+      "date": "2016-06-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "7"
+          ],
+          "name": "Madison Keys",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Carla Suarez Navarro",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:42:05",
+      "round": "Semi-Final",
+      "date": "2016-06-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Barbora Strycova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Madison Keys",
+          "country": "US"
+        }
+      ],
+      "duration": "01:20:05",
+      "round": "Championship",
+      "date": "2016-06-19"
+    }
+  ]
+}

@@ -1,0 +1,800 @@
+{
+  "surface": "Clay",
+  "startdate": "2016-07-25",
+  "enddate": "2016-07-31",
+  "name": "2016 Prague II Challenger (Men's Singles)",
+  "country": "Czech Republic",
+  "location": "Prague",
+  "gender": "male",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Henri Laaksonen",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Jan Hernych",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:16:59",
+      "round": "Round of 16",
+      "date": "2016-07-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Blaz Rola",
+          "country": "SI"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Jozef Kovalik",
+          "country": "SK"
+        }
+      ],
+      "duration": "02:08:03",
+      "round": "Round of 16",
+      "date": "2016-07-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Henri Laaksonen",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Marek Michalicka",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:26:12",
+      "round": "Round of 32",
+      "date": "2016-07-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Frederico Ferreira Silva",
+          "country": "PT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Jozef Kovalik",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:50:41",
+      "round": "Round of 32",
+      "date": "2016-07-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6"
+          ],
+          "name": "Jan Mertl",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Santiago Giraldo",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:39:58",
+      "round": "Round of 32",
+      "date": "2016-07-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "David Simunek",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Vaclav Safranek",
+          "country": "CZ"
+        }
+      ],
+      "duration": "00:53:04",
+      "round": "Round of 32",
+      "date": "2016-07-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Hubert Hurkacz",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "Jan Satral",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:02:00",
+      "round": "Round of 32",
+      "date": "2016-07-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "4"
+          ],
+          "name": "Vadym Ursu",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Aleksandr Nedovyesov",
+          "country": "KZ"
+        }
+      ],
+      "duration": "02:19:24",
+      "round": "Round of 32",
+      "date": "2016-07-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Ivan Nedelko",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Zdenek Kolar",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:39:34",
+      "round": "Round of 32",
+      "date": "2016-07-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Lukas Vejvara",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniel Gimeno",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:09:46",
+      "round": "Round of 32",
+      "date": "2016-07-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Uladzimir Ignatik",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Igor Zelenay",
+          "country": "SK"
+        }
+      ],
+      "duration": "00:55:14",
+      "round": "Round of 32",
+      "date": "2016-07-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Matej Vocel",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Radu Albot",
+          "country": "MD"
+        }
+      ],
+      "duration": "01:06:30",
+      "round": "Round of 32",
+      "date": "2016-07-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Norbert Gombos",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jan Hernych",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:10:47",
+      "round": "Round of 32",
+      "date": "2016-07-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Blaz Rola",
+          "country": "SI"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Dennis Novak",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:17:55",
+      "round": "Round of 32",
+      "date": "2016-07-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Facundo Arguello",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Lorenzo Giustino",
+          "country": "IT"
+        }
+      ],
+      "duration": "21:47:40",
+      "round": "Round of 32",
+      "date": "2016-07-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Andre Ghem",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "2"
+          ],
+          "name": "Axel Michon",
+          "country": "FR"
+        }
+      ],
+      "duration": "22:05:55",
+      "round": "Round of 32",
+      "date": "2016-07-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Martin Klizan",
+          "country": "SK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Marsel Ilhan",
+          "country": "TR"
+        }
+      ],
+      "duration": "01:29:55",
+      "round": "Round of 32",
+      "date": "2016-07-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Nikoloz Basilashvili",
+          "country": "GE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Jordi Samper",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:11:59",
+      "round": "Round of 32",
+      "date": "2016-07-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Vaclav Safranek",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Radu Albot",
+          "country": "MD"
+        }
+      ],
+      "duration": "01:22:14",
+      "round": "Round of 16",
+      "date": "2016-07-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Henri Laaksonen",
+          "country": "CH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Radu Albot",
+          "country": "MD"
+        }
+      ],
+      "duration": "01:08:04",
+      "round": "Quarter-Final",
+      "date": "2016-07-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Hubert Hurkacz",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Santiago Giraldo",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:01:38",
+      "round": "Round of 16",
+      "date": "2016-07-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Lorenzo Giustino",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Uladzimir Ignatik",
+          "country": "BY"
+        }
+      ],
+      "duration": "02:39:27",
+      "round": "Round of 16",
+      "date": "2016-07-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Martin Klizan",
+          "country": "SK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Aleksandr Nedovyesov",
+          "country": "KZ"
+        }
+      ],
+      "duration": "01:03:54",
+      "round": "Round of 16",
+      "date": "2016-07-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nikoloz Basilashvili",
+          "country": "GE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Andre Ghem",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:13:35",
+      "round": "Round of 16",
+      "date": "2016-07-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Zdenek Kolar",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Daniel Gimeno",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:09:37",
+      "round": "Round of 16",
+      "date": "2016-07-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "5"
+          ],
+          "name": "Martin Klizan",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Santiago Giraldo",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:15:23",
+      "round": "Quarter-Final",
+      "date": "2016-07-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Nikoloz Basilashvili",
+          "country": "GE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "7"
+          ],
+          "name": "Zdenek Kolar",
+          "country": "CZ"
+        }
+      ],
+      "duration": "03:07:34",
+      "round": "Quarter-Final",
+      "date": "2016-07-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Uladzimir Ignatik",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Blaz Rola",
+          "country": "SI"
+        }
+      ],
+      "duration": "02:22:02",
+      "round": "Quarter-Final",
+      "date": "2016-07-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Santiago Giraldo",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Zdenek Kolar",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:11:17",
+      "round": "Semi-Final",
+      "date": "2016-07-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Uladzimir Ignatik",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Radu Albot",
+          "country": "MD"
+        }
+      ],
+      "duration": "01:00:27",
+      "round": "Semi-Final",
+      "date": "2016-07-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "7"
+          ],
+          "name": "Santiago Giraldo",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Uladzimir Ignatik",
+          "country": "BY"
+        }
+      ],
+      "duration": "02:42:23",
+      "round": "Championship",
+      "date": "2016-07-31"
+    }
+  ]
+}

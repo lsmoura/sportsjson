@@ -1,0 +1,428 @@
+{
+  "surface": "Unknown",
+  "startdate": "2016-03-04",
+  "enddate": "2016-09-18",
+  "name": "2016 Davis Cup Group 2 - Europe/Africa Davis Cup 3 (Men's Singles)",
+  "country": "",
+  "location": "Unknown",
+  "gender": "male",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Damir Dzumhur",
+          "country": "BA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "1",
+            "6",
+            "1"
+          ],
+          "name": "Cem Ilkel",
+          "country": "TR"
+        }
+      ],
+      "duration": "02:41:35",
+      "round": "Quarter-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Frederik Loechte Nielsen",
+          "country": "DK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3",
+            "6"
+          ],
+          "name": "Harri Helioevaara",
+          "country": "FI"
+        }
+      ],
+      "duration": "01:53:58",
+      "round": "Quarter-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Ilya Ivashka",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2",
+            "5"
+          ],
+          "name": "Martins Podzus",
+          "country": "LV"
+        }
+      ],
+      "duration": "02:00:02",
+      "round": "Quarter-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Laurynas Grigelis",
+          "country": "LT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "3",
+            "2"
+          ],
+          "name": "Tucker Vorster",
+          "country": "ZA"
+        }
+      ],
+      "duration": "05:29:36",
+      "round": "Quarter-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Lukas Mugevicius",
+          "country": "LT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "0",
+            "4"
+          ],
+          "name": "Lloyd George Harris",
+          "country": "ZA"
+        }
+      ],
+      "duration": "02:43:43",
+      "round": "Quarter-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "2"
+          ],
+          "name": "Mikael Torpegaard",
+          "country": "DK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7",
+            "6"
+          ],
+          "name": "Jarkko Nieminen",
+          "country": "FI"
+        }
+      ],
+      "duration": "01:57:47",
+      "round": "Quarter-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "6",
+            "3",
+            "5"
+          ],
+          "name": "Mirza Basic",
+          "country": "BA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "5",
+            "2",
+            "6",
+            "7"
+          ],
+          "name": "Marsel Ilhan",
+          "country": "TR"
+        }
+      ],
+      "duration": "03:36:55",
+      "round": "Quarter-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Yaraslau Shyla",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1",
+            "3"
+          ],
+          "name": "Mikelis Libietis",
+          "country": "LV"
+        }
+      ],
+      "duration": "01:26:54",
+      "round": "Quarter-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Damir Dzumhur",
+          "country": "BA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "0",
+            "6"
+          ],
+          "name": "Marsel Ilhan",
+          "country": "TR"
+        }
+      ],
+      "duration": "02:00:00",
+      "round": "Quarter-Final",
+      "date": "2016-07-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Frederik Loechte Nielsen",
+          "country": "DK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6",
+            "7"
+          ],
+          "name": "Jarkko Nieminen",
+          "country": "FI"
+        }
+      ],
+      "duration": "02:19:53",
+      "round": "Quarter-Final",
+      "date": "2016-07-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Ilya Ivashka",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5",
+            "0"
+          ],
+          "name": "Janis Podzus",
+          "country": "LV"
+        }
+      ],
+      "duration": "01:44:39",
+      "round": "Quarter-Final",
+      "date": "2016-07-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Laurynas Grigelis",
+          "country": "LT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1",
+            "3"
+          ],
+          "name": "Lloyd George Harris",
+          "country": "ZA"
+        }
+      ],
+      "duration": "01:42:40",
+      "round": "Quarter-Final",
+      "date": "2016-07-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "3",
+            "7",
+            "6",
+            "7"
+          ],
+          "name": "Mikael Torpegaard",
+          "country": "DK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "6",
+            "1",
+            "5"
+          ],
+          "name": "Harri Helioevaara",
+          "country": "FI"
+        }
+      ],
+      "duration": "03:02:53",
+      "round": "Quarter-Final",
+      "date": "2016-07-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Tadas Babelis",
+          "country": "LT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tucker Vorster",
+          "country": "ZA"
+        }
+      ],
+      "duration": "01:16:36",
+      "round": "Quarter-Final",
+      "date": "2016-07-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Yaraslau Shyla",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Rudolfs Mednis",
+          "country": "LV"
+        }
+      ],
+      "duration": "01:28:41",
+      "round": "Quarter-Final",
+      "date": "2016-07-17"
+    }
+  ]
+}

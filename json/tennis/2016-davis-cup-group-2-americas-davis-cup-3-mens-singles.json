@@ -1,0 +1,231 @@
+{
+  "surface": "Unknown",
+  "startdate": "2016-03-04",
+  "enddate": "2016-09-18",
+  "name": "2016 Davis Cup Group 2 - Americas Davis Cup 3 (Men's Singles)",
+  "country": "",
+  "location": "Unknown",
+  "gender": "male",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0",
+            "1"
+          ],
+          "name": "Alejandro Gonzalez",
+          "country": "SV"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Ricardo Rodriguez",
+          "country": "VE"
+        }
+      ],
+      "duration": "01:18:31",
+      "round": "Semi-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Marcelo Arevalo",
+          "country": "SV"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1",
+            "5"
+          ],
+          "name": "Jordi Munoz",
+          "country": "VE"
+        }
+      ],
+      "duration": "01:48:02",
+      "round": "Semi-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Mauricio Echazu",
+          "country": "PE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "4",
+            "6"
+          ],
+          "name": "Luis Patino",
+          "country": "MX"
+        }
+      ],
+      "duration": "03:44:30",
+      "round": "Semi-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Nicolas Alvarez",
+          "country": "PE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4",
+            "3"
+          ],
+          "name": "Lucas Gomez",
+          "country": "MX"
+        }
+      ],
+      "duration": "01:55:49",
+      "round": "Semi-Final",
+      "date": "2016-07-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Marcelo Arevalo",
+          "country": "SV"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2",
+            "4"
+          ],
+          "name": "Ricardo Rodriguez",
+          "country": "VE"
+        }
+      ],
+      "duration": "01:26:17",
+      "round": "Semi-Final",
+      "date": "2016-07-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Mauricio Echazu",
+          "country": "PE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4",
+            "3"
+          ],
+          "name": "Lucas Gomez",
+          "country": "MX"
+        }
+      ],
+      "duration": "02:06:23",
+      "round": "Semi-Final",
+      "date": "2016-07-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6",
+            "0"
+          ],
+          "name": "Nicolas Alvarez",
+          "country": "PE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "3",
+            "0"
+          ],
+          "name": "Luis Patino",
+          "country": "MX"
+        }
+      ],
+      "duration": "02:53:39",
+      "round": "Semi-Final",
+      "date": "2016-07-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "5",
+            "5"
+          ],
+          "name": "Rafael Arevalo",
+          "country": "SV"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "7"
+          ],
+          "name": "Luis David Martinez",
+          "country": "VE"
+        }
+      ],
+      "duration": "01:43:49",
+      "round": "Semi-Final",
+      "date": "2016-07-17"
+    }
+  ]
+}

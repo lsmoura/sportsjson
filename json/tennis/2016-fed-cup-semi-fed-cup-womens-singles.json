@@ -1,0 +1,251 @@
+{
+  "name": "2016 Fed Cup semi Fed Cup (Women's Singles)",
+  "country": "",
+  "gender": "female",
+  "location": "Unknown",
+  "surface": "Unknown",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Caroline Garcia",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kiki Bertens",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:11:42",
+      "round": "Semi-Final",
+      "date": "2016-04-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [],
+          "name": "France",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [],
+          "name": "Netherlands",
+          "country": "NL"
+        }
+      ],
+      "duration": "05:13:15",
+      "round": "Semi-Final",
+      "date": "2016-04-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kristina Mladenovic",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Richel Hogenkamp",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:22:19",
+      "round": "Semi-Final",
+      "date": "2016-04-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [],
+          "name": "Switzerland",
+          "country": "CH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [],
+          "name": "Czech Republic",
+          "country": "CZ"
+        }
+      ],
+      "duration": "05:08:13",
+      "round": "Semi-Final",
+      "date": "2016-04-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "2"
+          ],
+          "name": "Timea Bacsinszky",
+          "country": "CH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Barbora Zahlavova Strycova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:05:30",
+      "round": "Semi-Final",
+      "date": "2016-04-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Viktorija Golubic",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "4"
+          ],
+          "name": "Karolina Pliskova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:16:51",
+      "round": "Semi-Final",
+      "date": "2016-04-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Caroline Garcia",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Arantxa Rus",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:23:59",
+      "round": "Semi-Final",
+      "date": "2016-04-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Kristina Mladenovic",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Kiki Bertens",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:37:51",
+      "round": "Semi-Final",
+      "date": "2016-04-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Timea Bacsinszky",
+          "country": "CH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Karolina Pliskova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:14:37",
+      "round": "Semi-Final",
+      "date": "2016-04-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Viktorija Golubic",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "1"
+          ],
+          "name": "Barbora Zahlavova Strycova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:33:47",
+      "round": "Semi-Final",
+      "date": "2016-04-17"
+    }
+  ]
+}

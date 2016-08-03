@@ -1,0 +1,419 @@
+{
+  "surface": "Hard",
+  "startdate": "2016-07-30",
+  "enddate": "2016-08-01",
+  "name": "2016 Brasil Tennis Cup, Qualification WTA (Women's Singles)",
+  "country": "Brazil",
+  "location": "Florianopolis",
+  "gender": "female",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Flavia Guimaraes Bueno",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Emily Webley-Smith",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:26:47",
+      "round": "Round of 32",
+      "date": "2016-07-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ingrid Gamarra Martins",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Guadalupe Perez",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:10:23",
+      "round": "Round of 32",
+      "date": "2016-07-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Lara Teodoro De Oliveira",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nathaly Kurata",
+          "country": "BR"
+        }
+      ],
+      "duration": "00:38:50",
+      "round": "Round of 32",
+      "date": "2016-07-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lyudmyla Kichenok",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Luisa Stefani",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:04:11",
+      "round": "Round of 32",
+      "date": "2016-07-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Martina Capurro",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Harmony Tan",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:33:35",
+      "round": "Round of 32",
+      "date": "2016-07-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Nadia Podoroska",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Carolina M. Alves",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:28:46",
+      "round": "Round of 32",
+      "date": "2016-07-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Nathalia Rossi",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nadiya Kichenok",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:12:32",
+      "round": "Round of 32",
+      "date": "2016-07-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "1"
+          ],
+          "name": "Nika Kukharchuk",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Laura Pigossi",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:47:15",
+      "round": "Round of 32",
+      "date": "2016-07-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Renata Zarazua",
+          "country": "MX"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "0"
+          ],
+          "name": "Fiona Codino",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:18:26",
+      "round": "Round of 32",
+      "date": "2016-07-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Valeria Solovieva",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "0"
+          ],
+          "name": "Marcela Bueno",
+          "country": "BR"
+        }
+      ],
+      "duration": "00:49:24",
+      "round": "Round of 32",
+      "date": "2016-07-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Lyudmyla Kichenok",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nadiya Kichenok",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:09:27",
+      "round": "Round of 16",
+      "date": "2016-07-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "7"
+          ],
+          "name": "Montserrat Gonzalez",
+          "country": "PY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "5"
+          ],
+          "name": "Martina Capurro",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:28:53",
+      "round": "Round of 16",
+      "date": "2016-07-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nadia Podoroska",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Emily Webley-Smith",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:09:32",
+      "round": "Round of 16",
+      "date": "2016-07-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Reka-Luca Jani",
+          "country": "HU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "1"
+          ],
+          "name": "Laura Pigossi",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:03:07",
+      "round": "Round of 16",
+      "date": "2016-07-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Renata Zarazua",
+          "country": "MX"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "4"
+          ],
+          "name": "Ingrid Gamarra Martins",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:12:23",
+      "round": "Round of 16",
+      "date": "2016-07-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Valeria Solovieva",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Nathaly Kurata",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:25:48",
+      "round": "Round of 16",
+      "date": "2016-07-31"
+    }
+  ]
+}

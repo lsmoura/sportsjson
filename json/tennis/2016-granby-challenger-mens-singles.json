@@ -1,0 +1,90 @@
+{
+  "surface": "Hard",
+  "startdate": "2016-08-01",
+  "enddate": "2016-08-07",
+  "name": "2016 Granby Challenger (Men's Singles)",
+  "country": "Canada",
+  "location": "Granby",
+  "gender": "male",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "2"
+          ],
+          "name": "Guilherme Clezar",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "0",
+            "0"
+          ],
+          "name": "Eduardo Struvay",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:17:08",
+      "round": "Round of 32",
+      "date": "2016-08-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Saketh Myneni",
+          "country": "IN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andrey Golubev",
+          "country": "KZ"
+        }
+      ],
+      "duration": "01:05:12",
+      "round": "Round of 32",
+      "date": "2016-08-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Sekou Bangoura",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "3"
+          ],
+          "name": "Felix Auger Aliassime",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:52:21",
+      "round": "Round of 32",
+      "date": "2016-08-01"
+    }
+  ]
+}

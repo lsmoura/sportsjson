@@ -1,0 +1,109 @@
+{
+  "name": "2016 BNP Paribas Katowice Open, Qualification WTA (Women's Singles)",
+  "country": "Poland",
+  "gender": "female",
+  "location": "Katowice",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ekaterina Alexandrova",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Valeriya Strakhova",
+          "country": "UA"
+        }
+      ],
+      "duration": "00:56:12",
+      "round": "Quarter-Final",
+      "date": "2016-04-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Isabella Shinikova",
+          "country": "BG"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Jesika Maleckova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:02:10",
+      "round": "Quarter-Final",
+      "date": "2016-04-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Kateryna Kozlova",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniela Hantuchova",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:30:10",
+      "round": "Quarter-Final",
+      "date": "2016-04-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Viktorija Golubic",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Basak Eraydin",
+          "country": "TR"
+        }
+      ],
+      "duration": "01:05:20",
+      "round": "Quarter-Final",
+      "date": "2016-04-04"
+    }
+  ]
+}
