@@ -1,0 +1,435 @@
+{
+  "name": "2015 Genova, Qualification Challenger (Men's Singles)",
+  "country": "Italy",
+  "gender": "male",
+  "location": "Genova",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Alessandro Ceppellini",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Matteo Siccardi",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:12:43",
+      "round": "Round of 32",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Alessandro Luisi",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Adelchi Virgili",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:42:02",
+      "round": "Round of 16",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Alessandro Luisi",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Dino Marcan",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:20:34",
+      "round": "Round of 32",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Antonio Sancic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Viktor Galovic",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:07:20",
+      "round": "Round of 16",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Antonio Sancic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Valentin Vacherot",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:02:49",
+      "round": "Round of 32",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Artem Smirnov",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Matteo Siccardi",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:51:05",
+      "round": "Round of 16",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Carlos Gomez Herrera",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sadio Doumbia",
+          "country": "FR"
+        }
+      ],
+      "duration": "04:00:47",
+      "round": "Round of 16",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "0"
+          ],
+          "name": "Enrico Becuzzi",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tiago Lopes",
+          "country": "BR"
+        }
+      ],
+      "duration": "00:37:14",
+      "round": "Round of 16",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gero Kretschmer",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Nicolo Inserra",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:55:02",
+      "round": "Round of 32",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Juan Carlos Saez",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "2"
+          ],
+          "name": "Paolo Dagnino",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:53:41",
+      "round": "Round of 16",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Nicola Ghedin",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gero Kretschmer",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:04:31",
+      "round": "Round of 16",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Omar Giacalone",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Francesco Moncagatto",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:56:01",
+      "round": "Round of 16",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Artem Smirnov",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Alessandro Luisi",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:37:17",
+      "round": "Quarter-Final",
+      "date": "2015-09-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "2"
+          ],
+          "name": "Gero Kretschmer",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Antonio Sancic",
+          "country": "HR"
+        }
+      ],
+      "duration": "02:09:28",
+      "round": "Quarter-Final",
+      "date": "2015-09-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Juan Carlos Saez",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "4"
+          ],
+          "name": "Tiago Lopes",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:36:41",
+      "round": "Quarter-Final",
+      "date": "2015-09-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "0"
+          ],
+          "name": "Omar Giacalone",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sadio Doumbia",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:26:05",
+      "round": "Quarter-Final",
+      "date": "2015-09-07"
+    }
+  ],
+  "players": [
+    "Adelchi Virgili",
+    "Alessandro Ceppellini",
+    "Alessandro Luisi",
+    "Antonio Sancic",
+    "Artem Smirnov",
+    "Carlos Gomez Herrera",
+    "Dino Marcan",
+    "Enrico Becuzzi",
+    "Francesco Moncagatto",
+    "Gero Kretschmer",
+    "Juan Carlos Saez",
+    "Matteo Siccardi",
+    "Nicola Ghedin",
+    "Nicolo Inserra",
+    "Omar Giacalone",
+    "Paolo Dagnino",
+    "Sadio Doumbia",
+    "Tiago Lopes",
+    "Valentin Vacherot",
+    "Viktor Galovic"
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "name": "2015 Canberra, Qualification Challenger (Men's Singles)",
+  "country": "Australia",
+  "gender": "male",
+  "location": "Canberra",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Blake Ellis",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Calum Puttergill",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:08:26",
+      "round": "Round of 16",
+      "date": "2015-10-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Blake Mott",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Edward Bourchier",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:55:49",
+      "round": "Round of 16",
+      "date": "2015-10-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Dimitri Morogiannis",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniel Hobart",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:38:09",
+      "round": "Round of 16",
+      "date": "2015-10-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "1"
+          ],
+          "name": "Marty Khoundavong",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "David Barclay",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:48:48",
+      "round": "Round of 32",
+      "date": "2015-10-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Max Purcell",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Steven De Waard",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:57:34",
+      "round": "Round of 16",
+      "date": "2015-10-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Max Purcell",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Blade Fong",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:00:16",
+      "round": "Round of 32",
+      "date": "2015-10-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Oliver Anderson",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "David Barclay",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:21:20",
+      "round": "Round of 16",
+      "date": "2015-10-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Scott Puodziunas",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Brian Tran",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:12:01",
+      "round": "Round of 32",
+      "date": "2015-10-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Scott Puodziunas",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Jake Eames",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:59:52",
+      "round": "Round of 16",
+      "date": "2015-10-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sebastian Fanselow",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "1"
+          ],
+          "name": "Alexander Furniss",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:17:43",
+      "round": "Round of 16",
+      "date": "2015-10-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Thomas Fancutt",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Jake Delaney",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:36:40",
+      "round": "Round of 16",
+      "date": "2015-10-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Blake Mott",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "Calum Puttergill",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:48:28",
+      "round": "Quarter-Final",
+      "date": "2015-10-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Jake Delaney",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Max Purcell",
+          "country": "AU"
+        }
+      ],
+      "duration": "03:19:59",
+      "round": "Quarter-Final",
+      "date": "2015-10-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Oliver Anderson",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Scott Puodziunas",
+          "country": "AU"
+        }
+      ],
+      "duration": "03:16:01",
+      "round": "Quarter-Final",
+      "date": "2015-10-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sebastian Fanselow",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Daniel Hobart",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:09:45",
+      "round": "Quarter-Final",
+      "date": "2015-10-31"
+    }
+  ],
+  "players": [
+    "Alexander Furniss",
+    "Blade Fong",
+    "Blake Ellis",
+    "Blake Mott",
+    "Brian Tran",
+    "Calum Puttergill",
+    "Daniel Hobart",
+    "David Barclay",
+    "Dimitri Morogiannis",
+    "Edward Bourchier",
+    "Jake Delaney",
+    "Jake Eames",
+    "Marty Khoundavong",
+    "Max Purcell",
+    "Oliver Anderson",
+    "Scott Puodziunas",
+    "Sebastian Fanselow",
+    "Steven De Waard",
+    "Thomas Fancutt"
+  ]
+}

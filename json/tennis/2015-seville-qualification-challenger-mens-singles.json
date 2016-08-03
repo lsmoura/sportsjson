@@ -1,0 +1,409 @@
+{
+  "name": "2015 Seville, Qualification Challenger (Men's Singles)",
+  "country": "Spain",
+  "gender": "male",
+  "location": "Seville",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "David Vega",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "4"
+          ],
+          "name": "Jose Antonio Dugo Reyes",
+          "country": "ES"
+        }
+      ],
+      "duration": "00:56:39",
+      "round": "Round of 16",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ivan Gakhov",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Juan Pablo Canas",
+          "country": "ES"
+        }
+      ],
+      "duration": "00:51:05",
+      "round": "Round of 16",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Ivan Marrero Curbelo",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tao Castillo Bernal",
+          "country": "ES"
+        }
+      ],
+      "duration": "00:52:46",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Juan Lizariturry",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Nuno Deus",
+          "country": "PT"
+        }
+      ],
+      "duration": "00:48:12",
+      "round": "Round of 16",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Matthew Short",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Eduard Esteve",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:07:42",
+      "round": "Round of 16",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Matthew Short",
+          "country": "GB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Jose Ricardo Nunes",
+          "country": "PT"
+        }
+      ],
+      "duration": "01:16:54",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Matwe Middelkoop",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "0"
+          ],
+          "name": "Javier Ladron",
+          "country": "ES"
+        }
+      ],
+      "duration": "00:36:47",
+      "round": "Round of 16",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "0",
+            "2"
+          ],
+          "name": "Pedro Dominguez",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "5"
+          ],
+          "name": "Juan Pablo Canas",
+          "country": "ES"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Samuel Ribeiro",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "4"
+          ],
+          "name": "Pol Toledo",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:46:43",
+      "round": "Round of 16",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Tao Castillo Bernal",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ilija Vucic",
+          "country": "RS"
+        }
+      ],
+      "duration": "00:41:46",
+      "round": "Round of 16",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Wesley Koolhof",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Sergio Martos",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:00:53",
+      "round": "Round of 16",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "David Vega",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "4"
+          ],
+          "name": "Samuel Ribeiro",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:16:56",
+      "round": "Quarter-Final",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Ivan Gakhov",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Eduard Esteve",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:44:27",
+      "round": "Quarter-Final",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Juan Lizariturry",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Ilija Vucic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:03:10",
+      "round": "Quarter-Final",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Matwe Middelkoop",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Wesley Koolhof",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:13:33",
+      "round": "Quarter-Final",
+      "date": "2015-09-06"
+    }
+  ],
+  "players": [
+    "David Vega",
+    "Eduard Esteve",
+    "Ilija Vucic",
+    "Ivan Gakhov",
+    "Ivan Marrero Curbelo",
+    "Javier Ladron",
+    "Jose Antonio Dugo Reyes",
+    "Jose Ricardo Nunes",
+    "Juan Lizariturry",
+    "Juan Pablo Canas",
+    "Matthew Short",
+    "Matwe Middelkoop",
+    "Nuno Deus",
+    "Pedro Dominguez",
+    "Pol Toledo",
+    "Samuel Ribeiro",
+    "Sergio Martos",
+    "Tao Castillo Bernal",
+    "Wesley Koolhof"
+  ]
+}

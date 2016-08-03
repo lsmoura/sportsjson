@@ -1,0 +1,750 @@
+{
+  "name": "2015 if...Stockholm Open, Qualification ATP (Men's Singles)",
+  "country": "Sweden",
+  "gender": "male",
+  "location": "Stockholm",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ante Pavic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Magnus Eriksson",
+          "country": "SE"
+        }
+      ],
+      "duration": "01:06:50",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Bernabe Zapata",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "4"
+          ],
+          "name": "Adrien Bossel",
+          "country": "CH"
+        }
+      ],
+      "duration": "02:00:53",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Chris Guccione",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Maximilian Marterer",
+          "country": "DE"
+        }
+      ],
+      "duration": "00:56:55",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Dmytro Badanov",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Carl Soederlund",
+          "country": "SE"
+        }
+      ],
+      "duration": "01:01:32",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Filip Krajinovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Filip Veger",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:36:49",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "5"
+          ],
+          "name": "Jonathan Mridha",
+          "country": "SE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Federico Gaio",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:16:03",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Joshua Milton"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Michael Venus",
+          "country": "NZ"
+        }
+      ],
+      "duration": "01:37:40",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Lucas Renard",
+          "country": "SE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Filip Horansky",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:17:41",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "Marius Copil",
+          "country": "RO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "Jesse Huta Galung",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:15:00",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Markus Eriksson",
+          "country": "SE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marton Fucsovics",
+          "country": "HU"
+        }
+      ],
+      "duration": "01:12:31",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Mate Pavic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Fred Simonsson",
+          "country": "SE"
+        }
+      ],
+      "duration": "01:21:12",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Milos Sekulic",
+          "country": "SE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Marc Giner",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:26:24",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mischa Zverev",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Christoffer Solberg",
+          "country": "SE"
+        }
+      ],
+      "duration": "00:48:12",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nicolas Almagro",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Vadim Alekseenko",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:03:07",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Peter Torebko",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "1"
+          ],
+          "name": "Isak Arvidsson",
+          "country": "SE"
+        }
+      ],
+      "duration": "02:22:22",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Philipp Petzschner",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Jacob Adaktusson",
+          "country": "SE"
+        }
+      ],
+      "duration": "00:56:06",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Filip Horansky",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marton Fucsovics",
+          "country": "HU"
+        }
+      ],
+      "duration": "01:09:56",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Filip Krajinovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "0"
+          ],
+          "name": "Carl Soederlund",
+          "country": "SE"
+        }
+      ],
+      "duration": "00:52:07",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jesse Huta Galung",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Ante Pavic",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:38:29",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Milos Sekulic",
+          "country": "SE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Bernabe Zapata",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:00:24",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mischa Zverev",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Michael Venus",
+          "country": "NZ"
+        }
+      ],
+      "duration": "01:08:46",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Nicolas Almagro",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "3"
+          ],
+          "name": "Mate Pavic",
+          "country": "HR"
+        }
+      ],
+      "duration": "02:02:55",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Peter Torebko",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Maximilian Marterer",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:13:47",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Philipp Petzschner",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Federico Gaio",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:18:27",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Ante Pavic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Federico Gaio",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:33:25",
+      "round": "Quarter-Final",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Filip Krajinovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Milos Sekulic",
+          "country": "SE"
+        }
+      ],
+      "duration": "00:54:12",
+      "round": "Quarter-Final",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mischa Zverev",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Marton Fucsovics",
+          "country": "HU"
+        }
+      ],
+      "duration": "01:25:34",
+      "round": "Quarter-Final",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Nicolas Almagro",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Maximilian Marterer",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:10:12",
+      "round": "Quarter-Final",
+      "date": "2015-10-19"
+    }
+  ],
+  "players": [
+    "Adrien Bossel",
+    "Ante Pavic",
+    "Bernabe Zapata",
+    "Carl Soederlund",
+    "Chris Guccione",
+    "Christoffer Solberg",
+    "Dmytro Badanov",
+    "Federico Gaio",
+    "Filip Horansky",
+    "Filip Krajinovic",
+    "Filip Veger",
+    "Fred Simonsson",
+    "Isak Arvidsson",
+    "Jacob Adaktusson",
+    "Jesse Huta Galung",
+    "Jonathan Mridha",
+    "Joshua Milton",
+    "Lucas Renard",
+    "Magnus Eriksson",
+    "Marc Giner",
+    "Marius Copil",
+    "Markus Eriksson",
+    "Marton Fucsovics",
+    "Mate Pavic",
+    "Maximilian Marterer",
+    "Michael Venus",
+    "Milos Sekulic",
+    "Mischa Zverev",
+    "Nicolas Almagro",
+    "Peter Torebko",
+    "Philipp Petzschner",
+    "Vadim Alekseenko"
+  ]
+}

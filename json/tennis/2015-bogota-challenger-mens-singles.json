@@ -8,6 +8,614 @@
     {
       "players": [
         {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Caio Zampieri",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Riki Oshima",
+          "country": "JP"
+        }
+      ],
+      "duration": "00:57:19",
+      "round": "Round of 32",
+      "date": "2015-11-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Dean O'Brien",
+          "country": "ZA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Alejandro Falla",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:20:26",
+      "round": "Round of 32",
+      "date": "2015-11-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Facundo Mena",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "7"
+          ],
+          "name": "Guillermo Rivera",
+          "country": "CL"
+        }
+      ],
+      "duration": "01:55:04",
+      "round": "Round of 32",
+      "date": "2015-11-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Federico Coria",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Adam El Mihdawy",
+          "country": "US"
+        }
+      ],
+      "duration": "01:15:20",
+      "round": "Round of 32",
+      "date": "2015-11-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Felipe Mantilla",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Hernan Casanova",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:27:49",
+      "round": "Round of 32",
+      "date": "2015-11-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Nicolas Barrientos",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marcelo Arevalo",
+          "country": "SV"
+        }
+      ],
+      "duration": "01:01:14",
+      "round": "Round of 32",
+      "date": "2015-11-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alejandro Gonzalez",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Daniel Galan",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:15:06",
+      "round": "Round of 32",
+      "date": "2015-11-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Christian Garin",
+          "country": "CL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Joao Souza",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:47:36",
+      "round": "Round of 32",
+      "date": "2015-11-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Cristian Rodriguez",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Andrej Martin",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:10:10",
+      "round": "Round of 32",
+      "date": "2015-11-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Fernando Romboli",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Eduardo Struvay",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:07:46",
+      "round": "Round of 32",
+      "date": "2015-11-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Gero Kretschmer",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "0",
+            "6",
+            "6"
+          ],
+          "name": "Tomas Lipovsek Puches",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:43:33",
+      "round": "Round of 32",
+      "date": "2015-11-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Gonzalo Lama",
+          "country": "CL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:25:25",
+      "round": "Round of 32",
+      "date": "2015-11-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Hans Podlipnik",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "5"
+          ],
+          "name": "Jose Olivares",
+          "country": "DO"
+        }
+      ],
+      "duration": "02:21:44",
+      "round": "Round of 32",
+      "date": "2015-11-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Horacio Zeballos",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Juan Ignacio Galarza",
+          "country": "AR"
+        }
+      ],
+      "duration": "00:52:10",
+      "round": "Round of 32",
+      "date": "2015-11-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Jose Pereira",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "7",
+            "4"
+          ],
+          "name": "Alejandro Mendoza",
+          "country": "BO"
+        }
+      ],
+      "duration": "02:30:21",
+      "round": "Round of 32",
+      "date": "2015-11-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Victor Estrella",
+          "country": "DO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alexander Ward",
+          "country": "GB"
+        }
+      ],
+      "duration": "00:56:22",
+      "round": "Round of 32",
+      "date": "2015-11-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Adam El Mihdawy",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Cristian Rodriguez",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:05:30",
+      "round": "Round of 16",
+      "date": "2015-11-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Felipe Mantilla",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Alejandro Falla",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:20:18",
+      "round": "Round of 16",
+      "date": "2015-11-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Hans Podlipnik",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Marcelo Arevalo",
+          "country": "SV"
+        }
+      ],
+      "duration": "01:05:54",
+      "round": "Round of 16",
+      "date": "2015-11-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Horacio Zeballos",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Guillermo Rivera",
+          "country": "CL"
+        }
+      ],
+      "duration": "01:35:25",
+      "round": "Round of 16",
+      "date": "2015-11-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alejandro Gonzalez",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Caio Zampieri",
+          "country": "BR"
+        }
+      ],
+      "duration": "00:55:09",
+      "round": "Round of 16",
+      "date": "2015-11-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Alexander Ward",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Eduardo Struvay",
+          "country": "CO"
+        }
+      ],
+      "duration": "04:09:39",
+      "round": "Round of 16",
+      "date": "2015-11-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Jose Pereira",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Joao Souza",
+          "country": "BR"
+        }
+      ],
+      "duration": "04:00:55",
+      "round": "Round of 16",
+      "date": "2015-11-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Tomas Lipovsek Puches",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:54:34",
+      "round": "Round of 16",
+      "date": "2015-11-05"
+    },
+    {
+      "players": [
+        {
           "is_winner": false,
           "set_games": [
             "6",
@@ -63,31 +671,6 @@
           "is_winner": true,
           "set_games": [
             "7",
-            "6"
-          ],
-          "name": "Eduardo Struvay",
-          "country": "CO"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "4"
-          ],
-          "name": "Joao Souza",
-          "country": "BR"
-        }
-      ],
-      "duration": "01:38:51",
-      "round": "Quarter-Final",
-      "date": "2015-11-07"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
             "4",
             "6"
           ],
@@ -107,6 +690,31 @@
       ],
       "duration": "01:50:58",
       "round": "Semi-Final",
+      "date": "2015-11-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Eduardo Struvay",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Joao Souza",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:38:51",
+      "round": "Quarter-Final",
       "date": "2015-11-07"
     },
     {
@@ -190,13 +798,37 @@
     }
   ],
   "players": [
+    "Adam El Mihdawy",
     "Alejandro Falla",
     "Alejandro Gonzalez",
+    "Alejandro Mendoza",
+    "Alexander Ward",
+    "Andrej Martin",
+    "Caio Zampieri",
+    "Christian Garin",
     "Cristian Rodriguez",
+    "Daniel Galan",
+    "Dean O'Brien",
     "Eduardo Struvay",
+    "Facundo Mena",
+    "Federico Coria",
+    "Felipe Mantilla",
+    "Fernando Romboli",
+    "Gero Kretschmer",
+    "Gonzalo Lama",
+    "Guillermo Rivera",
     "Hans Podlipnik",
+    "Hernan Casanova",
     "Horacio Zeballos",
     "Joao Souza",
-    "Paolo Lorenzi"
+    "Jose Olivares",
+    "Jose Pereira",
+    "Juan Ignacio Galarza",
+    "Marcelo Arevalo",
+    "Nicolas Barrientos",
+    "Paolo Lorenzi",
+    "Riki Oshima",
+    "Tomas Lipovsek Puches",
+    "Victor Estrella"
   ]
 }

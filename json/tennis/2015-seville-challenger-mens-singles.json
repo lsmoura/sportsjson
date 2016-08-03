@@ -1,0 +1,838 @@
+{
+  "name": "2015 Seville Challenger (Men's Singles)",
+  "country": "Spain",
+  "gender": "male",
+  "location": "Seville",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Agustin Boje",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "David Vega",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:13:04",
+      "round": "Round of 32",
+      "date": "2015-09-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Axel Michon",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Jaume Antoni Munar",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:32:14",
+      "round": "Round of 32",
+      "date": "2015-09-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Flavio Cipolla",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "1"
+          ],
+          "name": "Jan Mertl",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:05:20",
+      "round": "Round of 32",
+      "date": "2015-09-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "1"
+          ],
+          "name": "Ivan Gakhov",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "0",
+            "6",
+            "6"
+          ],
+          "name": "Lamine Ouahab",
+          "country": "DZ"
+        }
+      ],
+      "duration": "01:33:41",
+      "round": "Round of 32",
+      "date": "2015-09-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jordi Samper",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Roberto Ortega",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:22:42",
+      "round": "Round of 32",
+      "date": "2015-09-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kamil Majchrzak",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Albert Montanes",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:10:09",
+      "round": "Round of 32",
+      "date": "2015-09-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pere Riba",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Ricardo Ojeda",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:16:35",
+      "round": "Round of 32",
+      "date": "2015-09-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Adrian Menendez",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Miljan Zekic",
+          "country": "RS"
+        }
+      ],
+      "duration": "02:03:19",
+      "round": "Round of 32",
+      "date": "2015-09-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Fernando Romboli",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Maxime Teixeira",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:30:53",
+      "round": "Round of 32",
+      "date": "2015-09-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Georgi Rumenov",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "0",
+            "6",
+            "7"
+          ],
+          "name": "David Perez",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:20:04",
+      "round": "Round of 32",
+      "date": "2015-09-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Inigo Cervantes",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Jozef Kovalik",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:40:11",
+      "round": "Round of 32",
+      "date": "2015-09-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Juan Lizariturry",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Ruben Ramirez",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:43:23",
+      "round": "Round of 32",
+      "date": "2015-09-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "0",
+            "1"
+          ],
+          "name": "Mario Vilella",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Renzo Olivo",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:41:12",
+      "round": "Round of 32",
+      "date": "2015-09-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pablo Carreno",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Marco Bortolotti",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:01:35",
+      "round": "Round of 32",
+      "date": "2015-09-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "2"
+          ],
+          "name": "Pedja Krstin",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Matwe Middelkoop",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:28:53",
+      "round": "Round of 32",
+      "date": "2015-09-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pedro Cachin",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Daniel Gimeno",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:11:28",
+      "round": "Round of 32",
+      "date": "2015-09-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "David Vega",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kamil Majchrzak",
+          "country": "PL"
+        }
+      ],
+      "duration": "01:26:16",
+      "round": "Round of 16",
+      "date": "2015-09-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Inigo Cervantes",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Maxime Teixeira",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:42:59",
+      "round": "Round of 16",
+      "date": "2015-09-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Jordi Samper",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "David Perez",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:30:05",
+      "round": "Round of 16",
+      "date": "2015-09-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Lamine Ouahab",
+          "country": "DZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Renzo Olivo",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:44:25",
+      "round": "Round of 16",
+      "date": "2015-09-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "3"
+          ],
+          "name": "Matwe Middelkoop",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Pedro Cachin",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:38:25",
+      "round": "Round of 16",
+      "date": "2015-09-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Miljan Zekic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Ruben Ramirez",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:25:12",
+      "round": "Round of 16",
+      "date": "2015-09-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Pablo Carreno",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Axel Michon",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:45:58",
+      "round": "Round of 16",
+      "date": "2015-09-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pere Riba",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Flavio Cipolla",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:14:53",
+      "round": "Round of 16",
+      "date": "2015-09-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Inigo Cervantes",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Renzo Olivo",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:20:57",
+      "round": "Quarter-Final",
+      "date": "2015-09-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "7",
+            "6"
+          ],
+          "name": "Jordi Samper",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "4"
+          ],
+          "name": "Kamil Majchrzak",
+          "country": "PL"
+        }
+      ],
+      "duration": "02:22:02",
+      "round": "Quarter-Final",
+      "date": "2015-09-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Miljan Zekic",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Pedro Cachin",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:09:35",
+      "round": "Quarter-Final",
+      "date": "2015-09-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pablo Carreno",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Pere Riba",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:07:22",
+      "round": "Quarter-Final",
+      "date": "2015-09-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "0",
+            "2"
+          ],
+          "name": "Jordi Samper",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Pedro Cachin",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:06:29",
+      "round": "Semi-Final",
+      "date": "2015-09-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Pablo Carreno",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Inigo Cervantes",
+          "country": "ES"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Semi-Final",
+      "date": "2015-09-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Pablo Carreno",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Pedro Cachin",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:31:57",
+      "round": "Championship",
+      "date": "2015-09-12"
+    }
+  ],
+  "players": [
+    "Adrian Menendez",
+    "Agustin Boje",
+    "Albert Montanes",
+    "Axel Michon",
+    "Daniel Gimeno",
+    "David Perez",
+    "David Vega",
+    "Fernando Romboli",
+    "Flavio Cipolla",
+    "Georgi Rumenov",
+    "Inigo Cervantes",
+    "Ivan Gakhov",
+    "Jan Mertl",
+    "Jaume Antoni Munar",
+    "Jordi Samper",
+    "Jozef Kovalik",
+    "Juan Lizariturry",
+    "Kamil Majchrzak",
+    "Lamine Ouahab",
+    "Marco Bortolotti",
+    "Mario Vilella",
+    "Matwe Middelkoop",
+    "Maxime Teixeira",
+    "Miljan Zekic",
+    "Pablo Carreno",
+    "Pedja Krstin",
+    "Pedro Cachin",
+    "Pere Riba",
+    "Renzo Olivo",
+    "Ricardo Ojeda",
+    "Roberto Ortega",
+    "Ruben Ramirez"
+  ]
+}

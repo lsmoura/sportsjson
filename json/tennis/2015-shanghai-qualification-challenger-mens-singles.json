@@ -1,0 +1,743 @@
+{
+  "name": "2015 Shanghai, Qualification Challenger (Men's Singles)",
+  "country": "China",
+  "gender": "male",
+  "location": "Shanghai",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4"
+          ],
+          "name": "Alexios Halebian",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6"
+          ],
+          "name": "Hans Hach",
+          "country": "MX"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Andrew Whittington",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Shuichi Sekiguchi",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:27:43",
+      "round": "Round of 16",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andrew Whittington",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Zhuoyang Qiu",
+          "country": "CN"
+        }
+      ],
+      "duration": "00:41:27",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Aoxiong Wang",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Narayanaswamy Sriram Balaji",
+          "country": "IN"
+        }
+      ],
+      "duration": "00:58:09",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Chu-Huan Yi",
+          "country": "TW"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Shenghao Zhou",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:33:15",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "2"
+          ],
+          "name": "Chu-Huan Yi",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "2",
+            "6"
+          ],
+          "name": "Narayanaswamy Sriram Balaji",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:38:44",
+      "round": "Round of 16",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Congsup Congcar",
+          "country": "TH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniil Medvedev",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:48:23",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [],
+          "name": "Finn Tearney",
+          "country": "NZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [],
+          "name": "Zhaoyi Cao",
+          "country": "CN"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gavin Van Peperzeel",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Matias Castro",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:02:38",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Hans Hach",
+          "country": "MX"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Dane Propoggia",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:09:16",
+      "round": "Round of 16",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Jiaqi Duan",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Dane Propoggia",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:11:45",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Johan Sebastien Tatlot",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Yuanfeng Li",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:06:22",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Johan Sebastien Tatlot",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Temur Ismailov",
+          "country": "UZ"
+        }
+      ],
+      "duration": "01:12:08",
+      "round": "Round of 16",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Kento Takeuchi",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Keith Patrick Crowley",
+          "country": "ZA"
+        }
+      ],
+      "duration": "01:29:03",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Long Chen",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Shuichi Sekiguchi",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:14:17",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nicolas Meister",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "He Feng",
+          "country": "CN"
+        }
+      ],
+      "duration": "00:58:10",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Takuto Niki",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Finn Tearney",
+          "country": "NZ"
+        }
+      ],
+      "duration": "01:40:25",
+      "round": "Round of 16",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Takuto Niki",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Zhicheng Zhu",
+          "country": "CN"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Temur Ismailov",
+          "country": "UZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Fajing Sun",
+          "country": "CN"
+        }
+      ],
+      "duration": "00:55:05",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Toshihide Matsui",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "3"
+          ],
+          "name": "Oliver Anderson",
+          "country": "AU"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Toshihide Matsui",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniil Medvedev",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:43:38",
+      "round": "Round of 16",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "6"
+          ],
+          "name": "Yuqing Ning",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "0"
+          ],
+          "name": "Xi Qi",
+          "country": "CN"
+        }
+      ],
+      "duration": "02:20:14",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Finn Tearney",
+          "country": "NZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Narayanaswamy Sriram Balaji",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:53:19",
+      "round": "Quarter-Final",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Gavin Van Peperzeel",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yuqing Ning",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:18:53",
+      "round": "Round of 16",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nicolas Meister",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Hans Hach",
+          "country": "MX"
+        }
+      ],
+      "duration": "01:25:18",
+      "round": "Quarter-Final",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nicolas Meister",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Kento Takeuchi",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:10:23",
+      "round": "Round of 16",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Temur Ismailov",
+          "country": "UZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniil Medvedev",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:15:15",
+      "round": "Quarter-Final",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Yuqing Ning",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andrew Whittington",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:56:09",
+      "round": "Quarter-Final",
+      "date": "2015-09-06"
+    }
+  ],
+  "players": [
+    "Alexios Halebian",
+    "Andrew Whittington",
+    "Aoxiong Wang",
+    "Chu-Huan Yi",
+    "Congsup Congcar",
+    "Dane Propoggia",
+    "Daniil Medvedev",
+    "Fajing Sun",
+    "Finn Tearney",
+    "Gavin Van Peperzeel",
+    "Hans Hach",
+    "He Feng",
+    "Jiaqi Duan",
+    "Johan Sebastien Tatlot",
+    "Keith Patrick Crowley",
+    "Kento Takeuchi",
+    "Long Chen",
+    "Matias Castro",
+    "Narayanaswamy Sriram Balaji",
+    "Nicolas Meister",
+    "Oliver Anderson",
+    "Shenghao Zhou",
+    "Shuichi Sekiguchi",
+    "Takuto Niki",
+    "Temur Ismailov",
+    "Toshihide Matsui",
+    "Xi Qi",
+    "Yuanfeng Li",
+    "Yuqing Ning",
+    "Zhaoyi Cao",
+    "Zhicheng Zhu",
+    "Zhuoyang Qiu"
+  ]
+}

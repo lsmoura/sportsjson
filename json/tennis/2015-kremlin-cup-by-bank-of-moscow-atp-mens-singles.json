@@ -1,0 +1,720 @@
+{
+  "name": "2015 Kremlin Cup By Bank Of Moscow ATP (Men's Singles)",
+  "country": "Russia",
+  "gender": "male",
+  "location": "Moscow",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "5"
+          ],
+          "name": "Joao Sousa",
+          "country": "PT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "7"
+          ],
+          "name": "Daniel Gimeno",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:12:36",
+      "round": "Round of 32",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Radu Albot",
+          "country": "MD"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andrey Kuznetsov",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:18:01",
+      "round": "Round of 32",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Teymuraz Gabashvili",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Cem Ilkel",
+          "country": "TR"
+        }
+      ],
+      "duration": "01:02:26",
+      "round": "Round of 32",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Andrey Rublev",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mikhail Kukushkin",
+          "country": "KZ"
+        }
+      ],
+      "duration": "01:15:39",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Dusan Lajovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:19:00",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Evgeny Donskoy",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Borna Coric",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:25:46",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marsel Ilhan",
+          "country": "TR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:22:40",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6"
+          ],
+          "name": "Pablo Cuevas",
+          "country": "UY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1"
+          ],
+          "name": "Pere Riba",
+          "country": "ES"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Aljaz Bedene",
+          "country": "SI"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Denis Istomin",
+          "country": "UZ"
+        }
+      ],
+      "duration": "01:10:25",
+      "round": "Round of 32",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Malek Jaziri",
+          "country": "TN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ricardas Berankis",
+          "country": "LT"
+        }
+      ],
+      "duration": "01:23:06",
+      "round": "Round of 32",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Marsel Ilhan",
+          "country": "TR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Roberto Bautista",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:15:32",
+      "round": "Round of 16",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Aslan Karatsev",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:45:08",
+      "round": "Round of 32",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "1"
+          ],
+          "name": "Pablo Cuevas",
+          "country": "UY"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:44:53",
+      "round": "Round of 16",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "1"
+          ],
+          "name": "Simone Bolelli",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4"
+          ],
+          "name": "Lucas Pouille",
+          "country": "FR"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Viktor Troicki",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Teymuraz Gabashvili",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:05:02",
+      "round": "Round of 16",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Andrey Kuznetsov",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "5"
+          ],
+          "name": "Mikhail Kukushkin",
+          "country": "KZ"
+        }
+      ],
+      "duration": "01:23:36",
+      "round": "Round of 16",
+      "date": "2015-10-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Aslan Karatsev",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "2",
+            "6"
+          ],
+          "name": "Philipp Kohlschreiber",
+          "country": "DE"
+        }
+      ],
+      "duration": "02:19:31",
+      "round": "Round of 16",
+      "date": "2015-10-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Daniel Gimeno",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Lucas Pouille",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:09:07",
+      "round": "Round of 16",
+      "date": "2015-10-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Marin Cilic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "3"
+          ],
+          "name": "Denis Istomin",
+          "country": "UZ"
+        }
+      ],
+      "duration": "02:02:42",
+      "round": "Round of 16",
+      "date": "2015-10-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Ricardas Berankis",
+          "country": "LT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Evgeny Donskoy",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:26:10",
+      "round": "Round of 16",
+      "date": "2015-10-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Lucas Pouille",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Roberto Bautista",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:11:31",
+      "round": "Quarter-Final",
+      "date": "2015-10-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marin Cilic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Andrey Kuznetsov",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:54:52",
+      "round": "Quarter-Final",
+      "date": "2015-10-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Philipp Kohlschreiber",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:18:00",
+      "round": "Quarter-Final",
+      "date": "2015-10-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Teymuraz Gabashvili",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Evgeny Donskoy",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:31:00",
+      "round": "Quarter-Final",
+      "date": "2015-10-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marin Cilic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Evgeny Donskoy",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:15:21",
+      "round": "Semi-Final",
+      "date": "2015-10-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Philipp Kohlschreiber",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Roberto Bautista",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:18:52",
+      "round": "Semi-Final",
+      "date": "2015-10-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marin Cilic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Roberto Bautista",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:29:11",
+      "round": "Championship",
+      "date": "2015-10-25"
+    }
+  ],
+  "players": [
+    "Aljaz Bedene",
+    "Andrey Kuznetsov",
+    "Andrey Rublev",
+    "Aslan Karatsev",
+    "Borna Coric",
+    "Cem Ilkel",
+    "Daniel Gimeno",
+    "Denis Istomin",
+    "Dusan Lajovic",
+    "Evgeny Donskoy",
+    "Joao Sousa",
+    "Lucas Pouille",
+    "Malek Jaziri",
+    "Marin Cilic",
+    "Marsel Ilhan",
+    "Mikhail Kukushkin",
+    "Mikhail Youzhny",
+    "Pablo Cuevas",
+    "Pere Riba",
+    "Philipp Kohlschreiber",
+    "Radu Albot",
+    "Ricardas Berankis",
+    "Roberto Bautista",
+    "Robin Haase",
+    "Simone Bolelli",
+    "Tatsuma Ito",
+    "Teymuraz Gabashvili",
+    "Viktor Troicki"
+  ]
+}

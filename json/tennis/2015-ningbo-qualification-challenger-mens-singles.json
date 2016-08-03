@@ -1,0 +1,119 @@
+{
+  "name": "2015 Ningbo, Qualification Challenger (Men's Singles)",
+  "country": "China",
+  "gender": "male",
+  "location": "Ningbo",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniel Masur",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "1"
+          ],
+          "name": "Xia Haitong",
+          "country": "CN"
+        }
+      ],
+      "duration": "00:45:44",
+      "round": "Quarter-Final",
+      "date": "2015-10-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Takuto Niki",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "0"
+          ],
+          "name": "Jiacheng Zhu",
+          "country": "CN"
+        }
+      ],
+      "duration": "00:56:46",
+      "round": "Quarter-Final",
+      "date": "2015-10-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Riccardo Ghedin",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Long Chen",
+          "country": "CN"
+        }
+      ],
+      "duration": "00:55:55",
+      "round": "Quarter-Final",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Zhizhen Zhang",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Florian Fallert",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:24:27",
+      "round": "Quarter-Final",
+      "date": "2015-10-17"
+    }
+  ],
+  "players": [
+    "Daniel Masur",
+    "Florian Fallert",
+    "Jiacheng Zhu",
+    "Long Chen",
+    "Riccardo Ghedin",
+    "Takuto Niki",
+    "Xia Haitong",
+    "Zhizhen Zhang"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "2015 WTA Elite Trophy Group A WTA (Women's Singles)",
+  "country": "China",
+  "gender": "female",
+  "location": "Zhuhai",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Venus Williams",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "1"
+          ],
+          "name": "Madison Keys",
+          "country": "US"
+        }
+      ],
+      "duration": "02:12:02",
+      "round": "Quarter-Final",
+      "date": "2015-11-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Venus Williams",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "1"
+          ],
+          "name": "Saisai Zheng",
+          "country": "CN"
+        }
+      ],
+      "duration": "02:04:21",
+      "round": "Quarter-Final",
+      "date": "2015-11-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Madison Keys",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Saisai Zheng",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:16:22",
+      "round": "Quarter-Final",
+      "date": "2015-11-06"
+    }
+  ],
+  "players": [
+    "Madison Keys",
+    "Saisai Zheng",
+    "Venus Williams"
+  ]
+}

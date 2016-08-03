@@ -1,0 +1,836 @@
+{
+  "name": "2015 Medellin Challenger (Men's Singles)",
+  "country": "Colombia",
+  "gender": "male",
+  "location": "Medellin",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "4"
+          ],
+          "name": "Christopher Diaz",
+          "country": "GT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "5",
+            "6"
+          ],
+          "name": "Peter Kobelt",
+          "country": "US"
+        }
+      ],
+      "duration": "02:29:25",
+      "round": "Round of 32",
+      "date": "2015-10-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Felipe Escobar",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Emilio Gomez",
+          "country": "EC"
+        }
+      ],
+      "duration": "01:21:12",
+      "round": "Round of 32",
+      "date": "2015-10-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Felipe Mantilla",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "2"
+          ],
+          "name": "Daniel Galan",
+          "country": "CO"
+        }
+      ],
+      "duration": "02:00:12",
+      "round": "Round of 32",
+      "date": "2015-10-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Juan Ignacio Galarza",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "2"
+          ],
+          "name": "Gonzalo Escobar",
+          "country": "EC"
+        }
+      ],
+      "duration": "02:04:54",
+      "round": "Round of 32",
+      "date": "2015-10-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Juan Pablo Varillas",
+          "country": "PE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Fabricio Neis",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:34:43",
+      "round": "Round of 32",
+      "date": "2015-10-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Nicolas Barrientos",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Gonzalo Lama",
+          "country": "CL"
+        }
+      ],
+      "duration": "01:51:33",
+      "round": "Round of 32",
+      "date": "2015-10-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "1"
+          ],
+          "name": "Yannik Reuter",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Guilherme Clezar",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:00:42",
+      "round": "Round of 32",
+      "date": "2015-10-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1"
+          ],
+          "name": "Alejandro Falla",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2"
+          ],
+          "name": "Eduardo Struvay",
+          "country": "CO"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-10-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Andres Molteni",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alejandro Gonzalez",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:05:07",
+      "round": "Round of 32",
+      "date": "2015-10-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Deiton Baughman",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Adam El Mihdawy",
+          "country": "US"
+        }
+      ],
+      "duration": "00:59:19",
+      "round": "Round of 32",
+      "date": "2015-10-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Gianluigi Quinzi",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Giovanni Lapentti",
+          "country": "EC"
+        }
+      ],
+      "duration": "00:54:53",
+      "round": "Round of 32",
+      "date": "2015-10-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Ivan Endara",
+          "country": "EC"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Facundo Mena",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:00:58",
+      "round": "Round of 32",
+      "date": "2015-10-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jordi Samper",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Juan Sebastian Gomez",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:23:57",
+      "round": "Round of 32",
+      "date": "2015-10-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Juan Ignacio Londero",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Joao Souza",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:12:16",
+      "round": "Round of 32",
+      "date": "2015-10-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Marcelo Arevalo",
+          "country": "SV"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Roberto Marcora",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:21:52",
+      "round": "Round of 32",
+      "date": "2015-10-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Fernando Romboli",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:11:28",
+      "round": "Round of 32",
+      "date": "2015-10-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Eduardo Struvay",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Peter Kobelt",
+          "country": "US"
+        }
+      ],
+      "duration": "00:58:06",
+      "round": "Round of 16",
+      "date": "2015-10-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "4"
+          ],
+          "name": "Emilio Gomez",
+          "country": "EC"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Juan Ignacio Londero",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:29:32",
+      "round": "Round of 16",
+      "date": "2015-10-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Facundo Mena",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Giovanni Lapentti",
+          "country": "EC"
+        }
+      ],
+      "duration": "01:51:39",
+      "round": "Round of 16",
+      "date": "2015-10-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Felipe Mantilla",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Guilherme Clezar",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:19:52",
+      "round": "Round of 16",
+      "date": "2015-10-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Gonzalo Lama",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Juan Pablo Varillas",
+          "country": "PE"
+        }
+      ],
+      "duration": "01:18:00",
+      "round": "Round of 16",
+      "date": "2015-10-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Jordi Samper",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "4"
+          ],
+          "name": "Deiton Baughman",
+          "country": "US"
+        }
+      ],
+      "duration": "02:38:56",
+      "round": "Round of 16",
+      "date": "2015-10-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "4"
+          ],
+          "name": "Juan Ignacio Galarza",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:13:26",
+      "round": "Round of 16",
+      "date": "2015-10-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Roberto Marcora",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alejandro Gonzalez",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:17:45",
+      "round": "Round of 16",
+      "date": "2015-10-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Eduardo Struvay",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Giovanni Lapentti",
+          "country": "EC"
+        }
+      ],
+      "duration": "01:23:37",
+      "round": "Quarter-Final",
+      "date": "2015-10-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gonzalo Lama",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Alejandro Gonzalez",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:18:39",
+      "round": "Quarter-Final",
+      "date": "2015-10-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Jordi Samper",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "3"
+          ],
+          "name": "Juan Ignacio Londero",
+          "country": "AR"
+        }
+      ],
+      "duration": "03:04:28",
+      "round": "Quarter-Final",
+      "date": "2015-10-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Guilherme Clezar",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:55:20",
+      "round": "Quarter-Final",
+      "date": "2015-10-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jordi Samper",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Gonzalo Lama",
+          "country": "CL"
+        }
+      ],
+      "duration": "02:06:50",
+      "round": "Semi-Final",
+      "date": "2015-10-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Giovanni Lapentti",
+          "country": "EC"
+        }
+      ],
+      "duration": "01:43:12",
+      "round": "Semi-Final",
+      "date": "2015-10-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "2"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "0"
+          ],
+          "name": "Gonzalo Lama",
+          "country": "CL"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Championship",
+      "date": "2015-10-10"
+    }
+  ],
+  "players": [
+    "Adam El Mihdawy",
+    "Alejandro Falla",
+    "Alejandro Gonzalez",
+    "Andres Molteni",
+    "Christopher Diaz",
+    "Daniel Galan",
+    "Deiton Baughman",
+    "Eduardo Struvay",
+    "Emilio Gomez",
+    "Fabricio Neis",
+    "Facundo Mena",
+    "Felipe Escobar",
+    "Felipe Mantilla",
+    "Fernando Romboli",
+    "Gianluigi Quinzi",
+    "Giovanni Lapentti",
+    "Gonzalo Escobar",
+    "Gonzalo Lama",
+    "Guilherme Clezar",
+    "Ivan Endara",
+    "Joao Souza",
+    "Jordi Samper",
+    "Juan Ignacio Galarza",
+    "Juan Ignacio Londero",
+    "Juan Pablo Varillas",
+    "Juan Sebastian Gomez",
+    "Marcelo Arevalo",
+    "Nicolas Barrientos",
+    "Paolo Lorenzi",
+    "Peter Kobelt",
+    "Roberto Marcora",
+    "Yannik Reuter"
+  ]
+}

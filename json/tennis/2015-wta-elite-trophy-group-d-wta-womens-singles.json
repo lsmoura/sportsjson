@@ -1,0 +1,90 @@
+{
+  "name": "2015 WTA Elite Trophy Group D WTA (Women's Singles)",
+  "country": "China",
+  "gender": "female",
+  "location": "Zhuhai",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Roberta Vinci",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Svetlana Kuznetsova",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:30:40",
+      "round": "Quarter-Final",
+      "date": "2015-11-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Caroline Wozniacki",
+          "country": "DK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "2"
+          ],
+          "name": "Svetlana Kuznetsova",
+          "country": "RU"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Quarter-Final",
+      "date": "2015-11-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Roberta Vinci",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Anna Schmiedlova",
+          "country": "SK"
+        }
+      ],
+      "duration": "00:55:28",
+      "round": "Quarter-Final",
+      "date": "2015-11-06"
+    }
+  ],
+  "players": [
+    "Anna Schmiedlova",
+    "Caroline Wozniacki",
+    "Roberta Vinci",
+    "Svetlana Kuznetsova"
+  ]
+}

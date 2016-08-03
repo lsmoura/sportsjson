@@ -1,0 +1,227 @@
+{
+  "name": "2015 Mohammedia, Qualification Challenger (Men's Singles)",
+  "country": "Morocco",
+  "gender": "male",
+  "location": "Mohammedia",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Ayoub Chakrouni",
+          "country": "MA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Stephan Fransen",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:09:49",
+      "round": "Round of 16",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "0"
+          ],
+          "name": "Reda Karakhi",
+          "country": "MA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Stefanos Tsitsipas",
+          "country": "GR"
+        }
+      ],
+      "duration": "00:44:34",
+      "round": "Round of 16",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Simohamed Hirs",
+          "country": "MA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marcin Gawron",
+          "country": "PL"
+        }
+      ],
+      "duration": "00:48:33",
+      "round": "Round of 16",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Younes Rachidi",
+          "country": "MA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "0",
+            "2"
+          ],
+          "name": "Mehdi Jdi",
+          "country": "MA"
+        }
+      ],
+      "duration": "01:42:51",
+      "round": "Round of 16",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Claudio Fortuna",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Stefanos Tsitsipas",
+          "country": "GR"
+        }
+      ],
+      "duration": "01:36:02",
+      "round": "Quarter-Final",
+      "date": "2015-10-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Jozef Kovalik",
+          "country": "SK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "3"
+          ],
+          "name": "Marcin Gawron",
+          "country": "PL"
+        }
+      ],
+      "duration": "01:41:36",
+      "round": "Quarter-Final",
+      "date": "2015-10-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Kamil Majchrzak",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "1"
+          ],
+          "name": "Younes Rachidi",
+          "country": "MA"
+        }
+      ],
+      "duration": "01:14:13",
+      "round": "Quarter-Final",
+      "date": "2015-10-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Laslo Djere",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Stephan Fransen",
+          "country": "NL"
+        }
+      ],
+      "duration": "00:52:20",
+      "round": "Quarter-Final",
+      "date": "2015-10-04"
+    }
+  ],
+  "players": [
+    "Ayoub Chakrouni",
+    "Claudio Fortuna",
+    "Jozef Kovalik",
+    "Kamil Majchrzak",
+    "Laslo Djere",
+    "Marcin Gawron",
+    "Mehdi Jdi",
+    "Reda Karakhi",
+    "Simohamed Hirs",
+    "Stefanos Tsitsipas",
+    "Stephan Fransen",
+    "Younes Rachidi"
+  ]
+}

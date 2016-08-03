@@ -1,0 +1,836 @@
+{
+  "name": "2015 Tiburon Challenger (Men's Singles)",
+  "country": "United States",
+  "gender": "male",
+  "location": "Tiburon",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Brydan Klein",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Kyle Edmund",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:03:28",
+      "round": "Round of 32",
+      "date": "2015-09-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "6"
+          ],
+          "name": "Denis Kudla",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "0"
+          ],
+          "name": "Connor Smith",
+          "country": "US"
+        }
+      ],
+      "duration": "02:02:53",
+      "round": "Round of 32",
+      "date": "2015-09-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jared Donaldson",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Darian King",
+          "country": "BB"
+        }
+      ],
+      "duration": "01:15:37",
+      "round": "Round of 32",
+      "date": "2015-09-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Peter Polansky",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Dimitar Kutrovsky",
+          "country": "BG"
+        }
+      ],
+      "duration": "01:15:53",
+      "round": "Round of 32",
+      "date": "2015-09-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Quentin Halys",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Tennys Sandgren",
+          "country": "US"
+        }
+      ],
+      "duration": "01:10:56",
+      "round": "Round of 32",
+      "date": "2015-09-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Alex Kuznetsov",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Nicolas Meister",
+          "country": "US"
+        }
+      ],
+      "duration": "01:36:02",
+      "round": "Round of 32",
+      "date": "2015-09-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Chase Buchanan",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Bjorn Fratangelo",
+          "country": "US"
+        }
+      ],
+      "duration": "01:12:08",
+      "round": "Round of 32",
+      "date": "2015-09-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Dennis Nevolo",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6"
+          ],
+          "name": "Adrien Bossel",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:39:46",
+      "round": "Round of 32",
+      "date": "2015-09-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Dennis Novikov",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marek Michalicka",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:21:44",
+      "round": "Round of 32",
+      "date": "2015-09-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Dustin Brown",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Sekou Bangoura",
+          "country": "US"
+        }
+      ],
+      "duration": "01:13:15",
+      "round": "Round of 32",
+      "date": "2015-09-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "3"
+          ],
+          "name": "Francis Tiafoe",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Blaz Rola",
+          "country": "SI"
+        }
+      ],
+      "duration": "02:13:36",
+      "round": "Round of 32",
+      "date": "2015-09-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Henri Laaksonen",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Andre Goeransson",
+          "country": "SE"
+        }
+      ],
+      "duration": "01:20:23",
+      "round": "Round of 32",
+      "date": "2015-09-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "James McGee",
+          "country": "IE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Tim Smyczek",
+          "country": "US"
+        }
+      ],
+      "duration": "01:37:06",
+      "round": "Round of 32",
+      "date": "2015-09-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mackenzie McDonald",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Frederik Loechte Nielsen",
+          "country": "DK"
+        }
+      ],
+      "duration": "01:11:01",
+      "round": "Round of 32",
+      "date": "2015-09-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Mitchell Krueger",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "1"
+          ],
+          "name": "Philip Bester",
+          "country": "CA"
+        }
+      ],
+      "duration": "02:21:54",
+      "round": "Round of 32",
+      "date": "2015-09-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ryan Harrison",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Deiton Baughman",
+          "country": "US"
+        }
+      ],
+      "duration": "01:01:32",
+      "round": "Round of 32",
+      "date": "2015-09-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Denis Kudla",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "3"
+          ],
+          "name": "Henri Laaksonen",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:52:40",
+      "round": "Round of 16",
+      "date": "2015-09-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Dimitar Kutrovsky",
+          "country": "BG"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Blaz Rola",
+          "country": "SI"
+        }
+      ],
+      "duration": "00:59:21",
+      "round": "Round of 16",
+      "date": "2015-09-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Jared Donaldson",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Mitchell Krueger",
+          "country": "US"
+        }
+      ],
+      "duration": "01:37:29",
+      "round": "Round of 16",
+      "date": "2015-09-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Quentin Halys",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Brydan Klein",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:46:42",
+      "round": "Round of 16",
+      "date": "2015-09-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "3"
+          ],
+          "name": "Alex Kuznetsov",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Bjorn Fratangelo",
+          "country": "US"
+        }
+      ],
+      "duration": "02:18:51",
+      "round": "Round of 16",
+      "date": "2015-10-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "1"
+          ],
+          "name": "Dennis Nevolo",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Tim Smyczek",
+          "country": "US"
+        }
+      ],
+      "duration": "01:46:59",
+      "round": "Round of 16",
+      "date": "2015-10-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "3"
+          ],
+          "name": "Ryan Harrison",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Marek Michalicka",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:22:45",
+      "round": "Round of 16",
+      "date": "2015-10-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Sekou Bangoura",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "7"
+          ],
+          "name": "Mackenzie McDonald",
+          "country": "US"
+        }
+      ],
+      "duration": "02:10:38",
+      "round": "Round of 16",
+      "date": "2015-10-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Denis Kudla",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Blaz Rola",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:02:18",
+      "round": "Quarter-Final",
+      "date": "2015-10-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3"
+          ],
+          "name": "Mackenzie McDonald",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0"
+          ],
+          "name": "Bjorn Fratangelo",
+          "country": "US"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Quarter-Final",
+      "date": "2015-10-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Marek Michalicka",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tim Smyczek",
+          "country": "US"
+        }
+      ],
+      "duration": "01:13:53",
+      "round": "Quarter-Final",
+      "date": "2015-10-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Mitchell Krueger",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Quentin Halys",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:07:38",
+      "round": "Quarter-Final",
+      "date": "2015-10-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Denis Kudla",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "4"
+          ],
+          "name": "Mackenzie McDonald",
+          "country": "US"
+        }
+      ],
+      "duration": "01:31:54",
+      "round": "Semi-Final",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tim Smyczek",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Quentin Halys",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:00:44",
+      "round": "Semi-Final",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Denis Kudla",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "7"
+          ],
+          "name": "Tim Smyczek",
+          "country": "US"
+        }
+      ],
+      "duration": "01:54:38",
+      "round": "Championship",
+      "date": "2015-10-04"
+    }
+  ],
+  "players": [
+    "Adrien Bossel",
+    "Alex Kuznetsov",
+    "Andre Goeransson",
+    "Bjorn Fratangelo",
+    "Blaz Rola",
+    "Brydan Klein",
+    "Chase Buchanan",
+    "Connor Smith",
+    "Darian King",
+    "Deiton Baughman",
+    "Denis Kudla",
+    "Dennis Nevolo",
+    "Dennis Novikov",
+    "Dimitar Kutrovsky",
+    "Dustin Brown",
+    "Francis Tiafoe",
+    "Frederik Loechte Nielsen",
+    "Henri Laaksonen",
+    "James McGee",
+    "Jared Donaldson",
+    "Kyle Edmund",
+    "Mackenzie McDonald",
+    "Marek Michalicka",
+    "Mitchell Krueger",
+    "Nicolas Meister",
+    "Peter Polansky",
+    "Philip Bester",
+    "Quentin Halys",
+    "Ryan Harrison",
+    "Sekou Bangoura",
+    "Tennys Sandgren",
+    "Tim Smyczek"
+  ]
+}

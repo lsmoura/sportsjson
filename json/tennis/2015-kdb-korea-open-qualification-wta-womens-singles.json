@@ -1,0 +1,757 @@
+{
+  "name": "2015 KDB Korea Open, Qualification WTA (Women's Singles)",
+  "country": "South Korea",
+  "gender": "female",
+  "location": "Seoul",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Emily Webley-Smith",
+          "country": "GB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Da-Bin Kim",
+          "country": "KR"
+        }
+      ],
+      "duration": "01:06:40",
+      "round": "Round of 32",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Gaia Sanesi",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Ya-Hsuan Lee",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:41:07",
+      "round": "Round of 32",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "2"
+          ],
+          "name": "Ji Min Park",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ji-Hee Choi",
+          "country": "KR"
+        }
+      ],
+      "duration": "01:10:41",
+      "round": "Round of 32",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Miki Miyamura",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Nicole Vaidisova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:06:23",
+      "round": "Round of 32",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Nicha Lertpitaksinchai",
+          "country": "TH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "1"
+          ],
+          "name": "Katerina Vankova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:45:50",
+      "round": "Round of 32",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "7",
+            "6"
+          ],
+          "name": "Paula Badosa",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Ching-Wen Hsu",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:57:19",
+      "round": "Round of 32",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "Seung-Yeon Hong",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Jiajing Lu",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:34:00",
+      "round": "Round of 32",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "5"
+          ],
+          "name": "Shuko Aoyama",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "7"
+          ],
+          "name": "So-Ra Lee",
+          "country": "KR"
+        }
+      ],
+      "duration": "02:57:39",
+      "round": "Round of 32",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "1"
+          ],
+          "name": "Yuxuan Zhang",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "2",
+            "6"
+          ],
+          "name": "Ekaterina Bychkova",
+          "country": "RU"
+        }
+      ],
+      "duration": "02:11:48",
+      "round": "Round of 32",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Aliaksandra Sasnovich",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Peangtarn Plipuech",
+          "country": "TH"
+        }
+      ],
+      "duration": "01:00:00",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Hyun-Hui Hong",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Natela Dzalamidze",
+          "country": "RU"
+        }
+      ],
+      "duration": "02:08:17",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Ji-Hee Choi",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ekaterina Bychkova",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:09:16",
+      "round": "Round of 16",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Jin-Ju Lee",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kateryna Kozlova",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:01:00",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Kotomi Takahata",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ksenia Lykina",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:06:45",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nicole Melichar",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Miki Miyamura",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:17:38",
+      "round": "Round of 16",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Paula Badosa",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Emily Webley-Smith",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:04:45",
+      "round": "Round of 16",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Polina Monova",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nicole Melichar",
+          "country": "US"
+        }
+      ],
+      "duration": "01:22:08",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "So-Ra Lee",
+          "country": "KR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "4"
+          ],
+          "name": "Nicha Lertpitaksinchai",
+          "country": "TH"
+        }
+      ],
+      "duration": "03:00:06",
+      "round": "Round of 16",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Sung-Hee Han",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Ye-Ra Lee",
+          "country": "KR"
+        }
+      ],
+      "duration": "01:37:24",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "6"
+          ],
+          "name": "Tereza Martincova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Chang Liu",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:21:39",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Ya-Hsuan Lee",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kateryna Kozlova",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:07:34",
+      "round": "Round of 16",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Aliaksandra Sasnovich",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Ye-Ra Lee",
+          "country": "KR"
+        }
+      ],
+      "duration": "01:00:04",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Aliaksandra Sasnovich",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "2"
+          ],
+          "name": "Jiajing Lu",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:05:08",
+      "round": "Quarter-Final",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Chang Liu",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Ksenia Lykina",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:05:52",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Chang Liu",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kateryna Kozlova",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:13:18",
+      "round": "Quarter-Final",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "2"
+          ],
+          "name": "Natela Dzalamidze",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Jiajing Lu",
+          "country": "CN"
+        }
+      ],
+      "duration": "02:04:06",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Paula Badosa",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "4"
+          ],
+          "name": "Ekaterina Bychkova",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:56:28",
+      "round": "Quarter-Final",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "So-Ra Lee",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Nicole Melichar",
+          "country": "US"
+        }
+      ],
+      "duration": "01:46:14",
+      "round": "Quarter-Final",
+      "date": "2015-09-20"
+    }
+  ],
+  "players": [
+    "Aliaksandra Sasnovich",
+    "Chang Liu",
+    "Ching-Wen Hsu",
+    "Da-Bin Kim",
+    "Ekaterina Bychkova",
+    "Emily Webley-Smith",
+    "Gaia Sanesi",
+    "Hyun-Hui Hong",
+    "Ji Min Park",
+    "Ji-Hee Choi",
+    "Jiajing Lu",
+    "Jin-Ju Lee",
+    "Katerina Vankova",
+    "Kateryna Kozlova",
+    "Kotomi Takahata",
+    "Ksenia Lykina",
+    "Miki Miyamura",
+    "Natela Dzalamidze",
+    "Nicha Lertpitaksinchai",
+    "Nicole Melichar",
+    "Nicole Vaidisova",
+    "Paula Badosa",
+    "Peangtarn Plipuech",
+    "Polina Monova",
+    "Seung-Yeon Hong",
+    "Shuko Aoyama",
+    "So-Ra Lee",
+    "Sung-Hee Han",
+    "Tereza Martincova",
+    "Ya-Hsuan Lee",
+    "Ye-Ra Lee",
+    "Yuxuan Zhang"
+  ]
+}

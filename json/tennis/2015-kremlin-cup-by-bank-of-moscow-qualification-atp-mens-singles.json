@@ -1,0 +1,751 @@
+{
+  "name": "2015 Kremlin Cup By Bank Of Moscow, Qualification ATP (Men's Singles)",
+  "country": "Russia",
+  "gender": "male",
+  "location": "Moscow",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Alexander Lobkov",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alexey Vatutin",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:05:16",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Alexander Vasilenko",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Pavel Krainik",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:38:35",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "2"
+          ],
+          "name": "Alexandr Igoshin",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tobias Kamke",
+          "country": "DE"
+        }
+      ],
+      "duration": "00:53:25",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Anton Zaytsev",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Aldin Setkic",
+          "country": "BA"
+        }
+      ],
+      "duration": "01:25:22",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Aslan Karatsev",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Vladimir Polyakov",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:49:50",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "2"
+          ],
+          "name": "Dmitry Surchenko",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pedja Krstin",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:06:12",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "7"
+          ],
+          "name": "Dmitry Tursunov",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "7",
+            "6"
+          ],
+          "name": "Daniil Medvedev",
+          "country": "RU"
+        }
+      ],
+      "duration": "02:32:04",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Dusan Lajovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "0"
+          ],
+          "name": "Alexander Perfilov",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:54:11",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "4"
+          ],
+          "name": "Evgeny Karlovskiy",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Petru Alexandru Luncanu",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:58:14",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Ilya Vasilyev",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Fedor Chervyakov",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:30:25",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Konstantin Kravchuk",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Ivan Denisov",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:44:52",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Mikhail Ledovskikh",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pere Riba",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:01:05",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Philip Davydenko",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Valery Rudnev",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:10:33",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Sergey Betov",
+          "country": "BY"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mikhail Elgin",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:09:06",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "4"
+          ],
+          "name": "Stefano Napolitano",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "5",
+            "6"
+          ],
+          "name": "Richard Muzaev",
+          "country": "RU"
+        }
+      ],
+      "duration": "02:39:25",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Vladimir Ivanov",
+          "country": "EE"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alexander Vasilenko",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Pedja Krstin",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:08:55",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Alexey Vatutin",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pere Riba",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:18:41",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Aslan Karatsev",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Fedor Chervyakov",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:18:13",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Dusan Lajovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Dmitry Tursunov",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:06:37",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Konstantin Kravchuk",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Petru Alexandru Luncanu",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:00:26",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Mikhail Elgin",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Aldin Setkic",
+          "country": "BA"
+        }
+      ],
+      "duration": "01:38:48",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Philip Davydenko",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tobias Kamke",
+          "country": "DE"
+        }
+      ],
+      "duration": "00:44:03",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "1"
+          ],
+          "name": "Richard Muzaev",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:42:00",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Aslan Karatsev",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Mikhail Elgin",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:20:13",
+      "round": "Quarter-Final",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Dusan Lajovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Tobias Kamke",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:34:38",
+      "round": "Quarter-Final",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Konstantin Kravchuk",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pere Riba",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:13:30",
+      "round": "Quarter-Final",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Alexander Vasilenko",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:24:29",
+      "round": "Quarter-Final",
+      "date": "2015-10-19"
+    }
+  ],
+  "players": [
+    "Aldin Setkic",
+    "Alexander Lobkov",
+    "Alexander Perfilov",
+    "Alexander Vasilenko",
+    "Alexandr Igoshin",
+    "Alexey Vatutin",
+    "Anton Zaytsev",
+    "Aslan Karatsev",
+    "Daniil Medvedev",
+    "Dmitry Surchenko",
+    "Dmitry Tursunov",
+    "Dusan Lajovic",
+    "Evgeny Karlovskiy",
+    "Fedor Chervyakov",
+    "Ilya Vasilyev",
+    "Ivan Denisov",
+    "Konstantin Kravchuk",
+    "Mikhail Elgin",
+    "Mikhail Ledovskikh",
+    "Pavel Krainik",
+    "Pedja Krstin",
+    "Pere Riba",
+    "Petru Alexandru Luncanu",
+    "Philip Davydenko",
+    "Richard Muzaev",
+    "Sergey Betov",
+    "Stefano Napolitano",
+    "Tatsuma Ito",
+    "Tobias Kamke",
+    "Valery Rudnev",
+    "Vladimir Ivanov",
+    "Vladimir Polyakov"
+  ]
+}

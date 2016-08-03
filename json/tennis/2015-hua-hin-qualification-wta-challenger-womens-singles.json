@@ -13,6 +13,110 @@
             "6",
             "6"
           ],
+          "name": "Jiajing Lu",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Plobrung Plipuech",
+          "country": "TH"
+        }
+      ],
+      "duration": "00:40:55",
+      "round": "Round of 16",
+      "date": "2015-11-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Ksenia Lykina",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "3"
+          ],
+          "name": "Emily Webley-Smith",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:42:48",
+      "round": "Round of 16",
+      "date": "2015-11-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "1"
+          ],
+          "name": "Nicha Lertpitaksinchai",
+          "country": "TH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "0",
+            "6",
+            "6"
+          ],
+          "name": "Jingjing Lu",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:19:56",
+      "round": "Round of 16",
+      "date": "2015-11-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yifan Xu",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Elena Bogdan",
+          "country": "RO"
+        }
+      ],
+      "duration": "00:55:52",
+      "round": "Round of 16",
+      "date": "2015-11-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
           "name": "Chang Liu",
           "country": "CN"
         },
@@ -216,12 +320,16 @@
     "Akgul Amanmuradova",
     "Carolin Daniels",
     "Chang Liu",
+    "Elena Bogdan",
+    "Emily Webley-Smith",
     "Jiajing Lu",
     "Jingjing Lu",
     "Ksenia Lykina",
     "Naoko Eto",
+    "Nicha Lertpitaksinchai",
     "Nudnida Luangnam",
     "Peangtarn Plipuech",
+    "Plobrung Plipuech",
     "Shuko Aoyama",
     "Tamachan Momkoonthod",
     "Yifan Xu"

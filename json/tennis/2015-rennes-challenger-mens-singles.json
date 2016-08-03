@@ -1,0 +1,836 @@
+{
+  "name": "2015 Rennes Challenger (Men's Singles)",
+  "country": "France",
+  "gender": "male",
+  "location": "Rennes",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ivan Dodig",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Artem Smirnov",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:10:46",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "7",
+            "6"
+          ],
+          "name": "Marsel Ilhan",
+          "country": "TR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "2"
+          ],
+          "name": "Enzo Couacaud",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:52:11",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Maxime Teixeira",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:19:53",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "David Guez",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Elias Ymer",
+          "country": "SE"
+        }
+      ],
+      "duration": "01:10:24",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Igor Sijsling",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Romain Jouan",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:11:28",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "James Marsalek",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Malek Jaziri",
+          "country": "TN"
+        }
+      ],
+      "duration": "00:58:27",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jonathan Eysseric",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "John-Patrick Smith",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:03:18",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "7"
+          ],
+          "name": "Karen Khachanov",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Calvin Hemery",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:11:18",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Sebastien Boltz",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Marius Copil",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:15:02",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Steve Darcis",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Jeremy Jahn",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:23:37",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Vincent Millot",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Santiago Giraldo",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:25:55",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Alexandre Sidorenko",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Luca Vanni",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:49:49",
+      "round": "Round of 32",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Ivan Dodig",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6"
+          ],
+          "name": "Marius Copil",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:50:35",
+      "round": "Round of 16",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jan Mertl",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Romain Barbosa",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:00:08",
+      "round": "Round of 32",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marsel Ilhan",
+          "country": "TR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Jonathan Eysseric",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:01:25",
+      "round": "Round of 16",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Maxime Authom",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Illya Marchenko",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:04:33",
+      "round": "Round of 32",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Maxime Janvier",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Filip Krajinovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:37:30",
+      "round": "Round of 32",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Maxime Teixeira",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Karen Khachanov",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:14:32",
+      "round": "Round of 16",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Norbert Gombos",
+          "country": "SK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Andrea Arnaboldi",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:14:51",
+      "round": "Round of 32",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "1"
+          ],
+          "name": "Alexandre Sidorenko",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Vincent Millot",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:58:17",
+      "round": "Round of 16",
+      "date": "2015-10-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1"
+          ],
+          "name": "Elias Ymer",
+          "country": "SE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4"
+          ],
+          "name": "Malek Jaziri",
+          "country": "TN"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2015-10-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jan Mertl",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Filip Krajinovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:08:24",
+      "round": "Round of 16",
+      "date": "2015-10-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "5"
+          ],
+          "name": "Norbert Gombos",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "7"
+          ],
+          "name": "Illya Marchenko",
+          "country": "UA"
+        }
+      ],
+      "duration": "02:09:01",
+      "round": "Round of 16",
+      "date": "2015-10-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Steve Darcis",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Igor Sijsling",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:04:07",
+      "round": "Round of 16",
+      "date": "2015-10-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Igor Sijsling",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Jan Mertl",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:08:29",
+      "round": "Quarter-Final",
+      "date": "2015-10-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Ivan Dodig",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Vincent Millot",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:24:05",
+      "round": "Quarter-Final",
+      "date": "2015-10-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Karen Khachanov",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Illya Marchenko",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:11:04",
+      "round": "Quarter-Final",
+      "date": "2015-10-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "2"
+          ],
+          "name": "Marsel Ilhan",
+          "country": "TR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Malek Jaziri",
+          "country": "TN"
+        }
+      ],
+      "duration": "01:36:28",
+      "round": "Quarter-Final",
+      "date": "2015-10-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Illya Marchenko",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Igor Sijsling",
+          "country": "NL"
+        }
+      ],
+      "duration": "02:17:28",
+      "round": "Semi-Final",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Malek Jaziri",
+          "country": "TN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Ivan Dodig",
+          "country": "HR"
+        }
+      ],
+      "duration": "02:27:02",
+      "round": "Semi-Final",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "5",
+            "4"
+          ],
+          "name": "Igor Sijsling",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "7",
+            "6"
+          ],
+          "name": "Malek Jaziri",
+          "country": "TN"
+        }
+      ],
+      "duration": "02:12:46",
+      "round": "Championship",
+      "date": "2015-10-18"
+    }
+  ],
+  "players": [
+    "Alexandre Sidorenko",
+    "Andrea Arnaboldi",
+    "Artem Smirnov",
+    "Calvin Hemery",
+    "David Guez",
+    "Elias Ymer",
+    "Enzo Couacaud",
+    "Filip Krajinovic",
+    "Igor Sijsling",
+    "Illya Marchenko",
+    "Ivan Dodig",
+    "James Marsalek",
+    "Jan Mertl",
+    "Jeremy Jahn",
+    "John-Patrick Smith",
+    "Jonathan Eysseric",
+    "Karen Khachanov",
+    "Luca Vanni",
+    "Malek Jaziri",
+    "Marius Copil",
+    "Marsel Ilhan",
+    "Maxime Authom",
+    "Maxime Janvier",
+    "Maxime Teixeira",
+    "Norbert Gombos",
+    "Robin Haase",
+    "Romain Barbosa",
+    "Romain Jouan",
+    "Santiago Giraldo",
+    "Sebastien Boltz",
+    "Steve Darcis",
+    "Vincent Millot"
+  ]
+}

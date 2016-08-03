@@ -1,0 +1,375 @@
+{
+  "name": "2015 Casablanca2, Qualification Challenger (Men's Singles)",
+  "country": "Morocco",
+  "gender": "male",
+  "location": "Casablanca",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "David Perez",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Walid Mountassir",
+          "country": "MA"
+        }
+      ],
+      "duration": "00:48:18",
+      "round": "Round of 16",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Khalid Allouch",
+          "country": "MA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marcin Gawron",
+          "country": "PL"
+        }
+      ],
+      "duration": "00:45:18",
+      "round": "Round of 16",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Laslo Djere",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Tomasz Bednarek",
+          "country": "PL"
+        }
+      ],
+      "duration": "01:07:40",
+      "round": "Round of 16",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4"
+          ],
+          "name": "Mateusz Kowalczyk",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tomislav Brkic",
+          "country": "BA"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [],
+          "name": "Reda Karakhi",
+          "country": "MA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [],
+          "name": "Stephan Fransen",
+          "country": "NL"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Simohamed Hirs",
+          "country": "MA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Taha Tifnouti",
+          "country": "MA"
+        }
+      ],
+      "duration": "01:16:43",
+      "round": "Round of 32",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Thomas Giraudeau",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Danilo Petrovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "00:49:51",
+      "round": "Round of 16",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "David Perez",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Marcin Gawron",
+          "country": "PL"
+        }
+      ],
+      "duration": "01:38:54",
+      "round": "Quarter-Final",
+      "date": "2015-10-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Grzegorz Panfil",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Ayoub Chakrouni",
+          "country": "MA"
+        }
+      ],
+      "duration": "21:56:47",
+      "round": "Round of 16",
+      "date": "2015-10-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Grzegorz Panfil",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Danilo Petrovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Quarter-Final",
+      "date": "2015-10-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3"
+          ],
+          "name": "Laslo Djere",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0"
+          ],
+          "name": "Tomislav Brkic",
+          "country": "BA"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Quarter-Final",
+      "date": "2015-10-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Maxime Hamou",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Stephan Fransen",
+          "country": "NL"
+        }
+      ],
+      "duration": "00:41:27",
+      "round": "Quarter-Final",
+      "date": "2015-10-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Maxime Hamou",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "0"
+          ],
+          "name": "Taha Tifnouti",
+          "country": "MA"
+        }
+      ],
+      "duration": "00:39:23",
+      "round": "Round of 16",
+      "date": "2015-10-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "2",
+            "7"
+          ],
+          "name": "Stephan Fransen",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "5"
+          ],
+          "name": "Ilija Vucic",
+          "country": "RS"
+        }
+      ],
+      "duration": "21:48:09",
+      "round": "Round of 16",
+      "date": "2015-10-11"
+    }
+  ],
+  "players": [
+    "Ayoub Chakrouni",
+    "Danilo Petrovic",
+    "David Perez",
+    "Grzegorz Panfil",
+    "Ilija Vucic",
+    "Khalid Allouch",
+    "Laslo Djere",
+    "Marcin Gawron",
+    "Mateusz Kowalczyk",
+    "Maxime Hamou",
+    "Reda Karakhi",
+    "Simohamed Hirs",
+    "Stephan Fransen",
+    "Taha Tifnouti",
+    "Thomas Giraudeau",
+    "Tomasz Bednarek",
+    "Tomislav Brkic",
+    "Walid Mountassir"
+  ]
+}

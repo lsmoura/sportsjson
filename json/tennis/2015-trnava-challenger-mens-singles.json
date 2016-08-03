@@ -1,0 +1,828 @@
+{
+  "name": "2015 Trnava Challenger (Men's Singles)",
+  "country": "Slovakia",
+  "gender": "male",
+  "location": "Trnava",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Albert Montanes",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Martin Blasko",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:06:56",
+      "round": "Round of 32",
+      "date": "2015-09-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "2"
+          ],
+          "name": "Dominik Sproch",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Michael Linzer",
+          "country": "AT"
+        }
+      ],
+      "duration": "00:57:15",
+      "round": "Round of 32",
+      "date": "2015-09-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Alex Molcan",
+          "country": "SK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jan Satral",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:01:52",
+      "round": "Round of 32",
+      "date": "2015-09-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Andrej Martin",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Stephane Robert",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:17:21",
+      "round": "Round of 32",
+      "date": "2015-09-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Artem Smirnov",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Lenny Hampel",
+          "country": "AT"
+        }
+      ],
+      "duration": "00:48:20",
+      "round": "Round of 32",
+      "date": "2015-09-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "0",
+            "7"
+          ],
+          "name": "Federico Gaio",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "5"
+          ],
+          "name": "Vaclav Safranek",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:48:44",
+      "round": "Round of 32",
+      "date": "2015-09-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Gerald Melzer",
+          "country": "AT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "3"
+          ],
+          "name": "Thiemo de Bakker",
+          "country": "NL"
+        }
+      ],
+      "duration": "02:19:12",
+      "round": "Round of 32",
+      "date": "2015-09-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4"
+          ],
+          "name": "Horacio Zeballos",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0"
+          ],
+          "name": "Rui Machado",
+          "country": "PT"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-09-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Jaroslav Pospisil",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Dusan Lojda",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:10:22",
+      "round": "Round of 32",
+      "date": "2015-09-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Marek Michalicka",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marton Fucsovics",
+          "country": "HU"
+        }
+      ],
+      "duration": "01:43:31",
+      "round": "Round of 32",
+      "date": "2015-09-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Miloslav Mecir",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kamil Majchrzak",
+          "country": "PL"
+        }
+      ],
+      "duration": "01:00:57",
+      "round": "Round of 32",
+      "date": "2015-09-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "7"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Riccardo Bellotti",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:12:20",
+      "round": "Round of 32",
+      "date": "2015-09-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Uladzimir Ignatik",
+          "country": "BY"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Inigo Cervantes",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:48:40",
+      "round": "Round of 32",
+      "date": "2015-09-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Artem Dubrivnyy",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Adam Pavlasek",
+          "country": "CZ"
+        }
+      ],
+      "duration": "00:57:11",
+      "round": "Round of 32",
+      "date": "2015-09-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Artem Smirnov",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gerald Melzer",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:11:10",
+      "round": "Round of 16",
+      "date": "2015-09-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Franco Skugor",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "3"
+          ],
+          "name": "Lorenzo Giustino",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:24:41",
+      "round": "Round of 32",
+      "date": "2015-09-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Horacio Zeballos",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Dusan Lojda",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:07:53",
+      "round": "Round of 16",
+      "date": "2015-09-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Michael Linzer",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:08:27",
+      "round": "Round of 16",
+      "date": "2015-09-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Stephane Robert",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Federico Gaio",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:22:46",
+      "round": "Round of 16",
+      "date": "2015-09-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Taro Daniel",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Tristan Samuel Weissborn",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:25:33",
+      "round": "Round of 32",
+      "date": "2015-09-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Albert Montanes",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Alex Molcan",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:31:41",
+      "round": "Round of 16",
+      "date": "2015-09-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Franco Skugor",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Inigo Cervantes",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:48:01",
+      "round": "Round of 16",
+      "date": "2015-09-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Kamil Majchrzak",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Adam Pavlasek",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:30:18",
+      "round": "Round of 16",
+      "date": "2015-09-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "5"
+          ],
+          "name": "Taro Daniel",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Marton Fucsovics",
+          "country": "HU"
+        }
+      ],
+      "duration": "01:39:37",
+      "round": "Round of 16",
+      "date": "2015-09-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Albert Montanes",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Adam Pavlasek",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:12:26",
+      "round": "Quarter-Final",
+      "date": "2015-09-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Horacio Zeballos",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Stephane Robert",
+          "country": "FR"
+        }
+      ],
+      "duration": "00:57:35",
+      "round": "Quarter-Final",
+      "date": "2015-09-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "0",
+            "3"
+          ],
+          "name": "Marton Fucsovics",
+          "country": "HU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Franco Skugor",
+          "country": "HR"
+        }
+      ],
+      "duration": "02:14:00",
+      "round": "Quarter-Final",
+      "date": "2015-09-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Franco Skugor",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Horacio Zeballos",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:11:20",
+      "round": "Semi-Final",
+      "date": "2015-09-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Albert Montanes",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:03:10",
+      "round": "Semi-Final",
+      "date": "2015-09-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "3"
+          ],
+          "name": "Gerald Melzer",
+          "country": "AT"
+        }
+      ],
+      "duration": "23:15:06",
+      "round": "Quarter-Final",
+      "date": "2015-09-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Horacio Zeballos",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:02:21",
+      "round": "Championship",
+      "date": "2015-09-27"
+    }
+  ],
+  "players": [
+    "Adam Pavlasek",
+    "Albert Montanes",
+    "Alex Molcan",
+    "Andrej Martin",
+    "Artem Dubrivnyy",
+    "Artem Smirnov",
+    "Dominik Sproch",
+    "Dusan Lojda",
+    "Federico Gaio",
+    "Franco Skugor",
+    "Gerald Melzer",
+    "Horacio Zeballos",
+    "Inigo Cervantes",
+    "Jan Satral",
+    "Jaroslav Pospisil",
+    "Kamil Majchrzak",
+    "Lenny Hampel",
+    "Lorenzo Giustino",
+    "Marek Michalicka",
+    "Martin Blasko",
+    "Marton Fucsovics",
+    "Michael Linzer",
+    "Miloslav Mecir",
+    "Riccardo Bellotti",
+    "Robin Haase",
+    "Rui Machado",
+    "Stephane Robert",
+    "Taro Daniel",
+    "Thiemo de Bakker",
+    "Tristan Samuel Weissborn",
+    "Uladzimir Ignatik",
+    "Vaclav Safranek"
+  ]
+}

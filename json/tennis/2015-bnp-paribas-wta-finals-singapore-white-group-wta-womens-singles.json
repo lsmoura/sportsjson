@@ -1,0 +1,167 @@
+{
+  "name": "2015 BNP Paribas WTA Finals Singapore White group WTA (Women's Singles)",
+  "country": "Singapore",
+  "gender": "female",
+  "location": "Singapore",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Garbine Muguruza",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Lucie Safarova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:56:38",
+      "round": "Quarter-Final",
+      "date": "2015-10-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Petra Kvitova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Angelique Kerber",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:45:04",
+      "round": "Quarter-Final",
+      "date": "2015-10-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Garbine Muguruza",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Angelique Kerber",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:38:27",
+      "round": "Quarter-Final",
+      "date": "2015-10-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Petra Kvitova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "5"
+          ],
+          "name": "Lucie Safarova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:11:22",
+      "round": "Quarter-Final",
+      "date": "2015-10-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Angelique Kerber",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lucie Safarova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:27:17",
+      "round": "Quarter-Final",
+      "date": "2015-10-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "7"
+          ],
+          "name": "Garbine Muguruza",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "5"
+          ],
+          "name": "Petra Kvitova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:33:27",
+      "round": "Quarter-Final",
+      "date": "2015-10-30"
+    }
+  ],
+  "players": [
+    "Angelique Kerber",
+    "Garbine Muguruza",
+    "Lucie Safarova",
+    "Petra Kvitova"
+  ]
+}

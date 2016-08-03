@@ -1,0 +1,834 @@
+{
+  "name": "2015 Istanbul2 Challenger (Men's Singles)",
+  "country": "Turkey",
+  "gender": "male",
+  "location": "Istanbul",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Anton Zaytsev",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yannick Mertens",
+          "country": "BE"
+        }
+      ],
+      "duration": "00:56:28",
+      "round": "Round of 32",
+      "date": "2015-09-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Elias Ymer",
+          "country": "SE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Anil Yuksel",
+          "country": "TR"
+        }
+      ],
+      "duration": "00:51:31",
+      "round": "Round of 32",
+      "date": "2015-09-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Marius Copil",
+          "country": "RO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Aleksandre Metreveli",
+          "country": "GE"
+        }
+      ],
+      "duration": "01:30:05",
+      "round": "Round of 32",
+      "date": "2015-09-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Aldin Setkic",
+          "country": "BA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniel Masur",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:11:14",
+      "round": "Round of 32",
+      "date": "2015-09-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "3"
+          ],
+          "name": "Aleksandr Nedovyesov",
+          "country": "KZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Karen Khachanov",
+          "country": "RU"
+        }
+      ],
+      "duration": "02:36:33",
+      "round": "Round of 32",
+      "date": "2015-09-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alexander Kudryavtsev",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Vincent Millot",
+          "country": "FR"
+        }
+      ],
+      "duration": "00:51:36",
+      "round": "Round of 32",
+      "date": "2015-09-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Andrei Vasilevski",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Mikhail Ledovskikh",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:33:20",
+      "round": "Round of 32",
+      "date": "2015-09-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andrey Kuznetsov",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Markus Eriksson",
+          "country": "SE"
+        }
+      ],
+      "duration": "00:56:43",
+      "round": "Round of 32",
+      "date": "2015-09-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Aslan Karatsev",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "1"
+          ],
+          "name": "Marsel Ilhan",
+          "country": "TR"
+        }
+      ],
+      "duration": "02:00:54",
+      "round": "Round of 32",
+      "date": "2015-09-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Baris Erguden",
+          "country": "TR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Adrian Menendez",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:03:08",
+      "round": "Round of 32",
+      "date": "2015-09-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Dzmitry Zhyrmont",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Barkin Yalcinkale",
+          "country": "TR"
+        }
+      ],
+      "duration": "00:58:01",
+      "round": "Round of 32",
+      "date": "2015-09-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Erik Crepaldi",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mirza Basic",
+          "country": "BA"
+        }
+      ],
+      "duration": "01:12:03",
+      "round": "Round of 32",
+      "date": "2015-09-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Hiroyasu Ehara",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nils Langer",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:03:52",
+      "round": "Round of 32",
+      "date": "2015-09-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ivan Bjelica",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "0"
+          ],
+          "name": "Ivan Gakhov",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:11:29",
+      "round": "Round of 32",
+      "date": "2015-09-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Marco Bortolotti",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Radu Albot",
+          "country": "MD"
+        }
+      ],
+      "duration": "01:07:33",
+      "round": "Round of 32",
+      "date": "2015-09-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Sergiy Stakhovsky",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "4"
+          ],
+          "name": "Ilya Ivashka",
+          "country": "BY"
+        }
+      ],
+      "duration": "01:40:25",
+      "round": "Round of 32",
+      "date": "2015-09-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Alexander Kudryavtsev",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Aslan Karatsev",
+          "country": "RU"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2015-09-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Elias Ymer",
+          "country": "SE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Ivan Bjelica",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:48:35",
+      "round": "Round of 16",
+      "date": "2015-09-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Karen Khachanov",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Daniel Masur",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:02:39",
+      "round": "Round of 16",
+      "date": "2015-09-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Yannick Mertens",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "6"
+          ],
+          "name": "Radu Albot",
+          "country": "MD"
+        }
+      ],
+      "duration": "01:24:15",
+      "round": "Round of 16",
+      "date": "2015-09-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Andrei Vasilevski",
+          "country": "BY"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Mirza Basic",
+          "country": "BA"
+        }
+      ],
+      "duration": "01:19:44",
+      "round": "Round of 16",
+      "date": "2015-09-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "Andrey Kuznetsov",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "3"
+          ],
+          "name": "Dzmitry Zhyrmont",
+          "country": "BY"
+        }
+      ],
+      "duration": "01:47:10",
+      "round": "Round of 16",
+      "date": "2015-09-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Marius Copil",
+          "country": "RO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "4"
+          ],
+          "name": "Adrian Menendez",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:09:04",
+      "round": "Round of 16",
+      "date": "2015-09-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "7",
+            "7"
+          ],
+          "name": "Sergiy Stakhovsky",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "5"
+          ],
+          "name": "Nils Langer",
+          "country": "DE"
+        }
+      ],
+      "duration": "02:09:48",
+      "round": "Round of 16",
+      "date": "2015-09-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Andrey Kuznetsov",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "5"
+          ],
+          "name": "Mirza Basic",
+          "country": "BA"
+        }
+      ],
+      "duration": "02:04:16",
+      "round": "Quarter-Final",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Elias Ymer",
+          "country": "SE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Yannick Mertens",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:15:11",
+      "round": "Quarter-Final",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Karen Khachanov",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Aslan Karatsev",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:35:09",
+      "round": "Quarter-Final",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sergiy Stakhovsky",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Marius Copil",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:02:24",
+      "round": "Quarter-Final",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sergiy Stakhovsky",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Andrey Kuznetsov",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:05:33",
+      "round": "Semi-Final",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Yannick Mertens",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Karen Khachanov",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:52:18",
+      "round": "Semi-Final",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "3"
+          ],
+          "name": "Sergiy Stakhovsky",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Karen Khachanov",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:57:45",
+      "round": "Championship",
+      "date": "2015-09-20"
+    }
+  ],
+  "players": [
+    "Adrian Menendez",
+    "Aldin Setkic",
+    "Aleksandr Nedovyesov",
+    "Aleksandre Metreveli",
+    "Alexander Kudryavtsev",
+    "Andrei Vasilevski",
+    "Andrey Kuznetsov",
+    "Anil Yuksel",
+    "Anton Zaytsev",
+    "Aslan Karatsev",
+    "Baris Erguden",
+    "Barkin Yalcinkale",
+    "Daniel Masur",
+    "Dzmitry Zhyrmont",
+    "Elias Ymer",
+    "Erik Crepaldi",
+    "Hiroyasu Ehara",
+    "Ilya Ivashka",
+    "Ivan Bjelica",
+    "Ivan Gakhov",
+    "Karen Khachanov",
+    "Marco Bortolotti",
+    "Marius Copil",
+    "Markus Eriksson",
+    "Marsel Ilhan",
+    "Mikhail Ledovskikh",
+    "Mirza Basic",
+    "Nils Langer",
+    "Radu Albot",
+    "Sergiy Stakhovsky",
+    "Vincent Millot",
+    "Yannick Mertens"
+  ]
+}

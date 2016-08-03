@@ -1,0 +1,467 @@
+{
+  "name": "2015 Izmir, Qualification Challenger (Men's Singles)",
+  "country": "Turkey",
+  "gender": "male",
+  "location": "Izmir",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Ben Patael",
+          "country": "IL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Constantin Belot",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:29:53",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Berk Iliescu",
+          "country": "TR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Keisuke Numajiri",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:00:35",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "4"
+          ],
+          "name": "David Rice",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "2",
+            "6"
+          ],
+          "name": "Stefanos Tsitsipas",
+          "country": "GR"
+        }
+      ],
+      "duration": "02:08:14",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [],
+          "name": "Djordje Djokovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [],
+          "name": "Gustavo Guerses",
+          "country": "BR"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Ruben Gonzales",
+          "country": "PH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andrei Vasilevski",
+          "country": "BY"
+        }
+      ],
+      "duration": "01:00:45",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Andrei Vasilevski",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "2"
+          ],
+          "name": "Cem Ilkel",
+          "country": "TR"
+        }
+      ],
+      "duration": "01:53:04",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniel Masur",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Efe Yurtacan",
+          "country": "TR"
+        }
+      ],
+      "duration": "01:23:02",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "2"
+          ],
+          "name": "Gleb Alekseenko",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Michal Konecny",
+          "country": "CZ"
+        }
+      ],
+      "duration": "00:56:56",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Gustavo Guerses",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Aleksandre Metreveli",
+          "country": "GE"
+        }
+      ],
+      "duration": "00:56:17",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "3"
+          ],
+          "name": "Hiroyasu Ehara",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Stefanos Tsitsipas",
+          "country": "GR"
+        }
+      ],
+      "duration": "01:23:22",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ilya Ivashka",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Constantin Belot",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:16:46",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Keisuke Numajiri",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Petros Chrysochos",
+          "country": "CY"
+        }
+      ],
+      "duration": "00:57:39",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Maximilian Neuchrist",
+          "country": "AT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Vadim Alekseenko",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:02:15",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "7",
+            "6"
+          ],
+          "name": "Daniel Masur",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "0"
+          ],
+          "name": "Michal Konecny",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:30:22",
+      "round": "Quarter-Final",
+      "date": "2015-09-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Ilya Ivashka",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "1"
+          ],
+          "name": "Andrei Vasilevski",
+          "country": "BY"
+        }
+      ],
+      "duration": "02:00:32",
+      "round": "Quarter-Final",
+      "date": "2015-09-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "7",
+            "5"
+          ],
+          "name": "Maximilian Neuchrist",
+          "country": "AT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "5",
+            "7"
+          ],
+          "name": "Aleksandre Metreveli",
+          "country": "GE"
+        }
+      ],
+      "duration": "02:36:52",
+      "round": "Quarter-Final",
+      "date": "2015-09-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "3"
+          ],
+          "name": "Stefanos Tsitsipas",
+          "country": "GR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Petros Chrysochos",
+          "country": "CY"
+        }
+      ],
+      "duration": "01:36:19",
+      "round": "Quarter-Final",
+      "date": "2015-09-21"
+    }
+  ],
+  "players": [
+    "Aleksandre Metreveli",
+    "Andrei Vasilevski",
+    "Ben Patael",
+    "Berk Iliescu",
+    "Cem Ilkel",
+    "Constantin Belot",
+    "Daniel Masur",
+    "David Rice",
+    "Djordje Djokovic",
+    "Efe Yurtacan",
+    "Gleb Alekseenko",
+    "Gustavo Guerses",
+    "Hiroyasu Ehara",
+    "Ilya Ivashka",
+    "Keisuke Numajiri",
+    "Maximilian Neuchrist",
+    "Michal Konecny",
+    "Petros Chrysochos",
+    "Ruben Gonzales",
+    "Stefanos Tsitsipas",
+    "Vadim Alekseenko"
+  ]
+}

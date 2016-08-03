@@ -8,6 +8,714 @@
     {
       "players": [
         {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Di Wu",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Laurent Rochette",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:08:32",
+      "round": "Round of 32",
+      "date": "2015-11-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Germain Gigounon",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Puriwat Chatpatcharoen",
+          "country": "TH"
+        }
+      ],
+      "duration": "01:21:23",
+      "round": "Round of 32",
+      "date": "2015-11-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Riccardo Ghedin",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Kittipong Wachiramanowong",
+          "country": "TH"
+        }
+      ],
+      "duration": "00:51:23",
+      "round": "Round of 32",
+      "date": "2015-11-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Jirat Navasirisomboon",
+          "country": "TH"
+        }
+      ],
+      "duration": "00:45:30",
+      "round": "Round of 32",
+      "date": "2015-11-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yannick Mertens",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Tristan Lamasine",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:00:20",
+      "round": "Round of 32",
+      "date": "2015-11-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yen-Hsun Lu",
+          "country": "TW"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Tsung-Hua Yang",
+          "country": "TW"
+        }
+      ],
+      "duration": "00:55:24",
+      "round": "Round of 32",
+      "date": "2015-11-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "3"
+          ],
+          "name": "Adrian Menendez",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Amir Weintraub",
+          "country": "IL"
+        }
+      ],
+      "duration": "02:14:02",
+      "round": "Round of 32",
+      "date": "2015-11-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Alexander Kudryavtsev",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Yoshihito Nishioka",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:11:42",
+      "round": "Round of 32",
+      "date": "2015-11-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3"
+          ],
+          "name": "Hiroki Moriya",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "0"
+          ],
+          "name": "Yan Bai",
+          "country": "CN"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-11-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Nils Langer",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Dudi Sela",
+          "country": "IL"
+        }
+      ],
+      "duration": "01:28:45",
+      "round": "Round of 32",
+      "date": "2015-11-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Ze Zhang",
+          "country": "CN"
+        }
+      ],
+      "duration": "00:48:23",
+      "round": "Round of 32",
+      "date": "2015-11-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Stephane Robert",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Toshihide Matsui",
+          "country": "JP"
+        }
+      ],
+      "duration": "00:51:43",
+      "round": "Round of 32",
+      "date": "2015-11-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Thomas Fabbiano",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Juergen Zopp",
+          "country": "EE"
+        }
+      ],
+      "duration": "00:43:49",
+      "round": "Round of 32",
+      "date": "2015-11-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Ti Chen",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Evgeny Donskoy",
+          "country": "RU"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-11-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Warit Sornbutnark",
+          "country": "TH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Pruchya Isarow",
+          "country": "TH"
+        }
+      ],
+      "duration": "01:46:58",
+      "round": "Round of 32",
+      "date": "2015-11-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0"
+          ],
+          "name": "Yuki Bhambri",
+          "country": "IN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-11-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Riccardo Ghedin",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nils Langer",
+          "country": "DE"
+        }
+      ],
+      "duration": "00:41:55",
+      "round": "Round of 16",
+      "date": "2015-11-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Puriwat Chatpatcharoen",
+          "country": "TH"
+        }
+      ],
+      "duration": "01:08:30",
+      "round": "Round of 16",
+      "date": "2015-11-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "5",
+            "6"
+          ],
+          "name": "Yannick Mertens",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "7",
+            "7"
+          ],
+          "name": "Juergen Zopp",
+          "country": "EE"
+        }
+      ],
+      "duration": "01:52:42",
+      "round": "Round of 16",
+      "date": "2015-11-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Yen-Hsun Lu",
+          "country": "TW"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Di Wu",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:22:38",
+      "round": "Round of 16",
+      "date": "2015-11-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Amir Weintraub",
+          "country": "IL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Hiroki Moriya",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:45:24",
+      "round": "Round of 16",
+      "date": "2015-11-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Yoshihito Nishioka",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:18:50",
+      "round": "Round of 16",
+      "date": "2015-11-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Stephane Robert",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "4"
+          ],
+          "name": "Evgeny Donskoy",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:38:27",
+      "round": "Round of 16",
+      "date": "2015-11-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Pruchya Isarow",
+          "country": "TH"
+        }
+      ],
+      "duration": "00:57:44",
+      "round": "Round of 16",
+      "date": "2015-11-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "1"
+          ],
+          "name": "Hiroki Moriya",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Stephane Robert",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:28:05",
+      "round": "Quarter-Final",
+      "date": "2015-11-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Nils Langer",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:27:33",
+      "round": "Quarter-Final",
+      "date": "2015-11-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Yen-Hsun Lu",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "0",
+            "7",
+            "7"
+          ],
+          "name": "Juergen Zopp",
+          "country": "EE"
+        }
+      ],
+      "duration": "01:58:01",
+      "round": "Quarter-Final",
+      "date": "2015-11-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Yoshihito Nishioka",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:46:11",
+      "round": "Quarter-Final",
+      "date": "2015-11-06"
+    },
+    {
+      "players": [
+        {
           "is_winner": false,
           "set_games": [
             "5",
@@ -86,9 +794,37 @@
     }
   ],
   "players": [
+    "Adrian Menendez",
+    "Alexander Kudryavtsev",
+    "Amir Weintraub",
+    "Di Wu",
+    "Dudi Sela",
+    "Evgeny Donskoy",
+    "Germain Gigounon",
+    "Hiroki Moriya",
+    "Jirat Navasirisomboon",
     "Juergen Zopp",
+    "Kittipong Wachiramanowong",
+    "Laurent Rochette",
+    "Nils Langer",
+    "Peter Gojowczyk",
+    "Pruchya Isarow",
+    "Puriwat Chatpatcharoen",
+    "Riccardo Ghedin",
     "Stephane Robert",
     "Tatsuma Ito",
-    "Yuichi Sugita"
+    "Thomas Fabbiano",
+    "Ti Chen",
+    "Toshihide Matsui",
+    "Tristan Lamasine",
+    "Tsung-Hua Yang",
+    "Warit Sornbutnark",
+    "Yan Bai",
+    "Yannick Mertens",
+    "Yen-Hsun Lu",
+    "Yoshihito Nishioka",
+    "Yuichi Sugita",
+    "Yuki Bhambri",
+    "Ze Zhang"
   ]
 }

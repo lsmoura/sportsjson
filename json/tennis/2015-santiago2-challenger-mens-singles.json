@@ -1,0 +1,846 @@
+{
+  "name": "2015 Santiago2 Challenger (Men's Singles)",
+  "country": "Chile",
+  "gender": "male",
+  "location": "Santiago",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "1"
+          ],
+          "name": "Axel Michon",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Andre Ghem",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:05:41",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Carlos Berlocq",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Jose Pereira",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:01:09",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "7"
+          ],
+          "name": "Diego Sebastian Schwartzman",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Jordi Samper",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:18:21",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Gastao Elias",
+          "country": "PT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "1"
+          ],
+          "name": "Marcelo Barrios",
+          "country": "CL"
+        }
+      ],
+      "duration": "02:04:00",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gonzalo Lama",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Christian Lindell",
+          "country": "SE"
+        }
+      ],
+      "duration": "01:34:50",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Hans Podlipnik",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Bastian Malla",
+          "country": "CL"
+        }
+      ],
+      "duration": "01:12:02",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Horacio Zeballos",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "4"
+          ],
+          "name": "Guilherme Clezar",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:19:28",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Joao Souza",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Christian Garin",
+          "country": "CL"
+        }
+      ],
+      "duration": "01:15:25",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Juan Carlos Saez",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "5"
+          ],
+          "name": "Fernando Romboli",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:21:55",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Marco Trungelliti",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Kimmer Coppejans",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:58:23",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Maximo Gonzalez",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Vicente Lagos",
+          "country": "CL"
+        }
+      ],
+      "duration": "00:58:03",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2"
+          ],
+          "name": "Michael Linzer",
+          "country": "AT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1"
+          ],
+          "name": "Rogerio Dutra Silva",
+          "country": "BR"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Carlos Berlocq",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "3"
+          ],
+          "name": "Gonzalo Lama",
+          "country": "CL"
+        }
+      ],
+      "duration": "02:12:08",
+      "round": "Round of 16",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Carlos Eduardo Severino",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alejandro Gonzalez",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:14:43",
+      "round": "Round of 32",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "2"
+          ],
+          "name": "Facundo Bagnis",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Thiago Monteiro",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:25:46",
+      "round": "Round of 32",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Francisco Bahamonde",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Andrej Martin",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:08:14",
+      "round": "Round of 32",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Gonzalo Escobar",
+          "country": "EC"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "4"
+          ],
+          "name": "Nicolas Kicker",
+          "country": "AR"
+        }
+      ],
+      "duration": "03:02:23",
+      "round": "Round of 32",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Hans Podlipnik",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "2"
+          ],
+          "name": "Kimmer Coppejans",
+          "country": "BE"
+        }
+      ],
+      "duration": "02:06:51",
+      "round": "Round of 16",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Diego Sebastian Schwartzman",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Maximo Gonzalez",
+          "country": "AR"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2015-10-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Francisco Bahamonde",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andre Ghem",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:11:41",
+      "round": "Round of 16",
+      "date": "2015-10-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Gonzalo Escobar",
+          "country": "EC"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Rogerio Dutra Silva",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:30:00",
+      "round": "Round of 16",
+      "date": "2015-10-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Horacio Zeballos",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Alejandro Gonzalez",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:32:20",
+      "round": "Round of 16",
+      "date": "2015-10-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "7"
+          ],
+          "name": "Joao Souza",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "6"
+          ],
+          "name": "Juan Carlos Saez",
+          "country": "CL"
+        }
+      ],
+      "duration": "02:56:12",
+      "round": "Round of 16",
+      "date": "2015-10-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "Thiago Monteiro",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Gastao Elias",
+          "country": "PT"
+        }
+      ],
+      "duration": "01:53:21",
+      "round": "Round of 16",
+      "date": "2015-10-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Carlos Berlocq",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Hans Podlipnik",
+          "country": "CL"
+        }
+      ],
+      "duration": "01:24:46",
+      "round": "Quarter-Final",
+      "date": "2015-10-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Gastao Elias",
+          "country": "PT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "7"
+          ],
+          "name": "Horacio Zeballos",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:28:22",
+      "round": "Quarter-Final",
+      "date": "2015-10-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Joao Souza",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "7"
+          ],
+          "name": "Rogerio Dutra Silva",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:46:34",
+      "round": "Quarter-Final",
+      "date": "2015-10-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Maximo Gonzalez",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "4"
+          ],
+          "name": "Andre Ghem",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:03:14",
+      "round": "Quarter-Final",
+      "date": "2015-10-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6"
+          ],
+          "name": "Carlos Berlocq",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Horacio Zeballos",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:07:26",
+      "round": "Semi-Final",
+      "date": "2015-10-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Maximo Gonzalez",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "0",
+            "6"
+          ],
+          "name": "Rogerio Dutra Silva",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:59:15",
+      "round": "Semi-Final",
+      "date": "2015-10-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "7"
+          ],
+          "name": "Rogerio Dutra Silva",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "5"
+          ],
+          "name": "Horacio Zeballos",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:34:54",
+      "round": "Championship",
+      "date": "2015-10-25"
+    }
+  ],
+  "players": [
+    "Alejandro Gonzalez",
+    "Andre Ghem",
+    "Andrej Martin",
+    "Axel Michon",
+    "Bastian Malla",
+    "Carlos Berlocq",
+    "Carlos Eduardo Severino",
+    "Christian Garin",
+    "Christian Lindell",
+    "Diego Sebastian Schwartzman",
+    "Facundo Bagnis",
+    "Fernando Romboli",
+    "Francisco Bahamonde",
+    "Gastao Elias",
+    "Gonzalo Escobar",
+    "Gonzalo Lama",
+    "Guilherme Clezar",
+    "Hans Podlipnik",
+    "Horacio Zeballos",
+    "Joao Souza",
+    "Jordi Samper",
+    "Jose Pereira",
+    "Juan Carlos Saez",
+    "Kimmer Coppejans",
+    "Marcelo Barrios",
+    "Marco Trungelliti",
+    "Maximo Gonzalez",
+    "Michael Linzer",
+    "Nicolas Kicker",
+    "Rogerio Dutra Silva",
+    "Thiago Monteiro",
+    "Vicente Lagos"
+  ]
+}

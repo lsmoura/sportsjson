@@ -1,0 +1,91 @@
+{
+  "name": "2015 WTA Elite Trophy Group C WTA (Women's Singles)",
+  "country": "China",
+  "gender": "female",
+  "location": "Zhuhai",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Sara Errani",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Jelena Jankovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "02:09:01",
+      "round": "Quarter-Final",
+      "date": "2015-11-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Karolina Pliskova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "2"
+          ],
+          "name": "Jelena Jankovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:57:13",
+      "round": "Quarter-Final",
+      "date": "2015-11-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Karolina Pliskova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Sara Errani",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:00:13",
+      "round": "Quarter-Final",
+      "date": "2015-11-05"
+    }
+  ],
+  "players": [
+    "Jelena Jankovic",
+    "Karolina Pliskova",
+    "Sara Errani"
+  ]
+}

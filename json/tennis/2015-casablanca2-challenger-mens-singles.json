@@ -1,0 +1,838 @@
+{
+  "name": "2015 Casablanca2 Challenger (Men's Singles)",
+  "country": "Morocco",
+  "gender": "male",
+  "location": "Casablanca",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Hicham Khaddari",
+          "country": "MA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Albert Montanes",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:04:44",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Inigo Cervantes",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Miljan Zekic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:53:46",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "5"
+          ],
+          "name": "Marcin Gawron",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "7"
+          ],
+          "name": "Mohamed Safwat",
+          "country": "EG"
+        }
+      ],
+      "duration": "02:23:24",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pere Riba",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Younes Rachidi",
+          "country": "MA"
+        }
+      ],
+      "duration": "00:45:01",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Taro Daniel",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Pedro Cachin",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:41:12",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Thiemo de Bakker",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Daniel Gimeno",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:18:48",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Adrian Ungur",
+          "country": "RO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Damir Dzumhur",
+          "country": "BA"
+        }
+      ],
+      "duration": "01:15:32",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Daniel Munoz",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "3"
+          ],
+          "name": "Danilo Petrovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:35:46",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Javier Marti",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Salvatore Caruso",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:19:19",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "2",
+            "7"
+          ],
+          "name": "Jozef Kovalik",
+          "country": "SK"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Ruben Ramirez",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:54:01",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kamil Majchrzak",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Amine Ahouda",
+          "country": "MA"
+        }
+      ],
+      "duration": "00:52:11",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "0"
+          ],
+          "name": "Laurynas Grigelis",
+          "country": "LT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Lamine Ouahab",
+          "country": "DZ"
+        }
+      ],
+      "duration": "01:11:23",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Mathias Bourgue",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Roberto Carballes",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:07:39",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Maxime Chazal",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Yassine Idmbarek",
+          "country": "MA"
+        }
+      ],
+      "duration": "00:51:47",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Maxime Hamou",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Oriol Roca",
+          "country": "ES"
+        }
+      ],
+      "duration": "00:58:02",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Laslo Djere",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:23:23",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniel Munoz",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Kamil Majchrzak",
+          "country": "PL"
+        }
+      ],
+      "duration": "01:30:00",
+      "round": "Round of 16",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Inigo Cervantes",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Oriol Roca",
+          "country": "ES"
+        }
+      ],
+      "duration": "00:58:46",
+      "round": "Round of 16",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Javier Marti",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Roberto Carballes",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:59:09",
+      "round": "Round of 16",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "7",
+            "3"
+          ],
+          "name": "Jozef Kovalik",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "5",
+            "6"
+          ],
+          "name": "Albert Montanes",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:30:26",
+      "round": "Round of 16",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Lamine Ouahab",
+          "country": "DZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Thiemo de Bakker",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:13:33",
+      "round": "Round of 16",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Laslo Djere",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Maxime Chazal",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:25:38",
+      "round": "Round of 16",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Mohamed Safwat",
+          "country": "EG"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Damir Dzumhur",
+          "country": "BA"
+        }
+      ],
+      "duration": "01:13:36",
+      "round": "Round of 16",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Taro Daniel",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "3"
+          ],
+          "name": "Pere Riba",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:12:02",
+      "round": "Round of 16",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Daniel Munoz",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Roberto Carballes",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:47:18",
+      "round": "Quarter-Final",
+      "date": "2015-10-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "2"
+          ],
+          "name": "Inigo Cervantes",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Damir Dzumhur",
+          "country": "BA"
+        }
+      ],
+      "duration": "02:05:40",
+      "round": "Quarter-Final",
+      "date": "2015-10-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "1"
+          ],
+          "name": "Laslo Djere",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Albert Montanes",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:33:27",
+      "round": "Quarter-Final",
+      "date": "2015-10-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Taro Daniel",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "4"
+          ],
+          "name": "Thiemo de Bakker",
+          "country": "NL"
+        }
+      ],
+      "duration": "02:34:29",
+      "round": "Quarter-Final",
+      "date": "2015-10-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Albert Montanes",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniel Munoz",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:12:21",
+      "round": "Semi-Final",
+      "date": "2015-10-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "7"
+          ],
+          "name": "Damir Dzumhur",
+          "country": "BA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "5"
+          ],
+          "name": "Taro Daniel",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:04:43",
+      "round": "Semi-Final",
+      "date": "2015-10-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "Daniel Munoz",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Damir Dzumhur",
+          "country": "BA"
+        }
+      ],
+      "duration": "02:25:19",
+      "round": "Championship",
+      "date": "2015-10-17"
+    }
+  ],
+  "players": [
+    "Adrian Ungur",
+    "Albert Montanes",
+    "Amine Ahouda",
+    "Damir Dzumhur",
+    "Daniel Gimeno",
+    "Daniel Munoz",
+    "Danilo Petrovic",
+    "Hicham Khaddari",
+    "Inigo Cervantes",
+    "Javier Marti",
+    "Jozef Kovalik",
+    "Kamil Majchrzak",
+    "Lamine Ouahab",
+    "Laslo Djere",
+    "Laurynas Grigelis",
+    "Marcin Gawron",
+    "Mathias Bourgue",
+    "Maxime Chazal",
+    "Maxime Hamou",
+    "Miljan Zekic",
+    "Mohamed Safwat",
+    "Oriol Roca",
+    "Paolo Lorenzi",
+    "Pedro Cachin",
+    "Pere Riba",
+    "Roberto Carballes",
+    "Ruben Ramirez",
+    "Salvatore Caruso",
+    "Taro Daniel",
+    "Thiemo de Bakker",
+    "Yassine Idmbarek",
+    "Younes Rachidi"
+  ]
+}

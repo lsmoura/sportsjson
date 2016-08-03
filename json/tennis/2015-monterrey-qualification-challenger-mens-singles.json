@@ -1,0 +1,323 @@
+{
+  "name": "2015 Monterrey, Qualification Challenger (Men's Singles)",
+  "country": "Mexico",
+  "gender": "male",
+  "location": "Monterrey",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Alexandre Tsuchiya",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "1"
+          ],
+          "name": "Ricardo Ortiz",
+          "country": "MX"
+        }
+      ],
+      "duration": "01:35:51",
+      "round": "Round of 16",
+      "date": "2015-10-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alexandre Tsuchiya",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Nikita Kryvonos",
+          "country": "US"
+        }
+      ],
+      "duration": "01:11:24",
+      "round": "Quarter-Final",
+      "date": "2015-10-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5"
+          ],
+          "name": "Cesar Ramirez",
+          "country": "MX"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0"
+          ],
+          "name": "Julian Saborio",
+          "country": "CR"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2015-10-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniel Garza",
+          "country": "MX"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Miguel Angel Reyes",
+          "country": "MX"
+        }
+      ],
+      "duration": "01:16:40",
+      "round": "Round of 16",
+      "date": "2015-10-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Daniel Garza",
+          "country": "MX"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Luis Patino",
+          "country": "MX"
+        }
+      ],
+      "duration": "01:11:12",
+      "round": "Quarter-Final",
+      "date": "2015-10-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "0"
+          ],
+          "name": "Guillermo Arrambide",
+          "country": "MX"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nikita Kryvonos",
+          "country": "US"
+        }
+      ],
+      "duration": "01:12:31",
+      "round": "Round of 16",
+      "date": "2015-10-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Joseph Cadogan",
+          "country": "TT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mauricio Astorga",
+          "country": "MX"
+        }
+      ],
+      "duration": "00:43:49",
+      "round": "Round of 16",
+      "date": "2015-10-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kaichi Uchida",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "1"
+          ],
+          "name": "Cesar Antonio Gomez Diaz",
+          "country": "MX"
+        }
+      ],
+      "duration": "00:47:40",
+      "round": "Round of 16",
+      "date": "2015-10-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Kaichi Uchida",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Cesar Ramirez",
+          "country": "MX"
+        }
+      ],
+      "duration": "02:04:23",
+      "round": "Quarter-Final",
+      "date": "2015-10-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [],
+          "name": "Lucas Gomez",
+          "country": "MX"
+        },
+        {
+          "is_winner": true,
+          "set_games": [],
+          "name": "Luis Morfin",
+          "country": "MX"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2015-10-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Luis Morfin",
+          "country": "MX"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "1"
+          ],
+          "name": "Mauricio Astorga",
+          "country": "MX"
+        }
+      ],
+      "duration": "02:01:49",
+      "round": "Quarter-Final",
+      "date": "2015-10-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "2"
+          ],
+          "name": "Martin Muniz",
+          "country": "MX"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Luis Patino",
+          "country": "MX"
+        }
+      ],
+      "duration": "00:42:39",
+      "round": "Round of 16",
+      "date": "2015-10-25"
+    }
+  ],
+  "players": [
+    "Alexandre Tsuchiya",
+    "Cesar Antonio Gomez Diaz",
+    "Cesar Ramirez",
+    "Daniel Garza",
+    "Guillermo Arrambide",
+    "Joseph Cadogan",
+    "Julian Saborio",
+    "Kaichi Uchida",
+    "Lucas Gomez",
+    "Luis Morfin",
+    "Luis Patino",
+    "Martin Muniz",
+    "Mauricio Astorga",
+    "Miguel Angel Reyes",
+    "Nikita Kryvonos",
+    "Ricardo Ortiz"
+  ]
+}

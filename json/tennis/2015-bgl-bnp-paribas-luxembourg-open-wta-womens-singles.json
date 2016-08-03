@@ -1,0 +1,834 @@
+{
+  "name": "2015 BGL BNP Paribas Luxembourg Open WTA (Women's Singles)",
+  "country": "Luxembourg",
+  "gender": "female",
+  "location": "Luxembourg",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Carina Witthoeft",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Mirjana Lucic-Baroni",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:33:19",
+      "round": "Round of 32",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "2",
+            "7"
+          ],
+          "name": "Misaki Doi",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "5"
+          ],
+          "name": "Andrea Petkovic",
+          "country": "DE"
+        }
+      ],
+      "duration": "02:33:00",
+      "round": "Round of 32",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Mona Barthel",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Sloane Stephens",
+          "country": "US"
+        }
+      ],
+      "duration": "01:21:18",
+      "round": "Round of 32",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "5"
+          ],
+          "name": "Tessah Andrianjafitrimo",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Tatjana Maria",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:42:11",
+      "round": "Round of 32",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Alison van Uytvanck",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Richel Hogenkamp",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:28:28",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Barbora Zahlavova Strycova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Yanina Wickmayer",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:20:23",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Heather Watson",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ana Ivanovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:10:34",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "1"
+          ],
+          "name": "Jana Cepelova",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Denisa Allertova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:48:37",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Johanna Larsson",
+          "country": "SE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "3"
+          ],
+          "name": "Andreea Mitu",
+          "country": "RO"
+        }
+      ],
+      "duration": "02:33:38",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Sara Errani",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "1"
+          ],
+          "name": "Julie Coin",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:01:33",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Stefanie Voegele",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "0"
+          ],
+          "name": "Urszula Radwanska",
+          "country": "PL"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Anna-Lena Friedsam",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Annika Beck",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:58:24",
+      "round": "Round of 32",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Denisa Allertova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Misaki Doi",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:23:47",
+      "round": "Round of 16",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jelena Jankovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Mandy Minella",
+          "country": "LU"
+        }
+      ],
+      "duration": "01:05:40",
+      "round": "Round of 32",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kirsten Flipkens",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Madison Brengle",
+          "country": "US"
+        }
+      ],
+      "duration": "01:17:12",
+      "round": "Round of 32",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Oceane Dodin",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Anna Tatishvili",
+          "country": "GE"
+        }
+      ],
+      "duration": "01:33:05",
+      "round": "Round of 32",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Sara Errani",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mirjana Lucic-Baroni",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:18:34",
+      "round": "Round of 16",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "2"
+          ],
+          "name": "Tatjana Maria",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Mona Barthel",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:46:01",
+      "round": "Round of 16",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Timea Bacsinszky",
+          "country": "CH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Laura Siegemund",
+          "country": "DE"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Alison van Uytvanck",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "5"
+          ],
+          "name": "Ana Ivanovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "02:22:21",
+      "round": "Round of 16",
+      "date": "2015-10-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Barbora Zahlavova Strycova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Johanna Larsson",
+          "country": "SE"
+        }
+      ],
+      "duration": "01:33:12",
+      "round": "Round of 16",
+      "date": "2015-10-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jelena Jankovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Anna Tatishvili",
+          "country": "GE"
+        }
+      ],
+      "duration": "01:26:39",
+      "round": "Round of 16",
+      "date": "2015-10-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Laura Siegemund",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Kirsten Flipkens",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:47:43",
+      "round": "Round of 16",
+      "date": "2015-10-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Stefanie Voegele",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Anna-Lena Friedsam",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:33:47",
+      "round": "Round of 16",
+      "date": "2015-10-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Barbora Zahlavova Strycova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alison van Uytvanck",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:25:59",
+      "round": "Quarter-Final",
+      "date": "2015-10-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Jelena Jankovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Misaki Doi",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:38:08",
+      "round": "Quarter-Final",
+      "date": "2015-10-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "1"
+          ],
+          "name": "Laura Siegemund",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Stefanie Voegele",
+          "country": "CH"
+        }
+      ],
+      "duration": "02:03:56",
+      "round": "Quarter-Final",
+      "date": "2015-10-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Mirjana Lucic-Baroni",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mona Barthel",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:11:11",
+      "round": "Quarter-Final",
+      "date": "2015-10-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6"
+          ],
+          "name": "Misaki Doi",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4"
+          ],
+          "name": "Alison van Uytvanck",
+          "country": "BE"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Semi-Final",
+      "date": "2015-10-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Stefanie Voegele",
+          "country": "CH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mona Barthel",
+          "country": "DE"
+        }
+      ],
+      "duration": "00:58:38",
+      "round": "Semi-Final",
+      "date": "2015-10-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "0"
+          ],
+          "name": "Mona Barthel",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Misaki Doi",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:52:18",
+      "round": "Championship",
+      "date": "2015-10-25"
+    }
+  ],
+  "players": [
+    "Alison van Uytvanck",
+    "Ana Ivanovic",
+    "Andrea Petkovic",
+    "Andreea Mitu",
+    "Anna Tatishvili",
+    "Anna-Lena Friedsam",
+    "Annika Beck",
+    "Barbora Zahlavova Strycova",
+    "Carina Witthoeft",
+    "Denisa Allertova",
+    "Heather Watson",
+    "Jana Cepelova",
+    "Jelena Jankovic",
+    "Johanna Larsson",
+    "Julie Coin",
+    "Kirsten Flipkens",
+    "Laura Siegemund",
+    "Madison Brengle",
+    "Mandy Minella",
+    "Mirjana Lucic-Baroni",
+    "Misaki Doi",
+    "Mona Barthel",
+    "Oceane Dodin",
+    "Richel Hogenkamp",
+    "Sara Errani",
+    "Sloane Stephens",
+    "Stefanie Voegele",
+    "Tatjana Maria",
+    "Tessah Andrianjafitrimo",
+    "Timea Bacsinszky",
+    "Urszula Radwanska",
+    "Yanina Wickmayer"
+  ]
+}

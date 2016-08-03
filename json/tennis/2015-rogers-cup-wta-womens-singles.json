@@ -1,0 +1,1484 @@
+{
+  "name": "2015 Rogers Cup WTA (Women's Singles)",
+  "country": "Canada",
+  "gender": "female",
+  "location": "Toronto",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Flavia Pennetta",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Gabriela Dabrowski",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:09:38",
+      "round": "Round of 64",
+      "date": "2015-08-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sabine Lisicki",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3"
+          ],
+          "name": "Venus Williams",
+          "country": "US"
+        }
+      ],
+      "duration": "01:10:36",
+      "round": "Round of 64",
+      "date": "2015-08-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "7"
+          ],
+          "name": "Alison Riske",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Timea Bacsinszky",
+          "country": "CH"
+        }
+      ],
+      "duration": "03:02:06",
+      "round": "Round of 64",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Alize Cornet",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "4"
+          ],
+          "name": "Carla Suarez",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:53:50",
+      "round": "Round of 64",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Angelique Kerber",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "1"
+          ],
+          "name": "Misaki Doi",
+          "country": "JP"
+        }
+      ],
+      "duration": "00:47:01",
+      "round": "Round of 64",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Barbora Zahlavova Strycova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Varvara Lepchenko",
+          "country": "US"
+        }
+      ],
+      "duration": "01:14:56",
+      "round": "Round of 64",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "1"
+          ],
+          "name": "Coco Vandeweghe",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Carina Witthoeft",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:09:31",
+      "round": "Round of 64",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ekaterina Makarova",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Anna Tatishvili",
+          "country": "GE"
+        }
+      ],
+      "duration": "01:15:33",
+      "round": "Round of 64",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "7",
+            "2"
+          ],
+          "name": "Eugenie Bouchard",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Belinda Bencic",
+          "country": "CH"
+        }
+      ],
+      "duration": "02:00:38",
+      "round": "Round of 64",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "2"
+          ],
+          "name": "Francoise Abanda",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Andrea Petkovic",
+          "country": "DE"
+        }
+      ],
+      "duration": "02:17:00",
+      "round": "Round of 64",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Irina Falconi",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Heather Watson",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:00:46",
+      "round": "Round of 64",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Jelena Jankovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Caroline Garcia",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:37:46",
+      "round": "Round of 64",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "2"
+          ],
+          "name": "Karolina Pliskova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Mirjana Lucic-Baroni",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:53:08",
+      "round": "Round of 64",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Lesia Tsurenko",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Yanina Wickmayer",
+          "country": "BE"
+        }
+      ],
+      "duration": "00:38:35",
+      "round": "Round of 64",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Madison Brengle",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Carol Zhao",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:45:20",
+      "round": "Round of 64",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "7"
+          ],
+          "name": "Monica Puig",
+          "country": "PR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "5"
+          ],
+          "name": "Mariana Duque",
+          "country": "CO"
+        }
+      ],
+      "duration": "02:25:18",
+      "round": "Round of 64",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Olga Govortsova",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Irina Camelia Begu",
+          "country": "RO"
+        }
+      ],
+      "duration": "02:24:20",
+      "round": "Round of 64",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Polona Hercog",
+          "country": "SI"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Alison van Uytvanck",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:56:00",
+      "round": "Round of 64",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Roberta Vinci",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "0"
+          ],
+          "name": "Karin Knapp",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:43:59",
+      "round": "Round of 64",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Samantha Stosur",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daria Gavrilova",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:17:56",
+      "round": "Round of 64",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Sara Errani",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "1",
+            "0"
+          ],
+          "name": "Kristina Mladenovic",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:13:52",
+      "round": "Round of 64",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Serena Williams",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "0"
+          ],
+          "name": "Flavia Pennetta",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:45:29",
+      "round": "Round of 32",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Sloane Stephens",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Dominika Cibulkova",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:43:32",
+      "round": "Round of 64",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Victoria Azarenka",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Elina Svitolina",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:17:18",
+      "round": "Round of 64",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "5"
+          ],
+          "name": "Zarina Diyas",
+          "country": "KZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "7"
+          ],
+          "name": "Julia Goerges",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:45:14",
+      "round": "Round of 64",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Agnieszka Radwanska",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Julia Goerges",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:28:52",
+      "round": "Round of 32",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Angelique Kerber",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Monica Puig",
+          "country": "PR"
+        }
+      ],
+      "duration": "01:21:43",
+      "round": "Round of 32",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Barbora Zahlavova Strycova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Sabine Lisicki",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:48:08",
+      "round": "Round of 32",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Carina Witthoeft",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "3"
+          ],
+          "name": "Alison Riske",
+          "country": "US"
+        }
+      ],
+      "duration": "02:35:43",
+      "round": "Round of 32",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "5"
+          ],
+          "name": "Caroline Wozniacki",
+          "country": "DK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Belinda Bencic",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:59:53",
+      "round": "Round of 32",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "7"
+          ],
+          "name": "Daria Gavrilova",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "5"
+          ],
+          "name": "Lucie Safarova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:28:00",
+      "round": "Round of 32",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Dominika Cibulkova",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alize Cornet",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:33:50",
+      "round": "Round of 32",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "5"
+          ],
+          "name": "Ekaterina Makarova",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Polona Hercog",
+          "country": "SI"
+        }
+      ],
+      "duration": "02:32:42",
+      "round": "Round of 32",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "1"
+          ],
+          "name": "Garbine Muguruza",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Lesia Tsurenko",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:17:46",
+      "round": "Round of 32",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Heather Watson",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andrea Petkovic",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:24:36",
+      "round": "Round of 32",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Jelena Jankovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Simona Halep",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:21:28",
+      "round": "Round of 32",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Mirjana Lucic-Baroni",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Roberta Vinci",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:10:23",
+      "round": "Round of 32",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Olga Govortsova",
+          "country": "BY"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Ana Ivanovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:53:46",
+      "round": "Round of 32",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Sara Errani",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Madison Brengle",
+          "country": "US"
+        }
+      ],
+      "duration": "01:45:22",
+      "round": "Round of 32",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Victoria Azarenka",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Petra Kvitova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:28:24",
+      "round": "Round of 32",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Agnieszka Radwanska",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "4"
+          ],
+          "name": "Alize Cornet",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:06:49",
+      "round": "Round of 16",
+      "date": "2015-08-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "4"
+          ],
+          "name": "Angelique Kerber",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Simona Halep",
+          "country": "RO"
+        }
+      ],
+      "duration": "02:22:51",
+      "round": "Round of 16",
+      "date": "2015-08-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "7"
+          ],
+          "name": "Belinda Bencic",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "Sabine Lisicki",
+          "country": "DE"
+        }
+      ],
+      "duration": "02:00:04",
+      "round": "Round of 16",
+      "date": "2015-08-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lesia Tsurenko",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Carina Witthoeft",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:47:40",
+      "round": "Round of 16",
+      "date": "2015-08-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Polona Hercog",
+          "country": "SI"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ana Ivanovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:08:31",
+      "round": "Round of 16",
+      "date": "2015-08-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Roberta Vinci",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Daria Gavrilova",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:18:29",
+      "round": "Round of 16",
+      "date": "2015-08-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Sara Errani",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Victoria Azarenka",
+          "country": "BY"
+        }
+      ],
+      "duration": "01:48:09",
+      "round": "Round of 16",
+      "date": "2015-08-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Serena Williams",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Andrea Petkovic",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:02:35",
+      "round": "Round of 16",
+      "date": "2015-08-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "1"
+          ],
+          "name": "Agnieszka Radwanska",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "0",
+            "6",
+            "6"
+          ],
+          "name": "Simona Halep",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:39:41",
+      "round": "Quarter-Final",
+      "date": "2015-08-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Belinda Bencic",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Ana Ivanovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:29:51",
+      "round": "Quarter-Final",
+      "date": "2015-08-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Lesia Tsurenko",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sara Errani",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:29:37",
+      "round": "Quarter-Final",
+      "date": "2015-08-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Serena Williams",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Roberta Vinci",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:18:08",
+      "round": "Quarter-Final",
+      "date": "2015-08-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Sara Errani",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Simona Halep",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:35:27",
+      "round": "Semi-Final",
+      "date": "2015-08-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "4"
+          ],
+          "name": "Serena Williams",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Belinda Bencic",
+          "country": "CH"
+        }
+      ],
+      "duration": "02:28:16",
+      "round": "Semi-Final",
+      "date": "2015-08-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "3"
+          ],
+          "name": "Belinda Bencic",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "0"
+          ],
+          "name": "Simona Halep",
+          "country": "RO"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Championship",
+      "date": "2015-08-16"
+    }
+  ],
+  "players": [
+    "Agnieszka Radwanska",
+    "Alison Riske",
+    "Alison van Uytvanck",
+    "Alize Cornet",
+    "Ana Ivanovic",
+    "Andrea Petkovic",
+    "Angelique Kerber",
+    "Anna Tatishvili",
+    "Barbora Zahlavova Strycova",
+    "Belinda Bencic",
+    "Carina Witthoeft",
+    "Carla Suarez",
+    "Carol Zhao",
+    "Caroline Garcia",
+    "Caroline Wozniacki",
+    "Coco Vandeweghe",
+    "Daria Gavrilova",
+    "Dominika Cibulkova",
+    "Ekaterina Makarova",
+    "Elina Svitolina",
+    "Eugenie Bouchard",
+    "Flavia Pennetta",
+    "Francoise Abanda",
+    "Gabriela Dabrowski",
+    "Garbine Muguruza",
+    "Heather Watson",
+    "Irina Camelia Begu",
+    "Irina Falconi",
+    "Jelena Jankovic",
+    "Julia Goerges",
+    "Karin Knapp",
+    "Karolina Pliskova",
+    "Kristina Mladenovic",
+    "Lesia Tsurenko",
+    "Lucie Safarova",
+    "Madison Brengle",
+    "Mariana Duque",
+    "Mirjana Lucic-Baroni",
+    "Misaki Doi",
+    "Monica Puig",
+    "Olga Govortsova",
+    "Petra Kvitova",
+    "Polona Hercog",
+    "Roberta Vinci",
+    "Sabine Lisicki",
+    "Samantha Stosur",
+    "Sara Errani",
+    "Serena Williams",
+    "Simona Halep",
+    "Sloane Stephens",
+    "Timea Bacsinszky",
+    "Varvara Lepchenko",
+    "Venus Williams",
+    "Victoria Azarenka",
+    "Yanina Wickmayer",
+    "Zarina Diyas"
+  ]
+}

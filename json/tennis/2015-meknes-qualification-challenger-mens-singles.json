@@ -1,0 +1,433 @@
+{
+  "name": "2015 Meknes, Qualification Challenger (Men's Singles)",
+  "country": "Morocco",
+  "gender": "male",
+  "location": "Meknes",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Dragos Dima",
+          "country": "RO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Patrick Grigoriu",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:12:22",
+      "round": "Round of 16",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Fred Simonsson",
+          "country": "SE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Reda Karakhi",
+          "country": "MA"
+        }
+      ],
+      "duration": "00:52:44",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kevin Krawietz",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Simohamed Hirs",
+          "country": "MA"
+        }
+      ],
+      "duration": "00:53:23",
+      "round": "Round of 16",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Luca Margaroli",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Mehdi Jdi",
+          "country": "MA"
+        }
+      ],
+      "duration": "01:07:23",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "3"
+          ],
+          "name": "Mark Vervoort",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Viktor Durasovic",
+          "country": "NO"
+        }
+      ],
+      "duration": "01:59:47",
+      "round": "Round of 16",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "2"
+          ],
+          "name": "Marouane Wasfy",
+          "country": "MA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Claudio Fortuna",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:58:25",
+      "round": "Round of 16",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Mohamed Adnaoui",
+          "country": "MA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Mark Vervoort",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:26:29",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Mohamed Belcora",
+          "country": "MA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Younes Rachidi",
+          "country": "MA"
+        }
+      ],
+      "duration": "00:46:24",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pedro Sousa",
+          "country": "PT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Lucas Gomez",
+          "country": "MX"
+        }
+      ],
+      "duration": "01:01:06",
+      "round": "Round of 16",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Tomas Lipovsek Puches",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Fred Simonsson",
+          "country": "SE"
+        }
+      ],
+      "duration": "00:34:53",
+      "round": "Round of 16",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Yannik Reuter",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Luca Margaroli",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:24:05",
+      "round": "Round of 16",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Younes Rachidi",
+          "country": "MA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Riccardo Sinicropi",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:04:32",
+      "round": "Round of 16",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Dragos Dima",
+          "country": "RO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Claudio Fortuna",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:34:26",
+      "round": "Quarter-Final",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kevin Krawietz",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Pedro Sousa",
+          "country": "PT"
+        }
+      ],
+      "duration": "01:16:50",
+      "round": "Quarter-Final",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Tomas Lipovsek Puches",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Viktor Durasovic",
+          "country": "NO"
+        }
+      ],
+      "duration": "01:37:27",
+      "round": "Quarter-Final",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yannik Reuter",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Riccardo Sinicropi",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:11:22",
+      "round": "Quarter-Final",
+      "date": "2015-09-06"
+    }
+  ],
+  "players": [
+    "Claudio Fortuna",
+    "Dragos Dima",
+    "Fred Simonsson",
+    "Kevin Krawietz",
+    "Luca Margaroli",
+    "Lucas Gomez",
+    "Mark Vervoort",
+    "Marouane Wasfy",
+    "Mehdi Jdi",
+    "Mohamed Adnaoui",
+    "Mohamed Belcora",
+    "Patrick Grigoriu",
+    "Pedro Sousa",
+    "Reda Karakhi",
+    "Riccardo Sinicropi",
+    "Simohamed Hirs",
+    "Tomas Lipovsek Puches",
+    "Viktor Durasovic",
+    "Yannik Reuter",
+    "Younes Rachidi"
+  ]
+}

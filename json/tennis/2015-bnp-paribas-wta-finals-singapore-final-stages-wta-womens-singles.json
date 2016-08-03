@@ -1,0 +1,94 @@
+{
+  "name": "2015 BNP Paribas WTA Finals Singapore Final stages WTA (Women's Singles)",
+  "country": "Singapore",
+  "gender": "female",
+  "location": "Singapore",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "5"
+          ],
+          "name": "Garbine Muguruza",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Agnieszka Radwanska",
+          "country": "PL"
+        }
+      ],
+      "duration": "02:38:50",
+      "round": "Semi-Final",
+      "date": "2015-10-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Maria Sharapova",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Petra Kvitova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:49:38",
+      "round": "Semi-Final",
+      "date": "2015-10-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "3"
+          ],
+          "name": "Petra Kvitova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Agnieszka Radwanska",
+          "country": "PL"
+        }
+      ],
+      "duration": "02:05:30",
+      "round": "Championship",
+      "date": "2015-11-01"
+    }
+  ],
+  "players": [
+    "Agnieszka Radwanska",
+    "Garbine Muguruza",
+    "Maria Sharapova",
+    "Petra Kvitova"
+  ]
+}

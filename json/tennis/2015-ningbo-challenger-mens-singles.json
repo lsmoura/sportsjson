@@ -1,0 +1,828 @@
+{
+  "name": "2015 Ningbo Challenger (Men's Singles)",
+  "country": "China",
+  "gender": "male",
+  "location": "Ningbo",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Fajing Sun",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        }
+      ],
+      "duration": "00:48:35",
+      "round": "Round of 32",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yen-Hsun Lu",
+          "country": "TW"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Tucker Vorster",
+          "country": "ZA"
+        }
+      ],
+      "duration": "01:05:13",
+      "round": "Round of 32",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Amir Weintraub",
+          "country": "IL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "0"
+          ],
+          "name": "Zhizhen Zhang",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:18:22",
+      "round": "Round of 32",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Denys Molchanov",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Franco Skugor",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:07:39",
+      "round": "Round of 32",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Flavio Cipolla",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "1"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:39:41",
+      "round": "Round of 32",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4"
+          ],
+          "name": "Hiroki Moriya",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1"
+          ],
+          "name": "Riccardo Ghedin",
+          "country": "IT"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Juergen Zopp",
+          "country": "EE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Florian Fallert",
+          "country": "DE"
+        }
+      ],
+      "duration": "00:43:33",
+      "round": "Round of 32",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nils Langer",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Tristan Lamasine",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:11:47",
+      "round": "Round of 32",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Uladzimir Ignatik",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "4"
+          ],
+          "name": "Di Wu",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:52:43",
+      "round": "Round of 32",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yecong He",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Takuto Niki",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:45:24",
+      "round": "Round of 32",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Yoshihito Nishioka",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniel Masur",
+          "country": "DE"
+        }
+      ],
+      "duration": "00:55:37",
+      "round": "Round of 32",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "1"
+          ],
+          "name": "Zhuoyang Qiu",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Thomas Fabbiano",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:42:45",
+      "round": "Round of 32",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Dudi Sela",
+          "country": "IL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "7"
+          ],
+          "name": "Jordan Thompson",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:15:32",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Hiroki Moriya",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:24:02",
+      "round": "Round of 16",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Yan Bai",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Matija Pecotic",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:16:21",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Yuanfeng Li",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Nikola Mektic",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:13:13",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "0"
+          ],
+          "name": "Ze Zhang",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "James Duckworth",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:10:15",
+      "round": "Round of 32",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jordan Thompson",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Yecong He",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:34:17",
+      "round": "Round of 16",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Juergen Zopp",
+          "country": "EE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Matija Pecotic",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:28:11",
+      "round": "Round of 16",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Nils Langer",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Thomas Fabbiano",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:31:27",
+      "round": "Round of 16",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Yen-Hsun Lu",
+          "country": "TW"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Amir Weintraub",
+          "country": "IL"
+        }
+      ],
+      "duration": "01:13:15",
+      "round": "Round of 16",
+      "date": "2015-10-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Daniel Masur",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "3"
+          ],
+          "name": "Uladzimir Ignatik",
+          "country": "BY"
+        }
+      ],
+      "duration": "02:54:45",
+      "round": "Round of 16",
+      "date": "2015-10-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "7"
+          ],
+          "name": "Franco Skugor",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "5"
+          ],
+          "name": "Flavio Cipolla",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:07:49",
+      "round": "Round of 16",
+      "date": "2015-10-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "2"
+          ],
+          "name": "Nikola Mektic",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "James Duckworth",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:23:50",
+      "round": "Round of 16",
+      "date": "2015-10-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "0"
+          ],
+          "name": "Daniel Masur",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Franco Skugor",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:30:25",
+      "round": "Quarter-Final",
+      "date": "2015-10-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Jordan Thompson",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:13:06",
+      "round": "Quarter-Final",
+      "date": "2015-10-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Juergen Zopp",
+          "country": "EE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "James Duckworth",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:37:23",
+      "round": "Quarter-Final",
+      "date": "2015-10-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Yen-Hsun Lu",
+          "country": "TW"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Thomas Fabbiano",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:27:46",
+      "round": "Quarter-Final",
+      "date": "2015-10-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Franco Skugor",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Juergen Zopp",
+          "country": "EE"
+        }
+      ],
+      "duration": "01:59:03",
+      "round": "Semi-Final",
+      "date": "2015-10-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Yen-Hsun Lu",
+          "country": "TW"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:31:20",
+      "round": "Semi-Final",
+      "date": "2015-10-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Yen-Hsun Lu",
+          "country": "TW"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Juergen Zopp",
+          "country": "EE"
+        }
+      ],
+      "duration": "01:26:08",
+      "round": "Championship",
+      "date": "2015-10-25"
+    }
+  ],
+  "players": [
+    "Amir Weintraub",
+    "Daniel Masur",
+    "Denys Molchanov",
+    "Di Wu",
+    "Dudi Sela",
+    "Fajing Sun",
+    "Flavio Cipolla",
+    "Florian Fallert",
+    "Franco Skugor",
+    "Go Soeda",
+    "Hiroki Moriya",
+    "James Duckworth",
+    "Jordan Thompson",
+    "Juergen Zopp",
+    "Matija Pecotic",
+    "Nikola Mektic",
+    "Nils Langer",
+    "Peter Gojowczyk",
+    "Riccardo Ghedin",
+    "Takuto Niki",
+    "Thomas Fabbiano",
+    "Tristan Lamasine",
+    "Tucker Vorster",
+    "Uladzimir Ignatik",
+    "Yan Bai",
+    "Yecong He",
+    "Yen-Hsun Lu",
+    "Yoshihito Nishioka",
+    "Yuanfeng Li",
+    "Ze Zhang",
+    "Zhizhen Zhang",
+    "Zhuoyang Qiu"
+  ]
+}

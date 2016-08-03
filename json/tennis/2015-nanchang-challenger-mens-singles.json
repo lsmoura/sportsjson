@@ -1,0 +1,830 @@
+{
+  "name": "2015 Nanchang Challenger (Men's Singles)",
+  "country": "China",
+  "gender": "male",
+  "location": "Nanchang",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Duck-Hee Lee",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Juergen Zopp",
+          "country": "EE"
+        }
+      ],
+      "duration": "01:27:53",
+      "round": "Round of 32",
+      "date": "2015-09-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Tsung-Hua Yang",
+          "country": "TW"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Takuto Niki",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:04:43",
+      "round": "Round of 32",
+      "date": "2015-09-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1"
+          ],
+          "name": "Zhicheng Zhu",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4"
+          ],
+          "name": "Nicolas Meister",
+          "country": "US"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-09-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Dane Propoggia",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        }
+      ],
+      "duration": "00:59:12",
+      "round": "Round of 32",
+      "date": "2015-09-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Jeevan Nedunchezhiyan",
+          "country": "IN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "3"
+          ],
+          "name": "Gavin Van Peperzeel",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:26:22",
+      "round": "Round of 32",
+      "date": "2015-09-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jordan Thompson",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Daniil Medvedev",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:10:32",
+      "round": "Round of 32",
+      "date": "2015-09-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Luca Vanni",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Liang-Chi Huang",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:18:46",
+      "round": "Round of 32",
+      "date": "2015-09-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "1"
+          ],
+          "name": "Marco Trungelliti",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "0",
+            "6"
+          ],
+          "name": "Riccardo Ghedin",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:14:07",
+      "round": "Round of 32",
+      "date": "2015-09-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Nicolas Barrientos",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "1"
+          ],
+          "name": "Narayanaswamy Sriram Balaji",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:31:19",
+      "round": "Round of 32",
+      "date": "2015-09-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yan Bai",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Yuqing Ning",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:18:52",
+      "round": "Round of 32",
+      "date": "2015-09-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Jonathan Eysseric",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:18:33",
+      "round": "Round of 32",
+      "date": "2015-09-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Amir Weintraub",
+          "country": "IL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Go Soeda",
+          "country": "JP"
+        }
+      ],
+      "duration": "00:51:38",
+      "round": "Round of 32",
+      "date": "2015-09-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "4"
+          ],
+          "name": "Hiroki Moriya",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "0",
+            "6"
+          ],
+          "name": "Thomas Fabbiano",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:44:12",
+      "round": "Round of 32",
+      "date": "2015-09-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Jeevan Nedunchezhiyan",
+          "country": "IN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        }
+      ],
+      "duration": "00:54:08",
+      "round": "Round of 16",
+      "date": "2015-09-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Johan Sebastien Tatlot",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Alexander Sarkissian",
+          "country": "US"
+        }
+      ],
+      "duration": "01:31:35",
+      "round": "Round of 32",
+      "date": "2015-09-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Jordan Thompson",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Nicolas Barrientos",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:32:50",
+      "round": "Round of 16",
+      "date": "2015-09-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "3"
+          ],
+          "name": "Luca Vanni",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Nicolas Meister",
+          "country": "US"
+        }
+      ],
+      "duration": "02:08:21",
+      "round": "Round of 16",
+      "date": "2015-09-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Ti Chen",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Finn Tearney",
+          "country": "NZ"
+        }
+      ],
+      "duration": "01:29:13",
+      "round": "Round of 32",
+      "date": "2015-09-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "2"
+          ],
+          "name": "Tsung-Hua Yang",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Juergen Zopp",
+          "country": "EE"
+        }
+      ],
+      "duration": "01:44:05",
+      "round": "Round of 16",
+      "date": "2015-09-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Zhuoyang Qiu",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yecong He",
+          "country": "CN"
+        }
+      ],
+      "duration": "00:52:18",
+      "round": "Round of 32",
+      "date": "2015-09-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Finn Tearney",
+          "country": "NZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alexander Sarkissian",
+          "country": "US"
+        }
+      ],
+      "duration": "00:54:04",
+      "round": "Round of 16",
+      "date": "2015-09-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "Yecong He",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Thomas Fabbiano",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:48:19",
+      "round": "Round of 16",
+      "date": "2015-09-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Riccardo Ghedin",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Amir Weintraub",
+          "country": "IL"
+        }
+      ],
+      "duration": "01:31:32",
+      "round": "Round of 16",
+      "date": "2015-09-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Yuichi Sugita",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yan Bai",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:26:11",
+      "round": "Round of 16",
+      "date": "2015-09-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Alexander Sarkissian",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Thomas Fabbiano",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:15:13",
+      "round": "Quarter-Final",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Jordan Thompson",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "0"
+          ],
+          "name": "Juergen Zopp",
+          "country": "EE"
+        }
+      ],
+      "duration": "01:43:54",
+      "round": "Quarter-Final",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Nicolas Meister",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        }
+      ],
+      "duration": "00:57:46",
+      "round": "Quarter-Final",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [],
+          "name": "Yan Bai",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [],
+          "name": "Amir Weintraub",
+          "country": "IL"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Quarter-Final",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Jordan Thompson",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Amir Weintraub",
+          "country": "IL"
+        }
+      ],
+      "duration": "00:52:57",
+      "round": "Semi-Final",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Thomas Fabbiano",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "7"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:45:51",
+      "round": "Semi-Final",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Amir Weintraub",
+          "country": "IL"
+        }
+      ],
+      "duration": "00:50:37",
+      "round": "Championship",
+      "date": "2015-09-20"
+    }
+  ],
+  "players": [
+    "Alexander Sarkissian",
+    "Amir Weintraub",
+    "Dane Propoggia",
+    "Daniil Medvedev",
+    "Duck-Hee Lee",
+    "Finn Tearney",
+    "Gavin Van Peperzeel",
+    "Go Soeda",
+    "Hiroki Moriya",
+    "Jeevan Nedunchezhiyan",
+    "Johan Sebastien Tatlot",
+    "Jonathan Eysseric",
+    "Jordan Thompson",
+    "Juergen Zopp",
+    "Liang-Chi Huang",
+    "Luca Vanni",
+    "Marco Trungelliti",
+    "Narayanaswamy Sriram Balaji",
+    "Nicolas Barrientos",
+    "Nicolas Meister",
+    "Peter Gojowczyk",
+    "Riccardo Ghedin",
+    "Takuto Niki",
+    "Thomas Fabbiano",
+    "Ti Chen",
+    "Tsung-Hua Yang",
+    "Yan Bai",
+    "Yecong He",
+    "Yuichi Sugita",
+    "Yuqing Ning",
+    "Zhicheng Zhu",
+    "Zhuoyang Qiu"
+  ]
+}

@@ -1,0 +1,838 @@
+{
+  "name": "2015 Fairfield Challenger (Men's Singles)",
+  "country": "United States",
+  "gender": "male",
+  "location": "Fairfield",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Blaz Rola",
+          "country": "SI"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "0"
+          ],
+          "name": "Alexander Sarkissian",
+          "country": "US"
+        }
+      ],
+      "duration": "01:25:35",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Darian King",
+          "country": "BB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Ryan Harrison",
+          "country": "US"
+        }
+      ],
+      "duration": "01:28:20",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Francis Tiafoe",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Marek Michalicka",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:14:58",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "7"
+          ],
+          "name": "Frank Dancevic",
+          "country": "CA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Marcos Giron",
+          "country": "US"
+        }
+      ],
+      "duration": "02:26:13",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "James McGee",
+          "country": "IE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Frederik Loechte Nielsen",
+          "country": "DK"
+        }
+      ],
+      "duration": "01:41:17",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Alex Kuznetsov",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Nicolas Barrientos",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:45:34",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "1"
+          ],
+          "name": "Connor Hance",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Blaz Kavcic",
+          "country": "SI"
+        }
+      ],
+      "duration": "00:36:44",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "5"
+          ],
+          "name": "Connor Smith",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Dustin Brown",
+          "country": "DE"
+        }
+      ],
+      "duration": "00:56:31",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Daniel Brands",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Sem Verbeek",
+          "country": "NL"
+        }
+      ],
+      "duration": "00:52:00",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Liam Broady",
+          "country": "GB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Grega Zemlja",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:22:28",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Peter Polansky",
+          "country": "CA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Tennys Sandgren",
+          "country": "US"
+        }
+      ],
+      "duration": "01:17:06",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Philip Bester",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jared Donaldson",
+          "country": "US"
+        }
+      ],
+      "duration": "01:24:53",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Quentin Halys",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Tommy Paul",
+          "country": "US"
+        }
+      ],
+      "duration": "01:24:13",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Sekou Bangoura",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Jason Jung",
+          "country": "US"
+        }
+      ],
+      "duration": "01:41:31",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Taylor Harry Fritz",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Henri Laaksonen",
+          "country": "CH"
+        }
+      ],
+      "duration": "00:50:27",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Blaz Rola",
+          "country": "SI"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "3"
+          ],
+          "name": "Liam Broady",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:34:54",
+      "round": "Round of 16",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "3"
+          ],
+          "name": "Frank Dancevic",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Jared Donaldson",
+          "country": "US"
+        }
+      ],
+      "duration": "01:38:32",
+      "round": "Round of 16",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "James McGee",
+          "country": "IE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Francis Tiafoe",
+          "country": "US"
+        }
+      ],
+      "duration": "01:20:01",
+      "round": "Round of 16",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "Peter Polansky",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Darian King",
+          "country": "BB"
+        }
+      ],
+      "duration": "01:48:10",
+      "round": "Round of 16",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Tim Smyczek",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "3"
+          ],
+          "name": "Mitchell Krueger",
+          "country": "US"
+        }
+      ],
+      "duration": "20:39:09",
+      "round": "Round of 32",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "7"
+          ],
+          "name": "Daniel Brands",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "7",
+            "6"
+          ],
+          "name": "Alex Kuznetsov",
+          "country": "US"
+        }
+      ],
+      "duration": "02:39:48",
+      "round": "Round of 16",
+      "date": "2015-10-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Jason Jung",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Blaz Kavcic",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:38:17",
+      "round": "Round of 16",
+      "date": "2015-10-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Tim Smyczek",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Taylor Harry Fritz",
+          "country": "US"
+        }
+      ],
+      "duration": "01:07:08",
+      "round": "Round of 16",
+      "date": "2015-10-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Tommy Paul",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Dustin Brown",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:11:28",
+      "round": "Round of 16",
+      "date": "2015-10-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Blaz Rola",
+          "country": "SI"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Jared Donaldson",
+          "country": "US"
+        }
+      ],
+      "duration": "00:57:00",
+      "round": "Quarter-Final",
+      "date": "2015-10-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "1"
+          ],
+          "name": "Daniel Brands",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Dustin Brown",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:36:17",
+      "round": "Quarter-Final",
+      "date": "2015-10-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Francis Tiafoe",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "4"
+          ],
+          "name": "Darian King",
+          "country": "BB"
+        }
+      ],
+      "duration": "02:36:50",
+      "round": "Quarter-Final",
+      "date": "2015-10-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Taylor Harry Fritz",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Blaz Kavcic",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:11:14",
+      "round": "Quarter-Final",
+      "date": "2015-10-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Dustin Brown",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "2"
+          ],
+          "name": "Francis Tiafoe",
+          "country": "US"
+        }
+      ],
+      "duration": "01:33:47",
+      "round": "Semi-Final",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Taylor Harry Fritz",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Blaz Rola",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:08:16",
+      "round": "Semi-Final",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Taylor Harry Fritz",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Dustin Brown",
+          "country": "DE"
+        }
+      ],
+      "duration": "00:57:12",
+      "round": "Championship",
+      "date": "2015-10-18"
+    }
+  ],
+  "players": [
+    "Alex Kuznetsov",
+    "Alexander Sarkissian",
+    "Blaz Kavcic",
+    "Blaz Rola",
+    "Connor Hance",
+    "Connor Smith",
+    "Daniel Brands",
+    "Darian King",
+    "Dustin Brown",
+    "Francis Tiafoe",
+    "Frank Dancevic",
+    "Frederik Loechte Nielsen",
+    "Grega Zemlja",
+    "Henri Laaksonen",
+    "James McGee",
+    "Jared Donaldson",
+    "Jason Jung",
+    "Liam Broady",
+    "Marcos Giron",
+    "Marek Michalicka",
+    "Mitchell Krueger",
+    "Nicolas Barrientos",
+    "Peter Polansky",
+    "Philip Bester",
+    "Quentin Halys",
+    "Ryan Harrison",
+    "Sekou Bangoura",
+    "Sem Verbeek",
+    "Taylor Harry Fritz",
+    "Tennys Sandgren",
+    "Tim Smyczek",
+    "Tommy Paul"
+  ]
+}

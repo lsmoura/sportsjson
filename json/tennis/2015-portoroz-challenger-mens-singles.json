@@ -1,0 +1,843 @@
+{
+  "name": "2015 Portoroz Challenger (Men's Singles)",
+  "country": "Slovenia",
+  "gender": "male",
+  "location": "Portoroz",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Aslan Karatsev",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Luca Vanni",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:17:54",
+      "round": "Round of 32",
+      "date": "2015-08-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Hiroki Moriya",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Aljaz Radinski",
+          "country": "SI"
+        }
+      ],
+      "duration": "00:59:59",
+      "round": "Round of 32",
+      "date": "2015-08-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Jozef Kovalik",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Cem Ilkel",
+          "country": "TR"
+        }
+      ],
+      "duration": "01:05:47",
+      "round": "Round of 32",
+      "date": "2015-08-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "1",
+            "3"
+          ],
+          "name": "Aldin Setkic",
+          "country": "BA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:28:30",
+      "round": "Round of 32",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Alexander Kudryavtsev",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Riccardo Ghedin",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:26:55",
+      "round": "Round of 32",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Aljaz Jakob Kaplja",
+          "country": "SI"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lukas Lacko",
+          "country": "SK"
+        }
+      ],
+      "duration": "00:51:00",
+      "round": "Round of 32",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Calvin Hemery",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "3"
+          ],
+          "name": "Edoardo Eremin",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:13:09",
+      "round": "Round of 32",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "5"
+          ],
+          "name": "Christian Garin",
+          "country": "CL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "2",
+            "7"
+          ],
+          "name": "David Guez",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:30:22",
+      "round": "Round of 32",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Grega Zemlja",
+          "country": "SI"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "1"
+          ],
+          "name": "Andrea Arnaboldi",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:07:37",
+      "round": "Round of 32",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Kimmer Coppejans",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jonathan Eysseric",
+          "country": "FR"
+        }
+      ],
+      "duration": "00:59:53",
+      "round": "Round of 32",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "Konstantin Kravchuk",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "7"
+          ],
+          "name": "Norbert Gombos",
+          "country": "SK"
+        }
+      ],
+      "duration": "02:05:28",
+      "round": "Round of 32",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Marcel Granollers",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Evgeny Donskoy",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:35:30",
+      "round": "Round of 32",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Mirza Basic",
+          "country": "BA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "4"
+          ],
+          "name": "Matteo Viola",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:57:51",
+      "round": "Round of 32",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Niels Desein",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Germain Gigounon",
+          "country": "BE"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "Laslo Djere",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:37:51",
+      "round": "Round of 32",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Thiemo de Bakker",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Joshua Milton"
+        }
+      ],
+      "duration": "01:23:29",
+      "round": "Round of 32",
+      "date": "2015-08-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "David Guez",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:28:48",
+      "round": "Round of 16",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Evgeny Donskoy",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Calvin Hemery",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:58:20",
+      "round": "Round of 16",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Germain Gigounon",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Luca Vanni",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:14:06",
+      "round": "Round of 16",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Grega Zemlja",
+          "country": "SI"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "2"
+          ],
+          "name": "Lukas Lacko",
+          "country": "SK"
+        }
+      ],
+      "duration": "00:58:33",
+      "round": "Round of 16",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Jonathan Eysseric",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Aljaz Radinski",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:26:45",
+      "round": "Round of 16",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mirza Basic",
+          "country": "BA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Cem Ilkel",
+          "country": "TR"
+        }
+      ],
+      "duration": "01:02:39",
+      "round": "Round of 16",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Peter Gojowczyk",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Norbert Gombos",
+          "country": "SK"
+        }
+      ],
+      "duration": "00:59:13",
+      "round": "Round of 16",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "2"
+          ],
+          "name": "Thiemo de Bakker",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Alexander Kudryavtsev",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:57:45",
+      "round": "Round of 16",
+      "date": "2015-08-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Alexander Kudryavtsev",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "1"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:40:35",
+      "round": "Quarter-Final",
+      "date": "2015-08-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Aljaz Radinski",
+          "country": "SI"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Luca Vanni",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:53:33",
+      "round": "Quarter-Final",
+      "date": "2015-08-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "3"
+          ],
+          "name": "Evgeny Donskoy",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Norbert Gombos",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:42:19",
+      "round": "Quarter-Final",
+      "date": "2015-08-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "5",
+            "3"
+          ],
+          "name": "Mirza Basic",
+          "country": "BA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Grega Zemlja",
+          "country": "SI"
+        }
+      ],
+      "duration": "02:24:59",
+      "round": "Quarter-Final",
+      "date": "2015-08-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Grega Zemlja",
+          "country": "SI"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Alexander Kudryavtsev",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:11:16",
+      "round": "Semi-Final",
+      "date": "2015-08-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "3"
+          ],
+          "name": "Norbert Gombos",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Luca Vanni",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:09:34",
+      "round": "Semi-Final",
+      "date": "2015-08-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Luca Vanni",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Grega Zemlja",
+          "country": "SI"
+        }
+      ],
+      "duration": "01:40:24",
+      "round": "Championship",
+      "date": "2015-08-15"
+    }
+  ],
+  "players": [
+    "Aldin Setkic",
+    "Alexander Kudryavtsev",
+    "Aljaz Jakob Kaplja",
+    "Aljaz Radinski",
+    "Andrea Arnaboldi",
+    "Aslan Karatsev",
+    "Calvin Hemery",
+    "Cem Ilkel",
+    "Christian Garin",
+    "David Guez",
+    "Edoardo Eremin",
+    "Evgeny Donskoy",
+    "Germain Gigounon",
+    "Grega Zemlja",
+    "Hiroki Moriya",
+    "Jonathan Eysseric",
+    "Joshua Milton",
+    "Jozef Kovalik",
+    "Kimmer Coppejans",
+    "Konstantin Kravchuk",
+    "Laslo Djere",
+    "Luca Vanni",
+    "Lukas Lacko",
+    "Marcel Granollers",
+    "Matteo Viola",
+    "Mirza Basic",
+    "Niels Desein",
+    "Norbert Gombos",
+    "Paolo Lorenzi",
+    "Peter Gojowczyk",
+    "Riccardo Ghedin",
+    "Thiemo de Bakker"
+  ]
+}

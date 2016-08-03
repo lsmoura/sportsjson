@@ -1,0 +1,443 @@
+{
+  "name": "2015 Szczecin, Qualification Challenger (Men's Singles)",
+  "country": "Poland",
+  "gender": "male",
+  "location": "Szczecin",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andriej Kapas",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Patryk Janik",
+          "country": "PL"
+        }
+      ],
+      "duration": "01:02:14",
+      "round": "Round of 16",
+      "date": "2015-09-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Artem Smirnov",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Costin Paval",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:20:07",
+      "round": "Round of 16",
+      "date": "2015-09-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Arthur de Greef",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "1",
+            "6"
+          ],
+          "name": "Jan Kuncik",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:56:37",
+      "round": "Round of 16",
+      "date": "2015-09-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Bastian Wagner",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Maciej Rajski",
+          "country": "PL"
+        }
+      ],
+      "duration": "01:07:20",
+      "round": "Round of 16",
+      "date": "2015-09-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Costin Paval",
+          "country": "RO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "0",
+            "4"
+          ],
+          "name": "Rafal Teurer",
+          "country": "PL"
+        }
+      ],
+      "duration": "01:59:54",
+      "round": "Round of 32",
+      "date": "2015-09-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "2"
+          ],
+          "name": "Filip Ambrozy",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pawel Zawisza",
+          "country": "PL"
+        }
+      ],
+      "duration": "00:46:47",
+      "round": "Round of 32",
+      "date": "2015-09-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "7"
+          ],
+          "name": "Jan Kuncik",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Michal Dembek",
+          "country": "PL"
+        }
+      ],
+      "duration": "02:11:36",
+      "round": "Round of 32",
+      "date": "2015-09-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Kevin Kylar",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Robin Kern",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:10:19",
+      "round": "Round of 16",
+      "date": "2015-09-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marco Neubau",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Sergiy Sergiienko",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:34:44",
+      "round": "Round of 32",
+      "date": "2015-09-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Marco Neubau",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mateusz Kowalczyk",
+          "country": "PL"
+        }
+      ],
+      "duration": "00:53:05",
+      "round": "Round of 16",
+      "date": "2015-09-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Pawel Zawisza",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Karol Drzewiecki",
+          "country": "PL"
+        }
+      ],
+      "duration": "00:44:00",
+      "round": "Round of 16",
+      "date": "2015-09-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Philip Davydenko",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "1"
+          ],
+          "name": "Adrian Andrzejczuk",
+          "country": "PL"
+        }
+      ],
+      "duration": "01:51:06",
+      "round": "Round of 16",
+      "date": "2015-09-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Andriej Kapas",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Robin Kern",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:02:30",
+      "round": "Quarter-Final",
+      "date": "2015-09-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Artem Smirnov",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Karol Drzewiecki",
+          "country": "PL"
+        }
+      ],
+      "duration": "01:43:40",
+      "round": "Quarter-Final",
+      "date": "2015-09-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Jan Kuncik",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Mateusz Kowalczyk",
+          "country": "PL"
+        }
+      ],
+      "duration": "01:40:55",
+      "round": "Quarter-Final",
+      "date": "2015-09-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "4"
+          ],
+          "name": "Philip Davydenko",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Maciej Rajski",
+          "country": "PL"
+        }
+      ],
+      "duration": "02:22:41",
+      "round": "Quarter-Final",
+      "date": "2015-09-13"
+    }
+  ],
+  "players": [
+    "Adrian Andrzejczuk",
+    "Andriej Kapas",
+    "Artem Smirnov",
+    "Arthur de Greef",
+    "Bastian Wagner",
+    "Costin Paval",
+    "Filip Ambrozy",
+    "Jan Kuncik",
+    "Karol Drzewiecki",
+    "Kevin Kylar",
+    "Maciej Rajski",
+    "Marco Neubau",
+    "Mateusz Kowalczyk",
+    "Michal Dembek",
+    "Patryk Janik",
+    "Pawel Zawisza",
+    "Philip Davydenko",
+    "Rafal Teurer",
+    "Robin Kern",
+    "Sergiy Sergiienko"
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "name": "2015 Bogota, Qualification Challenger (Men's Singles)",
+  "country": "Colombia",
+  "gender": "male",
+  "location": "Bogota",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Cristobal Saavedra",
+          "country": "CL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Ruben Gonzales",
+          "country": "PH"
+        }
+      ],
+      "duration": "01:35:32",
+      "round": "Round of 16",
+      "date": "2015-10-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Enrico Becuzzi",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alejandro Mendoza",
+          "country": "BO"
+        }
+      ],
+      "duration": "00:56:43",
+      "round": "Round of 16",
+      "date": "2015-10-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Felipe Mantilla",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Joseph Cadogan",
+          "country": "TT"
+        }
+      ],
+      "duration": "00:44:46",
+      "round": "Round of 16",
+      "date": "2015-10-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Gero Kretschmer",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Alexandre Tsuchiya",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:15:11",
+      "round": "Round of 16",
+      "date": "2015-10-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Shinnosuke Hiramatsu",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Dean O'Brien",
+          "country": "ZA"
+        }
+      ],
+      "duration": "01:11:43",
+      "round": "Round of 16",
+      "date": "2015-10-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "0"
+          ],
+          "name": "Solomon Cadogan",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ruan Roelofse",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:39:19",
+      "round": "Round of 16",
+      "date": "2015-10-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Felipe Mantilla",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Ruan Roelofse",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:55:48",
+      "round": "Quarter-Final",
+      "date": "2015-11-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [],
+          "name": "Guillermo Rivera",
+          "country": "CL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [],
+          "name": "Alejandro Mendoza",
+          "country": "BO"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Quarter-Final",
+      "date": "2015-11-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Juan Sebastian Gomez",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gero Kretschmer",
+          "country": "DE"
+        }
+      ],
+      "duration": "00:56:19",
+      "round": "Quarter-Final",
+      "date": "2015-11-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Ruben Gonzales",
+          "country": "PH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Dean O'Brien",
+          "country": "ZA"
+        }
+      ],
+      "duration": "01:29:05",
+      "round": "Quarter-Final",
+      "date": "2015-11-01"
+    }
+  ],
+  "players": [
+    "Alejandro Mendoza",
+    "Alexandre Tsuchiya",
+    "Cristobal Saavedra",
+    "Dean O'Brien",
+    "Enrico Becuzzi",
+    "Felipe Mantilla",
+    "Gero Kretschmer",
+    "Guillermo Rivera",
+    "Joseph Cadogan",
+    "Juan Sebastian Gomez",
+    "Ruan Roelofse",
+    "Ruben Gonzales",
+    "Shinnosuke Hiramatsu",
+    "Solomon Cadogan"
+  ]
+}

@@ -433,31 +433,6 @@
     {
       "players": [
         {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Tucker Vorster",
-          "country": "ZA"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "5",
-            "4"
-          ],
-          "name": "Ken Onishi",
-          "country": "JP"
-        }
-      ],
-      "duration": "01:22:09",
-      "round": "Round of 32",
-      "date": "2015-11-10"
-    },
-    {
-      "players": [
-        {
           "is_winner": false,
           "set_games": [
             "4",
@@ -478,6 +453,31 @@
       ],
       "duration": "01:00:33",
       "round": "Round of 16",
+      "date": "2015-11-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Tucker Vorster",
+          "country": "ZA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Ken Onishi",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:22:09",
+      "round": "Round of 32",
       "date": "2015-11-10"
     },
     {

@@ -1,0 +1,509 @@
+{
+  "name": "2015 Shenzhen Open, Qualification ATP (Men's Singles)",
+  "country": "China",
+  "gender": "male",
+  "location": "Shenzhen",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Chung-Hyo Woo",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Fajing Sun",
+          "country": "CN"
+        }
+      ],
+      "duration": "00:57:01",
+      "round": "Round of 32",
+      "date": "2015-09-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [],
+          "name": "Austin Krajicek",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [],
+          "name": "Fajing Sun",
+          "country": "CN"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2015-09-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "3"
+          ],
+          "name": "Djordje Djokovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Haitong Xia",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:57:41",
+      "round": "Round of 32",
+      "date": "2015-09-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Jiacheng Zhu",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Zhizhen Zhang",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:13:00",
+      "round": "Round of 32",
+      "date": "2015-09-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Johan Sebastien Tatlot",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "4"
+          ],
+          "name": "Yecong He",
+          "country": "CN"
+        }
+      ],
+      "duration": "02:12:00",
+      "round": "Round of 32",
+      "date": "2015-09-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [],
+          "name": "Sergey Betov",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [],
+          "name": "Yan Bai",
+          "country": "CN"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2015-09-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sergey Betov",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Oliver Marach",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:16:27",
+      "round": "Round of 32",
+      "date": "2015-09-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Takuto Niki",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "1"
+          ],
+          "name": "Long Chen",
+          "country": "CN"
+        }
+      ],
+      "duration": "04:13:46",
+      "round": "Round of 32",
+      "date": "2015-09-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Zhuoyang Qiu",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Michael Venus",
+          "country": "NZ"
+        }
+      ],
+      "duration": "00:45:18",
+      "round": "Round of 32",
+      "date": "2015-09-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Haitong Xia",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Hiroki Moriya",
+          "country": "JP"
+        }
+      ],
+      "duration": "00:49:20",
+      "round": "Round of 16",
+      "date": "2015-09-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "Luke Saville",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Zhizhen Zhang",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:43:49",
+      "round": "Round of 16",
+      "date": "2015-09-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Matthew Ebden",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Nicholas Alexander Reyes",
+          "country": "US"
+        }
+      ],
+      "duration": "01:23:52",
+      "round": "Round of 16",
+      "date": "2015-09-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Michael Venus",
+          "country": "NZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "1"
+          ],
+          "name": "Duck-Hee Lee",
+          "country": "KR"
+        }
+      ],
+      "duration": "02:06:22",
+      "round": "Round of 16",
+      "date": "2015-09-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Takuto Niki",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Mikhail Elgin",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:37:31",
+      "round": "Round of 16",
+      "date": "2015-09-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "4"
+          ],
+          "name": "Ti Chen",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Johan Sebastien Tatlot",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:14:08",
+      "round": "Round of 16",
+      "date": "2015-09-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Fajing Sun",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Takuto Niki",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:11:11",
+      "round": "Quarter-Final",
+      "date": "2015-09-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Johan Sebastien Tatlot",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Hiroki Moriya",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:19:57",
+      "round": "Quarter-Final",
+      "date": "2015-09-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Matthew Ebden",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Michael Venus",
+          "country": "NZ"
+        }
+      ],
+      "duration": "00:56:13",
+      "round": "Quarter-Final",
+      "date": "2015-09-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Zhizhen Zhang",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Sergey Betov",
+          "country": "BY"
+        }
+      ],
+      "duration": "01:37:08",
+      "round": "Quarter-Final",
+      "date": "2015-09-28"
+    }
+  ],
+  "players": [
+    "Austin Krajicek",
+    "Chung-Hyo Woo",
+    "Djordje Djokovic",
+    "Duck-Hee Lee",
+    "Fajing Sun",
+    "Haitong Xia",
+    "Hiroki Moriya",
+    "Jiacheng Zhu",
+    "Johan Sebastien Tatlot",
+    "Long Chen",
+    "Luke Saville",
+    "Matthew Ebden",
+    "Michael Venus",
+    "Mikhail Elgin",
+    "Nicholas Alexander Reyes",
+    "Oliver Marach",
+    "Sergey Betov",
+    "Takuto Niki",
+    "Ti Chen",
+    "Yan Bai",
+    "Yecong He",
+    "Zhizhen Zhang",
+    "Zhuoyang Qiu"
+  ]
+}

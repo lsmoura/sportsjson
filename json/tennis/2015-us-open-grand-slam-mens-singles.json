@@ -1,0 +1,3730 @@
+{
+  "name": "2015 US Open Grand Slam (Men's Singles)",
+  "country": "United States",
+  "gender": "male",
+  "location": "New York",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2",
+            "6",
+            "4"
+          ],
+          "name": "Borna Coric",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Rafael Nadal",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:47:15",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2",
+            "2"
+          ],
+          "name": "Elias Ymer",
+          "country": "SE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Diego Sebastian Schwartzman",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:43:56",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Fabio Fognini",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4",
+            "6"
+          ],
+          "name": "Steve Johnson",
+          "country": "US"
+        }
+      ],
+      "duration": "02:50:16",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Fernando Verdasco",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "7",
+            "3",
+            "1"
+          ],
+          "name": "Tommy Haas",
+          "country": "DE"
+        }
+      ],
+      "duration": "02:44:35",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Filip Krajinovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0",
+            "4"
+          ],
+          "name": "Alejandro Gonzalez",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:44:40",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "3",
+            "0"
+          ],
+          "name": "Florian Mayer",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6",
+            "3"
+          ],
+          "name": "Martin Klizan",
+          "country": "SK"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "5"
+          ],
+          "name": "Illya Marchenko",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "0"
+          ],
+          "name": "Gael Monfils",
+          "country": "FR"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Jeremy Chardy",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1",
+            "7",
+            "2"
+          ],
+          "name": "Ryan Shane",
+          "country": "US"
+        }
+      ],
+      "duration": "02:12:15",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "2",
+            "4"
+          ],
+          "name": "Jerzy Janowicz",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Pablo Carreno",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:17:15",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Jo-Wilfried Tsonga",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1",
+            "1"
+          ],
+          "name": "Jarkko Nieminen",
+          "country": "FI"
+        }
+      ],
+      "duration": "01:32:50",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2",
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Joao Sousa",
+          "country": "PT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "4",
+            "2",
+            "7"
+          ],
+          "name": "Ricardas Berankis",
+          "country": "LT"
+        }
+      ],
+      "duration": "03:34:55",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Kei Nishikori",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "4",
+            "7",
+            "6"
+          ],
+          "name": "Benoit Paire",
+          "country": "FR"
+        }
+      ],
+      "duration": "03:14:55",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "2",
+            "4"
+          ],
+          "name": "Lucas Pouille",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Evgeny Donskoy",
+          "country": "RU"
+        }
+      ],
+      "duration": "02:26:06",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3",
+            "1"
+          ],
+          "name": "Lukas Lacko",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Marcel Granollers",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:42:23",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "1",
+            "3"
+          ],
+          "name": "Marco Cecchinato",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Mardy Fish",
+          "country": "US"
+        }
+      ],
+      "duration": "02:52:33",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "7"
+          ],
+          "name": "Marin Cilic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Guido Pella",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:57:59",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6",
+            "3"
+          ],
+          "name": "Marsel Ilhan",
+          "country": "TR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "6",
+            "4",
+            "2"
+          ],
+          "name": "Radek Stepanek",
+          "country": "CZ"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2",
+            "4"
+          ],
+          "name": "Matthew Ebden",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Grigor Dimitrov",
+          "country": "BG"
+        }
+      ],
+      "duration": "01:37:41",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2",
+            "4"
+          ],
+          "name": "Michael Berrer",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Tommy Robredo",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:39:37",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Milos Raonic",
+          "country": "CA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "1"
+          ],
+          "name": "Tim Smyczek",
+          "country": "US"
+        }
+      ],
+      "duration": "02:13:37",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "3"
+          ],
+          "name": "Nikoloz Basilashvili",
+          "country": "GE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Feliciano Lopez",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:36:10",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Novak Djokovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1",
+            "1"
+          ],
+          "name": "Joao Souza",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:11:20",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Pablo Cuevas",
+          "country": "UY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "4",
+            "1"
+          ],
+          "name": "Dudi Sela",
+          "country": "IL"
+        }
+      ],
+      "duration": "02:11:42",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "1",
+            "0"
+          ],
+          "name": "Radu Albot",
+          "country": "MD"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "David Ferrer",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:43:46",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Roberto Bautista",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2",
+            "6"
+          ],
+          "name": "Pierre-Hugues Herbert",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:21:14",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "7"
+          ],
+          "name": "Samuel Groth",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "5"
+          ],
+          "name": "Alexandr Dolgopolov",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:46:11",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Sergiy Stakhovsky",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "John Millman",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:38:45",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1",
+            "2"
+          ],
+          "name": "Simone Bolelli",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "David Goffin",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:33:29",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "0",
+            "4",
+            "6",
+            "0"
+          ],
+          "name": "Teymuraz Gabashvili",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "6",
+            "4",
+            "0"
+          ],
+          "name": "Pablo Andujar",
+          "country": "ES"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0",
+            "5"
+          ],
+          "name": "Tommy Paul",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Andreas Seppi",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:46:50",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "7",
+            "0",
+            "1"
+          ],
+          "name": "Vasek Pospisil",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Andreas Haider-Maurer",
+          "country": "AT"
+        }
+      ],
+      "duration": "03:21:04",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3",
+            "0"
+          ],
+          "name": "Yen-Hsun Lu",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "3"
+          ],
+          "name": "Mikhail Kukushkin",
+          "country": "KZ"
+        }
+      ],
+      "duration": "01:17:20",
+      "round": "Round of 128",
+      "date": "2015-08-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "7",
+            "7"
+          ],
+          "name": "Austin Krajicek",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Santiago Giraldo",
+          "country": "CO"
+        }
+      ],
+      "duration": "03:54:14",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "4",
+            "1"
+          ],
+          "name": "Benjamin Becker",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Denis Istomin",
+          "country": "UZ"
+        }
+      ],
+      "duration": "02:30:30",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Bernard Tomic",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "4",
+            "3"
+          ],
+          "name": "Damir Dzumhur",
+          "country": "BA"
+        }
+      ],
+      "duration": "02:36:35",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3",
+            "5"
+          ],
+          "name": "Daniel Gimeno",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "7"
+          ],
+          "name": "Dominic Thiem",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:54:02",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5",
+            "1"
+          ],
+          "name": "Denis Kudla",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Juergen Melzer",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:52:51",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "4",
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Donald Young",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4",
+            "4",
+            "4"
+          ],
+          "name": "Gilles Simon",
+          "country": "FR"
+        }
+      ],
+      "duration": "03:35:15",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "0"
+          ],
+          "name": "Ernests Gulbis",
+          "country": "LV"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Aljaz Bedene",
+          "country": "SI"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5",
+            "5"
+          ],
+          "name": "Federico Delbonis",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "7"
+          ],
+          "name": "Ivo Karlovic",
+          "country": "HR"
+        }
+      ],
+      "duration": "02:19:23",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "4",
+            "4"
+          ],
+          "name": "Gilles Mueller",
+          "country": "LU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "Ruben Bemelmans",
+          "country": "BE"
+        }
+      ],
+      "duration": "02:21:39",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Hyeon Chung",
+          "country": "KR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1",
+            "2"
+          ],
+          "name": "James Duckworth",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:36:01",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "6",
+            "3",
+            "1"
+          ],
+          "name": "Janko Tipsarevic",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Guillermo Garcia",
+          "country": "ES"
+        }
+      ],
+      "duration": "03:28:34",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "0",
+            "6"
+          ],
+          "name": "Jared Donaldson",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "7"
+          ],
+          "name": "Lukas Rosol",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:18:21",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Jiri Vesely",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4",
+            "4"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:58:35",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "John Isner",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3",
+            "4"
+          ],
+          "name": "Malek Jaziri",
+          "country": "TN"
+        }
+      ],
+      "duration": "01:44:02",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "John-Patrick Smith",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "7",
+            "7"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        }
+      ],
+      "duration": "02:51:12",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Kevin Anderson",
+          "country": "ZA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "5",
+            "3"
+          ],
+          "name": "Andrey Rublev",
+          "country": "RU"
+        }
+      ],
+      "duration": "03:23:45",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "1"
+          ],
+          "name": "Konstantin Kravchuk",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Adrian Mannarino",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:27:32",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2",
+            "2"
+          ],
+          "name": "Leonardo Mayer",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Roger Federer",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:17:34",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "2",
+            "1"
+          ],
+          "name": "Marcos Baghdatis",
+          "country": "CY"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6",
+            "3"
+          ],
+          "name": "Steve Darcis",
+          "country": "BE"
+        }
+      ],
+      "duration": "02:36:14",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3",
+            "6",
+            "1"
+          ],
+          "name": "Nick Kyrgios",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Andy Murray",
+          "country": "01"
+        }
+      ],
+      "duration": "02:43:58",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "6",
+            "0"
+          ],
+          "name": "Oleksandr Nedovyesov",
+          "country": "KZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "1"
+          ],
+          "name": "Lleyton Hewitt",
+          "country": "AU"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "7",
+            "1",
+            "2"
+          ],
+          "name": "Paul-Henri Mathieu",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Yoshihito Nishioka",
+          "country": "JP"
+        }
+      ],
+      "duration": "03:22:39",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Philipp Kohlschreiber",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "0",
+            "6",
+            "4"
+          ],
+          "name": "Alexander Zverev",
+          "country": "RU"
+        }
+      ],
+      "duration": "03:22:21",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Rajeev Ram",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "1"
+          ],
+          "name": "Ryan Harrison",
+          "country": "US"
+        }
+      ],
+      "duration": "02:16:09",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "4",
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "3",
+            "5",
+            "4"
+          ],
+          "name": "Dustin Brown",
+          "country": "DE"
+        }
+      ],
+      "duration": "02:46:28",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "5"
+          ],
+          "name": "Sam Querrey",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7",
+            "7"
+          ],
+          "name": "Nicolas Mahut",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:22:45",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "7"
+          ],
+          "name": "Stan Wawrinka",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4",
+            "6"
+          ],
+          "name": "Albert Ramos",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:15:14",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "6",
+            "3",
+            "0"
+          ],
+          "name": "Thanasi Kokkinakis",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "4",
+            "6",
+            "2"
+          ],
+          "name": "Richard Gasquet",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:52:24",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Thomaz Bellucci",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "5",
+            "3"
+          ],
+          "name": "James Ward",
+          "country": "GB"
+        }
+      ],
+      "duration": "02:02:02",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Tomas Berdych",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2",
+            "4"
+          ],
+          "name": "Bjorn Fratangelo",
+          "country": "US"
+        }
+      ],
+      "duration": "01:51:37",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3",
+            "2"
+          ],
+          "name": "Victor Estrella",
+          "country": "DO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Jack Sock",
+          "country": "US"
+        }
+      ],
+      "duration": "01:26:39",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Viktor Troicki",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4",
+            "3"
+          ],
+          "name": "Francis Tiafoe",
+          "country": "US"
+        }
+      ],
+      "duration": "02:00:20",
+      "round": "Round of 128",
+      "date": "2015-09-01"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Benoit Paire",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "4",
+            "3"
+          ],
+          "name": "Marsel Ilhan",
+          "country": "TR"
+        }
+      ],
+      "duration": "02:03:09",
+      "round": "Round of 64",
+      "date": "2015-09-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "5"
+          ],
+          "name": "Diego Sebastian Schwartzman",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "7"
+          ],
+          "name": "Rafael Nadal",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:41:02",
+      "round": "Round of 64",
+      "date": "2015-09-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Fabio Fognini",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4",
+            "4"
+          ],
+          "name": "Pablo Cuevas",
+          "country": "UY"
+        }
+      ],
+      "duration": "01:46:22",
+      "round": "Round of 64",
+      "date": "2015-09-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "5",
+            "6"
+          ],
+          "name": "Filip Krajinovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7",
+            "7"
+          ],
+          "name": "David Ferrer",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:24:09",
+      "round": "Round of 64",
+      "date": "2015-09-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "7"
+          ],
+          "name": "Jeremy Chardy",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4",
+            "6"
+          ],
+          "name": "Martin Klizan",
+          "country": "SK"
+        }
+      ],
+      "duration": "02:06:31",
+      "round": "Round of 64",
+      "date": "2015-09-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Jo-Wilfried Tsonga",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4",
+            "3"
+          ],
+          "name": "Marcel Granollers",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:03:44",
+      "round": "Round of 64",
+      "date": "2015-09-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "6",
+            "5",
+            "3"
+          ],
+          "name": "Mardy Fish",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "1",
+            "7",
+            "6"
+          ],
+          "name": "Feliciano Lopez",
+          "country": "ES"
+        }
+      ],
+      "duration": "03:11:55",
+      "round": "Round of 64",
+      "date": "2015-09-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Marin Cilic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3",
+            "5"
+          ],
+          "name": "Evgeny Donskoy",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:54:33",
+      "round": "Round of 64",
+      "date": "2015-09-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "2",
+            "4",
+            "6"
+          ],
+          "name": "Mikhail Kukushkin",
+          "country": "KZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Grigor Dimitrov",
+          "country": "BG"
+        }
+      ],
+      "duration": "03:38:53",
+      "round": "Round of 64",
+      "date": "2015-09-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Milos Raonic",
+          "country": "CA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4",
+            "7",
+            "6"
+          ],
+          "name": "Fernando Verdasco",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:52:32",
+      "round": "Round of 64",
+      "date": "2015-09-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Novak Djokovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1",
+            "2"
+          ],
+          "name": "Andreas Haider-Maurer",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:31:39",
+      "round": "Round of 64",
+      "date": "2015-09-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "6",
+            "2",
+            "1"
+          ],
+          "name": "Ricardas Berankis",
+          "country": "LT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "David Goffin",
+          "country": "BE"
+        }
+      ],
+      "duration": "03:22:19",
+      "round": "Round of 64",
+      "date": "2015-09-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Roberto Bautista",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "0",
+            "6",
+            "4"
+          ],
+          "name": "Pablo Carreno",
+          "country": "ES"
+        }
+      ],
+      "duration": "03:15:55",
+      "round": "Round of 64",
+      "date": "2015-09-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "4"
+          ],
+          "name": "Samuel Groth",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Tommy Robredo",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:00:54",
+      "round": "Round of 64",
+      "date": "2015-09-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Sergiy Stakhovsky",
+          "country": "UA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Illya Marchenko",
+          "country": "UA"
+        }
+      ],
+      "duration": "03:05:34",
+      "round": "Round of 64",
+      "date": "2015-09-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "6",
+            "1"
+          ],
+          "name": "Teymuraz Gabashvili",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Andreas Seppi",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:38:23",
+      "round": "Round of 64",
+      "date": "2015-09-02"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "1",
+            "3",
+            "1"
+          ],
+          "name": "Adrian Mannarino",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "4",
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Andy Murray",
+          "country": "01"
+        }
+      ],
+      "duration": "03:17:59",
+      "round": "Round of 64",
+      "date": "2015-09-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "4",
+            "2"
+          ],
+          "name": "Aljaz Bedene",
+          "country": "SI"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Donald Young",
+          "country": "US"
+        }
+      ],
+      "duration": "02:44:11",
+      "round": "Round of 64",
+      "date": "2015-09-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "3",
+            "5",
+            "7"
+          ],
+          "name": "Bernard Tomic",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2",
+            "6",
+            "7",
+            "5"
+          ],
+          "name": "Lleyton Hewitt",
+          "country": "AU"
+        }
+      ],
+      "duration": "03:28:11",
+      "round": "Round of 64",
+      "date": "2015-09-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4",
+            "0"
+          ],
+          "name": "Denis Istomin",
+          "country": "UZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "1"
+          ],
+          "name": "Dominic Thiem",
+          "country": "AT"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 64",
+      "date": "2015-09-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "3",
+            "6",
+            "7"
+          ],
+          "name": "Jiri Vesely",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Ivo Karlovic",
+          "country": "HR"
+        }
+      ],
+      "duration": "03:30:23",
+      "round": "Round of 64",
+      "date": "2015-09-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "John Isner",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4",
+            "4"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:41:50",
+      "round": "Round of 64",
+      "date": "2015-09-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Kevin Anderson",
+          "country": "ZA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4",
+            "2"
+          ],
+          "name": "Austin Krajicek",
+          "country": "US"
+        }
+      ],
+      "duration": "01:33:03",
+      "round": "Round of 64",
+      "date": "2015-09-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2",
+            "7",
+            "1"
+          ],
+          "name": "Nicolas Mahut",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Guillermo Garcia",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:47:42",
+      "round": "Round of 64",
+      "date": "2015-09-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Philipp Kohlschreiber",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "2"
+          ],
+          "name": "Lukas Rosol",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:53:09",
+      "round": "Round of 64",
+      "date": "2015-09-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "6",
+            "4"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Richard Gasquet",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:40:45",
+      "round": "Round of 64",
+      "date": "2015-09-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "4",
+            "6",
+            "2"
+          ],
+          "name": "Ruben Bemelmans",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "3",
+            "1"
+          ],
+          "name": "Jack Sock",
+          "country": "US"
+        }
+      ],
+      "duration": "01:57:03",
+      "round": "Round of 64",
+      "date": "2015-09-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7",
+            "7"
+          ],
+          "name": "Stan Wawrinka",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Hyeon Chung",
+          "country": "KR"
+        }
+      ],
+      "duration": "03:02:18",
+      "round": "Round of 64",
+      "date": "2015-09-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2",
+            "1"
+          ],
+          "name": "Steve Darcis",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Roger Federer",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:20:44",
+      "round": "Round of 64",
+      "date": "2015-09-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Thomaz Bellucci",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "3",
+            "4"
+          ],
+          "name": "Yoshihito Nishioka",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:40:14",
+      "round": "Round of 64",
+      "date": "2015-09-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Tomas Berdych",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "3"
+          ],
+          "name": "Juergen Melzer",
+          "country": "AT"
+        }
+      ],
+      "duration": "02:03:18",
+      "round": "Round of 64",
+      "date": "2015-09-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Viktor Troicki",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Rajeev Ram",
+          "country": "US"
+        }
+      ],
+      "duration": "02:44:40",
+      "round": "Round of 64",
+      "date": "2015-09-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Benoit Paire",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "1"
+          ],
+          "name": "Tommy Robredo",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:06:01",
+      "round": "Round of 32",
+      "date": "2015-09-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "4",
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Fabio Fognini",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4",
+            "3",
+            "4"
+          ],
+          "name": "Rafael Nadal",
+          "country": "ES"
+        }
+      ],
+      "duration": "03:46:53",
+      "round": "Round of 32",
+      "date": "2015-09-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Jeremy Chardy",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "3",
+            "1"
+          ],
+          "name": "David Ferrer",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:32:27",
+      "round": "Round of 32",
+      "date": "2015-09-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Jo-Wilfried Tsonga",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5",
+            "2"
+          ],
+          "name": "Sergiy Stakhovsky",
+          "country": "UA"
+        }
+      ],
+      "duration": "02:03:40",
+      "round": "Round of 32",
+      "date": "2015-09-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Marin Cilic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "3",
+            "7",
+            "1"
+          ],
+          "name": "Mikhail Kukushkin",
+          "country": "KZ"
+        }
+      ],
+      "duration": "04:11:42",
+      "round": "Round of 32",
+      "date": "2015-09-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "3"
+          ],
+          "name": "Milos Raonic",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Feliciano Lopez",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:47:50",
+      "round": "Round of 32",
+      "date": "2015-09-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "7"
+          ],
+          "name": "Novak Djokovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5",
+            "5"
+          ],
+          "name": "Andreas Seppi",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:29:24",
+      "round": "Round of 32",
+      "date": "2015-09-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "5",
+            "6",
+            "3"
+          ],
+          "name": "Roberto Bautista",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "7",
+            "3",
+            "1"
+          ],
+          "name": "David Goffin",
+          "country": "BE"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-09-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3",
+            "1"
+          ],
+          "name": "Bernard Tomic",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Richard Gasquet",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:29:45",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "John Isner",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Jiri Vesely",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:15:25",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "7"
+          ],
+          "name": "Kevin Anderson",
+          "country": "ZA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Dominic Thiem",
+          "country": "AT"
+        }
+      ],
+      "duration": "02:29:30",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4",
+            "4"
+          ],
+          "name": "Philipp Kohlschreiber",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Roger Federer",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:33:34",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Stan Wawrinka",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "4"
+          ],
+          "name": "Ruben Bemelmans",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:57:33",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2",
+            "5"
+          ],
+          "name": "Thomaz Bellucci",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Andy Murray",
+          "country": "01"
+        }
+      ],
+      "duration": "02:11:34",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Tomas Berdych",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "3",
+            "3"
+          ],
+          "name": "Guillermo Garcia",
+          "country": "ES"
+        }
+      ],
+      "duration": "03:22:48",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "6",
+            "2",
+            "4"
+          ],
+          "name": "Viktor Troicki",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "0",
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Donald Young",
+          "country": "US"
+        }
+      ],
+      "duration": "03:32:49",
+      "round": "Round of 32",
+      "date": "2015-09-05"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3",
+            "4"
+          ],
+          "name": "Benoit Paire",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Jo-Wilfried Tsonga",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:42:56",
+      "round": "Round of 16",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Feliciano Lopez",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "1"
+          ],
+          "name": "Fabio Fognini",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:50:43",
+      "round": "Round of 16",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "7",
+            "6"
+          ],
+          "name": "Marin Cilic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "6",
+            "1"
+          ],
+          "name": "Jeremy Chardy",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:27:02",
+      "round": "Round of 16",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Novak Djokovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "4",
+            "3"
+          ],
+          "name": "Roberto Bautista",
+          "country": "ES"
+        }
+      ],
+      "duration": "03:02:54",
+      "round": "Round of 16",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "5"
+          ],
+          "name": "John Isner",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7",
+            "7"
+          ],
+          "name": "Roger Federer",
+          "country": "CH"
+        }
+      ],
+      "duration": "02:39:55",
+      "round": "Round of 16",
+      "date": "2015-09-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Kevin Anderson",
+          "country": "ZA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Andy Murray",
+          "country": "01"
+        }
+      ],
+      "duration": "04:18:30",
+      "round": "Round of 16",
+      "date": "2015-09-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "Stan Wawrinka",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Donald Young",
+          "country": "US"
+        }
+      ],
+      "duration": "02:09:12",
+      "round": "Round of 16",
+      "date": "2015-09-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4",
+            "1"
+          ],
+          "name": "Tomas Berdych",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Richard Gasquet",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:24:26",
+      "round": "Round of 16",
+      "date": "2015-09-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4",
+            "6",
+            "7",
+            "4"
+          ],
+          "name": "Jo-Wilfried Tsonga",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Marin Cilic",
+          "country": "HR"
+        }
+      ],
+      "duration": "03:59:08",
+      "round": "Quarter-Final",
+      "date": "2015-09-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6",
+            "7"
+          ],
+          "name": "Novak Djokovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Feliciano Lopez",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:39:47",
+      "round": "Quarter-Final",
+      "date": "2015-09-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3",
+            "1"
+          ],
+          "name": "Richard Gasquet",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Roger Federer",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:27:10",
+      "round": "Quarter-Final",
+      "date": "2015-09-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Stan Wawrinka",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4",
+            "0"
+          ],
+          "name": "Kevin Anderson",
+          "country": "ZA"
+        }
+      ],
+      "duration": "01:48:03",
+      "round": "Quarter-Final",
+      "date": "2015-09-09"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Novak Djokovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "1",
+            "2"
+          ],
+          "name": "Marin Cilic",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:25:50",
+      "round": "Semi-Final",
+      "date": "2015-09-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3",
+            "1"
+          ],
+          "name": "Stan Wawrinka",
+          "country": "CH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Roger Federer",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:32:12",
+      "round": "Semi-Final",
+      "date": "2015-09-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Novak Djokovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "4",
+            "4"
+          ],
+          "name": "Roger Federer",
+          "country": "CH"
+        }
+      ],
+      "duration": "03:20:59",
+      "round": "Championship",
+      "date": "2015-09-13"
+    }
+  ],
+  "players": [
+    "Adrian Mannarino",
+    "Albert Ramos",
+    "Alejandro Gonzalez",
+    "Alexander Zverev",
+    "Alexandr Dolgopolov",
+    "Aljaz Bedene",
+    "Andreas Haider-Maurer",
+    "Andreas Seppi",
+    "Andrey Rublev",
+    "Andy Murray",
+    "Austin Krajicek",
+    "Benjamin Becker",
+    "Benoit Paire",
+    "Bernard Tomic",
+    "Bjorn Fratangelo",
+    "Borna Coric",
+    "Damir Dzumhur",
+    "Daniel Gimeno",
+    "David Ferrer",
+    "David Goffin",
+    "Denis Istomin",
+    "Denis Kudla",
+    "Diego Sebastian Schwartzman",
+    "Dominic Thiem",
+    "Donald Young",
+    "Dudi Sela",
+    "Dustin Brown",
+    "Elias Ymer",
+    "Ernests Gulbis",
+    "Evgeny Donskoy",
+    "Fabio Fognini",
+    "Federico Delbonis",
+    "Feliciano Lopez",
+    "Fernando Verdasco",
+    "Filip Krajinovic",
+    "Florian Mayer",
+    "Francis Tiafoe",
+    "Gael Monfils",
+    "Gilles Mueller",
+    "Gilles Simon",
+    "Grigor Dimitrov",
+    "Guido Pella",
+    "Guillermo Garcia",
+    "Hyeon Chung",
+    "Illya Marchenko",
+    "Ivo Karlovic",
+    "Jack Sock",
+    "James Duckworth",
+    "James Ward",
+    "Janko Tipsarevic",
+    "Jared Donaldson",
+    "Jarkko Nieminen",
+    "Jeremy Chardy",
+    "Jerzy Janowicz",
+    "Jiri Vesely",
+    "Jo-Wilfried Tsonga",
+    "Joao Sousa",
+    "Joao Souza",
+    "John Isner",
+    "John Millman",
+    "John-Patrick Smith",
+    "Juergen Melzer",
+    "Kei Nishikori",
+    "Kevin Anderson",
+    "Konstantin Kravchuk",
+    "Leonardo Mayer",
+    "Lleyton Hewitt",
+    "Lucas Pouille",
+    "Lukas Lacko",
+    "Lukas Rosol",
+    "Malek Jaziri",
+    "Marcel Granollers",
+    "Marco Cecchinato",
+    "Marcos Baghdatis",
+    "Mardy Fish",
+    "Marin Cilic",
+    "Marsel Ilhan",
+    "Martin Klizan",
+    "Matthew Ebden",
+    "Michael Berrer",
+    "Mikhail Kukushkin",
+    "Mikhail Youzhny",
+    "Milos Raonic",
+    "Nick Kyrgios",
+    "Nicolas Mahut",
+    "Nikoloz Basilashvili",
+    "Novak Djokovic",
+    "Oleksandr Nedovyesov",
+    "Pablo Andujar",
+    "Pablo Carreno",
+    "Pablo Cuevas",
+    "Paolo Lorenzi",
+    "Paul-Henri Mathieu",
+    "Philipp Kohlschreiber",
+    "Pierre-Hugues Herbert",
+    "Radek Stepanek",
+    "Radu Albot",
+    "Rafael Nadal",
+    "Rajeev Ram",
+    "Ricardas Berankis",
+    "Richard Gasquet",
+    "Roberto Bautista",
+    "Robin Haase",
+    "Roger Federer",
+    "Ruben Bemelmans",
+    "Ryan Harrison",
+    "Ryan Shane",
+    "Sam Querrey",
+    "Samuel Groth",
+    "Santiago Giraldo",
+    "Sergiy Stakhovsky",
+    "Simone Bolelli",
+    "Stan Wawrinka",
+    "Steve Darcis",
+    "Steve Johnson",
+    "Teymuraz Gabashvili",
+    "Thanasi Kokkinakis",
+    "Thomaz Bellucci",
+    "Tim Smyczek",
+    "Tomas Berdych",
+    "Tommy Haas",
+    "Tommy Paul",
+    "Tommy Robredo",
+    "Vasek Pospisil",
+    "Victor Estrella",
+    "Viktor Troicki",
+    "Yen-Hsun Lu",
+    "Yoshihito Nishioka"
+  ]
+}

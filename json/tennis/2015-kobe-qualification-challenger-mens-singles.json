@@ -10,6 +10,183 @@
         {
           "is_winner": true,
           "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Keisuke Numajiri",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Yuta Shimizu",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:28:57",
+      "round": "Round of 32",
+      "date": "2015-11-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Ren Nakamura",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Ko Suzuki",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:19:39",
+      "round": "Round of 32",
+      "date": "2015-11-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ryota Tanuma",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Tetsuro Habusawa",
+          "country": "JP"
+        }
+      ],
+      "duration": "00:58:06",
+      "round": "Round of 32",
+      "date": "2015-11-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Shinta Fujii",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Oliver Anderson",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:58:05",
+      "round": "Round of 32",
+      "date": "2015-11-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sora Fukuda",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Yuichiro Inui",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:04:45",
+      "round": "Round of 32",
+      "date": "2015-11-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Woong-Sun Jun",
+          "country": "KR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "1"
+          ],
+          "name": "Shota Iino",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:38:23",
+      "round": "Round of 32",
+      "date": "2015-11-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Yusei Kosaka",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Masato Shiga",
+          "country": "JP"
+        }
+      ],
+      "duration": "00:55:28",
+      "round": "Round of 32",
+      "date": "2015-11-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
             "7",
             "6"
           ],
@@ -263,31 +440,6 @@
           "is_winner": true,
           "set_games": [
             "6",
-            "6"
-          ],
-          "name": "Christopher Rungkat",
-          "country": "ID"
-        },
-        {
-          "is_winner": false,
-          "set_games": [
-            "0",
-            "1"
-          ],
-          "name": "Keisuke Numajiri",
-          "country": "JP"
-        }
-      ],
-      "duration": "00:52:59",
-      "round": "Round of 16",
-      "date": "2015-11-08"
-    },
-    {
-      "players": [
-        {
-          "is_winner": true,
-          "set_games": [
-            "6",
             "7"
           ],
           "name": "Christopher Rungkat",
@@ -305,6 +457,31 @@
       ],
       "duration": "01:52:31",
       "round": "Quarter-Final",
+      "date": "2015-11-08"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Christopher Rungkat",
+          "country": "ID"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "1"
+          ],
+          "name": "Keisuke Numajiri",
+          "country": "JP"
+        }
+      ],
+      "duration": "00:52:59",
+      "round": "Round of 16",
       "date": "2015-11-08"
     },
     {
@@ -373,11 +550,18 @@
     "Makoto Ochi",
     "Masato Shiga",
     "Oliver Anderson",
+    "Ren Nakamura",
     "Ryota Tanuma",
+    "Shinta Fujii",
+    "Shota Iino",
     "Shotaro Goto",
     "Sora Fukuda",
+    "Tetsuro Habusawa",
     "Woong-Sun Jun",
     "Young-Seok Kim",
-    "Yuichi Ito"
+    "Yuichi Ito",
+    "Yuichiro Inui",
+    "Yusei Kosaka",
+    "Yuta Shimizu"
   ]
 }

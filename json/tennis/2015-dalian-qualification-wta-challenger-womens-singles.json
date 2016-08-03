@@ -1,0 +1,331 @@
+{
+  "name": "2015 Dalian, Qualification WTA Challenger (Women's Singles)",
+  "country": "China",
+  "gender": "female",
+  "location": "Dalian",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "Emily Webley-Smith",
+          "country": "GB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "1"
+          ],
+          "name": "Erika Sema",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:50:07",
+      "round": "Round of 16",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Hiroko Kuwata",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Huijie Li",
+          "country": "CN"
+        }
+      ],
+      "duration": "00:53:56",
+      "round": "Round of 16",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Katarzyna Piter",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Yuenu Li",
+          "country": "CN"
+        }
+      ],
+      "duration": "03:04:01",
+      "round": "Round of 16",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Ling Zhang",
+          "country": "HK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jingjing Lu",
+          "country": "CN"
+        }
+      ],
+      "duration": "04:34:55",
+      "round": "Round of 16",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Miyu Kato",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Makoto Ninomiya",
+          "country": "JP"
+        }
+      ],
+      "duration": "05:30:31",
+      "round": "Round of 16",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Nicha Lertpitaksinchai",
+          "country": "TH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Chang Liu",
+          "country": "CN"
+        }
+      ],
+      "duration": "03:27:42",
+      "round": "Round of 16",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Peangtarn Plipuech",
+          "country": "TH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "0"
+          ],
+          "name": "Na-Lae Han",
+          "country": "KR"
+        }
+      ],
+      "duration": "06:36:37",
+      "round": "Round of 16",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Shuko Aoyama",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "1"
+          ],
+          "name": "Ankita Raina",
+          "country": "IN"
+        }
+      ],
+      "duration": "03:28:24",
+      "round": "Round of 16",
+      "date": "2015-09-06"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Hiroko Kuwata",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Emily Webley-Smith",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:07:21",
+      "round": "Quarter-Final",
+      "date": "2015-09-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jingjing Lu",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Peangtarn Plipuech",
+          "country": "TH"
+        }
+      ],
+      "duration": "01:21:40",
+      "round": "Quarter-Final",
+      "date": "2015-09-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Katarzyna Piter",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Shuko Aoyama",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:15:22",
+      "round": "Quarter-Final",
+      "date": "2015-09-07"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Miyu Kato",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Chang Liu",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:18:40",
+      "round": "Quarter-Final",
+      "date": "2015-09-07"
+    }
+  ],
+  "players": [
+    "Ankita Raina",
+    "Chang Liu",
+    "Emily Webley-Smith",
+    "Erika Sema",
+    "Hiroko Kuwata",
+    "Huijie Li",
+    "Jingjing Lu",
+    "Katarzyna Piter",
+    "Ling Zhang",
+    "Makoto Ninomiya",
+    "Miyu Kato",
+    "Na-Lae Han",
+    "Nicha Lertpitaksinchai",
+    "Peangtarn Plipuech",
+    "Shuko Aoyama",
+    "Yuenu Li"
+  ]
+}

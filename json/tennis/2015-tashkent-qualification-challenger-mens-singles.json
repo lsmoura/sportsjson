@@ -1,0 +1,357 @@
+{
+  "name": "2015 Tashkent, Qualification Challenger (Men's Singles)",
+  "country": "Uzbekistan",
+  "gender": "male",
+  "location": "Tashkent",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Alexander Bury",
+          "country": "BY"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sergey Betov",
+          "country": "BY"
+        }
+      ],
+      "duration": "00:46:17",
+      "round": "Round of 16",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Anton Zaytsev",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "0"
+          ],
+          "name": "Pavel Tsoy",
+          "country": "UZ"
+        }
+      ],
+      "duration": "00:46:56",
+      "round": "Round of 16",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ilya Ivashka",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "0"
+          ],
+          "name": "Dmitry Resnyanskiy",
+          "country": "KZ"
+        }
+      ],
+      "duration": "00:51:18",
+      "round": "Round of 16",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kevin Krawietz",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Batyr Sapaev",
+          "country": "UZ"
+        }
+      ],
+      "duration": "01:13:19",
+      "round": "Round of 16",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Khumoun Sultanov",
+          "country": "UZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Michael Venus",
+          "country": "NZ"
+        }
+      ],
+      "duration": "01:27:53",
+      "round": "Round of 16",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Khumoun Sultanov",
+          "country": "UZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Sharobiddin Abzalov",
+          "country": "UZ"
+        }
+      ],
+      "duration": "00:57:16",
+      "round": "Round of 32",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Saida'lo Saidkarimov",
+          "country": "UZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Sarvar Ikramov",
+          "country": "UZ"
+        }
+      ],
+      "duration": "01:07:53",
+      "round": "Round of 16",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "2"
+          ],
+          "name": "Sardor Pulatov",
+          "country": "UZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Divij Sharan",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:28:36",
+      "round": "Round of 16",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Vladimir Ivanov",
+          "country": "EE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Vaja Uzakov",
+          "country": "UZ"
+        }
+      ],
+      "duration": "01:05:10",
+      "round": "Round of 16",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Anton Zaytsev",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "7"
+          ],
+          "name": "Sergey Betov",
+          "country": "BY"
+        }
+      ],
+      "duration": "03:02:22",
+      "round": "Quarter-Final",
+      "date": "2015-10-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ilya Ivashka",
+          "country": "BY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Khumoun Sultanov",
+          "country": "UZ"
+        }
+      ],
+      "duration": "01:18:12",
+      "round": "Quarter-Final",
+      "date": "2015-10-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Kevin Krawietz",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Divij Sharan",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:13:19",
+      "round": "Quarter-Final",
+      "date": "2015-10-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Vladimir Ivanov",
+          "country": "EE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Saida'lo Saidkarimov",
+          "country": "UZ"
+        }
+      ],
+      "duration": "00:43:50",
+      "round": "Quarter-Final",
+      "date": "2015-10-11"
+    }
+  ],
+  "players": [
+    "Alexander Bury",
+    "Anton Zaytsev",
+    "Batyr Sapaev",
+    "Divij Sharan",
+    "Dmitry Resnyanskiy",
+    "Ilya Ivashka",
+    "Kevin Krawietz",
+    "Khumoun Sultanov",
+    "Michael Venus",
+    "Pavel Tsoy",
+    "Saida'lo Saidkarimov",
+    "Sardor Pulatov",
+    "Sarvar Ikramov",
+    "Sergey Betov",
+    "Sharobiddin Abzalov",
+    "Vaja Uzakov",
+    "Vladimir Ivanov"
+  ]
+}

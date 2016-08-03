@@ -1,0 +1,734 @@
+{
+  "name": "2015 St. Petersburg Open ATP (Men's Singles)",
+  "country": "Russia",
+  "gender": "male",
+  "location": "St. Petersburg",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6"
+          ],
+          "name": "Daniel Gimeno",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Andreas Haider-Maurer",
+          "country": "AT"
+        }
+      ],
+      "duration": "02:00:43",
+      "round": "Round of 32",
+      "date": "2015-09-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Alexandre Sidorenko",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Evgeny Donskoy",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:02:32",
+      "round": "Round of 32",
+      "date": "2015-09-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Benoit Paire",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Jerzy Janowicz",
+          "country": "PL"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-09-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Marcos Baghdatis",
+          "country": "CY"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Ernests Gulbis",
+          "country": "LV"
+        }
+      ],
+      "duration": "02:08:53",
+      "round": "Round of 32",
+      "date": "2015-09-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Tommy Robredo",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:55:14",
+      "round": "Round of 32",
+      "date": "2015-09-22"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "4"
+          ],
+          "name": "Andrey Golubev",
+          "country": "KZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Benjamin Becker",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:41:23",
+      "round": "Round of 32",
+      "date": "2015-09-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "1"
+          ],
+          "name": "Andrey Rublev",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Simone Bolelli",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:04:42",
+      "round": "Round of 32",
+      "date": "2015-09-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "2",
+            "6"
+          ],
+          "name": "Denis Istomin",
+          "country": "UZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "2"
+          ],
+          "name": "Mikhail Kukushkin",
+          "country": "KZ"
+        }
+      ],
+      "duration": "02:08:03",
+      "round": "Round of 32",
+      "date": "2015-09-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Dominic Thiem",
+          "country": "AT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Andreas Haider-Maurer",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:22:20",
+      "round": "Round of 16",
+      "date": "2015-09-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marcel Granollers",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Thanasi Kokkinakis",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:16:29",
+      "round": "Round of 32",
+      "date": "2015-09-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "4"
+          ],
+          "name": "Radu Albot",
+          "country": "MD"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Joao Sousa",
+          "country": "PT"
+        }
+      ],
+      "duration": "02:11:22",
+      "round": "Round of 32",
+      "date": "2015-09-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Ricardas Berankis",
+          "country": "LT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "7"
+          ],
+          "name": "Lucas Pouille",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:43:22",
+      "round": "Round of 32",
+      "date": "2015-09-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Teymuraz Gabashvili",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Yaraslau Shyla",
+          "country": "BY"
+        }
+      ],
+      "duration": "00:54:02",
+      "round": "Round of 32",
+      "date": "2015-09-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Benjamin Becker",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "7",
+            "6"
+          ],
+          "name": "Denis Istomin",
+          "country": "UZ"
+        }
+      ],
+      "duration": "02:02:40",
+      "round": "Round of 16",
+      "date": "2015-09-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Evgeny Donskoy",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Milos Raonic",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:13:24",
+      "round": "Round of 16",
+      "date": "2015-09-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jerzy Janowicz",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Lucas Pouille",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:57:18",
+      "round": "Round of 16",
+      "date": "2015-09-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Marcel Granollers",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Joao Sousa",
+          "country": "PT"
+        }
+      ],
+      "duration": "01:21:47",
+      "round": "Round of 16",
+      "date": "2015-09-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "5"
+          ],
+          "name": "Teymuraz Gabashvili",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "7"
+          ],
+          "name": "Roberto Bautista",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:34:17",
+      "round": "Round of 16",
+      "date": "2015-09-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Tomas Berdych",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Simone Bolelli",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:38:02",
+      "round": "Round of 16",
+      "date": "2015-09-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Tommy Robredo",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Marcos Baghdatis",
+          "country": "CY"
+        }
+      ],
+      "duration": "01:25:04",
+      "round": "Round of 16",
+      "date": "2015-09-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Dominic Thiem",
+          "country": "AT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Denis Istomin",
+          "country": "UZ"
+        }
+      ],
+      "duration": "01:15:23",
+      "round": "Quarter-Final",
+      "date": "2015-09-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Lucas Pouille",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Roberto Bautista",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:11:28",
+      "round": "Quarter-Final",
+      "date": "2015-09-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Simone Bolelli",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Joao Sousa",
+          "country": "PT"
+        }
+      ],
+      "duration": "01:43:39",
+      "round": "Quarter-Final",
+      "date": "2015-09-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Tommy Robredo",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Milos Raonic",
+          "country": "CA"
+        }
+      ],
+      "duration": "00:52:42",
+      "round": "Quarter-Final",
+      "date": "2015-09-25"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Joao Sousa",
+          "country": "PT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Dominic Thiem",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:38:20",
+      "round": "Semi-Final",
+      "date": "2015-09-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Roberto Bautista",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Milos Raonic",
+          "country": "CA"
+        }
+      ],
+      "duration": "01:28:17",
+      "round": "Semi-Final",
+      "date": "2015-09-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Joao Sousa",
+          "country": "PT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Milos Raonic",
+          "country": "CA"
+        }
+      ],
+      "duration": "02:06:43",
+      "round": "Championship",
+      "date": "2015-09-27"
+    }
+  ],
+  "players": [
+    "Alexandre Sidorenko",
+    "Andreas Haider-Maurer",
+    "Andrey Golubev",
+    "Andrey Rublev",
+    "Benjamin Becker",
+    "Benoit Paire",
+    "Daniel Gimeno",
+    "Denis Istomin",
+    "Dominic Thiem",
+    "Ernests Gulbis",
+    "Evgeny Donskoy",
+    "Jerzy Janowicz",
+    "Joao Sousa",
+    "Lucas Pouille",
+    "Marcel Granollers",
+    "Marcos Baghdatis",
+    "Mikhail Kukushkin",
+    "Mikhail Youzhny",
+    "Milos Raonic",
+    "Radu Albot",
+    "Ricardas Berankis",
+    "Roberto Bautista",
+    "Simone Bolelli",
+    "Teymuraz Gabashvili",
+    "Thanasi Kokkinakis",
+    "Tomas Berdych",
+    "Tommy Robredo",
+    "Yaraslau Shyla"
+  ]
+}

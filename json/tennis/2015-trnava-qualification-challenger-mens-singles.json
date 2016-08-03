@@ -1,0 +1,499 @@
+{
+  "name": "2015 Trnava, Qualification Challenger (Men's Singles)",
+  "country": "Slovakia",
+  "gender": "male",
+  "location": "Trnava",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "6"
+          ],
+          "name": "Ergi Kirkin",
+          "country": "TR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "3"
+          ],
+          "name": "Ivan Sabanov",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:55:06",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Filip Brtnicky",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tristan Samuel Weissborn",
+          "country": "AT"
+        }
+      ],
+      "duration": "00:58:42",
+      "round": "Round of 16",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Hubert Hurkacz",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Sergiy Sergiienko",
+          "country": "UA"
+        }
+      ],
+      "duration": "00:46:46",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jan Poskocil",
+          "country": "AT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Erik Chren",
+          "country": "SK"
+        }
+      ],
+      "duration": "00:37:12",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Karol Drzewiecki",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "3"
+          ],
+          "name": "Marek Semjan",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:50:18",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "4"
+          ],
+          "name": "Mario Turcan",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Jannis Liniger",
+          "country": "CH"
+        }
+      ],
+      "duration": "02:25:58",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Oscar Otte",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Patrik Obal",
+          "country": "SK"
+        }
+      ],
+      "duration": "00:54:23",
+      "round": "Round of 16",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Patryk Janik",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Costin Paval",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:10:23",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "2"
+          ],
+          "name": "Costin Paval",
+          "country": "RO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Miloslav Mecir",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:29:57",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "7",
+            "0"
+          ],
+          "name": "Jan Poskocil",
+          "country": "AT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Lenny Hampel",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:45:06",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Karol Drzewiecki",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Adrian Partl",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:26:01",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pascal Brunner",
+          "country": "AT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Jannis Liniger",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:03:10",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Riccardo Bellotti",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "1"
+          ],
+          "name": "Hubert Hurkacz",
+          "country": "PL"
+        }
+      ],
+      "duration": "01:54:19",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Vaclav Safranek",
+          "country": "CZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Ergi Kirkin",
+          "country": "TR"
+        }
+      ],
+      "duration": "01:09:33",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "1"
+          ],
+          "name": "Oscar Otte",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Tristan Samuel Weissborn",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:24:07",
+      "round": "Quarter-Final",
+      "date": "2015-09-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Pascal Brunner",
+          "country": "AT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Miloslav Mecir",
+          "country": "SK"
+        }
+      ],
+      "duration": "00:59:49",
+      "round": "Quarter-Final",
+      "date": "2015-09-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Riccardo Bellotti",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "2"
+          ],
+          "name": "Karol Drzewiecki",
+          "country": "PL"
+        }
+      ],
+      "duration": "01:44:34",
+      "round": "Quarter-Final",
+      "date": "2015-09-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Vaclav Safranek",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Lenny Hampel",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:18:57",
+      "round": "Quarter-Final",
+      "date": "2015-09-21"
+    }
+  ],
+  "players": [
+    "Adrian Partl",
+    "Costin Paval",
+    "Ergi Kirkin",
+    "Erik Chren",
+    "Filip Brtnicky",
+    "Hubert Hurkacz",
+    "Ivan Sabanov",
+    "Jan Poskocil",
+    "Jannis Liniger",
+    "Karol Drzewiecki",
+    "Lenny Hampel",
+    "Marek Semjan",
+    "Mario Turcan",
+    "Miloslav Mecir",
+    "Oscar Otte",
+    "Pascal Brunner",
+    "Patrik Obal",
+    "Patryk Janik",
+    "Riccardo Bellotti",
+    "Sergiy Sergiienko",
+    "Tristan Samuel Weissborn",
+    "Vaclav Safranek"
+  ]
+}

@@ -1,0 +1,625 @@
+{
+  "name": "2015 Medellin, Qualification Challenger (Men's Singles)",
+  "country": "Colombia",
+  "gender": "male",
+  "location": "Medellin",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Alejandro Gomez",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Oscar Torres",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:26:40",
+      "round": "Round of 16",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Camilo Andres Erazo",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mauricio Echazu",
+          "country": "PE"
+        }
+      ],
+      "duration": "01:16:43",
+      "round": "Round of 32",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Christopher Diaz",
+          "country": "GT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Jose Daniel Bendeck",
+          "country": "CO"
+        }
+      ],
+      "duration": "00:58:19",
+      "round": "Round of 16",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "2"
+          ],
+          "name": "Daniel Mora",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Juan Pablo Varillas",
+          "country": "PE"
+        }
+      ],
+      "duration": "01:04:05",
+      "round": "Round of 32",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Felipe Rojas",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Luis David Martinez",
+          "country": "VE"
+        }
+      ],
+      "duration": "01:50:13",
+      "round": "Round of 32",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Felipe Santamaria",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Miguel Angel Reyes",
+          "country": "MX"
+        }
+      ],
+      "duration": "00:43:42",
+      "round": "Round of 32",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "0"
+          ],
+          "name": "Jesus Francisco Felix",
+          "country": "DO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gregorio Cordonnier",
+          "country": "AR"
+        }
+      ],
+      "duration": "00:55:28",
+      "round": "Round of 32",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Jose Daniel Bendeck",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Tomas Builes",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:47:55",
+      "round": "Round of 32",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Jose Fernando Carvajal",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Fabricio Neis",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:11:53",
+      "round": "Round of 16",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "6"
+          ],
+          "name": "Juan Ignacio Galarza",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "2"
+          ],
+          "name": "Gregorio Cordonnier",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:12:28",
+      "round": "Round of 16",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Juan Manuel Benitez",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Juan Pablo Varillas",
+          "country": "PE"
+        }
+      ],
+      "duration": "00:57:26",
+      "round": "Round of 16",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Juan Montes",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Juan Miguel Jaramillo",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:07:53",
+      "round": "Round of 32",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Julian Saborio",
+          "country": "CR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mauricio Echazu",
+          "country": "PE"
+        }
+      ],
+      "duration": "01:02:11",
+      "round": "Round of 16",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1"
+          ],
+          "name": "Michael Quintero",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2"
+          ],
+          "name": "Jose Fernando Carvajal",
+          "country": "CO"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Michel Vernier",
+          "country": "CL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Juan Manuel Benitez",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:12:12",
+      "round": "Round of 32",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Miguel Angel Reyes",
+          "country": "MX"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "7"
+          ],
+          "name": "Luis David Martinez",
+          "country": "VE"
+        }
+      ],
+      "duration": "02:18:05",
+      "round": "Round of 16",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Oscar Torres",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "1"
+          ],
+          "name": "Pedro Uribe",
+          "country": "CO"
+        }
+      ],
+      "duration": "02:06:55",
+      "round": "Round of 32",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Peter Kobelt",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Juan Montes",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:31:46",
+      "round": "Round of 16",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "1"
+          ],
+          "name": "Tomas Roldan",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "7",
+            "6"
+          ],
+          "name": "Julian Saborio",
+          "country": "CR"
+        }
+      ],
+      "duration": "01:42:56",
+      "round": "Round of 32",
+      "date": "2015-10-03"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "4"
+          ],
+          "name": "Alejandro Gomez",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Juan Pablo Varillas",
+          "country": "PE"
+        }
+      ],
+      "duration": "01:55:03",
+      "round": "Quarter-Final",
+      "date": "2015-10-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Christopher Diaz",
+          "country": "GT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Luis David Martinez",
+          "country": "VE"
+        }
+      ],
+      "duration": "01:33:48",
+      "round": "Quarter-Final",
+      "date": "2015-10-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Juan Ignacio Galarza",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "1",
+            "7"
+          ],
+          "name": "Fabricio Neis",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:54:22",
+      "round": "Quarter-Final",
+      "date": "2015-10-04"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Peter Kobelt",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Mauricio Echazu",
+          "country": "PE"
+        }
+      ],
+      "duration": "01:35:53",
+      "round": "Quarter-Final",
+      "date": "2015-10-04"
+    }
+  ],
+  "players": [
+    "Alejandro Gomez",
+    "Camilo Andres Erazo",
+    "Christopher Diaz",
+    "Daniel Mora",
+    "Fabricio Neis",
+    "Felipe Rojas",
+    "Felipe Santamaria",
+    "Gregorio Cordonnier",
+    "Jesus Francisco Felix",
+    "Jose Daniel Bendeck",
+    "Jose Fernando Carvajal",
+    "Juan Ignacio Galarza",
+    "Juan Manuel Benitez",
+    "Juan Miguel Jaramillo",
+    "Juan Montes",
+    "Juan Pablo Varillas",
+    "Julian Saborio",
+    "Luis David Martinez",
+    "Mauricio Echazu",
+    "Michael Quintero",
+    "Michel Vernier",
+    "Miguel Angel Reyes",
+    "Oscar Torres",
+    "Pedro Uribe",
+    "Peter Kobelt",
+    "Tomas Builes",
+    "Tomas Roldan"
+  ]
+}

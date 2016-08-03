@@ -1,0 +1,119 @@
+{
+  "name": "2015 Agri, Qualification Challenger (Men's Singles)",
+  "country": "Turkey",
+  "gender": "male",
+  "location": "Agri",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Altug Celikbilek",
+          "country": "TR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Yahor Yatsyk",
+          "country": "BY"
+        }
+      ],
+      "duration": "00:36:19",
+      "round": "Quarter-Final",
+      "date": "2015-09-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Fedor Chervyakov",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Durukan Durmus",
+          "country": "TR"
+        }
+      ],
+      "duration": "01:31:09",
+      "round": "Quarter-Final",
+      "date": "2015-09-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lukas Mugevicius",
+          "country": "LT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Ilia Puzakov",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:44:24",
+      "round": "Quarter-Final",
+      "date": "2015-09-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sarp Agabigun",
+          "country": "TR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Stefan Merunka",
+          "country": "BA"
+        }
+      ],
+      "duration": "00:58:18",
+      "round": "Quarter-Final",
+      "date": "2015-09-27"
+    }
+  ],
+  "players": [
+    "Altug Celikbilek",
+    "Durukan Durmus",
+    "Fedor Chervyakov",
+    "Ilia Puzakov",
+    "Lukas Mugevicius",
+    "Sarp Agabigun",
+    "Stefan Merunka",
+    "Yahor Yatsyk"
+  ]
+}

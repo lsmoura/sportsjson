@@ -1,0 +1,605 @@
+{
+  "name": "2015 Campinas, Qualification Challenger (Men's Singles)",
+  "country": "Brazil",
+  "gender": "male",
+  "location": "Campinas",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "7"
+          ],
+          "name": "Alex Blumenberg",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "5"
+          ],
+          "name": "Osni Junior",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:21:58",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Alexandre Girotto",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "3"
+          ],
+          "name": "Matheus Queiroz",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:21:14",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Allan Gomes Oliveira",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Vinicius Garcia",
+          "country": "BR"
+        }
+      ],
+      "duration": "00:47:08",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "7"
+          ],
+          "name": "Bruno Sant'anna",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "5"
+          ],
+          "name": "Leonardo Kirche",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:26:09",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Gustavo Moreira",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Eduardo Dischinger",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:05:04",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "1"
+          ],
+          "name": "Joao Walendowsky",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Pedro Sakamoto",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:09:20",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Nicolas Santos",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "4"
+          ],
+          "name": "Asdrubal Gobernate",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:07:35",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Oscar Jose Gutierrez",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Caio Silva",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:10:05",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sergio Galdos",
+          "country": "PE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Fernando Yamacita",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:07:57",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Yuri Andrade",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gabriel Decamps",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:14:19",
+      "round": "Round of 32",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Alex Blumenberg",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Thiago Monteiro",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:29:20",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "0"
+          ],
+          "name": "Alexandre Girotto",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Fabricio Neis",
+          "country": "BR"
+        }
+      ],
+      "duration": "00:48:27",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [],
+          "name": "Facundo Bagnis",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [],
+          "name": "Allan Gomes Oliveira",
+          "country": "BR"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "Nicolas Santos",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Bruno Sant'anna",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:17:16",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "3"
+          ],
+          "name": "Oscar Jose Gutierrez",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "7",
+            "6"
+          ],
+          "name": "Pedro Sakamoto",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:53:46",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Ricardo Hocevar",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "5"
+          ],
+          "name": "Sergio Galdos",
+          "country": "PE"
+        }
+      ],
+      "duration": "01:29:47",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Tiago Lopes",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "2"
+          ],
+          "name": "Gabriel Decamps",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:10:06",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Wilson Leite",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "0",
+            "1"
+          ],
+          "name": "Eduardo Dischinger",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:32:08",
+      "round": "Round of 16",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Allan Gomes Oliveira",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Pedro Sakamoto",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:04:21",
+      "round": "Quarter-Final",
+      "date": "2015-09-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Ricardo Hocevar",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Fabricio Neis",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:17:05",
+      "round": "Quarter-Final",
+      "date": "2015-09-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Tiago Lopes",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "3"
+          ],
+          "name": "Thiago Monteiro",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:12:15",
+      "round": "Quarter-Final",
+      "date": "2015-09-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Wilson Leite",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "3"
+          ],
+          "name": "Bruno Sant'anna",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:02:01",
+      "round": "Quarter-Final",
+      "date": "2015-09-21"
+    }
+  ],
+  "players": [
+    "Alex Blumenberg",
+    "Alexandre Girotto",
+    "Allan Gomes Oliveira",
+    "Asdrubal Gobernate",
+    "Bruno Sant'anna",
+    "Caio Silva",
+    "Eduardo Dischinger",
+    "Fabricio Neis",
+    "Facundo Bagnis",
+    "Fernando Yamacita",
+    "Gabriel Decamps",
+    "Gustavo Moreira",
+    "Joao Walendowsky",
+    "Leonardo Kirche",
+    "Matheus Queiroz",
+    "Nicolas Santos",
+    "Oscar Jose Gutierrez",
+    "Osni Junior",
+    "Pedro Sakamoto",
+    "Ricardo Hocevar",
+    "Sergio Galdos",
+    "Thiago Monteiro",
+    "Tiago Lopes",
+    "Vinicius Garcia",
+    "Wilson Leite",
+    "Yuri Andrade"
+  ]
+}

@@ -1,0 +1,771 @@
+{
+  "name": "2015 Las Vegas, Qualification Challenger (Men's Singles)",
+  "country": "United States",
+  "gender": "male",
+  "location": "Las Vegas",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Alexios Halebian",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Alejandro Gomez",
+          "country": "CO"
+        }
+      ],
+      "duration": "01:30:40",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Damon Gooch",
+          "country": "ZA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sekou Bangoura",
+          "country": "US"
+        }
+      ],
+      "duration": "01:01:26",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "3"
+          ],
+          "name": "David Volfson",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Thales Turini",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:40:17",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "7",
+            "6"
+          ],
+          "name": "Eduardo Struvay",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "3"
+          ],
+          "name": "Joel Kielbowicz",
+          "country": "US"
+        }
+      ],
+      "duration": "02:02:44",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Eric Quigley",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Reilly Opelka",
+          "country": "US"
+        }
+      ],
+      "duration": "01:24:58",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "5"
+          ],
+          "name": "Fritz Wolmarans",
+          "country": "ZA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "7"
+          ],
+          "name": "Clay Thompson",
+          "country": "US"
+        }
+      ],
+      "duration": "01:57:40",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Hans Hach",
+          "country": "MX"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Chris Wettengel",
+          "country": "US"
+        }
+      ],
+      "duration": "00:55:22",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Henri Laaksonen",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "3"
+          ],
+          "name": "Jared Hiltzik",
+          "country": "US"
+        }
+      ],
+      "duration": "02:03:35",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Jean-Yves Aubone",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Alexander Cozbinov",
+          "country": "MD"
+        }
+      ],
+      "duration": "01:49:33",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Kaichi Uchida",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "4"
+          ],
+          "name": "Boris Nicola Bakalov",
+          "country": "BG"
+        }
+      ],
+      "duration": "02:04:10",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Michael Grant",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Dennis Nevolo",
+          "country": "US"
+        }
+      ],
+      "duration": "01:27:22",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Peter Polansky",
+          "country": "CA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Ernesto Escobedo",
+          "country": "US"
+        }
+      ],
+      "duration": "02:07:56",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "1"
+          ],
+          "name": "Ruben Alberts",
+          "country": "ZA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "6"
+          ],
+          "name": "Denys Pume",
+          "country": "UA"
+        }
+      ],
+      "duration": "02:20:07",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Tommy Paul",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "3"
+          ],
+          "name": "Tigre Hank",
+          "country": "MX"
+        }
+      ],
+      "duration": "01:48:23",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "3"
+          ],
+          "name": "Brian Battistone",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Phillip Simmonds",
+          "country": "US"
+        }
+      ],
+      "duration": "02:10:28",
+      "round": "Round of 32",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Clay Thompson",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Takanyi Garanganga",
+          "country": "ZW"
+        }
+      ],
+      "duration": "01:29:48",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Eduardo Struvay",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "4"
+          ],
+          "name": "Hans Hach",
+          "country": "MX"
+        }
+      ],
+      "duration": "01:39:03",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Eric Quigley",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "Phillip Simmonds",
+          "country": "US"
+        }
+      ],
+      "duration": "01:38:20",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Ernesto Escobedo",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sekou Bangoura",
+          "country": "US"
+        }
+      ],
+      "duration": "00:57:35",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Henri Laaksonen",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "2"
+          ],
+          "name": "Denys Pume",
+          "country": "UA"
+        }
+      ],
+      "duration": "00:58:22",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jean-Yves Aubone",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Alexios Halebian",
+          "country": "US"
+        }
+      ],
+      "duration": "00:59:32",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Kaichi Uchida",
+          "country": "JP"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "3"
+          ],
+          "name": "Thales Turini",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:52:05",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "0"
+          ],
+          "name": "Moez Echargui",
+          "country": "TN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Takanyi Garanganga",
+          "country": "ZW"
+        }
+      ],
+      "duration": "00:49:07",
+      "round": "Round of 32",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Tommy Paul",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Dennis Nevolo",
+          "country": "US"
+        }
+      ],
+      "duration": "01:31:26",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Dennis Nevolo",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "4"
+          ],
+          "name": "Sekou Bangoura",
+          "country": "US"
+        }
+      ],
+      "duration": "02:27:51",
+      "round": "Quarter-Final",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Eduardo Struvay",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Jean-Yves Aubone",
+          "country": "US"
+        }
+      ],
+      "duration": "02:05:15",
+      "round": "Quarter-Final",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Eric Quigley",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Takanyi Garanganga",
+          "country": "ZW"
+        }
+      ],
+      "duration": "00:59:06",
+      "round": "Quarter-Final",
+      "date": "2015-10-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Henri Laaksonen",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "2"
+          ],
+          "name": "Kaichi Uchida",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:50:21",
+      "round": "Quarter-Final",
+      "date": "2015-10-19"
+    }
+  ],
+  "players": [
+    "Alejandro Gomez",
+    "Alexander Cozbinov",
+    "Alexios Halebian",
+    "Boris Nicola Bakalov",
+    "Brian Battistone",
+    "Chris Wettengel",
+    "Clay Thompson",
+    "Damon Gooch",
+    "David Volfson",
+    "Dennis Nevolo",
+    "Denys Pume",
+    "Eduardo Struvay",
+    "Eric Quigley",
+    "Ernesto Escobedo",
+    "Fritz Wolmarans",
+    "Hans Hach",
+    "Henri Laaksonen",
+    "Jared Hiltzik",
+    "Jean-Yves Aubone",
+    "Joel Kielbowicz",
+    "Kaichi Uchida",
+    "Michael Grant",
+    "Moez Echargui",
+    "Peter Polansky",
+    "Phillip Simmonds",
+    "Reilly Opelka",
+    "Ruben Alberts",
+    "Sekou Bangoura",
+    "Takanyi Garanganga",
+    "Thales Turini",
+    "Tigre Hank",
+    "Tommy Paul"
+  ]
+}

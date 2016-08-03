@@ -1,0 +1,848 @@
+{
+  "name": "2015 Davis Cup Playoff Davis Cup (Men's Singles)",
+  "country": "",
+  "gender": "male",
+  "location": "Unknown",
+  "surface": "Unknown",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "5"
+          ],
+          "name": "Alejandro Falla",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7",
+            "7"
+          ],
+          "name": "Kei Nishikori",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:51:45",
+      "round": "First Round",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "2"
+          ],
+          "name": "Andrey Rublev",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Fabio Fognini",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:51:59",
+      "round": "First Round",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "7",
+            "6",
+            "7"
+          ],
+          "name": "Denis Istomin",
+          "country": "UZ"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "6",
+            "7",
+            "5"
+          ],
+          "name": "Steve Johnson",
+          "country": "US"
+        }
+      ],
+      "duration": "03:33:38",
+      "round": "First Round",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3",
+            "2"
+          ],
+          "name": "Farrukh Dustov",
+          "country": "UZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Jack Sock",
+          "country": "US"
+        }
+      ],
+      "duration": "01:52:52",
+      "round": "First Round",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Jerzy Janowicz",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "7",
+            "2"
+          ],
+          "name": "Norbert Gombos",
+          "country": "SK"
+        }
+      ],
+      "duration": "03:36:57",
+      "round": "First Round",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3",
+            "1"
+          ],
+          "name": "Jose Hernandez",
+          "country": "DO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Philipp Kohlschreiber",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:30:10",
+      "round": "First Round",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4",
+            "4"
+          ],
+          "name": "Michal Przysiezny",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Martin Klizan",
+          "country": "SK"
+        }
+      ],
+      "duration": "02:09:35",
+      "round": "First Round",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Roger Federer",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4",
+            "3"
+          ],
+          "name": "Jesse Huta Galung",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:42:47",
+      "round": "First Round",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "3",
+            "1",
+            "6"
+          ],
+          "name": "Santiago Giraldo",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3",
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Taro Daniel",
+          "country": "JP"
+        }
+      ],
+      "duration": "03:37:56",
+      "round": "First Round",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Somdev Devvarman",
+          "country": "IN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "3"
+          ],
+          "name": "Jiri Vesely",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:43:05",
+      "round": "First Round",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "4",
+            "6",
+            "7"
+          ],
+          "name": "Stan Wawrinka",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "6",
+            "3",
+            "5"
+          ],
+          "name": "Thiemo de Bakker",
+          "country": "NL"
+        }
+      ],
+      "duration": "03:09:29",
+      "round": "First Round",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Teymuraz Gabashvili",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1",
+            "3"
+          ],
+          "name": "Simone Bolelli",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:23:25",
+      "round": "First Round",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Thomaz Bellucci",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4",
+            "6",
+            "4"
+          ],
+          "name": "Mate Delic",
+          "country": "HR"
+        }
+      ],
+      "duration": "02:34:35",
+      "round": "First Round",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "7",
+            "7"
+          ],
+          "name": "Victor Estrella",
+          "country": "DO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Dustin Brown",
+          "country": "DE"
+        }
+      ],
+      "duration": "03:05:35",
+      "round": "First Round",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1",
+            "5"
+          ],
+          "name": "Yuki Bhambri",
+          "country": "IN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Lukas Rosol",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:57:03",
+      "round": "First Round",
+      "date": "2015-09-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "1"
+          ],
+          "name": "Joao Souza",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Borna Coric",
+          "country": "HR"
+        }
+      ],
+      "duration": "21:07:44",
+      "round": "First Round",
+      "date": "2015-09-19"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "Alejandro Falla",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "6"
+          ],
+          "name": "Taro Daniel",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:25:56",
+      "round": "First Round",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "4",
+            "4"
+          ],
+          "name": "Denis Istomin",
+          "country": "UZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Jack Sock",
+          "country": "US"
+        }
+      ],
+      "duration": "02:29:25",
+      "round": "First Round",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Henri Laaksonen",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Tim van Rijthoven",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:34:03",
+      "round": "First Round",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "3"
+          ],
+          "name": "Jerzy Janowicz",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Martin Klizan",
+          "country": "SK"
+        }
+      ],
+      "duration": "02:06:47",
+      "round": "First Round",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Konstantin Kravchuk",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Paolo Lorenzi",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:31:10",
+      "round": "First Round",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Michal Przysiezny",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4",
+            "4"
+          ],
+          "name": "Norbert Gombos",
+          "country": "SK"
+        }
+      ],
+      "duration": "01:50:24",
+      "round": "First Round",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Roberto Cid",
+          "country": "DO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Benjamin Becker",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:46:16",
+      "round": "First Round",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Roger Federer",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2",
+            "4"
+          ],
+          "name": "Thiemo de Bakker",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:43:56",
+      "round": "First Round",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2",
+            "6"
+          ],
+          "name": "Santiago Giraldo",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Kei Nishikori",
+          "country": "JP"
+        }
+      ],
+      "duration": "02:02:05",
+      "round": "First Round",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Teymuraz Gabashvili",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6",
+            "7"
+          ],
+          "name": "Fabio Fognini",
+          "country": "IT"
+        }
+      ],
+      "duration": "02:33:29",
+      "round": "First Round",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "6",
+            "0"
+          ],
+          "name": "Thomaz Bellucci",
+          "country": "BR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "7",
+            "4"
+          ],
+          "name": "Borna Coric",
+          "country": "HR"
+        }
+      ],
+      "duration": "03:11:33",
+      "round": "First Round",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1",
+            "2"
+          ],
+          "name": "Victor Estrella",
+          "country": "DO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Philipp Kohlschreiber",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:58:08",
+      "round": "First Round",
+      "date": "2015-09-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5",
+            "2"
+          ],
+          "name": "Yuki Bhambri",
+          "country": "IN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Jiri Vesely",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:12:25",
+      "round": "First Round",
+      "date": "2015-09-20"
+    }
+  ],
+  "players": [
+    "Alejandro Falla",
+    "Andrey Rublev",
+    "Benjamin Becker",
+    "Borna Coric",
+    "Denis Istomin",
+    "Dustin Brown",
+    "Fabio Fognini",
+    "Farrukh Dustov",
+    "Henri Laaksonen",
+    "Jack Sock",
+    "Jerzy Janowicz",
+    "Jesse Huta Galung",
+    "Jiri Vesely",
+    "Joao Souza",
+    "Jose Hernandez",
+    "Kei Nishikori",
+    "Konstantin Kravchuk",
+    "Lukas Rosol",
+    "Martin Klizan",
+    "Mate Delic",
+    "Michal Przysiezny",
+    "Norbert Gombos",
+    "Paolo Lorenzi",
+    "Philipp Kohlschreiber",
+    "Roberto Cid",
+    "Roger Federer",
+    "Santiago Giraldo",
+    "Simone Bolelli",
+    "Somdev Devvarman",
+    "Stan Wawrinka",
+    "Steve Johnson",
+    "Taro Daniel",
+    "Teymuraz Gabashvili",
+    "Thiemo de Bakker",
+    "Thomaz Bellucci",
+    "Tim van Rijthoven",
+    "Victor Estrella",
+    "Yuki Bhambri"
+  ]
+}

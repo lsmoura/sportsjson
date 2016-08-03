@@ -1,0 +1,323 @@
+{
+  "name": "2015 Suzhou, Qualification Challenger (Men's Singles)",
+  "country": "China",
+  "gender": "male",
+  "location": "Suzhou",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Hai Tong Xia",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yuanfeng Li",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:33:30",
+      "round": "Round of 16",
+      "date": "2015-10-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Junnan Tao",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Shenghao Zhou",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:27:42",
+      "round": "Round of 16",
+      "date": "2015-10-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Laurent Rochette",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "Jian Cheng Zhu",
+          "country": "CN"
+        }
+      ],
+      "duration": "00:55:40",
+      "round": "Round of 16",
+      "date": "2015-10-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [],
+          "name": "Riccardo Ghedin",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [],
+          "name": "Tian Xiang Hui",
+          "country": "CN"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2015-10-23"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Florian Fallert",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Zhuoyang Qiu",
+          "country": "CN"
+        }
+      ],
+      "duration": "02:31:15",
+      "round": "Round of 16",
+      "date": "2015-10-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Florian Fallert",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Fajing Sun",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:22:47",
+      "round": "Quarter-Final",
+      "date": "2015-10-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Jui-Chen Hung",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Zhao Yi Chao",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:46:17",
+      "round": "Quarter-Final",
+      "date": "2015-10-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jui-Chen Hung",
+          "country": "TW"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Chung-Hyo Woo",
+          "country": "KR"
+        }
+      ],
+      "duration": "01:27:56",
+      "round": "Round of 16",
+      "date": "2015-10-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Laurent Rochette",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "4"
+          ],
+          "name": "Yuanfeng Li",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:14:33",
+      "round": "Quarter-Final",
+      "date": "2015-10-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "1"
+          ],
+          "name": "Long Chen",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Fajing Sun",
+          "country": "CN"
+        }
+      ],
+      "duration": "00:50:01",
+      "round": "Round of 16",
+      "date": "2015-10-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Tian Xiang Hui",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Shenghao Zhou",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:07:25",
+      "round": "Quarter-Final",
+      "date": "2015-10-24"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Zhao Yi Chao",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Cheng-Peng Hsieh",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:12:15",
+      "round": "Round of 16",
+      "date": "2015-10-24"
+    }
+  ],
+  "players": [
+    "Cheng-Peng Hsieh",
+    "Chung-Hyo Woo",
+    "Fajing Sun",
+    "Florian Fallert",
+    "Hai Tong Xia",
+    "Jian Cheng Zhu",
+    "Jui-Chen Hung",
+    "Junnan Tao",
+    "Laurent Rochette",
+    "Long Chen",
+    "Riccardo Ghedin",
+    "Shenghao Zhou",
+    "Tian Xiang Hui",
+    "Yuanfeng Li",
+    "Zhao Yi Chao",
+    "Zhuoyang Qiu"
+  ]
+}

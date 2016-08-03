@@ -1,0 +1,850 @@
+{
+  "name": "2015 Swiss Indoors Basel ATP (Men's Singles)",
+  "country": "Switzerland",
+  "gender": "male",
+  "location": "Basel",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "0",
+            "7",
+            "7"
+          ],
+          "name": "Dominic Thiem",
+          "country": "AT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "5"
+          ],
+          "name": "Robin Haase",
+          "country": "NL"
+        }
+      ],
+      "duration": "01:49:59",
+      "round": "Round of 32",
+      "date": "2015-10-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "4"
+          ],
+          "name": "Henri Laaksonen",
+          "country": "CH"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Donald Young",
+          "country": "US"
+        }
+      ],
+      "duration": "01:36:29",
+      "round": "Round of 32",
+      "date": "2015-10-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Lukas Rosol",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "7",
+            "7"
+          ],
+          "name": "Rafael Nadal",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:16:43",
+      "round": "Round of 32",
+      "date": "2015-10-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Viktor Troicki",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "7"
+          ],
+          "name": "Adrian Mannarino",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:25:37",
+      "round": "Round of 32",
+      "date": "2015-10-26"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Alexandr Dolgopolov",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Dusan Lajovic",
+          "country": "RS"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-10-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "4"
+          ],
+          "name": "Andreas Seppi",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "David Goffin",
+          "country": "BE"
+        }
+      ],
+      "duration": "02:01:35",
+      "round": "Round of 32",
+      "date": "2015-10-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Ernests Gulbis",
+          "country": "LV"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "John Isner",
+          "country": "US"
+        }
+      ],
+      "duration": "01:05:09",
+      "round": "Round of 32",
+      "date": "2015-10-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Jerzy Janowicz",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Philipp Kohlschreiber",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:55:22",
+      "round": "Round of 32",
+      "date": "2015-10-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Richard Gasquet",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "4"
+          ],
+          "name": "Jiri Vesely",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:11:56",
+      "round": "Round of 32",
+      "date": "2015-10-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Roger Federer",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Mikhail Kukushkin",
+          "country": "KZ"
+        }
+      ],
+      "duration": "00:54:33",
+      "round": "Round of 32",
+      "date": "2015-10-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Sergiy Stakhovsky",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Grigor Dimitrov",
+          "country": "BG"
+        }
+      ],
+      "duration": "01:08:42",
+      "round": "Round of 32",
+      "date": "2015-10-27"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Adrian Mannarino",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "David Goffin",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:08:55",
+      "round": "Round of 16",
+      "date": "2015-10-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Denis Kudla",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jack Sock",
+          "country": "US"
+        }
+      ],
+      "duration": "00:54:44",
+      "round": "Round of 32",
+      "date": "2015-10-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Grigor Dimitrov",
+          "country": "BG"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Rafael Nadal",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:12:59",
+      "round": "Round of 16",
+      "date": "2015-10-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Ivo Karlovic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Stan Wawrinka",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:48:07",
+      "round": "Round of 32",
+      "date": "2015-10-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kevin Anderson",
+          "country": "ZA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Borna Coric",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:00:07",
+      "round": "Round of 32",
+      "date": "2015-10-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Marin Cilic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Marco Chiudinelli",
+          "country": "CH"
+        }
+      ],
+      "duration": "01:29:45",
+      "round": "Round of 32",
+      "date": "2015-10-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Teymuraz Gabashvili",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "4"
+          ],
+          "name": "Leonardo Mayer",
+          "country": "AR"
+        }
+      ],
+      "duration": "02:18:56",
+      "round": "Round of 32",
+      "date": "2015-10-28"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Dusan Lajovic",
+          "country": "RS"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Ivo Karlovic",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:27:00",
+      "round": "Round of 16",
+      "date": "2015-10-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Jack Sock",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "John Isner",
+          "country": "US"
+        }
+      ],
+      "duration": "01:23:25",
+      "round": "Round of 16",
+      "date": "2015-10-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6"
+          ],
+          "name": "Kevin Anderson",
+          "country": "ZA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Donald Young",
+          "country": "US"
+        }
+      ],
+      "duration": "01:37:18",
+      "round": "Round of 16",
+      "date": "2015-10-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marin Cilic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Teymuraz Gabashvili",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:16:13",
+      "round": "Round of 16",
+      "date": "2015-10-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Richard Gasquet",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Dominic Thiem",
+          "country": "AT"
+        }
+      ],
+      "duration": "01:46:41",
+      "round": "Round of 16",
+      "date": "2015-10-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Roger Federer",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "4"
+          ],
+          "name": "Philipp Kohlschreiber",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:38:39",
+      "round": "Round of 16",
+      "date": "2015-10-29"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "2"
+          ],
+          "name": "Donald Young",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Jack Sock",
+          "country": "US"
+        }
+      ],
+      "duration": "01:58:22",
+      "round": "Quarter-Final",
+      "date": "2015-10-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "3"
+          ],
+          "name": "Marin Cilic",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Rafael Nadal",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:12:59",
+      "round": "Quarter-Final",
+      "date": "2015-10-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Richard Gasquet",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "6"
+          ],
+          "name": "Ivo Karlovic",
+          "country": "HR"
+        }
+      ],
+      "duration": "02:26:18",
+      "round": "Quarter-Final",
+      "date": "2015-10-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Roger Federer",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "1"
+          ],
+          "name": "David Goffin",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:37:08",
+      "round": "Quarter-Final",
+      "date": "2015-10-30"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Rafael Nadal",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Richard Gasquet",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:05:05",
+      "round": "Semi-Final",
+      "date": "2015-10-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Roger Federer",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Jack Sock",
+          "country": "US"
+        }
+      ],
+      "duration": "01:03:26",
+      "round": "Semi-Final",
+      "date": "2015-10-31"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Roger Federer",
+          "country": "CH"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "3"
+          ],
+          "name": "Rafael Nadal",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:02:54",
+      "round": "Championship",
+      "date": "2015-11-01"
+    }
+  ],
+  "players": [
+    "Adrian Mannarino",
+    "Alexandr Dolgopolov",
+    "Andreas Seppi",
+    "Borna Coric",
+    "David Goffin",
+    "Denis Kudla",
+    "Dominic Thiem",
+    "Donald Young",
+    "Dusan Lajovic",
+    "Ernests Gulbis",
+    "Grigor Dimitrov",
+    "Henri Laaksonen",
+    "Ivo Karlovic",
+    "Jack Sock",
+    "Jerzy Janowicz",
+    "Jiri Vesely",
+    "John Isner",
+    "Kevin Anderson",
+    "Leonardo Mayer",
+    "Lukas Rosol",
+    "Marco Chiudinelli",
+    "Marin Cilic",
+    "Mikhail Kukushkin",
+    "Philipp Kohlschreiber",
+    "Rafael Nadal",
+    "Richard Gasquet",
+    "Robin Haase",
+    "Roger Federer",
+    "Sergiy Stakhovsky",
+    "Stan Wawrinka",
+    "Teymuraz Gabashvili",
+    "Viktor Troicki"
+  ]
+}

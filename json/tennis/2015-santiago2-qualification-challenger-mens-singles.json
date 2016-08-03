@@ -1,0 +1,753 @@
+{
+  "name": "2015 Santiago2, Qualification Challenger (Men's Singles)",
+  "country": "Chile",
+  "gender": "male",
+  "location": "Santiago",
+  "surface": "Clay",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "3",
+            "2"
+          ],
+          "name": "Alejandro Mendoza",
+          "country": "BO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Michel Vernier",
+          "country": "CL"
+        }
+      ],
+      "duration": "03:22:21",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Cristobal Saavedra",
+          "country": "CL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Joris de Loore",
+          "country": "BE"
+        }
+      ],
+      "duration": "00:44:02",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "David Fleming",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Wilson Leite",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:05:05",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Emilio Gomez",
+          "country": "EC"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Franco Agamenone",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:29:26",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Francisco Bahamonde",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Sebastian Pini",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:46:32",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Gerardo Irarrazabal",
+          "country": "CL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Juan Pablo Paz",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:13:43",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Gonzalo De Urruticoechea",
+          "country": "CL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gonzalo Villanueva",
+          "country": "AR"
+        }
+      ],
+      "duration": "00:56:08",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gonzalo Escobar",
+          "country": "EC"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Fabricio Neis",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:35:37",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6"
+          ],
+          "name": "Guillermo Rivera",
+          "country": "CL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Pedro Sakamoto",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:45:34",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Javier Naser",
+          "country": "CL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Franco Moral",
+          "country": "CL"
+        }
+      ],
+      "duration": "01:08:24",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "6"
+          ],
+          "name": "Juan Ignacio Londero",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "7"
+          ],
+          "name": "Thiago Monteiro",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:59:59",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Juan Pablo Varillas",
+          "country": "PE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Carlos Eduardo Severino",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:30:16",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nico Matic",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Franco Feitt",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:04:18",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Nicolas Alberto Arreche",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "1"
+          ],
+          "name": "Juan Manuel Matute",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:39:16",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Simon Navarro",
+          "country": "CL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andres Molteni",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:09:36",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "7"
+          ],
+          "name": "Victor Nunez",
+          "country": "CL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Asdrubal Gobernate",
+          "country": "BR"
+        }
+      ],
+      "duration": "02:53:41",
+      "round": "Round of 32",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "3"
+          ],
+          "name": "David Fleming",
+          "country": "CL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Carlos Eduardo Severino",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:04:39",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Francisco Bahamonde",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Nicolas Alberto Arreche",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:36:40",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3"
+          ],
+          "name": "Franco Agamenone",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Pedro Sakamoto",
+          "country": "BR"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Gonzalo Escobar",
+          "country": "EC"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Nico Matic",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:26:35",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Gonzalo Villanueva",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Juan Pablo Paz",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:34:23",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6"
+          ],
+          "name": "Michel Vernier",
+          "country": "CL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Joris de Loore",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:30:46",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Thiago Monteiro",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Franco Moral",
+          "country": "CL"
+        }
+      ],
+      "duration": "01:09:49",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "4"
+          ],
+          "name": "Victor Nunez",
+          "country": "CL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Andres Molteni",
+          "country": "AR"
+        }
+      ],
+      "duration": "01:09:52",
+      "round": "Round of 16",
+      "date": "2015-10-18"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Francisco Bahamonde",
+          "country": "AR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Juan Pablo Paz",
+          "country": "AR"
+        }
+      ],
+      "duration": "18:32:23",
+      "round": "Quarter-Final",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "Franco Agamenone",
+          "country": "AR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Carlos Eduardo Severino",
+          "country": "BR"
+        }
+      ],
+      "duration": "18:37:38",
+      "round": "Quarter-Final",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Gonzalo Escobar",
+          "country": "EC"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Joris de Loore",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:37:32",
+      "round": "Quarter-Final",
+      "date": "2015-10-20"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "1",
+            "7"
+          ],
+          "name": "Thiago Monteiro",
+          "country": "BR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "5"
+          ],
+          "name": "Andres Molteni",
+          "country": "AR"
+        }
+      ],
+      "duration": "19:17:44",
+      "round": "Quarter-Final",
+      "date": "2015-10-20"
+    }
+  ],
+  "players": [
+    "Alejandro Mendoza",
+    "Andres Molteni",
+    "Asdrubal Gobernate",
+    "Carlos Eduardo Severino",
+    "Cristobal Saavedra",
+    "David Fleming",
+    "Emilio Gomez",
+    "Fabricio Neis",
+    "Francisco Bahamonde",
+    "Franco Agamenone",
+    "Franco Feitt",
+    "Franco Moral",
+    "Gerardo Irarrazabal",
+    "Gonzalo De Urruticoechea",
+    "Gonzalo Escobar",
+    "Gonzalo Villanueva",
+    "Guillermo Rivera",
+    "Javier Naser",
+    "Joris de Loore",
+    "Juan Ignacio Londero",
+    "Juan Manuel Matute",
+    "Juan Pablo Paz",
+    "Juan Pablo Varillas",
+    "Michel Vernier",
+    "Nico Matic",
+    "Nicolas Alberto Arreche",
+    "Pedro Sakamoto",
+    "Sebastian Pini",
+    "Simon Navarro",
+    "Thiago Monteiro",
+    "Victor Nunez",
+    "Wilson Leite"
+  ]
+}

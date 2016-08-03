@@ -1,0 +1,832 @@
+{
+  "name": "2015 Tianjin Open 2014 WTA (Women's Singles)",
+  "country": "China",
+  "gender": "female",
+  "location": "Tianjin",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Elina Svitolina",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Elena Vesnina",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:28:06",
+      "round": "Round of 32",
+      "date": "2015-10-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alison Riske",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "4"
+          ],
+          "name": "Xinyun Han",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:04:10",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Danka Kovinic",
+          "country": "ME"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "1"
+          ],
+          "name": "Kateryna Bondarenko",
+          "country": "UA"
+        }
+      ],
+      "duration": "00:59:44",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Elizaveta Kulichkova",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Patricia Maria Tig",
+          "country": "RO"
+        }
+      ],
+      "duration": "01:10:45",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "1"
+          ],
+          "name": "Fangzhou Liu",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kristina Mladenovic",
+          "country": "FR"
+        }
+      ],
+      "duration": "00:46:27",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Magda Linette",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Yulia Putintseva",
+          "country": "KZ"
+        }
+      ],
+      "duration": "01:44:34",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "2"
+          ],
+          "name": "Nao Hibino",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Teliana Pereira",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:29:05",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Nicole Vaidisova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yingying Duan",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:14:19",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Qiang Wang",
+          "country": "CN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "Yuxuan Zhang",
+          "country": "CN"
+        }
+      ],
+      "duration": "01:48:04",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Saisai Zheng",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Evgeniya Rodina",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:35:49",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Timea Babos",
+          "country": "HU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "1"
+          ],
+          "name": "Alla Kudryavtseva",
+          "country": "RU"
+        }
+      ],
+      "duration": "00:40:51",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Elena Vesnina",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Bojana Jovanovski",
+          "country": "RS"
+        }
+      ],
+      "duration": "01:03:06",
+      "round": "Round of 16",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Flavia Pennetta",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Lyudmyla Kichenok",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:38:04",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "5"
+          ],
+          "name": "Kristina Kucova",
+          "country": "SK"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "7"
+          ],
+          "name": "Karolina Pliskova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "02:10:45",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Olga Savchuk",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Agnieszka Radwanska",
+          "country": "PL"
+        }
+      ],
+      "duration": "00:52:59",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "6",
+            "1"
+          ],
+          "name": "Ons Jabeur",
+          "country": "TN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7",
+            "6"
+          ],
+          "name": "Bojana Jovanovski",
+          "country": "RS"
+        }
+      ],
+      "duration": "02:11:40",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Urszula Radwanska",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Kristina Mladenovic",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:44:24",
+      "round": "Round of 16",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Urszula Radwanska",
+          "country": "PL"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "0"
+          ],
+          "name": "Nadiya Kichenok",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:08:33",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Alison Riske",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Timea Babos",
+          "country": "HU"
+        }
+      ],
+      "duration": "01:55:12",
+      "round": "Round of 16",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "2",
+            "4"
+          ],
+          "name": "Lyudmyla Kichenok",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Yingying Duan",
+          "country": "CN"
+        }
+      ],
+      "duration": "02:26:03",
+      "round": "Round of 16",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Magda Linette",
+          "country": "PL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Karolina Pliskova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "00:55:24",
+      "round": "Round of 16",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Bojana Jovanovski",
+          "country": "RS"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "3"
+          ],
+          "name": "Kristina Mladenovic",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:11:46",
+      "round": "Quarter-Final",
+      "date": "2015-10-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Danka Kovinic",
+          "country": "ME"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "7",
+            "1"
+          ],
+          "name": "Teliana Pereira",
+          "country": "BR"
+        }
+      ],
+      "duration": "01:55:53",
+      "round": "Round of 16",
+      "date": "2015-10-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "5"
+          ],
+          "name": "Evgeniya Rodina",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Elizaveta Kulichkova",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:18:08",
+      "round": "Round of 16",
+      "date": "2015-10-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Qiang Wang",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Agnieszka Radwanska",
+          "country": "PL"
+        }
+      ],
+      "duration": "00:56:49",
+      "round": "Round of 16",
+      "date": "2015-10-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Danka Kovinic",
+          "country": "ME"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "7",
+            "2"
+          ],
+          "name": "Bojana Jovanovski",
+          "country": "RS"
+        }
+      ],
+      "duration": "02:17:17",
+      "round": "Semi-Final",
+      "date": "2015-10-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Elizaveta Kulichkova",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Agnieszka Radwanska",
+          "country": "PL"
+        }
+      ],
+      "duration": "01:27:54",
+      "round": "Quarter-Final",
+      "date": "2015-10-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Timea Babos",
+          "country": "HU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Karolina Pliskova",
+          "country": "CZ"
+        }
+      ],
+      "duration": "01:01:18",
+      "round": "Quarter-Final",
+      "date": "2015-10-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "3"
+          ],
+          "name": "Yingying Duan",
+          "country": "CN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Danka Kovinic",
+          "country": "ME"
+        }
+      ],
+      "duration": "02:06:10",
+      "round": "Quarter-Final",
+      "date": "2015-10-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "1"
+          ],
+          "name": "Karolina Pliskova",
+          "country": "CZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Agnieszka Radwanska",
+          "country": "PL"
+        }
+      ],
+      "duration": "01:06:04",
+      "round": "Semi-Final",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Danka Kovinic",
+          "country": "ME"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Agnieszka Radwanska",
+          "country": "PL"
+        }
+      ],
+      "duration": "00:58:48",
+      "round": "Championship",
+      "date": "2015-10-18"
+    }
+  ],
+  "players": [
+    "Agnieszka Radwanska",
+    "Alison Riske",
+    "Alla Kudryavtseva",
+    "Bojana Jovanovski",
+    "Danka Kovinic",
+    "Elena Vesnina",
+    "Elina Svitolina",
+    "Elizaveta Kulichkova",
+    "Evgeniya Rodina",
+    "Fangzhou Liu",
+    "Flavia Pennetta",
+    "Karolina Pliskova",
+    "Kateryna Bondarenko",
+    "Kristina Kucova",
+    "Kristina Mladenovic",
+    "Lyudmyla Kichenok",
+    "Magda Linette",
+    "Nadiya Kichenok",
+    "Nao Hibino",
+    "Nicole Vaidisova",
+    "Olga Savchuk",
+    "Ons Jabeur",
+    "Patricia Maria Tig",
+    "Qiang Wang",
+    "Saisai Zheng",
+    "Teliana Pereira",
+    "Timea Babos",
+    "Urszula Radwanska",
+    "Xinyun Han",
+    "Yingying Duan",
+    "Yulia Putintseva",
+    "Yuxuan Zhang"
+  ]
+}

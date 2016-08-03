@@ -675,31 +675,6 @@
     {
       "players": [
         {
-          "is_winner": false,
-          "set_games": [
-            "6",
-            "1"
-          ],
-          "name": "Lesia Tsurenko",
-          "country": "UA"
-        },
-        {
-          "is_winner": true,
-          "set_games": [
-            "7",
-            "6"
-          ],
-          "name": "Johanna Konta",
-          "country": "GB"
-        }
-      ],
-      "duration": "01:48:54",
-      "round": "Round of 32",
-      "date": "2016-06-21"
-    },
-    {
-      "players": [
-        {
           "is_winner": true,
           "set_games": [
             "6",
@@ -720,6 +695,31 @@
       ],
       "duration": "01:17:48",
       "round": "Round of 64",
+      "date": "2016-06-21"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Lesia Tsurenko",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Johanna Konta",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:48:54",
+      "round": "Round of 32",
       "date": "2016-06-21"
     },
     {

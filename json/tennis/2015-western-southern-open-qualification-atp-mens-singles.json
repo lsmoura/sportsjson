@@ -1,0 +1,586 @@
+{
+  "name": "2015 Western & Southern Open, Qualification ATP (Men's Singles)",
+  "country": "United States",
+  "gender": "male",
+  "location": "Cincinnati",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Benjamin Becker",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alexander Zverev",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:14:25",
+      "round": "Round of 32",
+      "date": "2015-08-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Benoit Paire",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "1"
+          ],
+          "name": "Marco Cecchinato",
+          "country": "IT"
+        }
+      ],
+      "duration": "00:43:53",
+      "round": "Round of 32",
+      "date": "2015-08-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "4"
+          ],
+          "name": "Blaz Rola",
+          "country": "SI"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "7",
+            "6"
+          ],
+          "name": "Denis Istomin",
+          "country": "UZ"
+        }
+      ],
+      "duration": "02:08:45",
+      "round": "Round of 32",
+      "date": "2015-08-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Francis Tiafoe",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nicolas Mahut",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:10:56",
+      "round": "Round of 32",
+      "date": "2015-08-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "1"
+          ],
+          "name": "Ivan Dodig",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "6"
+          ],
+          "name": "Hyeon Chung",
+          "country": "KR"
+        }
+      ],
+      "duration": "01:50:10",
+      "round": "Round of 32",
+      "date": "2015-08-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "James Ward",
+          "country": "GB"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Alexandr Dolgopolov",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:03:46",
+      "round": "Round of 32",
+      "date": "2015-08-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "7"
+          ],
+          "name": "Marsel Ilhan",
+          "country": "TR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Nikoloz Basilashvili",
+          "country": "GE"
+        }
+      ],
+      "duration": "02:21:40",
+      "round": "Round of 32",
+      "date": "2015-08-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "5"
+          ],
+          "name": "Mikhail Kukushkin",
+          "country": "KZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "0",
+            "6",
+            "7"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        }
+      ],
+      "duration": "01:54:35",
+      "round": "Round of 32",
+      "date": "2015-08-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Ryan Harrison",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "7"
+          ],
+          "name": "Thanasi Kokkinakis",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:59:33",
+      "round": "Round of 32",
+      "date": "2015-08-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Santiago Giraldo",
+          "country": "CO"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Tim Smyczek",
+          "country": "US"
+        }
+      ],
+      "duration": "01:20:26",
+      "round": "Round of 32",
+      "date": "2015-08-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Stefan Kozlov",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yen-Hsun Lu",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:20:08",
+      "round": "Round of 32",
+      "date": "2015-08-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Steve Johnson",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "4"
+          ],
+          "name": "James Duckworth",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:29:22",
+      "round": "Round of 32",
+      "date": "2015-08-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "0"
+          ],
+          "name": "Tommy Paul",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "0",
+            "6"
+          ],
+          "name": "Denis Kudla",
+          "country": "US"
+        }
+      ],
+      "duration": "01:11:51",
+      "round": "Round of 32",
+      "date": "2015-08-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Vasek Pospisil",
+          "country": "CA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Tatsuma Ito",
+          "country": "JP"
+        }
+      ],
+      "duration": "00:58:31",
+      "round": "Round of 32",
+      "date": "2015-08-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Alexander Zverev",
+          "country": "RU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "3"
+          ],
+          "name": "Denis Istomin",
+          "country": "UZ"
+        }
+      ],
+      "duration": "02:00:33",
+      "round": "Round of 16",
+      "date": "2015-08-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Benoit Paire",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Denis Kudla",
+          "country": "US"
+        }
+      ],
+      "duration": "01:09:28",
+      "round": "Round of 16",
+      "date": "2015-08-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "4"
+          ],
+          "name": "Marsel Ilhan",
+          "country": "TR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Thanasi Kokkinakis",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:54:16",
+      "round": "Round of 16",
+      "date": "2015-08-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2",
+            "4"
+          ],
+          "name": "Mikhail Youzhny",
+          "country": "RU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "2",
+            "6",
+            "6"
+          ],
+          "name": "Yen-Hsun Lu",
+          "country": "TW"
+        }
+      ],
+      "duration": "02:07:47",
+      "round": "Round of 16",
+      "date": "2015-08-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "6",
+            "4"
+          ],
+          "name": "Santiago Giraldo",
+          "country": "CO"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "3",
+            "6"
+          ],
+          "name": "Alexandr Dolgopolov",
+          "country": "UA"
+        }
+      ],
+      "duration": "01:54:21",
+      "round": "Round of 16",
+      "date": "2015-08-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Steve Johnson",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Nicolas Mahut",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:12:46",
+      "round": "Round of 16",
+      "date": "2015-08-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Vasek Pospisil",
+          "country": "CA"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "0",
+            "3"
+          ],
+          "name": "Hyeon Chung",
+          "country": "KR"
+        }
+      ],
+      "duration": "01:59:29",
+      "round": "Round of 16",
+      "date": "2015-08-16"
+    }
+  ],
+  "players": [
+    "Alexander Zverev",
+    "Alexandr Dolgopolov",
+    "Benjamin Becker",
+    "Benoit Paire",
+    "Blaz Rola",
+    "Denis Istomin",
+    "Denis Kudla",
+    "Francis Tiafoe",
+    "Hyeon Chung",
+    "Ivan Dodig",
+    "James Duckworth",
+    "James Ward",
+    "Marco Cecchinato",
+    "Marsel Ilhan",
+    "Mikhail Kukushkin",
+    "Mikhail Youzhny",
+    "Nicolas Mahut",
+    "Nikoloz Basilashvili",
+    "Ryan Harrison",
+    "Santiago Giraldo",
+    "Stefan Kozlov",
+    "Steve Johnson",
+    "Tatsuma Ito",
+    "Thanasi Kokkinakis",
+    "Tim Smyczek",
+    "Tommy Paul",
+    "Vasek Pospisil",
+    "Yen-Hsun Lu"
+  ]
+}

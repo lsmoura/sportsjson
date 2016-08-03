@@ -1,0 +1,729 @@
+{
+  "name": "2015 Rennes, Qualification Challenger (Men's Singles)",
+  "country": "France",
+  "gender": "male",
+  "location": "Rennes",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Alexander Centenari",
+          "country": "US"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Rayane Roumane",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:10:22",
+      "round": "Round of 32",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Alexis Musialek",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3",
+            "6",
+            "7"
+          ],
+          "name": "Marcus Daniell",
+          "country": "NZ"
+        }
+      ],
+      "duration": "02:09:48",
+      "round": "Round of 32",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Filip Veger",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "James Marsalek",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:08:31",
+      "round": "Round of 32",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Florian Simbozel",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Romain Barbosa",
+          "country": "BE"
+        }
+      ],
+      "duration": "00:55:52",
+      "round": "Round of 32",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Hugo Nys",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Benjamin Balleret",
+          "country": "MC"
+        }
+      ],
+      "duration": "01:17:47",
+      "round": "Round of 32",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Jeremy Jahn",
+          "country": "DE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "0",
+            "3"
+          ],
+          "name": "Maxime Tabatruong",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:49:33",
+      "round": "Round of 32",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "4",
+            "4"
+          ],
+          "name": "Jesse Huta Galung",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "Stefano Napolitano",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:53:38",
+      "round": "Round of 32",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Lorenzo Giustino",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "2"
+          ],
+          "name": "Florent Diep",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:17:47",
+      "round": "Round of 32",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Manuel Guinard",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Constantin Belot",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:03:10",
+      "round": "Round of 32",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "5"
+          ],
+          "name": "Martin Vaisse",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Adrien Puget",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:14:21",
+      "round": "Round of 32",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "1"
+          ],
+          "name": "Matija Selak",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Antonio Sancic",
+          "country": "HR"
+        }
+      ],
+      "duration": "00:55:17",
+      "round": "Round of 32",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "1"
+          ],
+          "name": "Romano Frantzen",
+          "country": "NL"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Romain Jouan",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:01:42",
+      "round": "Round of 32",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Sebastien Boltz",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "0"
+          ],
+          "name": "Mauricio Perez",
+          "country": "AR"
+        }
+      ],
+      "duration": "00:43:22",
+      "round": "Round of 32",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "2"
+          ],
+          "name": "Simon Baudry",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Mate Pavic",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:01:08",
+      "round": "Round of 32",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tristan Samuel Weissborn",
+          "country": "AT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Marcelo Demoliner",
+          "country": "BR"
+        }
+      ],
+      "duration": "00:42:13",
+      "round": "Round of 32",
+      "date": "2015-10-10"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [],
+          "name": "Artem Smirnov",
+          "country": "UA"
+        },
+        {
+          "is_winner": true,
+          "set_games": [],
+          "name": "Romain Barbosa",
+          "country": "BE"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2015-10-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Lorenzo Giustino",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "James Marsalek",
+          "country": "GB"
+        }
+      ],
+      "duration": "01:57:14",
+      "round": "Round of 16",
+      "date": "2015-10-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Manuel Guinard",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "1",
+            "3"
+          ],
+          "name": "Adrien Puget",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:48:00",
+      "round": "Round of 16",
+      "date": "2015-10-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Marcus Daniell",
+          "country": "NZ"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Romain Jouan",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:05:19",
+      "round": "Round of 16",
+      "date": "2015-10-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Mate Pavic",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Hugo Nys",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:13:21",
+      "round": "Round of 16",
+      "date": "2015-10-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Rayane Roumane",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jeremy Jahn",
+          "country": "DE"
+        }
+      ],
+      "duration": "00:57:26",
+      "round": "Round of 16",
+      "date": "2015-10-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Sebastien Boltz",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "6",
+            "2"
+          ],
+          "name": "Antonio Sancic",
+          "country": "HR"
+        }
+      ],
+      "duration": "01:47:50",
+      "round": "Round of 16",
+      "date": "2015-10-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "1"
+          ],
+          "name": "Tristan Samuel Weissborn",
+          "country": "AT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4"
+          ],
+          "name": "Stefano Napolitano",
+          "country": "IT"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 16",
+      "date": "2015-10-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "James Marsalek",
+          "country": "GB"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "3"
+          ],
+          "name": "Manuel Guinard",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:27:30",
+      "round": "Quarter-Final",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "4",
+            "6"
+          ],
+          "name": "Romain Barbosa",
+          "country": "BE"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "3"
+          ],
+          "name": "Stefano Napolitano",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:59:49",
+      "round": "Quarter-Final",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "6",
+            "6"
+          ],
+          "name": "Romain Jouan",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "2"
+          ],
+          "name": "Hugo Nys",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:48:39",
+      "round": "Quarter-Final",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "4"
+          ],
+          "name": "Sebastien Boltz",
+          "country": "FR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "0",
+            "6"
+          ],
+          "name": "Jeremy Jahn",
+          "country": "DE"
+        }
+      ],
+      "duration": "02:03:24",
+      "round": "Quarter-Final",
+      "date": "2015-10-12"
+    }
+  ],
+  "players": [
+    "Adrien Puget",
+    "Alexander Centenari",
+    "Alexis Musialek",
+    "Antonio Sancic",
+    "Artem Smirnov",
+    "Benjamin Balleret",
+    "Constantin Belot",
+    "Filip Veger",
+    "Florent Diep",
+    "Florian Simbozel",
+    "Hugo Nys",
+    "James Marsalek",
+    "Jeremy Jahn",
+    "Jesse Huta Galung",
+    "Lorenzo Giustino",
+    "Manuel Guinard",
+    "Marcelo Demoliner",
+    "Marcus Daniell",
+    "Martin Vaisse",
+    "Mate Pavic",
+    "Matija Selak",
+    "Mauricio Perez",
+    "Maxime Tabatruong",
+    "Rayane Roumane",
+    "Romain Barbosa",
+    "Romain Jouan",
+    "Romano Frantzen",
+    "Sebastien Boltz",
+    "Simon Baudry",
+    "Stefano Napolitano",
+    "Tristan Samuel Weissborn"
+  ]
+}

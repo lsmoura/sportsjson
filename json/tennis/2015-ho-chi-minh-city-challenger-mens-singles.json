@@ -1,0 +1,838 @@
+{
+  "name": "2015 Ho Chi Minh City Challenger (Men's Singles)",
+  "country": "Viet Nam",
+  "gender": "male",
+  "location": "Ho Chi Minh City",
+  "surface": "Hard",
+  "events": [
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Tsung-Hua Yang",
+          "country": "TW"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Minhtuan Pham",
+          "country": "VN"
+        }
+      ],
+      "duration": "00:59:49",
+      "round": "Round of 32",
+      "date": "2015-10-11"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "4"
+          ],
+          "name": "Duck-Hee Lee",
+          "country": "KR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Thomas Fabbiano",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:33:14",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Jeevan Nedunchezhiyan",
+          "country": "IN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Hiroyasu Ehara",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:15:34",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3"
+          ],
+          "name": "Jimmy Wang",
+          "country": "TW"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "3"
+          ],
+          "name": "Flavio Cipolla",
+          "country": "IT"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Marcel Granollers",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Daniel Masur",
+          "country": "DE"
+        }
+      ],
+      "duration": "01:14:24",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Matija Pecotic",
+          "country": "HR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "5"
+          ],
+          "name": "N. Vijay Sundar Prashanth",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:42:51",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "7",
+            "3"
+          ],
+          "name": "Nils Langer",
+          "country": "DE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Daniel Nguyen",
+          "country": "US"
+        }
+      ],
+      "duration": "02:11:50",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "2"
+          ],
+          "name": "Somdev Devvarman",
+          "country": "IN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "3",
+            "6"
+          ],
+          "name": "Luke Saville",
+          "country": "AU"
+        }
+      ],
+      "duration": "02:24:40",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Tristan Lamasine",
+          "country": "FR"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Yannick Mertens",
+          "country": "BE"
+        }
+      ],
+      "duration": "01:38:14",
+      "round": "Round of 32",
+      "date": "2015-10-12"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "4"
+          ],
+          "name": "Gavin Van Peperzeel",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Yasutaka Uchiyama",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:02:47",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "3",
+            "4"
+          ],
+          "name": "Germain Gigounon",
+          "country": "BE"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "1",
+            "6",
+            "6"
+          ],
+          "name": "Sanam Singh",
+          "country": "IN"
+        }
+      ],
+      "duration": "03:31:07",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Jordan Thompson",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "2"
+          ],
+          "name": "Alessandro Bega",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:37:47",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "2"
+          ],
+          "name": "Nam Hoang Ly",
+          "country": "VN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "James Duckworth",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:01:49",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Saketh Myneni",
+          "country": "IN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6"
+          ],
+          "name": "Gerard Granollers",
+          "country": "ES"
+        }
+      ],
+      "duration": "01:40:43",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "7",
+            "1"
+          ],
+          "name": "Sumit Nagal",
+          "country": "IN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Adrian Menendez",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:35:53",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "3"
+          ],
+          "name": "Thien Nguyen Hoang",
+          "country": "VN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Liang-Chi Huang",
+          "country": "TW"
+        }
+      ],
+      "duration": "01:09:52",
+      "round": "Round of 32",
+      "date": "2015-10-13"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6",
+            "6"
+          ],
+          "name": "Daniel Nguyen",
+          "country": "US"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "7",
+            "1"
+          ],
+          "name": "Adrian Menendez",
+          "country": "ES"
+        }
+      ],
+      "duration": "02:51:11",
+      "round": "Round of 16",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Luke Saville",
+          "country": "AU"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Flavio Cipolla",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:45:47",
+      "round": "Round of 16",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "1",
+            "6"
+          ],
+          "name": "Marcel Granollers",
+          "country": "ES"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "6",
+            "2"
+          ],
+          "name": "Tsung-Hua Yang",
+          "country": "TW"
+        }
+      ],
+      "duration": "02:07:23",
+      "round": "Round of 16",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Matija Pecotic",
+          "country": "HR"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Thomas Fabbiano",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:31:36",
+      "round": "Round of 16",
+      "date": "2015-10-14"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "0",
+            "7",
+            "2"
+          ],
+          "name": "Hiroyasu Ehara",
+          "country": "JP"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "5",
+            "6"
+          ],
+          "name": "Tristan Lamasine",
+          "country": "FR"
+        }
+      ],
+      "duration": "02:17:14",
+      "round": "Round of 16",
+      "date": "2015-10-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Jordan Thompson",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "2",
+            "3"
+          ],
+          "name": "Liang-Chi Huang",
+          "country": "TW"
+        }
+      ],
+      "duration": "00:55:54",
+      "round": "Round of 16",
+      "date": "2015-10-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "4",
+            "6"
+          ],
+          "name": "Saketh Myneni",
+          "country": "IN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "4",
+            "6",
+            "1"
+          ],
+          "name": "Yasutaka Uchiyama",
+          "country": "JP"
+        }
+      ],
+      "duration": "01:49:18",
+      "round": "Round of 16",
+      "date": "2015-10-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "2"
+          ],
+          "name": "Sanam Singh",
+          "country": "IN"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "James Duckworth",
+          "country": "AU"
+        }
+      ],
+      "duration": "00:44:10",
+      "round": "Round of 16",
+      "date": "2015-10-15"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "7"
+          ],
+          "name": "Flavio Cipolla",
+          "country": "IT"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "5"
+          ],
+          "name": "Daniel Nguyen",
+          "country": "US"
+        }
+      ],
+      "duration": "02:07:50",
+      "round": "Quarter-Final",
+      "date": "2015-10-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "4",
+            "7",
+            "3"
+          ],
+          "name": "Jordan Thompson",
+          "country": "AU"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "6",
+            "6",
+            "1"
+          ],
+          "name": "James Duckworth",
+          "country": "AU"
+        }
+      ],
+      "duration": "N/A",
+      "round": "Quarter-Final",
+      "date": "2015-10-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "3",
+            "4"
+          ],
+          "name": "Marcel Granollers",
+          "country": "ES"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "6"
+          ],
+          "name": "Thomas Fabbiano",
+          "country": "IT"
+        }
+      ],
+      "duration": "01:29:14",
+      "round": "Quarter-Final",
+      "date": "2015-10-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "2",
+            "6"
+          ],
+          "name": "Saketh Myneni",
+          "country": "IN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "6",
+            "3"
+          ],
+          "name": "Tristan Lamasine",
+          "country": "FR"
+        }
+      ],
+      "duration": "01:42:06",
+      "round": "Quarter-Final",
+      "date": "2015-10-16"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "1",
+            "5"
+          ],
+          "name": "Flavio Cipolla",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "6",
+            "7"
+          ],
+          "name": "Jordan Thompson",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:33:00",
+      "round": "Semi-Final",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": false,
+          "set_games": [
+            "7",
+            "4",
+            "2"
+          ],
+          "name": "Thomas Fabbiano",
+          "country": "IT"
+        },
+        {
+          "is_winner": true,
+          "set_games": [
+            "5",
+            "6",
+            "6"
+          ],
+          "name": "Saketh Myneni",
+          "country": "IN"
+        }
+      ],
+      "duration": "01:53:53",
+      "round": "Semi-Final",
+      "date": "2015-10-17"
+    },
+    {
+      "players": [
+        {
+          "is_winner": true,
+          "set_games": [
+            "7",
+            "6"
+          ],
+          "name": "Saketh Myneni",
+          "country": "IN"
+        },
+        {
+          "is_winner": false,
+          "set_games": [
+            "5",
+            "3"
+          ],
+          "name": "Jordan Thompson",
+          "country": "AU"
+        }
+      ],
+      "duration": "01:34:07",
+      "round": "Championship",
+      "date": "2015-10-18"
+    }
+  ],
+  "players": [
+    "Adrian Menendez",
+    "Alessandro Bega",
+    "Daniel Masur",
+    "Daniel Nguyen",
+    "Duck-Hee Lee",
+    "Flavio Cipolla",
+    "Gavin Van Peperzeel",
+    "Gerard Granollers",
+    "Germain Gigounon",
+    "Hiroyasu Ehara",
+    "James Duckworth",
+    "Jeevan Nedunchezhiyan",
+    "Jimmy Wang",
+    "Jordan Thompson",
+    "Liang-Chi Huang",
+    "Luke Saville",
+    "Marcel Granollers",
+    "Matija Pecotic",
+    "Minhtuan Pham",
+    "N. Vijay Sundar Prashanth",
+    "Nam Hoang Ly",
+    "Nils Langer",
+    "Saketh Myneni",
+    "Sanam Singh",
+    "Somdev Devvarman",
+    "Sumit Nagal",
+    "Thien Nguyen Hoang",
+    "Thomas Fabbiano",
+    "Tristan Lamasine",
+    "Tsung-Hua Yang",
+    "Yannick Mertens",
+    "Yasutaka Uchiyama"
+  ]
+}
